@@ -1,0 +1,30 @@
+modLoader = "javafml"
+loaderVersion = "[0,)"
+license = "MIT"
+
+[[mods]]
+modId = "lostcities_extend"
+version = "1.21-1.0"
+displayName = "LostCities Extend"
+description = "LostCities custom building extension pack (sixty_seconds builds, 1.21.1). Extra scattered/multibuilding assets plus rubble palette fixes."
+
+[[dependencies.lostcities_extend]]
+modId = "lostcities"
+type = "required"
+versionRange = "[8.4.1,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.lostcities_extend]]
+modId = "lostcities-modern-tweaks"
+type = "optional"
+versionRange = "[2.0.7,]"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.lostcities_extend]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "BEFORE"
+side = "BOTH"
