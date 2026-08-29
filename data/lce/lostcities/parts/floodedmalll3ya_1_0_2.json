@@ -65,7 +65,7 @@
       },
       {
         "char": "q",
-        "block": "minecraft:deepslate_bricks[weathering=true]"
+        "block": "minecraft:deepslate_bricks"
       },
       {
         "char": "m",
@@ -73,7 +73,7 @@
       },
       {
         "char": "d",
-        "block": "minecraft:stone_bricks[weathering=true]"
+        "block": "minecraft:stone_bricks"
       },
       {
         "char": "k",
@@ -85,11 +85,11 @@
       },
       {
         "char": "E",
-        "block": "minecraft:deepslate_bricks[weathering=false]"
+        "block": "minecraft:deepslate_bricks"
       },
       {
         "char": "j",
-        "block": "minecraft:stone_bricks[weathering=false]"
+        "block": "minecraft:stone_bricks"
       },
       {
         "char": "l",
@@ -137,11 +137,11 @@
       },
       {
         "char": "O",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
       },
       {
         "char": "Φ",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false,weathering=true]"
+        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
       },
       {
         "char": "凰",
@@ -157,11 +157,11 @@
       },
       {
         "char": "ϲ",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false,weathering=true]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
       },
       {
         "char": "Ϭ",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
       },
       {
         "char": "e",
@@ -169,7 +169,7 @@
       },
       {
         "char": "D",
-        "block": "minecraft:stone[weathering=false]"
+        "block": "minecraft:stone"
       },
       {
         "char": "J",
@@ -185,7 +185,7 @@
       },
       {
         "char": "C",
-        "block": "minecraft:cobblestone[weathering=false]"
+        "block": "minecraft:cobblestone"
       }
     ]
   },

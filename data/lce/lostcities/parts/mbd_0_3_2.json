@@ -9,11 +9,11 @@
       },
       {
         "char": "F",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
       },
       {
         "char": "a",
-        "block": "minecraft:stone_bricks[weathering=true]"
+        "block": "minecraft:stone_bricks"
       },
       {
         "char": "l",
@@ -21,7 +21,7 @@
       },
       {
         "char": "f",
-        "block": "minecraft:stone[weathering=false]"
+        "block": "minecraft:stone"
       },
       {
         "char": "H",
@@ -37,7 +37,7 @@
       },
       {
         "char": "u",
-        "block": "minecraft:stone_bricks[weathering=false]"
+        "block": "minecraft:stone_bricks"
       },
       {
         "char": "y",
@@ -69,35 +69,35 @@
       },
       {
         "char": "ы",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
       },
       {
         "char": "ј",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
       },
       {
         "char": "段",
-        "block": "minecraft:stone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:stone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "ѯ",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false,weathering=true]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
       },
       {
         "char": "ѵ",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false,weathering=true]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
       },
       {
         "char": "张",
-        "block": "minecraft:stone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,weathering=true,west=none]"
+        "block": "minecraft:stone_brick_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "ѣ",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
       },
       {
         "char": "烦",
-        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,weathering=true,west=none]"
+        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=low,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "D",
@@ -109,7 +109,7 @@
       },
       {
         "char": "麽",
-        "block": "minecraft:stone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:stone_brick_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "我",
@@ -129,11 +129,11 @@
       },
       {
         "char": "吗",
-        "block": "minecraft:stone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:stone_brick_wall[east=tall,north=low,south=none,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "Ф",
-        "block": "minecraft:stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "场",
@@ -141,7 +141,7 @@
       },
       {
         "char": "Ӧ",
-        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "英",
@@ -149,7 +149,7 @@
       },
       {
         "char": "Ӕ",
-        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "严",
@@ -161,23 +161,23 @@
       },
       {
         "char": "欢",
-        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
       },
       {
         "char": "Ч",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
       },
       {
         "char": "ю",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false,weathering=true]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
       },
       {
         "char": "і",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false,weathering=true]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
       },
       {
         "char": "看",
-        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,weathering=true,west=none]"
+        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]"
       }
     ]
   },

@@ -13,7 +13,7 @@
       },
       {
         "char": "H",
-        "block": "minecraft:cobblestone[weathering=false]"
+        "block": "minecraft:cobblestone"
       },
       {
         "char": "j",
@@ -57,7 +57,7 @@
       },
       {
         "char": "E",
-        "block": "minecraft:stone_bricks[weathering=false]"
+        "block": "minecraft:stone_bricks"
       },
       {
         "char": "D",
@@ -85,7 +85,7 @@
       },
       {
         "char": "内",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "欢",
@@ -112,11 +112,11 @@
       },
       {
         "char": "F",
-        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
       },
       {
         "char": "身",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
       }
     ]
   },

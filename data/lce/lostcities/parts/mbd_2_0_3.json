@@ -21,7 +21,7 @@
       },
       {
         "char": "a",
-        "block": "minecraft:stone_bricks[weathering=true]"
+        "block": "minecraft:stone_bricks"
       },
       {
         "char": "e",
@@ -29,11 +29,11 @@
       },
       {
         "char": "f",
-        "block": "minecraft:stone[weathering=false]"
+        "block": "minecraft:stone"
       },
       {
         "char": "u",
-        "block": "minecraft:stone_bricks[weathering=false]"
+        "block": "minecraft:stone_bricks"
       },
       {
         "char": "m",
@@ -41,7 +41,7 @@
       },
       {
         "char": "R",
-        "block": "minecraft:cobblestone[weathering=false]"
+        "block": "minecraft:cobblestone"
       },
       {
         "char": "z",
@@ -77,7 +77,7 @@
       },
       {
         "char": "N",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
       },
       {
         "char": "E",

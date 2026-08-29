@@ -25,15 +25,15 @@
       },
       {
         "char": "E",
-        "block": "minecraft:stone_bricks[weathering=false]"
+        "block": "minecraft:stone_bricks"
       },
       {
         "char": "K",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false,weathering=false]"
+        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
       },
       {
         "char": "Ҩ",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false,weathering=false]"
+        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
       },
       {
         "char": "位",
@@ -89,11 +89,11 @@
       },
       {
         "char": "校",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "转",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "ҩ",
@@ -117,11 +117,11 @@
       },
       {
         "char": "希",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "至",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,weathering=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=low]"
       }
     ]
   },

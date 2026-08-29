@@ -13,7 +13,7 @@
       },
       {
         "char": "c",
-        "block": "minecraft:bricks[weathering=true]"
+        "block": "minecraft:bricks"
       },
       {
         "char": "g",
@@ -41,11 +41,11 @@
       },
       {
         "char": "v",
-        "block": "minecraft:bricks[weathering=false]"
+        "block": "minecraft:bricks"
       },
       {
         "char": "У",
-        "block": "minecraft:brick_slab[type=bottom,waterlogged=false,weathering=true]"
+        "block": "minecraft:brick_slab[type=bottom,waterlogged=false]"
       },
       {
         "char": "h",
@@ -359,7 +359,7 @@
       },
       {
         "char": "Ѿ",
-        "block": "minecraft:brick_slab[type=top,waterlogged=false,weathering=true]"
+        "block": "minecraft:brick_slab[type=top,waterlogged=false]"
       },
       {
         "char": "天",
@@ -367,7 +367,7 @@
       },
       {
         "char": "Ҹ",
-        "block": "minecraft:brick_stairs[facing=north,half=top,shape=straight,waterlogged=false,weathering=true]"
+        "block": "minecraft:brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
       },
       {
         "char": "及",
@@ -391,7 +391,7 @@
       },
       {
         "char": "Ұ",
-        "block": "minecraft:brick_stairs[facing=south,half=top,shape=straight,waterlogged=false,weathering=true]"
+        "block": "minecraft:brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
       },
       {
         "char": "历",

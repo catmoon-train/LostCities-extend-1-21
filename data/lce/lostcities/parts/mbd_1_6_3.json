@@ -13,7 +13,7 @@
       },
       {
         "char": "c",
-        "block": "minecraft:bricks[weathering=true]"
+        "block": "minecraft:bricks"
       },
       {
         "char": "j",
@@ -25,7 +25,7 @@
       },
       {
         "char": "v",
-        "block": "minecraft:bricks[weathering=false]"
+        "block": "minecraft:bricks"
       },
       {
         "char": "o",
@@ -45,7 +45,7 @@
       },
       {
         "char": "f",
-        "block": "minecraft:stone[weathering=false]"
+        "block": "minecraft:stone"
       },
       {
         "char": "A",
@@ -69,7 +69,7 @@
       },
       {
         "char": "R",
-        "block": "minecraft:cobblestone[weathering=false]"
+        "block": "minecraft:cobblestone"
       },
       {
         "char": "S",
@@ -77,11 +77,11 @@
       },
       {
         "char": "情",
-        "block": "minecraft:cobblestone[weathering=true]"
+        "block": "minecraft:cobblestone"
       },
       {
         "char": "Ҷ",
-        "block": "minecraft:stone[weathering=true]"
+        "block": "minecraft:stone"
       },
       {
         "char": "w",
@@ -97,7 +97,7 @@
       },
       {
         "char": "N",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
       },
       {
         "char": "Ѣ",
@@ -201,7 +201,7 @@
       },
       {
         "char": "Ҹ",
-        "block": "minecraft:brick_stairs[facing=north,half=top,shape=straight,waterlogged=false,weathering=true]"
+        "block": "minecraft:brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
       },
       {
         "char": "С",
@@ -213,11 +213,11 @@
       },
       {
         "char": "У",
-        "block": "minecraft:brick_slab[type=bottom,waterlogged=false,weathering=true]"
+        "block": "minecraft:brick_slab[type=bottom,waterlogged=false]"
       },
       {
         "char": "Ӊ",
-        "block": "minecraft:brick_slab[type=bottom,waterlogged=false,weathering=false]"
+        "block": "minecraft:brick_slab[type=bottom,waterlogged=false]"
       }
     ]
   },

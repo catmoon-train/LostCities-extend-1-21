@@ -21,7 +21,7 @@
       },
       {
         "char": "c",
-        "block": "minecraft:bricks[weathering=true]"
+        "block": "minecraft:bricks"
       },
       {
         "char": "p",
@@ -29,7 +29,7 @@
       },
       {
         "char": "v",
-        "block": "minecraft:bricks[weathering=false]"
+        "block": "minecraft:bricks"
       },
       {
         "char": "大",
@@ -41,7 +41,7 @@
       },
       {
         "char": "f",
-        "block": "minecraft:stone[weathering=false]"
+        "block": "minecraft:stone"
       },
       {
         "char": "A",
@@ -57,7 +57,7 @@
       },
       {
         "char": "Ҷ",
-        "block": "minecraft:stone[weathering=true]"
+        "block": "minecraft:stone"
       },
       {
         "char": "m",
@@ -73,7 +73,7 @@
       },
       {
         "char": "R",
-        "block": "minecraft:cobblestone[weathering=false]"
+        "block": "minecraft:cobblestone"
       },
       {
         "char": "S",
@@ -93,7 +93,7 @@
       },
       {
         "char": "N",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
       },
       {
         "char": "E",
@@ -197,11 +197,11 @@
       },
       {
         "char": "Ҹ",
-        "block": "minecraft:brick_stairs[facing=north,half=top,shape=straight,waterlogged=false,weathering=true]"
+        "block": "minecraft:brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
       },
       {
         "char": "У",
-        "block": "minecraft:brick_slab[type=bottom,waterlogged=false,weathering=true]"
+        "block": "minecraft:brick_slab[type=bottom,waterlogged=false]"
       },
       {
         "char": "С",
@@ -213,7 +213,7 @@
       },
       {
         "char": "Ӊ",
-        "block": "minecraft:brick_slab[type=bottom,waterlogged=false,weathering=false]"
+        "block": "minecraft:brick_slab[type=bottom,waterlogged=false]"
       }
     ]
   },

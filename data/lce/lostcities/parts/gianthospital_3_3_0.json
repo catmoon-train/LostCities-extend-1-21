@@ -45,7 +45,7 @@
       },
       {
         "char": "畴",
-        "block": "minecraft:stone_bricks[weathering=false]"
+        "block": "minecraft:stone_bricks"
       },
       {
         "char": "f",
@@ -91,7 +91,7 @@
       },
       {
         "char": "丈",
-        "block": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "郭",
@@ -107,7 +107,7 @@
       },
       {
         "char": "k",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
       },
       {
         "char": "v",
@@ -131,11 +131,11 @@
       },
       {
         "char": "沿",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "贞",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
       },
       {
         "char": "岩",
@@ -211,7 +211,7 @@
       },
       {
         "char": "震",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
       },
       {
         "char": "C",
@@ -243,7 +243,7 @@
       },
       {
         "char": "榄",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
       },
       {
         "char": "糠",
@@ -271,7 +271,7 @@
       },
       {
         "char": "闹",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
       },
       {
         "char": "栓",
@@ -291,7 +291,7 @@
       },
       {
         "char": "翌",
-        "block": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=false,weathering=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=low]"
       },
       {
         "char": "叽",
@@ -331,7 +331,7 @@
       },
       {
         "char": "飒",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,weathering=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=low]"
       },
       {
         "char": "啜",
@@ -390,7 +390,7 @@
       },
       {
         "char": "蚯",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false,weathering=true]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
       },
       {
         "char": "瓜",
@@ -406,7 +406,7 @@
       },
       {
         "char": "杠",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
       },
       {
         "char": "糟",
@@ -473,7 +473,7 @@
       },
       {
         "char": "r",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false,weathering=false]"
+        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
       },
       {
         "char": "拔",
@@ -489,11 +489,11 @@
       },
       {
         "char": "佩",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,weathering=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]"
       },
       {
         "char": "锁",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
       },
       {
         "char": "栱",
@@ -505,7 +505,7 @@
       },
       {
         "char": "鲶",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
       },
       {
         "char": "饨",
@@ -513,23 +513,23 @@
       },
       {
         "char": "觊",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false,weathering=true]"
+        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
       },
       {
         "char": "繁",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,weathering=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "G",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false,weathering=false]"
+        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
       },
       {
         "char": "霁",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,weathering=true,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]"
       },
       {
         "char": "么",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false,weathering=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
       }
     ]
   },
