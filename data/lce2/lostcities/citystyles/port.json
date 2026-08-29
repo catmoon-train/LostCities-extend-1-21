@@ -1,0 +1,10 @@
+{
+  "inherit": "citystyle_config",
+  "selectors": {
+    "multibuildings": [
+      {"factor": 0.15, "value": "lce2:port/port_tanker_small"},
+      {"factor": 0.15, "value": "lce2:port/port_tanker"},
+      {"factor": 0.15, "value": "lce2:ships/ships_warship"}
+    ]
+  }
+}

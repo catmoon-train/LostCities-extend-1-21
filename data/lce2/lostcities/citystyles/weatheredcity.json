@@ -1,0 +1,13 @@
+{
+  "inherit": "citystyle_config",
+  "selectors": {
+    "multibuildings": [
+      {"factor": 0.15, "value": "lce2:base/base_building_medium"},
+      {"factor": 0.15, "value": "lce2:base/base_building_body"},
+      {"factor": 0.15, "value": "lce2:factory/factory_building_sub"},
+      {"factor": 0.15, "value": "lce2:factory/factory_containers_medium"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_garage"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_minifactory"}
+    ]
+  }
+}

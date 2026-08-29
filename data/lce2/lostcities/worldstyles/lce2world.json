@@ -1,0 +1,343 @@
+{
+  "outsidestyle": "outside",
+  "settings": {
+    "railwayavoidance": "ignore",
+    "railpartheight6": 2
+  },
+  "multisettings": {
+    "areasize": 20,
+    "minimum": 5,
+    "maximum": 20,
+    "correctstylefactor": 1,
+    "attempts": 50
+  },
+  "scattered": {
+    "areasize": 15,
+    "chance": 1,
+    "weightnone": 30,
+    "list": [
+      {
+        "name": "lce2:scattered_antenna",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:scattered_container",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:scattered_cube",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:scattered_farmland",
+        "weight": 8,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:scattered_garage",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:scattered_gasstand",
+        "weight": 8,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:scattered_hanger",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:scattered_lighthouse",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:scattered_minifactory",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:scattered_radiotower",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:scattered_scaffold",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:scattered_telescope",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:scattered_watertank",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:wind_mill",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "excluding": [
+            "#minecraft:is_ocean",
+            "#minecraft:is_deep_ocean",
+            "#minecraft:is_river",
+            "#minecraft:is_beach"
+          ]
+        }
+      },
+      {
+        "name": "lce2:warship",
+        "weight": 15,
+        "maxheightdiff": 100,
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_deep_ocean"
+          ]
+        }
+      },
+      {
+        "name": "lce2:mega_platform",
+        "weight": 5,
+        "maxheightdiff": 100,
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_deep_ocean"
+          ]
+        }
+      }
+    ]
+  },
+  "citybiomemultipliers": [
+    {
+      "multiplier": 0.3,
+      "biomes": {
+        "if_any": [
+          "#minecraft:is_deep_ocean"
+        ]
+      }
+    },
+    {
+      "multiplier": 0.6,
+      "biomes": {
+        "if_any": [
+          "minecraft:cold_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      }
+    },
+    {
+      "multiplier": 0.3,
+      "biomes": {
+        "if_any": [
+          "#minecraft:is_river"
+        ]
+      }
+    }
+  ],
+  "citystyles": [
+    {
+      "citystyle": "lce2:port",
+      "factor": 9,
+      "biomes": {
+        "if_any": [
+          "minecraft:cold_ocean",
+          "minecraft:frozen_ocean",
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      }
+    },
+    {
+      "citystyle": "lce2:base",
+      "factor": 9,
+      "biomes": {
+        "if_any": [
+          "#minecraft:is_mountain",
+          "minecraft:badlands",
+          "minecraft:desert",
+          "minecraft:snowy_plains",
+          "minecraft:lukewarm_ocean",
+          "minecraft:ice_spikes"
+        ]
+      }
+    },
+    {
+      "citystyle": "lce2:quarry",
+      "factor": 9,
+      "biomes": {
+        "if_any": [
+          "minecraft:sunflower_plains",
+          "#minecraft:is_mountain",
+          "minecraft:eroded_badlands",
+          "minecraft:wooded_badlands",
+          "minecraft:windswept_savanna",
+          "minecraft:stony_shore",
+          "minecraft:sparse_jungle",
+          "minecraft:forest",
+          "minecraft:beach"
+        ]
+      }
+    },
+    {
+      "citystyle": "lce2:megasolar",
+      "factor": 9,
+      "biomes": {
+        "if_any": [
+          "minecraft:savanna",
+          "minecraft:windswept_gravelly_hills",
+          "minecraft:windswept_hills",
+          "minecraft:savanna_plateau"
+        ]
+      }
+    },
+    {
+      "citystyle": "lce2:factory",
+      "factor": 9,
+      "biomes": {
+        "if_any": [
+          "minecraft:plains"
+        ]
+      }
+    },
+    {
+      "citystyle": "lce2:standard",
+      "factor": 9,
+      "biomes": {
+        "if_any": [
+          "minecraft:flower_forest",
+          "minecraft:jungle",
+          "minecraft:bamboo_jungle"
+        ]
+      }
+    },
+    {
+      "citystyle": "lce2:standard2",
+      "factor": 1,
+      "biomes": {
+        "if_any": [
+          "minecraft:plains"
+        ]
+      }
+    },
+    {
+      "citystyle": "lce2:weatheredcity",
+      "factor": 0.001
+    }
+  ]
+}

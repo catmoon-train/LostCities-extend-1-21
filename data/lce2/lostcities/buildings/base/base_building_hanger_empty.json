@@ -1,0 +1,24 @@
+{
+  "filler": "#",
+  "rubble": "}",
+  "allowDoors": false,
+  "maxcellars": 0,
+  "minfloors": 3,
+  "maxfloors": 3,
+  "parts": [
+    {
+      "floor": 0,
+      "top": false,
+      "part": "lce2:base/base_ground_empty_0"
+    },
+    {
+      "range": "1,100",
+      "top": false,
+      "part": "lce2:common_empty"
+    },
+    {
+      "top": true,
+      "part": "lce2:common_empty"
+    }
+  ]
+}

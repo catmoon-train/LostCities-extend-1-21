@@ -1,0 +1,10 @@
+{
+  "inherit": "citystyle_config",
+  "selectors": {
+    "multibuildings": [
+      {"factor": 0.15, "value": "lce2:megasolar/megasolar_cell_huge"},
+      {"factor": 0.15, "value": "lce2:megasolar/megasolar_cell_medium"},
+      {"factor": 0.15, "value": "lce2:megasolar/megasolar_reactor"}
+    ]
+  }
+}

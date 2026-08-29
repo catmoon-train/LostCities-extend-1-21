@@ -1,0 +1,21 @@
+{
+  "inherit": "citystyle_config",
+  "selectors": {
+    "multibuildings": [
+      {"factor": 0.15, "value": "lce2:scattered/scattered_antenna"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_container"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_cube"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_farmland"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_garage"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_gasstand"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_hanger"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_lighthouse"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_minifactory"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_radiotower"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_scaffold"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_telescope"},
+      {"factor": 0.15, "value": "lce2:scattered/scattered_watertank"},
+      {"factor": 0.15, "value": "lce2:scattered/wind_mill"}
+    ]
+  }
+}

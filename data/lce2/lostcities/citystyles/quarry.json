@@ -1,0 +1,15 @@
+{
+  "inherit": "citystyle_config",
+  "selectors": {
+    "multibuildings": [
+      {"factor": 0.15, "value": "lce2:quarry/quarry_dump_e"},
+      {"factor": 0.15, "value": "lce2:quarry/quarry_dump_n"},
+      {"factor": 0.15, "value": "lce2:quarry/quarry_dump_s"},
+      {"factor": 0.15, "value": "lce2:quarry/quarry_dump_w"},
+      {"factor": 0.15, "value": "lce2:quarry/quarry_mega_machine"},
+      {"factor": 0.15, "value": "lce2:quarry/quarry_office"},
+      {"factor": 0.15, "value": "lce2:quarry/quarry_stone_large"},
+      {"factor": 0.15, "value": "lce2:quarry/quarry_stone_middle"}
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "inherit": "citystyle_config",
+  "selectors": {
+    "multibuildings": [
+      {"factor": 0.15, "value": "lce2:base/base_aircraft_ground_heri"},
+      {"factor": 0.15, "value": "lce2:base/base_aircraft_ground"},
+      {"factor": 0.15, "value": "lce2:base/base_aircraft_hanger"},
+      {"factor": 0.15, "value": "lce2:base/base_building_body"},
+      {"factor": 0.15, "value": "lce2:base/base_building_medium"},
+      {"factor": 0.15, "value": "lce2:base/base_container"},
+      {"factor": 0.15, "value": "lce2:base/base_ground_airvent"},
+      {"factor": 0.15, "value": "lce2:base/base_ground_ew"},
+      {"factor": 0.15, "value": "lce2:base/base_ground_ns"},
+      {"factor": 0.15, "value": "lce2:base/base_hanger"},
+      {"factor": 0.15, "value": "lce2:base/base_missile_large_multi"},
+      {"factor": 0.15, "value": "lce2:base/base_missile_large"},
+      {"factor": 0.15, "value": "lce2:base/base_missile_launcher_l"},
+      {"factor": 0.15, "value": "lce2:base/base_missile_launcher_m"},
+      {"factor": 0.15, "value": "lce2:base/base_space_shuttle"},
+      {"factor": 0.15, "value": "lce2:offshore/offshore_empty"},
+      {"factor": 0.15, "value": "lce2:offshore/offshore_mega_platform"}
+    ]
+  }
+}
