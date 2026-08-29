@@ -2,20 +2,7 @@
   "filler": "#",
   "rubble": "}",
   "maxfloors": 5,
-  "palette": {
-    "palette": [
-      {
-        "char": "#",
-        "variant": "deepslate",
-        "damaged": "minecraft:iron_bars"
-      },
-      {
-        "char": "}",
-        "variant": "deepslate_rubble",
-        "damaged": "minecraft:iron_bars"
-      }
-    ]
-  },
+  "palette": "lce2:black_building",
   "parts": [
     {
       "top": false,
