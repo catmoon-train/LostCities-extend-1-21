@@ -38,6 +38,69 @@
       "damaged": "minecraft:iron_bars"
     },
     {
+      "char": "-",
+      "block": "minecraft:oak_pressure_plate"
+    },
+    {
+      "char": ".",
+      "block": "minecraft:oak_fence"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:bricks",
+      "damaged": "minecraft:iron_bars"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:chest[facing=north]"
+    },
+    {
+      "char": "F",
+      "blocks": [
+        {
+          "random": 25,
+          "block": "minecraft:furnace[facing=north]"
+        },
+        {
+          "random": 20,
+          "block": "minecraft:crafting_table"
+        },
+        {
+          "random": 7,
+          "block": "minecraft:brewing_stand"
+        },
+        {
+          "random": 6,
+          "block": "minecraft:anvil[facing=north]"
+        },
+        {
+          "random": 5,
+          "block": "minecraft:cauldron"
+        },
+        {
+          "random": 2,
+          "block": "minecraft:enchanting_table"
+        },
+        {
+          "random": 1000,
+          "block": "minecraft:cobweb"
+        }
+      ]
+    },
+    {
+      "char": "L",
+      "block": "minecraft:bookshelf"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:white_stained_glass"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:smooth_stone_slab[type=double]",
+      "damaged": "minecraft:iron_bars"
+    },
+    {
       "char": "@",
       "block": "minecraft:tinted_glass"
     },
