@@ -1,0 +1,120 @@
+{
+  "style": "standard",
+  "inherit": "citystyle_config",
+  "streetblocks": {
+    "border": "y",
+    "wall": "w",
+    "street": "S",
+    "streetbase": "b",
+    "streetvariant": "B",
+    "largeparts": {
+      "full": "street_large_full",
+      "straight": "street_large_straight",
+      "end": "street_large_end",
+      "bend": "street_large_bend",
+      "t": "street_large_t",
+      "none": "street_large_none",
+      "all": "street_large_all",
+      "connector": "street_large_connector",
+      "stair": "street_large_stair"
+    }
+  },
+  "parkblocks": {
+    "elevation": "x"
+  },
+  "corridorblocks": {
+    "roof": "x",
+    "glass": "+"
+  },
+  "railblocks": {
+    "railmain": "y"
+  },
+  "sphereblocks": {
+    "glass": "Z",
+    "border": "9",
+    "inner": "b"
+  },
+  "selectors": {
+    "buildings": [
+      {
+        "factor": 1.0,
+        "value": "lce:common_empty"
+      }
+    ],
+    "multibuildings": [
+      {"factor": 1.0, "value": "lce:4buildingsrow"},
+      {"factor": 1.0, "value": "lce:aircraftcarrier"},
+      {"factor": 1.0, "value": "lce:aircraftcarrier2"},
+      {"factor": 1.0, "value": "lce:bigmall"},
+      {"factor": 1.0, "value": "lce:bufschooll3ya"},
+      {"factor": 1.0, "value": "lce:crashedhelicopter2"},
+      {"factor": 1.0, "value": "lce:firestation12"},
+      {"factor": 1.0, "value": "lce:floodedmalll3ya"},
+      {"factor": 1.0, "value": "lce:gasstation1"},
+      {"factor": 1.0, "value": "lce:gianthospital"},
+      {"factor": 1.0, "value": "lce:hugebuilding1"},
+      {"factor": 1.0, "value": "lce:hugebuilding2"},
+      {"factor": 1.0, "value": "lce:l3ya_spruceforest_cabin_1"},
+      {"factor": 1.0, "value": "lce:massivebuildingwithhelicopter"},
+      {"factor": 1.0, "value": "lce:mbd"},
+      {"factor": 1.0, "value": "lce:mediumbuildingczp1"},
+      {"factor": 1.0, "value": "lce:observatory"},
+      {"factor": 1.0, "value": "lce:policestation"},
+      {"factor": 1.0, "value": "lce:radio_tower1"},
+      {"factor": 1.0, "value": "lce:radio_tower2"},
+      {"factor": 1.0, "value": "lce:scatteredhouse1"},
+      {"factor": 1.0, "value": "lce:scatteredhouse2"},
+      {"factor": 1.0, "value": "lce:shop2"},
+      {"factor": 1.0, "value": "lce:shop3"},
+      {"factor": 1.0, "value": "lce:skyscraper"},
+      {"factor": 1.0, "value": "lce:skyscraper1"},
+      {"factor": 1.0, "value": "lce:smallshop"},
+      {"factor": 1.0, "value": "lce:subhousel3ya_1_2_combo"},
+      {"factor": 1.0, "value": "lce:subhousel3ya_3_6_7_8_9_structurebundel"},
+      {"factor": 1.0, "value": "lce:subhousel3ya_3_bend_street"},
+      {"factor": 1.0, "value": "lce:subhousel3ya_4_and_5_combo"},
+      {"factor": 1.0, "value": "lce:tallbuilding2"},
+      {"factor": 1.0, "value": "lce:tv_tower"},
+      {"factor": 1.0, "value": "lce:walmart2"},
+      {"factor": 1.0, "value": "lce:watch_tower1"},
+      {"factor": 1.0, "value": "lce:wd1imp"}
+    ],
+    "bridges": [
+      {"factor": 1.0, "value": "bridge_open"},
+      {"factor": 1.0, "value": "bridge_covered"}
+    ],
+    "largebridges": [
+      {"factor": 1.0, "value": "bridge_large_open"}
+    ],
+    "fronts": [
+      {"factor": 1.0, "value": "building_front1"},
+      {"factor": 1.0, "value": "building_front2"},
+      {"factor": 1.0, "value": "building_front3"}
+    ],
+    "stairs": [
+      {"factor": 1.0, "value": "stairs1"},
+      {"factor": 1.0, "value": "stairs2"},
+      {"factor": 1.0, "value": "stairsnormal"},
+      {"factor": 1.0, "value": "stairsbig"}
+    ],
+    "fountains": [
+      {"factor": 1.0, "value": "fountain1"},
+      {"factor": 1.0, "value": "fountain2"},
+      {"factor": 1.0, "value": "fountain3"}
+    ],
+    "parks": [
+      {"factor": 1.0, "value": "park_pool"},
+      {"factor": 1.0, "value": "park_plants"},
+      {"factor": 1.0, "value": "park_trees"},
+      {"factor": 1.0, "value": "park_plants_pillars"},
+      {"factor": 0.8, "value": "park_fountain1"},
+      {"factor": 0.8, "value": "park_fountain2"},
+      {"factor": 0.3, "value": "park_building"},
+      {"factor": 0.3, "value": "park_building2"}
+    ],
+    "raildungeons": [
+      {"factor": 1.0, "value": "rail_dungeon1"},
+      {"factor": 1.0, "value": "rail_dungeon2"}
+    ]
+  }
+}

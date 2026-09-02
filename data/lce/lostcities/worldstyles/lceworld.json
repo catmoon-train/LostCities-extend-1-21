@@ -1,0 +1,77 @@
+{
+  "outsidestyle": "outside",
+  "settings": {
+    "railwayavoidance": "ignore",
+    "railpartheight6": 1
+  },
+  "multisettings": {
+    "areasize": 20,
+    "minimum": 1,
+    "maximum": 5,
+    "correctstylefactor": 0.8,
+    "attempts": 50
+  },
+  "scattered": {
+    "areasize": 15,
+    "chance": 0.7,
+    "weightnone": 30,
+    "list": [
+      {"name": "lce:4buildingsrow", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:aircraftcarrier", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:aircraftcarrier2", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:bigmall", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:bufschooll3ya", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:crashedhelicopter2", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:firestation12", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:floodedmalll3ya", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:gasstation1", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:gianthospital", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:hugebuilding1", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:hugebuilding2", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:l3ya_spruceforest_cabin_1", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:massivebuildingwithhelicopter", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:mbd", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:mediumbuildingczp1", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:observatory", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:policestation", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:radio_tower1", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:radio_tower2", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:scatteredhouse1", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:scatteredhouse2", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:shop2", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:shop3", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:skyscraper", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:skyscraper1", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:smallshop", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:subhousel3ya_1_2_combo", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:subhousel3ya_3_6_7_8_9_structurebundel", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:subhousel3ya_3_bend_street", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:subhousel3ya_4_and_5_combo", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:tallbuilding2", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:tv_tower", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:walmart2", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:watch_tower1", "weight": 1, "maxheightdiff": 100, "biomes": {}},
+      {"name": "lce:wd1imp", "weight": 1, "maxheightdiff": 100, "biomes": {}}
+    ]
+  },
+  "citybiomemultipliers": [
+    {
+      "multiplier": 0.1,
+      "biomes": {
+        "if_any": ["#minecraft:is_ocean"]
+      }
+    },
+    {
+      "multiplier": 0.3,
+      "biomes": {
+        "if_any": ["#minecraft:is_river"]
+      }
+    }
+  ],
+  "citystyles": [
+    {
+      "factor": 1.0,
+      "citystyle": "lce:lce"
+    }
+  ]
+}
