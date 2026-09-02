@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:air"
+      "block": "minecraft:polished_tuff"
     },
     {
       "char": "b",
@@ -55,16 +55,7 @@
     },
     {
       "char": "n",
-      "blocks": [
-        {
-          "random": 86,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:stone"
     },
     {
       "char": "o",
@@ -139,7 +130,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite_wall"
     },
     {
       "char": "K",
@@ -159,7 +150,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite_wall"
     }
   ]
 }

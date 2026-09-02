@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "b",
@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "e",
@@ -71,20 +71,7 @@
     },
     {
       "char": "r",
-      "blocks": [
-        {
-          "random": 74,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 12,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:andesite"
     }
   ]
 }

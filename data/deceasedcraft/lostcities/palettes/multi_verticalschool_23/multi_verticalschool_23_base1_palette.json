@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "h",
@@ -35,11 +35,11 @@
     },
     {
       "char": "i",
-      "block": "minecraft:air"
+      "block": "minecraft:dark_oak_fence_gate"
     },
     {
       "char": "j",
-      "block": "minecraft:air"
+      "block": "minecraft:dark_oak_fence_gate"
     },
     {
       "char": "k",
@@ -51,11 +51,11 @@
     },
     {
       "char": "m",
-      "block": "minecraft:air"
+      "block": "minecraft:polished_tuff"
     },
     {
       "char": "n",
-      "block": "minecraft:air"
+      "block": "minecraft:glass"
     },
     {
       "char": "o",
@@ -63,7 +63,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:air"
+      "block": "minecraft:glass"
     },
     {
       "char": "q",
@@ -107,16 +107,7 @@
     },
     {
       "char": "C",
-      "blocks": [
-        {
-          "random": 86,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:stone"
     }
   ]
 }

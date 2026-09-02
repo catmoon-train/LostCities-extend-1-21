@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "b",
@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "h",
@@ -132,16 +132,7 @@
     },
     {
       "char": "J",
-      "blocks": [
-        {
-          "random": 86,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:stone"
     },
     {
       "char": "K",

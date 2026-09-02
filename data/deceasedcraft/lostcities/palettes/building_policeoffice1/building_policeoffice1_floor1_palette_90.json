@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:air"
+      "block": "minecraft:quartz_block"
     },
     {
       "char": "c",
@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:air"
+      "block": "minecraft:quartz_block"
     },
     {
       "char": "f",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "n",
@@ -164,7 +164,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:air"
+      "block": "minecraft:oak_leaves"
     },
     {
       "char": "S",
@@ -177,7 +177,7 @@
     },
     {
       "char": "U",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "V",
@@ -266,20 +266,11 @@
     },
     {
       "char": "&",
-      "blocks": [
-        {
-          "random": 86,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:stone"
     },
     {
       "char": "*",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "(",

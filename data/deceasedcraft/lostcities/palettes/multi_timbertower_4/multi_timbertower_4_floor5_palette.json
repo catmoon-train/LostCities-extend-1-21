@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:air"
+      "block": "minecraft:calcite"
     },
     {
       "char": "b",
@@ -26,7 +26,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:air"
+      "block": "minecraft:calcite"
     },
     {
       "char": "g",
@@ -50,7 +50,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "m",
@@ -139,7 +139,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "M",
@@ -168,7 +168,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "S",
@@ -225,7 +225,7 @@
     },
     {
       "char": "5",
-      "block": "minecraft:air"
+      "block": "minecraft:oak_leaves"
     },
     {
       "char": "6",
@@ -305,7 +305,7 @@
     },
     {
       "char": ";",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": ":",
@@ -317,7 +317,7 @@
     },
     {
       "char": "<",
-      "block": "minecraft:air"
+      "block": "minecraft:oak_leaves"
     },
     {
       "char": ">",
@@ -388,16 +388,7 @@
     },
     {
       "char": "ͼ",
-      "blocks": [
-        {
-          "random": 86,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:stone"
     },
     {
       "char": "ͽ",

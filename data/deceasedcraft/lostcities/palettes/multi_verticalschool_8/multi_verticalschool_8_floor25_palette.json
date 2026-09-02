@@ -19,11 +19,11 @@
     },
     {
       "char": "e",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "f",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite"
     },
     {
       "char": "g",
@@ -83,11 +83,11 @@
     },
     {
       "char": "t",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "u",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "w",
@@ -131,11 +131,11 @@
     },
     {
       "char": "I",
-      "block": "minecraft:air"
+      "block": "minecraft:jungle_fence_gate"
     },
     {
       "char": "J",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite"
     },
     {
       "char": "K",
@@ -249,7 +249,7 @@
     },
     {
       "char": "$",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "%",
@@ -269,7 +269,7 @@
     },
     {
       "char": "(",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": ")",
@@ -277,16 +277,7 @@
     },
     {
       "char": "+",
-      "blocks": [
-        {
-          "random": 86,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:stone"
     },
     {
       "char": "-",

@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "b",
@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:air"
+      "block": "minecraft:polished_tuff"
     },
     {
       "char": "d",
@@ -23,16 +23,7 @@
     },
     {
       "char": "f",
-      "blocks": [
-        {
-          "random": 86,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:stone"
     },
     {
       "char": "g",
@@ -60,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:air"
+      "block": "minecraft:oak_leaves"
     }
   ]
 }

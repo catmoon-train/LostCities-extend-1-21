@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:air"
+      "block": "minecraft:polished_tuff"
     },
     {
       "char": "b",
@@ -47,20 +47,7 @@
     },
     {
       "char": "l",
-      "blocks": [
-        {
-          "random": 74,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 12,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:andesite"
     },
     {
       "char": "m",
@@ -88,16 +75,7 @@
     },
     {
       "char": "s",
-      "blocks": [
-        {
-          "random": 86,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:stone"
     },
     {
       "char": "t",
@@ -217,7 +195,7 @@
     },
     {
       "char": "Z",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite_wall"
     },
     {
       "char": "0",
@@ -270,7 +248,7 @@
     },
     {
       "char": "%",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite_wall"
     },
     {
       "char": "^",

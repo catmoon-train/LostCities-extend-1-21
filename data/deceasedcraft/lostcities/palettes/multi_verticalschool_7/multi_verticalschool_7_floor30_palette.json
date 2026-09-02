@@ -7,11 +7,11 @@
     },
     {
       "char": "b",
-      "block": "minecraft:air"
+      "block": "minecraft:polished_tuff"
     },
     {
       "char": "c",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "d",
@@ -50,16 +50,7 @@
     },
     {
       "char": "l",
-      "blocks": [
-        {
-          "random": 86,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:stone"
     },
     {
       "char": "m",
@@ -109,7 +100,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite_wall"
     },
     {
       "char": "A",
@@ -196,24 +187,11 @@
     },
     {
       "char": "U",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite_wall"
     },
     {
       "char": "V",
-      "blocks": [
-        {
-          "random": 74,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 12,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:andesite"
     }
   ]
 }

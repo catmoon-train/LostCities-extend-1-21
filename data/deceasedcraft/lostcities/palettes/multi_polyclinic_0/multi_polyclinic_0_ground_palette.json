@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "e",
@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:air"
+      "block": "minecraft:calcite"
     },
     {
       "char": "k",
@@ -109,7 +109,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:air"
+      "block": "minecraft:polished_calcite"
     },
     {
       "char": "D",
@@ -213,7 +213,7 @@
     },
     {
       "char": "4",
-      "block": "minecraft:air"
+      "block": "minecraft:oak_leaves"
     },
     {
       "char": "5",
@@ -260,7 +260,7 @@
     },
     {
       "char": "*",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite"
     },
     {
       "char": "(",
@@ -288,7 +288,7 @@
     },
     {
       "char": "{",
-      "block": "minecraft:air"
+      "block": "minecraft:stone_bricks"
     },
     {
       "char": "}",
@@ -296,16 +296,7 @@
     },
     {
       "char": "|",
-      "blocks": [
-        {
-          "random": 86,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:stone"
     },
     {
       "char": ";",

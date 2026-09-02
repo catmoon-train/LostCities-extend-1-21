@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite"
     },
     {
       "char": "f",
@@ -216,7 +216,7 @@
     },
     {
       "char": "2",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite_wall"
     },
     {
       "char": "3",
@@ -232,7 +232,7 @@
     },
     {
       "char": "6",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "7",
@@ -280,7 +280,7 @@
     },
     {
       "char": "+",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite"
     },
     {
       "char": "-",
@@ -288,20 +288,7 @@
     },
     {
       "char": "[",
-      "blocks": [
-        {
-          "random": 74,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 12,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:andesite"
     },
     {
       "char": "]",

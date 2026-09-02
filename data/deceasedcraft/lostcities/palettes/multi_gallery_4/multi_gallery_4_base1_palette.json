@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:air"
+      "block": "minecraft:quartz_block"
     },
     {
       "char": "b",
@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:air"
+      "block": "minecraft:stone_bricks"
     },
     {
       "char": "e",
@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "g",
@@ -55,20 +55,11 @@
     },
     {
       "char": "l",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "m",
-      "blocks": [
-        {
-          "random": 86,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:stone"
     },
     {
       "char": "n",
@@ -84,7 +75,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     }
   ]
 }

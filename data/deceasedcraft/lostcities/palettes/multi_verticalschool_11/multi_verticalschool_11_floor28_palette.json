@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "d",
@@ -19,11 +19,11 @@
     },
     {
       "char": "e",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite"
     },
     {
       "char": "f",
-      "block": "minecraft:air"
+      "block": "minecraft:andesite"
     },
     {
       "char": "g",
@@ -207,7 +207,7 @@
     },
     {
       "char": "1",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "2",
@@ -262,7 +262,7 @@
     },
     {
       "char": "&",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "*",
@@ -299,20 +299,11 @@
     },
     {
       "char": "}",
-      "block": "minecraft:air"
+      "block": "minecraft:stone"
     },
     {
       "char": "|",
-      "blocks": [
-        {
-          "random": 86,
-          "block": "minecraft:air"
-        },
-        {
-          "random": 42,
-          "block": "minecraft:air"
-        }
-      ]
+      "block": "minecraft:stone"
     }
   ]
 }
