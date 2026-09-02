@@ -15,6 +15,15 @@
       "block": "minecraft:grass_block"
     },
     {
+      "char": "4",
+      "block": "minecraft:spawner",
+      "mob": "hardmobs"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:glowstone"
+    },
+    {
       "char": "H",
       "block": "minecraft:sandstone"
     },
@@ -77,6 +86,10 @@
     {
       "char": ")",
       "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
     },
     {
       "char": "z",
