@@ -88,30 +88,16 @@
       },
       {
         "char": "绰",
-        "block": "minecraft:black_bed[part=foot,facing=east]",
-        "tag": {
-          "z": 963,
-          "x": -458,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 107
-        }
+        "block": "minecraft:black_bed[part=foot,facing=east]"
       },
       {
         "char": "谘",
-        "block": "minecraft:black_bed[part=head,facing=east]",
-        "tag": {
-          "z": 961,
-          "x": -457,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 107
-        }
+        "block": "minecraft:black_bed[part=head,facing=east]"
       },
       {
         "char": "卿",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 963,
           "x": -456,
@@ -142,14 +128,7 @@
       },
       {
         "char": "赦",
-        "block": "minecraft:black_bed[part=foot,facing=south]",
-        "tag": {
-          "z": 965,
-          "x": -458,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 107
-        }
+        "block": "minecraft:black_bed[part=foot,facing=south]"
       },
       {
         "char": "寺",
@@ -176,14 +155,7 @@
       },
       {
         "char": "拱",
-        "block": "minecraft:black_bed[part=head,facing=south]",
-        "tag": {
-          "z": 966,
-          "x": -458,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 107
-        }
+        "block": "minecraft:black_bed[part=head,facing=south]"
       },
       {
         "char": "r",
@@ -192,7 +164,7 @@
       {
         "char": "绵",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 961,
           "x": -445,
@@ -393,7 +365,7 @@
       {
         "char": "碟",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 957,
           "x": -354,
@@ -413,7 +385,7 @@
       {
         "char": "底",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 975,
           "x": -484,

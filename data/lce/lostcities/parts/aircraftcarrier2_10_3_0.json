@@ -193,23 +193,11 @@
       },
       {
         "char": "恭",
-        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
-        "tag": {
-          "z": -460,
-          "x": -91,
-          "id": "minecraft:bed",
-          "y": -52
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]"
       },
       {
         "char": "厚",
-        "block": "minecraft:light_gray_bed[part=head,facing=east]",
-        "tag": {
-          "z": -462,
-          "x": -103,
-          "id": "minecraft:bed",
-          "y": -52
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=east]"
       },
       {
         "char": "O",
@@ -225,23 +213,11 @@
       },
       {
         "char": "玫",
-        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
-        "tag": {
-          "z": -451,
-          "x": -109,
-          "id": "minecraft:bed",
-          "y": -53
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]"
       },
       {
         "char": "碎",
-        "block": "minecraft:light_gray_bed[part=head,facing=south]",
-        "tag": {
-          "z": -446,
-          "x": -132,
-          "id": "minecraft:bed",
-          "y": -53
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=south]"
       },
       {
         "char": "f",
@@ -289,7 +265,7 @@
       {
         "char": "丹",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -449,
           "x": -113,
@@ -406,7 +382,7 @@
       {
         "char": "逊",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -460,
           "x": -93,
@@ -430,7 +406,7 @@
       {
         "char": "希",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -433,
           "x": -208,
@@ -442,7 +418,7 @@
       {
         "char": "号",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -452,
           "x": -85,

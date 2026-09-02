@@ -38,7 +38,7 @@
       {
         "char": "ҕ",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 942,
           "x": -502,
@@ -54,7 +54,7 @@
       {
         "char": "Ѷ",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 940,
           "x": -437,
@@ -69,14 +69,7 @@
       },
       {
         "char": "开",
-        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
-        "tag": {
-          "z": 951,
-          "x": -534,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 116
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]"
       },
       {
         "char": "助",
@@ -85,7 +78,7 @@
       {
         "char": "碟",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 957,
           "x": -354,
@@ -100,14 +93,7 @@
       },
       {
         "char": "教",
-        "block": "minecraft:light_gray_bed[part=head,facing=east]",
-        "tag": {
-          "z": 949,
-          "x": -458,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 115
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=east]"
       },
       {
         "char": "ϒ",
@@ -116,7 +102,7 @@
       {
         "char": "底",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 975,
           "x": -484,
@@ -229,25 +215,11 @@
       },
       {
         "char": "奕",
-        "block": "minecraft:blue_bed[part=foot,facing=east]",
-        "tag": {
-          "z": 930,
-          "x": -489,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 117
-        }
+        "block": "minecraft:blue_bed[part=foot,facing=east]"
       },
       {
         "char": "苟",
-        "block": "minecraft:blue_bed[part=head,facing=east]",
-        "tag": {
-          "z": 930,
-          "x": -488,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 117
-        }
+        "block": "minecraft:blue_bed[part=head,facing=east]"
       },
       {
         "char": "父",

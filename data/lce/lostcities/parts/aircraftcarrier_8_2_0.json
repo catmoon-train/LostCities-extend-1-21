@@ -97,14 +97,7 @@
       },
       {
         "char": "璃",
-        "block": "minecraft:gray_bed[part=foot,facing=south]",
-        "tag": {
-          "z": 945,
-          "x": -418,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 105
-        }
+        "block": "minecraft:gray_bed[part=foot,facing=south]"
       },
       {
         "char": "烧",
@@ -156,14 +149,7 @@
       },
       {
         "char": "煮",
-        "block": "minecraft:gray_bed[part=head,facing=south]",
-        "tag": {
-          "z": 946,
-          "x": -418,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 105
-        }
+        "block": "minecraft:gray_bed[part=head,facing=south]"
       },
       {
         "char": "抖",
@@ -192,7 +178,7 @@
       {
         "char": "谁",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 977,
           "x": -486,

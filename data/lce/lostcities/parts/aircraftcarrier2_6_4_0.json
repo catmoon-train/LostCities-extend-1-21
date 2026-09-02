@@ -37,13 +37,7 @@
       },
       {
         "char": "憬",
-        "block": "minecraft:black_bed",
-        "tag": {
-          "z": -446,
-          "x": -182,
-          "id": "minecraft:bed",
-          "y": -57
-        }
+        "block": "minecraft:black_bed"
       },
       {
         "char": "ӷ",
@@ -256,13 +250,7 @@
       },
       {
         "char": "溺",
-        "block": "minecraft:black_bed[part=foot,facing=south]",
-        "tag": {
-          "z": -445,
-          "x": -180,
-          "id": "minecraft:bed",
-          "y": -53
-        }
+        "block": "minecraft:black_bed[part=foot,facing=south]"
       },
       {
         "char": "昧",
@@ -288,13 +276,7 @@
       },
       {
         "char": "椒",
-        "block": "minecraft:black_bed[part=head,facing=south]",
-        "tag": {
-          "z": -444,
-          "x": -180,
-          "id": "minecraft:bed",
-          "y": -53
-        }
+        "block": "minecraft:black_bed[part=head,facing=south]"
       },
       {
         "char": "u",
@@ -303,7 +285,7 @@
       {
         "char": "贸",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -464,
           "x": -190,
@@ -525,7 +507,7 @@
       {
         "char": "底",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -452,
           "x": -82,
@@ -545,7 +527,7 @@
       {
         "char": "证",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -452,
           "x": -76,
@@ -588,7 +570,7 @@
       {
         "char": "丹",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -449,
           "x": -113,
@@ -651,7 +633,7 @@
       {
         "char": "号",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -452,
           "x": -85,
@@ -695,7 +677,7 @@
       {
         "char": "逊",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -460,
           "x": -93,
@@ -707,7 +689,7 @@
       {
         "char": "ҝ",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -446,
           "x": -202,
@@ -719,7 +701,7 @@
       {
         "char": "ѧ",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -479,
           "x": -173,
@@ -748,28 +730,16 @@
       },
       {
         "char": "诘",
-        "block": "minecraft:yellow_bed[part=foot,facing=east]",
-        "tag": {
-          "z": -453,
-          "x": -176,
-          "id": "minecraft:bed",
-          "y": -45
-        }
+        "block": "minecraft:yellow_bed[part=foot,facing=east]"
       },
       {
         "char": "渝",
-        "block": "minecraft:yellow_bed[part=head,facing=east]",
-        "tag": {
-          "z": -440,
-          "x": -180,
-          "id": "minecraft:bed",
-          "y": -45
-        }
+        "block": "minecraft:yellow_bed[part=head,facing=east]"
       },
       {
         "char": "希",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -433,
           "x": -208,
@@ -780,23 +750,11 @@
       },
       {
         "char": "些",
-        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
-        "tag": {
-          "z": -477,
-          "x": -224,
-          "id": "minecraft:bed",
-          "y": -45
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]"
       },
       {
         "char": "己",
-        "block": "minecraft:light_gray_bed[part=head,facing=east]",
-        "tag": {
-          "z": -477,
-          "x": -223,
-          "id": "minecraft:bed",
-          "y": -45
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=east]"
       },
       {
         "char": "系",

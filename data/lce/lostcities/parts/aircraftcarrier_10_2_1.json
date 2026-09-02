@@ -33,25 +33,11 @@
       },
       {
         "char": "枪",
-        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
-        "tag": {
-          "z": 957,
-          "x": -364,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 108
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]"
       },
       {
         "char": "蝎",
-        "block": "minecraft:light_gray_bed[part=head,facing=east]",
-        "tag": {
-          "z": 951,
-          "x": -369,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 107
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=east]"
       },
       {
         "char": "喂",
@@ -75,14 +61,7 @@
       },
       {
         "char": "栏",
-        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
-        "tag": {
-          "z": 960,
-          "x": -393,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 107
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]"
       },
       {
         "char": "g",
@@ -90,14 +69,7 @@
       },
       {
         "char": "酸",
-        "block": "minecraft:light_gray_bed[part=head,facing=south]",
-        "tag": {
-          "z": 963,
-          "x": -405,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 107
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=south]"
       },
       {
         "char": "f",
@@ -110,7 +82,7 @@
       {
         "char": "晨",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 947,
           "x": -390,

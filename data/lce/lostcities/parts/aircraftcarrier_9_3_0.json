@@ -38,7 +38,7 @@
       {
         "char": "Ѷ",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 940,
           "x": -437,
@@ -58,7 +58,7 @@
       {
         "char": "ҕ",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 942,
           "x": -502,
@@ -89,25 +89,11 @@
       },
       {
         "char": "返",
-        "block": "minecraft:gray_bed[part=foot,facing=south]",
-        "tag": {
-          "z": 962,
-          "x": -415,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 105
-        }
+        "block": "minecraft:gray_bed[part=foot,facing=south]"
       },
       {
         "char": "侬",
-        "block": "minecraft:gray_bed[part=head,facing=south]",
-        "tag": {
-          "z": 963,
-          "x": -413,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 105
-        }
+        "block": "minecraft:gray_bed[part=head,facing=south]"
       },
       {
         "char": "乡",

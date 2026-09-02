@@ -10,7 +10,7 @@
       {
         "char": "ҕ",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 942,
           "x": -502,
@@ -26,7 +26,7 @@
       {
         "char": "Ѷ",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 940,
           "x": -437,
@@ -50,7 +50,7 @@
       {
         "char": "碟",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 957,
           "x": -354,
@@ -66,7 +66,7 @@
       {
         "char": "底",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 975,
           "x": -484,
@@ -82,7 +82,7 @@
       {
         "char": "谁",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 977,
           "x": -486,
@@ -98,7 +98,7 @@
       {
         "char": "活",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 958,
           "x": -361,
@@ -156,7 +156,7 @@
       {
         "char": "汽",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 964,
           "x": -421,
@@ -176,7 +176,7 @@
       {
         "char": "予",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 962,
           "x": -466,
@@ -191,14 +191,7 @@
       },
       {
         "char": "栏",
-        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
-        "tag": {
-          "z": 960,
-          "x": -393,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 107
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]"
       },
       {
         "char": "k",
@@ -207,7 +200,7 @@
       {
         "char": "胎",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 945,
           "x": -480,
@@ -226,36 +219,15 @@
       },
       {
         "char": "酸",
-        "block": "minecraft:light_gray_bed[part=head,facing=south]",
-        "tag": {
-          "z": 963,
-          "x": -405,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 107
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=south]"
       },
       {
         "char": "开",
-        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
-        "tag": {
-          "z": 951,
-          "x": -534,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 116
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]"
       },
       {
         "char": "教",
-        "block": "minecraft:light_gray_bed[part=head,facing=east]",
-        "tag": {
-          "z": 949,
-          "x": -458,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 115
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=east]"
       },
       {
         "char": "ϒ",

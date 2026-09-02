@@ -128,7 +128,7 @@
       {
         "char": "长",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 338,
           "x": 108,
@@ -143,14 +143,7 @@
       },
       {
         "char": "委",
-        "block": "minecraft:white_bed[part=foot,facing=south]",
-        "tag": {
-          "z": 310,
-          "x": 179,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 125
-        }
+        "block": "minecraft:white_bed[part=foot,facing=south]"
       },
       {
         "char": "百",
@@ -205,14 +198,7 @@
       },
       {
         "char": "嘿",
-        "block": "minecraft:white_bed[part=head,facing=south]",
-        "tag": {
-          "z": 311,
-          "x": 179,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 125
-        }
+        "block": "minecraft:white_bed[part=head,facing=south]"
       },
       {
         "char": "士",
@@ -275,25 +261,11 @@
       },
       {
         "char": "普",
-        "block": "minecraft:white_bed[part=foot,facing=east]",
-        "tag": {
-          "z": 313,
-          "x": 182,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 125
-        }
+        "block": "minecraft:white_bed[part=foot,facing=east]"
       },
       {
         "char": "奖",
-        "block": "minecraft:white_bed[part=head,facing=east]",
-        "tag": {
-          "z": 313,
-          "x": 183,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 125
-        }
+        "block": "minecraft:white_bed[part=head,facing=east]"
       },
       {
         "char": "射",

@@ -37,25 +37,11 @@
       },
       {
         "char": "开",
-        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
-        "tag": {
-          "z": 951,
-          "x": -534,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 116
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]"
       },
       {
         "char": "教",
-        "block": "minecraft:light_gray_bed[part=head,facing=east]",
-        "tag": {
-          "z": 949,
-          "x": -458,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 115
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=east]"
       },
       {
         "char": "ϒ",
@@ -86,7 +72,7 @@
       {
         "char": "绵",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 961,
           "x": -445,

@@ -151,25 +151,11 @@
       },
       {
         "char": "液",
-        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
-        "tag": {
-          "z": 471,
-          "x": -12,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 146
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]"
       },
       {
         "char": "哉",
-        "block": "minecraft:light_gray_bed[part=head,facing=east]",
-        "tag": {
-          "z": 424,
-          "x": -62,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 188
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=east]"
       },
       {
         "char": "歉",
@@ -182,7 +168,7 @@
       {
         "char": "捆",
         "block": "minecraft:chest",
-        "loot": "hospital",
+
         "tag": {
           "z": 485,
           "x": -64,

@@ -29,13 +29,7 @@
       },
       {
         "char": "些",
-        "block": "minecraft:light_gray_bed",
-        "tag": {
-          "z": -477,
-          "x": -224,
-          "id": "minecraft:bed",
-          "y": -45
-        }
+        "block": "minecraft:light_gray_bed"
       },
       {
         "char": "倒",
@@ -44,7 +38,7 @@
       {
         "char": "底",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -452,
           "x": -82,
@@ -63,23 +57,11 @@
       },
       {
         "char": "樵",
-        "block": "minecraft:blue_bed[part=foot,facing=east]",
-        "tag": {
-          "z": -480,
-          "x": -211,
-          "id": "minecraft:bed",
-          "y": -43
-        }
+        "block": "minecraft:blue_bed[part=foot,facing=east]"
       },
       {
         "char": "曳",
-        "block": "minecraft:blue_bed[part=head,facing=east]",
-        "tag": {
-          "z": -480,
-          "x": -210,
-          "id": "minecraft:bed",
-          "y": -43
-        }
+        "block": "minecraft:blue_bed[part=head,facing=east]"
       },
       {
         "char": "3",

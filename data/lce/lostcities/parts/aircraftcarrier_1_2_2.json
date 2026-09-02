@@ -183,7 +183,7 @@
       {
         "char": "ҕ",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 942,
           "x": -502,
@@ -199,7 +199,7 @@
       {
         "char": "Ѷ",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 940,
           "x": -437,
@@ -231,7 +231,7 @@
       {
         "char": "晨",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 947,
           "x": -390,
@@ -304,25 +304,11 @@
       },
       {
         "char": "开",
-        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
-        "tag": {
-          "z": 951,
-          "x": -534,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 116
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]"
       },
       {
         "char": "教",
-        "block": "minecraft:light_gray_bed[part=head,facing=east]",
-        "tag": {
-          "z": 949,
-          "x": -458,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 115
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=east]"
       },
       {
         "char": "瞎",
@@ -339,7 +325,7 @@
       {
         "char": "碟",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 957,
           "x": -354,
@@ -355,7 +341,7 @@
       {
         "char": "底",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 975,
           "x": -484,
@@ -419,7 +405,7 @@
       {
         "char": "绵",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 961,
           "x": -445,
@@ -434,25 +420,11 @@
       },
       {
         "char": "枪",
-        "block": "minecraft:light_gray_bed[part=head,facing=south]",
-        "tag": {
-          "z": 957,
-          "x": -364,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 108
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=south]"
       },
       {
         "char": "蝎",
-        "block": "minecraft:light_gray_bed[part=head,facing=south]",
-        "tag": {
-          "z": 951,
-          "x": -369,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 107
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=south]"
       },
       {
         "char": "H",

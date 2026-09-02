@@ -58,7 +58,7 @@
       {
         "char": "绵",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": 961,
           "x": -445,
@@ -73,25 +73,11 @@
       },
       {
         "char": "芷",
-        "block": "minecraft:black_bed[part=foot,facing=east]",
-        "tag": {
-          "z": 961,
-          "x": -444,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 107
-        }
+        "block": "minecraft:black_bed[part=foot,facing=east]"
       },
       {
         "char": "雕",
-        "block": "minecraft:black_bed[part=head,facing=east]",
-        "tag": {
-          "z": 963,
-          "x": -443,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 107
-        }
+        "block": "minecraft:black_bed[part=head,facing=east]"
       },
       {
         "char": "w",

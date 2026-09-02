@@ -87,7 +87,7 @@
       {
         "char": "Σ",
         "block": "minecraft:chest",
-        "loot": "firestation",
+
         "tag": {
           "z": 565,
           "x": 260,
@@ -118,25 +118,11 @@
       },
       {
         "char": "ϔ",
-        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
-        "tag": {
-          "z": 574,
-          "x": 272,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 148
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]"
       },
       {
         "char": "ϥ",
-        "block": "minecraft:light_gray_bed[part=head,facing=east]",
-        "tag": {
-          "z": 574,
-          "x": 273,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 148
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=east]"
       },
       {
         "char": "Ϊ",

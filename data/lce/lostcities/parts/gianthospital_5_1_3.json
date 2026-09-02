@@ -125,14 +125,7 @@
       },
       {
         "char": "菁",
-        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
-        "tag": {
-          "z": 417,
-          "x": -71,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 194
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]"
       },
       {
         "char": "M",
@@ -148,14 +141,7 @@
       },
       {
         "char": "赫",
-        "block": "minecraft:light_gray_bed[part=head,facing=south]",
-        "tag": {
-          "z": 471,
-          "x": -87,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 194
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=south]"
       },
       {
         "char": "j",
@@ -218,25 +204,11 @@
       },
       {
         "char": "液",
-        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
-        "tag": {
-          "z": 471,
-          "x": -12,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 146
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]"
       },
       {
         "char": "哉",
-        "block": "minecraft:light_gray_bed[part=head,facing=east]",
-        "tag": {
-          "z": 424,
-          "x": -62,
-          "ForgeCaps": {},
-          "id": "minecraft:bed",
-          "y": 188
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=east]"
       },
       {
         "char": "谯",
@@ -276,7 +248,7 @@
       {
         "char": "韆",
         "block": "minecraft:chest",
-        "loot": "hospital",
+
         "tag": {
           "z": 406,
           "x": -82,

@@ -50,7 +50,7 @@
       {
         "char": "逊",
         "block": "minecraft:chest",
-        "loot": "bigbuildingsloot",
+
         "tag": {
           "z": -460,
           "x": -93,
@@ -61,23 +61,11 @@
       },
       {
         "char": "恭",
-        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
-        "tag": {
-          "z": -460,
-          "x": -91,
-          "id": "minecraft:bed",
-          "y": -52
-        }
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]"
       },
       {
         "char": "厚",
-        "block": "minecraft:light_gray_bed[part=head,facing=east]",
-        "tag": {
-          "z": -462,
-          "x": -103,
-          "id": "minecraft:bed",
-          "y": -52
-        }
+        "block": "minecraft:light_gray_bed[part=head,facing=east]"
       },
       {
         "char": "R",
