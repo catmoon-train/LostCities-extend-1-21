@@ -20,267 +20,571 @@
         "name": "radiotower",
         "weight": 15,
         "maxheightdiff": 3,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "oilrig",
         "weight": 4,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_beach",
+            "minecraft:beach"
+          ]
+        }
       },
       {
         "name": "cabin",
         "weight": 10,
         "maxheightdiff": 2,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "highway_gas_station",
         "weight": 12,
         "nearhighway": true,
         "maxheightdiff": 12,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "highway_restaurant",
         "weight": 9,
         "nearhighway": true,
         "maxheightdiff": 12,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce:crashedhelicopter2",
         "weight": 15,
         "maxheightdiff": 2,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce:scatteredhouse2",
         "weight": 12,
         "maxheightdiff": 3,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce:scatteredhouse1",
         "weight": 10,
         "maxheightdiff": 3,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce:radio_tower1",
         "weight": 10,
         "maxheightdiff": 6,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce:radio_tower2",
         "weight": 8,
         "maxheightdiff": 5,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce:watch_tower1",
         "weight": 10,
         "maxheightdiff": 6,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce:l3ya_spruceforest_cabin_1",
         "weight": 6,
         "maxheightdiff": 2,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce:observatory",
         "weight": 2,
         "maxheightdiff": 3,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce:aircraftcarrier2",
         "weight": 2,
         "maxheightdiff": 50,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce:aircraftcarrier",
         "weight": 2,
         "maxheightdiff": 10,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_antenna",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_container",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_cube",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_farmland",
         "weight": 8,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_garage",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_gasstand",
         "weight": 8,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_hanger",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_lighthouse",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_minifactory",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_radiotower",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_scaffold",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_telescope",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:scattered_watertank",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:wind_mill",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "lce2:warship",
         "weight": 15,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_beach",
+            "minecraft:beach"
+          ]
+        }
       },
       {
         "name": "lce2:mega_platform",
         "weight": 5,
         "maxheightdiff": 100,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:scattered_cabin_1",
         "weight": 15,
         "maxheightdiff": 3,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:scattered_cabin_2",
         "weight": 15,
         "maxheightdiff": 3,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:scattered_cabin_3",
         "weight": 15,
         "maxheightdiff": 3,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:scattered_foodtruck_1",
         "weight": 15,
         "maxheightdiff": 3,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:scattered_treehouse_1",
         "weight": 15,
         "maxheightdiff": 3,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:scattered_hideout_1",
         "weight": 15,
         "maxheightdiff": 2,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:villager_1",
         "weight": 5,
         "maxheightdiff": 2,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:multi_cabin1",
         "weight": 25,
         "maxheightdiff": 2,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:multi_cabin2",
         "weight": 25,
         "maxheightdiff": 2,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:multi_cabin3",
         "weight": 25,
         "maxheightdiff": 2,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:multi_farmhouse1",
         "weight": 15,
         "maxheightdiff": 5,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:multi_campsite1",
         "weight": 15,
         "maxheightdiff": 5,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       },
       {
         "name": "deceasedcraft:multi_planecrash1",
         "weight": 10,
         "maxheightdiff": 2,
-        "biomes": {}
+        "biomes": {
+          "if_any": [
+            "#minecraft:is_plains",
+            "#minecraft:is_forest",
+            "#minecraft:is_taiga",
+            "#minecraft:is_mountain"
+          ]
+        }
       }
     ]
   },
@@ -297,7 +601,13 @@
     },
     {
       "factor": 9.0,
-      "biomes": {},
+      "biomes": {
+        "if_any": [
+          "#minecraft:is_desert",
+          "#minecraft:is_badlands",
+          "#minecraft:is_savanna"
+        ]
+      },
       "citystyle": "citystyle_desert"
     },
     {
