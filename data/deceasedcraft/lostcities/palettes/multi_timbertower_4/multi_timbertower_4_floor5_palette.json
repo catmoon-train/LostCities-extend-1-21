@@ -1,0 +1,411 @@
+{
+  "name": "multi_timbertower_4_floor5_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:birch_planks"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "d",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stripped_oak_log[axis=y]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:birch_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:calcite_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:oak_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:calcite_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:dripstone_block_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=wall]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_timbertower_1/floor3/oak_drawer"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": "O",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_timbertower_1/floor3/oak_drawer"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=true,hinge=right,facing=west]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=true,hinge=left,facing=west]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:bookshelf"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:polished_andesite_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:hellbark_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "|",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=true,hinge=right,facing=west]"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=true,hinge=left,facing=west]"
+    },
+    {
+      "char": "'",
+      "block": "minecraft:spruce_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "<",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ">",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": ",",
+      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": ".",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "?",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "/",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "`",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "Ͱ",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "ͱ",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "Ͳ",
+      "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "ͳ",
+      "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "ʹ",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "͵",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "Ͷ",
+      "block": "minecraft:stripped_oak_log[axis=z]"
+    },
+    {
+      "char": "ͷ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͺ",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "ͻ",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    },
+    {
+      "char": "ͼ",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "ͽ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:stripped_oak_log[axis=x]"
+    }
+  ]
+}

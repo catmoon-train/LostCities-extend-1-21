@@ -1,0 +1,521 @@
+{
+  "name": "multi_policeapartment_2_top_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:white_concrete"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:magma_block"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:coal_block"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:campfire[waterlogged=false,signal_fire=false,facing=south,lit=true]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_0/floor2/oak_drawers"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_2/top/tool_box"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:gray_bed[occupied=false,part=foot,facing=east]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_0/floor2/oak_cabinet"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:gray_bed[occupied=false,part=head,facing=west]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "C",
+      "block": "minecraft:gray_bed[occupied=false,part=foot,facing=west]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "D",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_0/floor2/oak_cabinet"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:gray_bed[occupied=false,part=head,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:gray_bed[occupied=false,part=foot,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_2/top/magazine_boxes"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:redstone_wire[power=0]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_0/floor2/oak_cabinet"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_0/floor2/black_kitchen_drawer"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_2/top/iron_locker"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_2/top/iron_locker"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_2/top/iron_locker"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_2/top/magazine_boxes"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_0/floor2/oak_drawers"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "|",
+      "block": "minecraft:bookshelf"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "'",
+      "block": "minecraft:redstone_torch[lit=true]"
+    },
+    {
+      "char": "<",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ">",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_0/floor2/dark_fridge"
+    },
+    {
+      "char": ",",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ".",
+      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "?",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:multi_policeapartment_2/top/lootr_chest"
+    },
+    {
+      "char": "/",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "`",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ͱ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͱ",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "Ͳ",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "ͳ",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "ʹ",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "͵",
+      "block": "minecraft:oak_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "Ͷ",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+    },
+    {
+      "char": "ͷ",
+      "block": "minecraft:lever[powered=false,facing=east,face=wall]"
+    },
+    {
+      "char": "ͺ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͻ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͼ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͽ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "Ϳ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "΄",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "΅",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ά",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "·",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_0/floor2/black_kitchen_drawer"
+    },
+    {
+      "char": "Έ",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_0/floor2/black_kitchen_drawer"
+    },
+    {
+      "char": "Ή",
+      "block": "minecraft:brewing_stand[has_bottle_2=false,has_bottle_0=false,has_bottle_1=false]"
+    },
+    {
+      "char": "Ί",
+      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "Ό",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ύ",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policeapartment_2/top/magazine_boxes"
+    },
+    {
+      "char": "Ώ",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "ΐ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Α",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Β",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "Γ",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "Δ",
+      "block": "minecraft:daylight_detector[power=0,inverted=true]"
+    },
+    {
+      "char": "Ε",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ζ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Η",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "Θ",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+    },
+    {
+      "char": "Ι",
+      "block": "minecraft:daylight_detector[power=15,inverted=false]"
+    },
+    {
+      "char": "Κ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Λ",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "Μ",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "Ν",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    }
+  ]
+}

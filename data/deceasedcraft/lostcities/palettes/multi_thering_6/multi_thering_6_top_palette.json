@@ -1,0 +1,817 @@
+{
+  "name": "multi_thering_6_top_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:calcite"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/top/ice"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:gray_stained_glass"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/top/dark_oak_kitchen_drawer"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/top/dark_oak_kitchen_drawer"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      }
+    },
+    {
+      "char": "I",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      }
+    },
+    {
+      "char": "K",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:spruce_button[powered=false,facing=north,face=wall]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      }
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "5",
+      "blocks": [
+        {
+          "random": 22,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 106,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "&",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "*",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [],
+        "size": 3
+      }
+    },
+    {
+      "char": ")",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_thering_6/top/lootr_chest"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "]",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 4,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 6,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 7,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 9
+      }
+    },
+    {
+      "char": "|",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 4
+      }
+    },
+    {
+      "char": ";",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 5,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 6,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 9
+      }
+    },
+    {
+      "char": ":",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 4
+      }
+    },
+    {
+      "char": "'",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [],
+        "size": 9
+      }
+    },
+    {
+      "char": "<",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 3,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 4
+      }
+    },
+    {
+      "char": ">",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 1
+      }
+    },
+    {
+      "char": ",",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": ".",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "?",
+      "block": "minecraft:polished_andesite_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "/",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": "`",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "Ͱ",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "ͱ",
+      "block": "minecraft:polished_andesite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "Ͳ",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "ͳ",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": "ʹ",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "͵",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "Ͷ",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 1
+      }
+    },
+    {
+      "char": "ͷ",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "ͺ",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "ͻ",
+      "block": "minecraft:mud"
+    },
+    {
+      "char": "ͼ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͽ",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ϳ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "΄",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "΅",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ά",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "·",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Έ",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "Ή",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "Ί",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "Ό",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ύ",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "Ώ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ΐ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Α",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Β",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Γ",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "Δ",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "Ε",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "Ζ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Η",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Θ",
+      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "Ι",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Κ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Λ",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "Μ",
+      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "Ν",
+      "block": "minecraft:tuff"
+    },
+    {
+      "char": "Ξ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ο",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Π",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ρ",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "Σ",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "Τ",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "Υ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Φ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Χ",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "Ψ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ω",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=east]"
+    },
+    {
+      "char": "Ϊ",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+    },
+    {
+      "char": "Ϋ",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+    }
+  ]
+}

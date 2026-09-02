@@ -1,0 +1,75 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 5,
+  "maxfloors": 6,
+  "mincellars": 1,
+  "maxcellars": 1,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:building_office2b/building_office2b_base1_270"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_office2b/building_office2b_ground_270"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office2b/building_office2b_floor1_270"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office2b/building_office2b_floor2_270"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office2b/building_office2b_floor3_270"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office2b/building_office2b_top_270"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_office2b/building_office2b_base1_270",
+      "part": "deceasedcraft:building_office2b/building_office2bpart2_base1_270"
+    },
+    {
+      "inpart": "deceasedcraft:building_office2b/building_office2b_ground_270",
+      "part": "deceasedcraft:building_office2b/building_office2bpart2_ground_270"
+    },
+    {
+      "inpart": "deceasedcraft:building_office2b/building_office2b_floor1_270",
+      "part": "deceasedcraft:building_office2b/building_office2bpart2_floor1_270"
+    },
+    {
+      "inpart": "deceasedcraft:building_office2b/building_office2b_floor2_270",
+      "part": "deceasedcraft:building_office2b/building_office2bpart2_floor2_270"
+    },
+    {
+      "inpart": "deceasedcraft:building_office2b/building_office2b_floor3_270",
+      "part": "deceasedcraft:building_office2b/building_office2bpart2_floor3_270"
+    },
+    {
+      "inpart": "deceasedcraft:building_office2b/building_office2b_top_270",
+      "part": "deceasedcraft:building_office2b/building_office2bpart2_top_270"
+    }
+  ]
+}

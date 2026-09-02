@@ -1,0 +1,34 @@
+{
+  "name": "multi_hospital_5_base3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "d",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    }
+  ]
+}

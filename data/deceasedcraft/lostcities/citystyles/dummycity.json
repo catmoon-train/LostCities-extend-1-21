@@ -1,0 +1,112 @@
+{
+  "style": "deceasedcraft:dummycity_style",
+  "inherit": "citystyle_config",
+  "streetblocks": {
+    "border": "v",
+    "wall": "_",
+    "street": "H",
+    "streetbase": "G",
+    "streetvariant": "=",
+    "parts": {
+      "all": [
+        "deceasedcraft:streets/street_suburb_all",
+        "deceasedcraft:streets/street_suburb_all_2"
+      ],
+      "t": [
+        "deceasedcraft:streets/street_suburb_t_shape"
+      ],
+      "straight": [
+        "deceasedcraft:streets/street_suburb_straight"
+      ],
+      "bend": [
+        "deceasedcraft:streets/street_suburb_bend"
+      ],
+      "end": [
+        "deceasedcraft:streets/street_suburb_end"
+      ],
+      "none": [
+        "deceasedcraft:streets/street_suburb_none"
+      ],
+      "full": [
+        "deceasedcraft:streets/street_suburb_full"
+      ]
+    }
+  },
+  "parkblocks": {
+    "elevation": "G"
+  },
+  "corridorblocks": {
+    "roof": " ",
+    "glass": " "
+  },
+  "railblocks": {
+    "railmain": " "
+  },
+  "sphereblocks": {
+    "glass": "@",
+    "border": "=",
+    "inner": "H"
+  },
+  "selectors": {
+    "buildings": [
+      {
+        "factor": 0.0025,
+        "value": "deceasedcraft:building_restaurantsushi/building_restaurantsushi"
+      },
+      {
+        "factor": 0.0025,
+        "value": "deceasedcraft:building_restaurantsushi/building_restaurantsushi_90"
+      },
+      {
+        "factor": 0.0025,
+        "value": "deceasedcraft:building_restaurantsushi/building_restaurantsushi_180"
+      },
+      {
+        "factor": 0.0025,
+        "value": "deceasedcraft:building_restaurantsushi/building_restaurantsushi_270"
+      }
+    ],
+    "multibuildings": [
+      {
+        "factor": 0.01,
+        "value": "deceasedcraft:multi_polyclinic"
+      }
+    ],
+    "bridges": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:bridge_1"
+      }
+    ],
+    "fronts": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fronts/front_dummy"
+      }
+    ],
+    "stairs": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_1"
+      }
+    ],
+    "fountains": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fountains/fountain_6"
+      }
+    ],
+    "parks": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_1"
+      }
+    ],
+    "raildungeons": [
+      {
+        "factor": 1.0,
+        "value": "rail_dungeon1"
+      }
+    ]
+  }
+}

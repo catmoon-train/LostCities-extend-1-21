@@ -1,0 +1,218 @@
+{
+  "name": "multi_timbertower_0_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:red_nether_brick_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_timbertower_0/ground/cyan_kitchen_drawer"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:multi_timbertower_0/ground/iron_locker"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_timbertower_0/ground/iron_locker"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_timbertower_0/ground/iron_locker"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:smooth_sandstone"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:daylight_detector[power=0,inverted=false]"
+    },
+    {
+      "char": "Z",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "0",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    }
+  ]
+}

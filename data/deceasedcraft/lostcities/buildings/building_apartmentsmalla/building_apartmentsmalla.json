@@ -1,0 +1,65 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 4,
+  "maxfloors": 5,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_apartmentsmalla/building_apartmentsmalla_ground"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_apartmentsmalla/building_apartmentsmalla_floor1"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_apartmentsmalla/building_apartmentsmalla_floor2"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_apartmentsmalla/building_apartmentsmalla_floor3"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_apartmentsmalla/building_apartmentsmalla_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_apartmentsmalla/building_apartmentsmalla_ground",
+      "part": "deceasedcraft:building_apartmentsmalla/building_apartmentsmallapart2_ground"
+    },
+    {
+      "inpart": "deceasedcraft:building_apartmentsmalla/building_apartmentsmalla_floor1",
+      "part": "deceasedcraft:building_apartmentsmalla/building_apartmentsmallapart2_floor1"
+    },
+    {
+      "inpart": "deceasedcraft:building_apartmentsmalla/building_apartmentsmalla_floor2",
+      "part": "deceasedcraft:building_apartmentsmalla/building_apartmentsmallapart2_floor2"
+    },
+    {
+      "inpart": "deceasedcraft:building_apartmentsmalla/building_apartmentsmalla_floor3",
+      "part": "deceasedcraft:building_apartmentsmalla/building_apartmentsmallapart2_floor3"
+    },
+    {
+      "inpart": "deceasedcraft:building_apartmentsmalla/building_apartmentsmalla_top",
+      "part": "deceasedcraft:building_apartmentsmalla/building_apartmentsmallapart2_top"
+    }
+  ]
+}

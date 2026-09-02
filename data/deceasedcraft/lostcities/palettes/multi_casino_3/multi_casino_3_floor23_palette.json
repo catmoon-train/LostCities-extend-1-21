@@ -1,0 +1,81 @@
+{
+  "name": "multi_casino_3_floor23_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:brown_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:end_rod[facing=down]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "fastpaintings:painting",
+        "variant": "texelspaintings:rolling_sunset"
+      }
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:brown_stained_glass"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=ceiling]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:oak_button[powered=false,facing=west,face=ceiling]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=ceiling]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:calcite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    }
+  ]
+}

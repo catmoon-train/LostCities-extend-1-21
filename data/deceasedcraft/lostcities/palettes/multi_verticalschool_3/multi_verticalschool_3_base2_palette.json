@@ -1,0 +1,131 @@
+{
+  "name": "multi_verticalschool_3_base2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:gravel"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      }
+    },
+    {
+      "char": "h",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_verticalschool_8/base2/lootr_chest"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/base2/cyan_kitchen_drawer"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/base2/safe"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:smooth_sandstone"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=wall]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    }
+  ]
+}

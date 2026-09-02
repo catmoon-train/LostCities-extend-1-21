@@ -1,0 +1,221 @@
+{
+  "name": "multi_taigaresidence_4_floor3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=south,shape=outer_right]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "n",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=north,shape=outer_left]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_taigaresidence_0/floor3/stripped_oak_bedside_cabinet"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:smooth_sandstone"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:black_stained_glass"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:oak_button[powered=false,facing=west,face=wall]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_taigaresidence_0/floor3/stripped_oak_bedside_cabinet"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      }
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      }
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "1",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]"
+    }
+  ]
+}

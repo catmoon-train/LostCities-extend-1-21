@@ -1,0 +1,359 @@
+{
+  "name": "building_hotela_base1_palette_180",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hotela/base2/spruce_crate"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hotela/base2/spruce_storage_cabinet"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:building_hotela/base2/lootr_chest"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:lantern[waterlogged=false,hanging=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:spruce_planks"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hotela/base2/spruce_storage_cabinet"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:bricks"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:bottle_mojang_noir",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:noir_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hotela/base2/dark_fridge"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:bottle_mojang_noir",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [],
+        "size": 3
+      }
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:brewing_stand[has_bottle_2=false,has_bottle_0=false,has_bottle_1=false]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    },
+    {
+      "char": "V",
+      "blocks": [
+        {
+          "random": 22,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 106,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "W",
+      "blocks": [
+        {
+          "random": 22,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 106,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:bottle_mojang_noir",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:lilitu_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 1
+      }
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:noir_wine",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "vinery:noir_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "0",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:polished_andesite"
+    }
+  ]
+}

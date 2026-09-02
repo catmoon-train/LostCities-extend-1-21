@@ -1,0 +1,283 @@
+{
+  "name": "multi_hospitaldamaged_4_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:observer[powered=false,facing=south]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:redstone_wire[power=0]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,facing=south]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,facing=south]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "q",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:calcite_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:calcite_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:contraption_controls"
+      }
+    },
+    {
+      "char": "y",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=wall]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:black_stained_glass"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospitaldamaged_2/ground/market_shelves"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "6",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "7",
+      "block": "minecraft:polished_andesite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:polished_andesite_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    }
+  ]
+}

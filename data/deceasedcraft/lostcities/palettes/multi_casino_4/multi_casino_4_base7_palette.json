@@ -1,0 +1,106 @@
+{
+  "name": "multi_casino_4_base7_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:quartz_pillar[axis=y]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:note_block[powered=false,instrument=harp,note=1]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:note_block[powered=false,instrument=bass,note=0]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "r",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "s",
+      "block": "minecraft:end_rod[facing=down]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    }
+  ]
+}

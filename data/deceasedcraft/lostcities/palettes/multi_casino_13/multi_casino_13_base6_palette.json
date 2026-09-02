@@ -1,0 +1,203 @@
+{
+  "name": "multi_casino_13_base6_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:blue_wool"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_diorite"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:quartz_pillar[axis=y]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_8/base6/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=wall]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:oak_button[powered=false,facing=west,face=wall]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=wall]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=wall]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:daylight_detector[power=3,inverted=false]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:simple_kinetic"
+      }
+    },
+    {
+      "char": "M",
+      "block": "minecraft:daylight_detector[power=1,inverted=false]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_8/base6/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_8/base6/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:heavy_weighted_pressure_plate[power=0]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:bottle_mojang_noir",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "vinery:bottle_mojang_noir",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "S",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    }
+  ]
+}

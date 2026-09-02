@@ -1,0 +1,71 @@
+{
+  "name": "multi_verticalschool_16_floor11_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:white_stained_glass"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_verticalschool_16/floor11/lootr_chest"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:ender_chest[waterlogged=false,facing=east]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:white_concrete"
+    },
+    {
+      "char": "j",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "k",
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    }
+  ]
+}

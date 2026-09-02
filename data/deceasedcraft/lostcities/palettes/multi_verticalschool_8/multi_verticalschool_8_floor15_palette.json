@@ -1,0 +1,324 @@
+{
+  "name": "multi_verticalschool_8_floor15_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "f",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor15/oak_crate"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:ladder[waterlogged=false,facing=north]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor15/lootr_chest"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:dead_bush"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor15/oak_kitchen_drawer"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor15/oak_kitchen_drawer"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:stripped_oak_log[axis=y]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:smooth_sandstone"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor15/light_fridge"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:azalea_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor15/lootr_chest"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:flowering_azalea_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "|",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "'",
+      "block": "minecraft:air"
+    }
+  ]
+}

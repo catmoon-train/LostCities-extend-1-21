@@ -1,0 +1,449 @@
+{
+  "name": "multi_verticalschool_6_floor23_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:flowering_azalea_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:jacaranda_leaves"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:cherry_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:mud"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:snowblossom_leaves"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:jungle_log[axis=y]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      },
+      "loot": "deceasedcraft:multi_verticalschool_6/floor23/stripped_jungle_bedside_cabinet"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      },
+      "loot": "deceasedcraft:multi_verticalschool_6/floor23/stripped_jungle_bedside_cabinet"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_verticalschool_6/floor23/stripped_jungle_bedside_cabinet"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:dandelion",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:poppy",
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "3",
+      "block": "minecraft:potted_white_tulip"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:potted_red_tulip"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:potted_pink_tulip"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:potted_orange_tulip"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:cornflower",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:allium",
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:wither_rose",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:oxeye_daisy",
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:lily_of_the_valley",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:blue_orchid",
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "#",
+      "block": "minecraft:jungle_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "&",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "*",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:warped_fungus",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:warped_fungus",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": ")",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:crimson_fungus",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:warped_fungus",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "+",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:crimson_fungus",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:crimson_fungus",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "-",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:air"
+    }
+  ]
+}

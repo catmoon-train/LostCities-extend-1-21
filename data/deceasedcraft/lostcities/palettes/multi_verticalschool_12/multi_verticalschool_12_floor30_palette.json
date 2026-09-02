@@ -1,0 +1,272 @@
+{
+  "name": "multi_verticalschool_12_floor30_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "k",
+      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_7/floor30/iron_locker"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,facing=east]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_7/floor30/iron_locker"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_6/floor30/medical_storage"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_verticalschool_7/floor30/iron_locker"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_6/floor30/medical_storage"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:jungle_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "X",
+      "block": "minecraft:polished_andesite_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:jungle_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:polished_blackstone"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    }
+  ]
+}

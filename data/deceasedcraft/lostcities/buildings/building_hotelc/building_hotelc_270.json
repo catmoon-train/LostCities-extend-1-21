@@ -1,0 +1,90 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 5,
+  "maxfloors": 6,
+  "mincellars": 2,
+  "maxcellars": 2,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:building_hotelc/building_hotelc_base2_270",
+      "floor": -2
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:building_hotelc/building_hotelc_base1_270",
+      "floor": -1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_hotelc/building_hotelc_ground_270"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_hotelc/building_hotelc_floor1_270",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_hotelc/building_hotelc_floor2_270",
+      "range": "2,5"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_hotelc/building_hotelc_floor3_270",
+      "range": "2,5"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_hotelc/building_hotelc_top_270"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_hotelc/building_hotelc_base2_270",
+      "part": "deceasedcraft:building_hotelc/building_hotelcpart2_base2_270"
+    },
+    {
+      "inpart": "deceasedcraft:building_hotelc/building_hotelc_base1_270",
+      "part": "deceasedcraft:building_hotelc/building_hotelcpart2_base1_270"
+    },
+    {
+      "inpart": "deceasedcraft:building_hotelc/building_hotelc_ground_270",
+      "part": "deceasedcraft:building_hotelc/building_hotelcpart2_ground_270"
+    },
+    {
+      "inpart": "deceasedcraft:building_hotelc/building_hotelc_floor1_270",
+      "part": "deceasedcraft:building_hotelc/building_hotelcpart2_floor1_270"
+    },
+    {
+      "inpart": "deceasedcraft:building_hotelc/building_hotelc_floor2_270",
+      "part": "deceasedcraft:building_hotelc/building_hotelcpart2_floor2_270"
+    },
+    {
+      "inpart": "deceasedcraft:building_hotelc/building_hotelc_floor3_270",
+      "part": "deceasedcraft:building_hotelc/building_hotelcpart2_floor3_270"
+    },
+    {
+      "inpart": "deceasedcraft:building_hotelc/building_hotelc_top_270",
+      "part": "deceasedcraft:building_hotelc/building_hotelcpart2_top_270"
+    }
+  ]
+}

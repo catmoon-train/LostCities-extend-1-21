@@ -1,0 +1,136 @@
+{
+  "name": "multi_filmworkstower_3_base2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:white_concrete"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:lime_concrete"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:end_stone"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:rail[waterlogged=false,shape=north_south]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:ladder[facing=south]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:ladder[facing=north]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_filmworkstower_3/base2/dark_oak_crate"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_filmworkstower_3/base2/dark_oak_crate"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:hopper[enabled=true,facing=down]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_filmworkstower_3/base2/dark_oak_crate"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:ender_chest[waterlogged=false,facing=east]"
+    }
+  ]
+}

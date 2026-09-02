@@ -1,0 +1,114 @@
+{
+  "name": "multi_filmworkstower_6_base3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:lime_concrete"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:water[level=0]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:oak_log[axis=y]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:oak_log[axis=y]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:ladder[waterlogged=false,facing=north]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:gearbox"
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:magma_block"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:cobblestone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:cobblestone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:simple_kinetic"
+      }
+    },
+    {
+      "char": "w",
+      "block": "minecraft:furnace[facing=east,lit=false]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:oak_log[axis=x]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:simple_kinetic"
+      }
+    }
+  ]
+}

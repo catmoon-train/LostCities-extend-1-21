@@ -1,0 +1,130 @@
+{
+  "name": "multi_campsite1_0_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:sandstone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dandelion"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:birch_sapling[stage=1]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:magic_planks"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:magic_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:white_carpet"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_campsite1_0/floor1/lootr_chest"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:magic_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:magic_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:palm_planks"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:oxeye_daisy"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:palm_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:brown_carpet"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:palm_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:palm_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "v",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:structure_void"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:magic_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:magic_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "z",
+      "block": "minecraft:magic_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:magic_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:palm_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:palm_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:palm_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:palm_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    }
+  ]
+}

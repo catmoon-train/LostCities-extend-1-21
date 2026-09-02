@@ -1,0 +1,95 @@
+{
+  "name": "multi_filmworkstower_0_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": []
+      }
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+    }
+  ]
+}

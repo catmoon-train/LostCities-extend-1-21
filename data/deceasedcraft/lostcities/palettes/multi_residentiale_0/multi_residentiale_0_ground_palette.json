@@ -1,0 +1,418 @@
+{
+  "name": "multi_residentiale_0_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stripped_birch_log[axis=z]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:bricks"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=south,shape=outer_left]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=south,shape=outer_right]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:smithing_table"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:crafting_table"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:calcite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_residentiale_0/ground/dark_oak_drawer"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_residentiale_0/ground/dark_oak_drawer"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:calcite_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,facing=west]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_residentiale_0/ground/oak_crate"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:red_carpet"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:nether_wart_block"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "X",
+      "block": "minecraft:shroomlight"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:lantern[waterlogged=false,hanging=false]"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_residentiale_0/ground/light_fridge"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=east,shape=inner_left]"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "|",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=inner_right]"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "'",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "<",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": ">",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      },
+      "loot": "deceasedcraft:multi_residentiale_0/ground/stripped_dark_oak_bedside_cabinet"
+    },
+    {
+      "char": ",",
+      "block": "minecraft:white_bed[occupied=false,part=head,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": ".",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "?",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_residentiale_0/ground/stripped_dark_oak_bedside_cabinet"
+    },
+    {
+      "char": "/",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "`",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ͱ",
+      "block": "minecraft:white_bed[occupied=false,part=foot,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "ͱ",
+      "block": "minecraft:white_carpet"
+    },
+    {
+      "char": "Ͳ",
+      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+    },
+    {
+      "char": "ͳ",
+      "block": "minecraft:dark_oak_log[axis=x]"
+    },
+    {
+      "char": "ʹ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "͵",
+      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+    },
+    {
+      "char": "Ͷ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͷ",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "ͺ",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_residentiale_0/ground/oak_crate"
+    },
+    {
+      "char": "ͻ",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "ͼ",
+      "block": "minecraft:cauldron"
+    },
+    {
+      "char": "ͽ",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_residentiale_0/ground/oak_crate"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:dark_oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "Ϳ",
+      "block": "minecraft:soul_sand"
+    },
+    {
+      "char": "΄",
+      "block": "minecraft:air"
+    }
+  ]
+}

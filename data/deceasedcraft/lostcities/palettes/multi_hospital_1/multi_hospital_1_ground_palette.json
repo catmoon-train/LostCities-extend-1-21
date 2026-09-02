@@ -1,0 +1,222 @@
+{
+  "name": "multi_hospital_1_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:birch_planks"
+    },
+    {
+      "char": "e",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "f",
+      "block": "minecraft:oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:calcite_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospital_1/ground/market_shelves"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospital_1/ground/market_shelves"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=true,hinge=right,facing=south]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospital_1/ground/porpsi_vending_machine"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospital_1/ground/coke_vending_machine"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospital_1/ground/market_shelves"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospital_1/ground/market_shelves"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=true,hinge=right,facing=south]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:polished_andesite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospital_1/ground/market_shelves"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_hospital_1/ground/market_shelves"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:smooth_stone"
+    }
+  ]
+}

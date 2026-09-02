@@ -1,0 +1,63 @@
+{
+  "name": "multi_oasiscondo_8_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:command_block[facing=west,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnCarBikeOrClassic"
+      }
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:command_block[facing=up,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnCarBikeOrClassic"
+      }
+    },
+    {
+      "char": "j",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    }
+  ]
+}

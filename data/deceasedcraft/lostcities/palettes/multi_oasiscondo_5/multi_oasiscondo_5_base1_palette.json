@@ -1,0 +1,223 @@
+{
+  "name": "multi_oasiscondo_5_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stripped_spruce_log[axis=y]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=west,shape=inner_right]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:command_block[facing=north,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnCarBikeOrClassic"
+      }
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "R",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "S",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:polished_andesite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:glowstone"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:mud"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+    }
+  ]
+}

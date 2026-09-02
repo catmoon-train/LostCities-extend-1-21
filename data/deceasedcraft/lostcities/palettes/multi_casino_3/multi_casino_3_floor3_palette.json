@@ -1,0 +1,518 @@
+{
+  "name": "multi_casino_3_floor3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:sponge"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 0,
+          "Z": 2,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 0,
+          "Z": 2,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_master"
+      }
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 0,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 0,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 1,
+          "Z": 2,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 1,
+          "Z": 2,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 1,
+          "Z": 2,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 1,
+          "Z": 1,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 1,
+          "Z": 1,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 1,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 1,
+          "Z": 0,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 1,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 2,
+          "Z": 2,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 2,
+          "Z": 2,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 2,
+          "Z": 2,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 2,
+          "Z": 1,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 2,
+          "Z": 1,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 2,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 2,
+          "Z": 0,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 2,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:fluid_pipe"
+      }
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:fluid_pipe"
+      }
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 3,
+          "Z": 2,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 3,
+          "Z": 2,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 3,
+          "Z": 2,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 3,
+          "Z": 1,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 3,
+          "Z": 1,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 3,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 3,
+          "Z": 0,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 3,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 4,
+          "Z": 2,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 4,
+          "Z": 2,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 4,
+          "Z": 2,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 4,
+          "Z": 1,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 4,
+          "Z": 1,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 4,
+          "Z": 1,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 4,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 4,
+          "Z": 0,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 4,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    }
+  ]
+}

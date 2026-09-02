@@ -1,0 +1,487 @@
+{
+  "name": "multi_thering_8_floor2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:calcite"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:birch_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:gray_stained_glass"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/floor2/birch_kitchen_storage_cabinet"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/floor2/birch_kitchen_storage_cabinet"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/floor2/spruce_drawer"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:gray_bed[occupied=false,part=foot,facing=south]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "t",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/floor2/spruce_drawer"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:gray_bed[occupied=false,part=head,facing=south]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/floor2/spruce_drawer"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:birch_button[powered=false,facing=south,face=wall]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/floor2/spruce_drawer"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/floor2/spruce_drawer"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/floor2/birch_kitchen_storage_cabinet"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:gray_bed[occupied=false,part=head,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/floor2/spruce_drawer"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/floor2/birch_kitchen_storage_cabinet"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:gray_bed[occupied=false,part=foot,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "5",
+      "block": "minecraft:gray_bed[occupied=false,part=foot,facing=east]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "6",
+      "block": "minecraft:gray_bed[occupied=false,part=head,facing=east]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_thering_6/floor2/spruce_drawer"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "|",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "'",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "<",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": ">",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ",",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ".",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "?",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "/",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "`",
+      "block": "minecraft:birch_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "Ͱ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͱ",
+      "block": "minecraft:polished_andesite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "Ͳ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͳ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ʹ",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "͵",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "Ͷ",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "ͷ",
+      "block": "minecraft:polished_andesite_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "ͺ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͻ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͼ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͽ",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "variant": "minecraft:bomb"
+      }
+    },
+    {
+      "char": ";",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ϳ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "΄",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "΅",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ά",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "·",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Έ",
+      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=north]"
+    },
+    {
+      "char": "Ή",
+      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "Ί",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "Ό",
+      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=east]"
+    },
+    {
+      "char": "Ύ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ώ",
+      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "ΐ",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:multi_thering_6/floor2/lootr_chest"
+    },
+    {
+      "char": "Α",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "Β",
+      "block": "minecraft:cauldron"
+    },
+    {
+      "char": "Γ",
+      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "Δ",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    }
+  ]
+}

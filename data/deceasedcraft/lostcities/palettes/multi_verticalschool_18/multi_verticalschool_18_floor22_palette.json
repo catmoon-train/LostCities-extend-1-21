@@ -1,0 +1,51 @@
+{
+  "name": "multi_verticalschool_18_floor22_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "b",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "c",
+      "block": "minecraft:smooth_red_sandstone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:smooth_red_sandstone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:bookshelf"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_1/floor22/oak_drawer"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:polished_andesite"
+    }
+  ]
+}

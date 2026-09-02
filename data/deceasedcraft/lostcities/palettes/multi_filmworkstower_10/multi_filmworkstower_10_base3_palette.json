@@ -1,0 +1,319 @@
+{
+  "name": "multi_filmworkstower_10_base3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:oak_log[axis=y]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:water[level=0]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:coarse_dirt"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:magma_block"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:oak_log[axis=y]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:cobblestone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:water_cauldron[level=3]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:hand_crank"
+      }
+    },
+    {
+      "char": "r",
+      "block": "minecraft:cobblestone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:lectern[powered=false,has_book=false,facing=east]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:oak_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:oak_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:oak_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=east]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:fir_planks"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:cobbled_deepslate"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:cobbled_deepslate_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:hay_block[axis=y]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:tnt[unstable=false]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:hand_crank"
+      }
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:grindstone[facing=west,face=floor]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:cobblestone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:soul_campfire[waterlogged=false,signal_fire=true,facing=south,lit=true]"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:oak_log[axis=x]"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:cobbled_deepslate_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:oak_log[axis=z]"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:oak_log[axis=x]"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "|",
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=east]"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:oak_log[axis=z]"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "'",
+      "block": "minecraft:cobbled_deepslate_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "<",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    }
+  ]
+}

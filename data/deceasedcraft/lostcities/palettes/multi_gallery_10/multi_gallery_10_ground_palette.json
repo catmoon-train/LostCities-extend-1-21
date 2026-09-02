@@ -1,0 +1,73 @@
+{
+  "name": "multi_gallery_10_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=true]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_brick_stairs[waterlogged=true,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:glowstone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone_brick_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_brick_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stone_brick_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:stone_brick_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:calcite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:calcite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:calcite_slab[type=top,waterlogged=false]"
+    }
+  ]
+}

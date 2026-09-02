@@ -1,0 +1,234 @@
+{
+  "name": "multi_filmworkstower_4_base2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:white_concrete"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:lime_concrete"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stripped_dark_oak_log[axis=y]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_filmworkstower_4/base2/dark_oak_kitchen_drawer"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [],
+        "size": 4
+      }
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:clark_wine",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "vinery:noir_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:apple_cider",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:chenet_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "N",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "Q",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "R",
+      "block": "minecraft:dark_oak_button[powered=false,facing=north,face=ceiling]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:calcite_slab[type=bottom,waterlogged=false]"
+    }
+  ]
+}

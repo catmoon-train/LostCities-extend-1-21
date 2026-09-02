@@ -1,0 +1,180 @@
+{
+  "name": "multi_verticalschool_8_floor20_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:smooth_sandstone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor17/lootr_chest"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:note_block[powered=false,instrument=harp,note=0]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "l",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:oak_log[axis=z]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor17/oak_crate"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:lectern[powered=false,has_book=true,facing=south]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor17/iron_locker"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor17/iron_locker"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor17/iron_locker"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor17/lootr_chest"
+    }
+  ]
+}

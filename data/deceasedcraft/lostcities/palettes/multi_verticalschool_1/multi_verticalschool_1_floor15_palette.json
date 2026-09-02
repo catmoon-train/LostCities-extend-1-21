@@ -1,0 +1,91 @@
+{
+  "name": "multi_verticalschool_1_floor15_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:jungle_fence[waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "blocks": [
+        {
+          "random": 74,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 12,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "d",
+      "blocks": [
+        {
+          "random": 74,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 12,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "e",
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:jungle_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:white_stained_glass"
+    }
+  ]
+}

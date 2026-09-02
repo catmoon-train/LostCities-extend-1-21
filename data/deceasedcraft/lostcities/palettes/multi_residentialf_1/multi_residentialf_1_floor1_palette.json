@@ -1,0 +1,78 @@
+{
+  "name": "multi_residentialf_1_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:potted_warped_fungus"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_residentialf_1/floor1/safe"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_residentialf_1/floor1/safe"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "p",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    }
+  ]
+}

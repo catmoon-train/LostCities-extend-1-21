@@ -1,0 +1,51 @@
+{
+  "name": "multi_farmhouse1_2_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dark_oak_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:crimson_fence[waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:dark_oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:zombie_head[rotation=4]",
+      "tag": {
+        "id": "minecraft:skull"
+      }
+    },
+    {
+      "char": "j",
+      "block": "minecraft:zombie_head[rotation=8]",
+      "tag": {
+        "id": "minecraft:skull"
+      }
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "name": "multi_policestation_0_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=top,facing=west,shape=inner_left]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=top,facing=east,shape=inner_right]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:oak_button[powered=false,facing=west,face=wall]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:coal_block"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:observer[powered=false,facing=south]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=wall]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:polished_blackstone_button[powered=false,facing=west,face=wall]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:polished_diorite"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "D",
+      "block": "minecraft:polished_blackstone_button[powered=false,facing=east,face=wall]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_policestation_0/ground/iron_locker"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "L",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "M",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:polished_blackstone_pressure_plate[powered=false]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:polished_blackstone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:white_concrete"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_policestation_0/ground/iron_locker"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:polished_diorite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_policestation_0/ground/iron_locker"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "X",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:daylight_detector[power=7,inverted=true]"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air"
+    }
+  ]
+}

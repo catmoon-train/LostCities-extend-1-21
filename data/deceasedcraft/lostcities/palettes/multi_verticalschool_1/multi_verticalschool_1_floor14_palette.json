@@ -1,0 +1,84 @@
+{
+  "name": "multi_verticalschool_1_floor14_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:polished_andesite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_verticalschool_1/floor13/oak_crate"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_1/floor13/oak_crate"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:polished_andesite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_verticalschool_1/floor13/oak_crate"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:grass_block[snowy=false]"
+    }
+  ]
+}

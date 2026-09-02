@@ -1,0 +1,162 @@
+{
+  "name": "multi_flatapartment_0_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:netherrack"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:nether_bricks"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:magma_block"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:quartz_pillar[axis=y]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:crimson_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:crimson_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:fire[up=false,age=0]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:crimson_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:lava[level=0]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:command_block[facing=north,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnCarBikeOrClassic"
+      }
+    },
+    {
+      "char": "J",
+      "block": "minecraft:stone_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    }
+  ]
+}

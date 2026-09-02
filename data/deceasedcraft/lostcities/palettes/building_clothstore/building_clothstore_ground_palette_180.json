@@ -1,0 +1,368 @@
+{
+  "name": "building_clothstore_ground_palette_180",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:gray_wool"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_clothstore/ground/dark_oak_drawer"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_clothstore/ground/dark_oak_drawer"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:building_clothstore/ground/lootr_chest"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "|",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "'",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "<",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": ">",
+      "block": "minecraft:calcite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": ",",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+    },
+    {
+      "char": ".",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=south]"
+    },
+    {
+      "char": "?",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "/",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "`",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "Ͱ",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "ͱ",
+      "block": "minecraft:glass"
+    }
+  ]
+}

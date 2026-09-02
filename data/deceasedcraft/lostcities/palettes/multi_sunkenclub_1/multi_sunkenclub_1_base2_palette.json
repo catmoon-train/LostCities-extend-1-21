@@ -1,0 +1,149 @@
+{
+  "name": "multi_sunkenclub_1_base2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:polished_andesite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_sunkenclub_1/base2/spruce_cabinet"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:polished_andesite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:light_gray_bed[occupied=false,part=head,facing=west]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:light_gray_bed[occupied=false,part=foot,facing=west]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "p",
+      "block": "minecraft:moss_carpet"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:large_fern[half=lower]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:peony[half=lower]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:multi_sunkenclub_1/base2/spruce_cabinet"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:large_fern[half=upper]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:peony[half=upper]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:polished_andesite_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:polished_andesite_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+    }
+  ]
+}

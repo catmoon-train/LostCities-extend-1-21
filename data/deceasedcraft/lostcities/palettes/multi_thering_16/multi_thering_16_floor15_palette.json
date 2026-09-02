@@ -1,0 +1,91 @@
+{
+  "name": "multi_thering_16_floor15_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:calcite"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:gray_stained_glass"
+    },
+    {
+      "char": "d",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "e",
+      "block": "minecraft:tuff"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+    }
+  ]
+}

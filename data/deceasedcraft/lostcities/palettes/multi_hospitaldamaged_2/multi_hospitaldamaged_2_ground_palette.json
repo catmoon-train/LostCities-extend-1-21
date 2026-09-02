@@ -1,0 +1,251 @@
+{
+  "name": "multi_hospitaldamaged_2_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=true]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:red_terracotta"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:birch_planks"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:coarse_dirt"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:fir_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:fir_planks"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dead_planks"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:dead_bush"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:command_block[facing=up,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnCarBikeOrClassic"
+      }
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:multi_hospitaldamaged_2/ground/market_shelves"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:calcite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=wall]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:calcite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=wall]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:calcite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:polished_andesite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:calcite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:polished_andesite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=ceiling]"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    }
+  ]
+}

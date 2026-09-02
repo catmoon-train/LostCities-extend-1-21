@@ -1,0 +1,133 @@
+{
+  "name": "building_residentialc_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:bricks"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_residentialc/ground/stripped_dark_oak_cabinet"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:building_residentialc/floor1/lootr_chest"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=south,shape=inner_left]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=south,shape=inner_right]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:hand_crank"
+      }
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:mechanical_press"
+      }
+    },
+    {
+      "char": "B",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=east,shape=inner_right]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=inner_left]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    }
+  ]
+}

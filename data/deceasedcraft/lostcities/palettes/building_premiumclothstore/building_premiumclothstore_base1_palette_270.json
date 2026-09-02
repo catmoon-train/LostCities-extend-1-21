@@ -1,0 +1,112 @@
+{
+  "name": "building_premiumclothstore_base1_palette_270",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:calcite_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:building_premiumclothstore/base1/lootr_chest"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_premiumclothstore/base1/dark_oak_cabinet"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_premiumclothstore/base1/dark_oak_cabinet"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:calcite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:chiseled_quartz_block"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    }
+  ]
+}

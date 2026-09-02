@@ -1,0 +1,189 @@
+{
+  "name": "building_policeoffice1_top_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:white_concrete"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:oak_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:gold_block"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:fluid_pipe"
+      }
+    },
+    {
+      "char": "S",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "T",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "U",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    }
+  ]
+}

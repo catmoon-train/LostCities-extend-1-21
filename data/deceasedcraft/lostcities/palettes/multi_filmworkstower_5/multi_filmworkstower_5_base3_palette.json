@@ -1,0 +1,113 @@
+{
+  "name": "multi_filmworkstower_5_base3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:lime_concrete"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:oak_log[axis=y]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:mud"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:crafting_table"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:yellow_bed[occupied=false,part=foot,facing=east]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "n",
+      "block": "minecraft:yellow_bed[occupied=false,part=head,facing=east]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:white_bed[occupied=false,part=head,facing=west]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "p",
+      "block": "minecraft:white_bed[occupied=false,part=foot,facing=west]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "q",
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:oak_log[axis=x]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    }
+  ]
+}

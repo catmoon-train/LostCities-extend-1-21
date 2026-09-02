@@ -1,0 +1,337 @@
+{
+  "name": "multi_oasiscondo_2_top_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:spruce_planks"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:tuff"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stripped_oak_log[axis=y]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:solaris_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "x",
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 0,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 0,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 1,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 1,
+          "Z": 0,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 1,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 2,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 2,
+          "Z": 0,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 2,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 3,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 3,
+          "Z": 0,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 3,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 4,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 4,
+          "Z": 0,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "immersiveengineering:tank_dummy",
+        "posInMB": {
+          "Y": 4,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    }
+  ]
+}

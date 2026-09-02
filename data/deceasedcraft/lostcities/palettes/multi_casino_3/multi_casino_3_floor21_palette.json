@@ -1,0 +1,125 @@
+{
+  "name": "multi_casino_3_floor21_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:brown_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:light_gray_wool"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:brown_stained_glass"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_2/floor18/dark_oak_drawer"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "embellishcraft:custom_bed"
+      }
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "embellishcraft:custom_bed"
+      }
+    },
+    {
+      "char": "k",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_casino_2/floor18/lootr_chest"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:jukebox[has_record=false]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:calcite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    }
+  ]
+}

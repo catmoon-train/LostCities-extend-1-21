@@ -1,0 +1,205 @@
+{
+  "name": "multi_officethefirst_0_base4_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_officethefirst_0/base4/oak_drawer"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:stone_stairs[waterlogged=false,facing=east]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:oak_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_officethefirst_0/base4/oak_drawer"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_officethefirst_0/base4/tool_box"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:command_block[facing=up,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnBlakeNPC"
+      }
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_officethefirst_0/base4/tool_box"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_officethefirst_0/base4/iron_locker"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:bookshelf"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "F",
+      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_officethefirst_0/base4/ironcrate"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:chiseled_quartz_block"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:stone_stairs[waterlogged=false,facing=west]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "U",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_officethefirst_0/base4/ironcrate"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:polished_andesite"
+    }
+  ]
+}

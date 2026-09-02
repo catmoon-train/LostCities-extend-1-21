@@ -1,0 +1,94 @@
+{
+  "name": "multi_thering_3_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:calcite"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      }
+    },
+    {
+      "char": "f",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:note_block[powered=false,instrument=bass,note=0]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "m",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    }
+  ]
+}

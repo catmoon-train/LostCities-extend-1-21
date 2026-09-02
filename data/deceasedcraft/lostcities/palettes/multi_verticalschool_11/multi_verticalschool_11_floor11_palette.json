@@ -1,0 +1,86 @@
+{
+  "name": "multi_verticalschool_11_floor11_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:white_stained_glass"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:potted_warped_fungus"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:potted_crimson_fungus"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "variant": "darkpaintings:seavibe"
+      }
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:white_concrete"
+    },
+    {
+      "char": "m",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "n",
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "name": "multi_verticalschool_18_base2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:gravel"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=wall]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:command_block[facing=north,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnCarBikeOrClassic"
+      }
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=wall]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:palm_planks"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:ladder[waterlogged=false,facing=west]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:observer[powered=false,facing=east]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:multi_verticalschool_15/base2/lootr_chest"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    }
+  ]
+}

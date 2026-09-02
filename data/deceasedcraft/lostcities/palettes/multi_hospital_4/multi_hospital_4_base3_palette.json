@@ -1,0 +1,46 @@
+{
+  "name": "multi_hospital_4_base3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:repeater[powered=false,facing=north,locked=false,delay=1]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:obsidian"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:piston[extended=false,facing=up]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:repeater[powered=false,facing=east,locked=false,delay=1]"
+    },
+    {
+      "char": "h",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "stair_deadzone_1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:mossy_stone_bricks"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cracked_stone_bricks"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:mossy_stone_brick_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_brick_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:redstone_torch[lit=true]"
+    }
+  ]
+}

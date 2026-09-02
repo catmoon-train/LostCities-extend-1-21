@@ -1,0 +1,34 @@
+{
+  "name": "building_apartmentsmalldpart2_floor1_palette_270",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "e",
+      "blocks": [
+        {
+          "random": 22,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 106,
+          "block": "minecraft:air"
+        }
+      ]
+    }
+  ]
+}

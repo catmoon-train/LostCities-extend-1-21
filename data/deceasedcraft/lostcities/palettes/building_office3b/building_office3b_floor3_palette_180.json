@@ -1,0 +1,203 @@
+{
+  "name": "building_office3b_floor3_palette_180",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:quartz_pillar[axis=y]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:light_gray_stained_glass"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stripped_birch_log[axis=z]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stripped_birch_log[axis=x]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:birch_planks"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:birch_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_office3b/floor3/oak_crate"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "fastpaintings:painting",
+        "variant": "darkpaintings:oceanic_view"
+      }
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:building_office3b/floor3/lootr_chest"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    }
+  ]
+}

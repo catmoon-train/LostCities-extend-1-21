@@ -1,0 +1,399 @@
+{
+  "name": "building_office3c_ground_palette_180",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:bricks"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:gray_terracotta"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:dark_oak_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dark_oak_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:building_office3c/ground/lootr_chest"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=true,hinge=left,facing=west]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:dark_oak_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=true,hinge=right,facing=west]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [],
+        "size": 6
+      }
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_office3c/ground/dark_oak_kitchen_drawer"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=true,hinge=left,facing=west]"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=true,hinge=right,facing=west]"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "bakery:croissant",
+            "Count": 1
+          },
+          {
+            "Slot": 4,
+            "id": "bakery:croissant",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "bakery:sandwich",
+            "Count": 1
+          },
+          {
+            "Slot": 4,
+            "id": "bakery:sandwich",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [
+          {
+            "Slot": 3,
+            "id": "bakery:vegetable_sandwich",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_office3c/ground/dark_fridge"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "{",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "}",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "|",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ":",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "'",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "<",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ">",
+      "block": "minecraft:polished_andesite"
+    }
+  ]
+}

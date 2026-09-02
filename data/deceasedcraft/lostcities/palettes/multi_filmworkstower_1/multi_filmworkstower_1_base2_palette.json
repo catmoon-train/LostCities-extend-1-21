@@ -1,0 +1,259 @@
+{
+  "name": "multi_filmworkstower_1_base2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:white_concrete"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:lime_concrete"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:detector_rail[waterlogged=false,powered=false,shape=north_south]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:rail[waterlogged=false,shape=north_south]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:light_blue_concrete"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_filmworkstower_1/base2/lootr_chest"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_filmworkstower_1/base2/dark_oak_drawer"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:oak_log[axis=y]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:redwood_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:redwood_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "createbigcannons:cannon",
+        "Facing": "south"
+      }
+    },
+    {
+      "char": "w",
+      "block": "minecraft:coal_block"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "createdieselgenerators:diesel_engine_tile_entity",
+        "Upgrade": "createdieselgenerators:none"
+      }
+    },
+    {
+      "char": "y",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=wall]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:redwood_stairs[waterlogged=false,half=top,facing=north,shape=inner_right]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:jukebox[has_record=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:redwood_stairs[waterlogged=false,half=top,facing=north,shape=inner_left]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:redwood_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:redwood_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:redwood_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:redwood_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:blast_furnace[facing=north,lit=false]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:redwood_planks"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:redwood_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:rail[waterlogged=false,shape=east_west]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:detector_rail[waterlogged=false,powered=false,shape=east_west]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:redwood_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:redwood_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:redwood_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:redwood_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=east]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:redwood_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:cobblestone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:cobblestone"
+    }
+  ]
+}

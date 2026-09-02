@@ -1,0 +1,73 @@
+{
+  "name": "multi_filmworkstower_3_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:lime_concrete"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:daylight_detector[power=15,inverted=true]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_filmworkstower_3/base2/dark_oak_crate"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_filmworkstower_3/base2/dark_oak_crate"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:ladder[facing=south]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:ladder[facing=north]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_filmworkstower_3/base2/dark_oak_crate"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_filmworkstower_3/base2/dark_oak_crate"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:smooth_stone"
+    }
+  ]
+}

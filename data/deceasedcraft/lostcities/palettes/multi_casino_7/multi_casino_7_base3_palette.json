@@ -1,0 +1,200 @@
+{
+  "name": "multi_casino_7_base3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:quartz_pillar[axis=y]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_7/base7/iron_locker"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_casino_7/base7/iron_locker"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "N",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=south]"
+    }
+  ]
+}

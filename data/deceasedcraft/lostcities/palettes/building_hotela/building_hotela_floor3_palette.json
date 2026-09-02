@@ -1,0 +1,356 @@
+{
+  "name": "building_hotela_floor3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:gray_terracotta"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:spruce_planks"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hotela/floor2/safe"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:redstone_block"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:brown_bed[occupied=false,part=head,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hotela/floor2/spruce_drawer"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:black_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:brown_bed[occupied=false,part=foot,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hotela/floor2/spruce_cabinet"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:redstone_wire[power=0]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hotela/floor2/spruce_kitchen_drawer"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hotela/floor2/spruce_kitchen_drawer"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:red_carpet"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:building_hotela/floor2/lootr_chest"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hotela/floor2/light_fridge"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:tripwire_hook[powered=false,attached=false,facing=south]"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:calcite_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:calcite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "|",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "'",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "<",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:building_hotela/floor2/lootr_chest"
+    },
+    {
+      "char": ">",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ",",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ".",
+      "block": "minecraft:redstone_torch[lit=true]"
+    },
+    {
+      "char": "?",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hotela/floor2/safe"
+    },
+    {
+      "char": "/",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "`",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ͱ",
+      "block": "minecraft:stone_bricks"
+    }
+  ]
+}

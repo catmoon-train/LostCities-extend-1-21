@@ -1,0 +1,75 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 5,
+  "maxfloors": 6,
+  "mincellars": 2,
+  "maxcellars": 2,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:building_policeoffice1/building_policeoffice1_base2_180",
+      "floor": -2
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:building_policeoffice1/building_policeoffice1_base1_180",
+      "floor": -1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_policeoffice1/building_policeoffice1_ground_180"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_policeoffice1/building_policeoffice1_floor1_180"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_policeoffice1/building_policeoffice1_floor2_180"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_policeoffice1/building_policeoffice1_floor3_180"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_policeoffice1/building_policeoffice1_top_180"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_policeoffice1/building_policeoffice1_base2_180",
+      "part": "deceasedcraft:building_policeoffice1/building_policeoffice1part2_base2_180"
+    },
+    {
+      "inpart": "deceasedcraft:building_policeoffice1/building_policeoffice1_base1_180",
+      "part": "deceasedcraft:building_policeoffice1/building_policeoffice1part2_base1_180"
+    },
+    {
+      "inpart": "deceasedcraft:building_policeoffice1/building_policeoffice1_ground_180",
+      "part": "deceasedcraft:building_policeoffice1/building_policeoffice1part2_ground_180"
+    },
+    {
+      "inpart": "deceasedcraft:building_policeoffice1/building_policeoffice1_top_180",
+      "part": "deceasedcraft:building_policeoffice1/building_policeoffice1part2_top_180"
+    }
+  ]
+}

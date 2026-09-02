@@ -1,0 +1,172 @@
+{
+  "name": "scattered_cabin_1_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stripped_birch_log[axis=y]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:oak_sapling[stage=1]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:birch_sapling[stage=1]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stripped_birch_log[axis=x]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dead_bush"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:dandelion"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:cornflower"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:birch_stairs[waterlogged=false,facing=south]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:campfire[waterlogged=false,signal_fire=false,facing=north,lit=true]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:structure_void"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:birch_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:crafting_table"
+    },
+    {
+      "char": "v",
+      "block": "minecraft:fletching_table"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:brown_bed[occupied=false,part=head,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "x",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:scattered_cabin_1/floor1/lootr_chest"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:brown_bed[occupied=false,part=foot,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:polished_deepslate_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:polished_deepslate_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:brown_candle[waterlogged=false,candles=1,lit=false]"
+    },
+    {
+      "char": "G",
+      "block": "minecraft:glow_lichen[waterlogged=false,up=false,down=false]"
+    },
+    {
+      "char": "H",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:glow_lichen[waterlogged=false,up=true,down=false]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    }
+  ]
+}

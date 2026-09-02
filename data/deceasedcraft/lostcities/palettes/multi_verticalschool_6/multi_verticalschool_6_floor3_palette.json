@@ -1,0 +1,38 @@
+{
+  "name": "multi_verticalschool_6_floor3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "c",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "d",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:dirt_path"
+    }
+  ]
+}

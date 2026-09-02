@@ -1,0 +1,106 @@
+{
+  "name": "multi_casino_0_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:green_concrete"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:polished_deepslate_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:jungle_log[axis=y]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:command_block[facing=up,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnCarBikeOrClassic"
+      }
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    }
+  ]
+}

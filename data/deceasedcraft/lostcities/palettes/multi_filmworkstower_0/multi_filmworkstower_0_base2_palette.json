@@ -1,0 +1,210 @@
+{
+  "name": "multi_filmworkstower_0_base2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:white_concrete"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:tuff_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:water_cauldron[level=3]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:blaze_heater"
+      }
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:multi_filmworkstower_0/base2/lootr_chest"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "D",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:tripwire[powered=false,attached=false,disarmed=false]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:dispenser[facing=down,triggered=false]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:observer[powered=false,facing=east]"
+    }
+  ]
+}

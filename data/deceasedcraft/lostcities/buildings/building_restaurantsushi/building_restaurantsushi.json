@@ -1,0 +1,35 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 1,
+  "maxfloors": 1,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_restaurantsushi/building_restaurantsushi_ground"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_restaurantsushi/building_restaurantsushi_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_restaurantsushi/building_restaurantsushi_ground",
+      "part": "deceasedcraft:building_restaurantsushi/building_restaurantsushipart2_ground"
+    },
+    {
+      "inpart": "deceasedcraft:building_restaurantsushi/building_restaurantsushi_top",
+      "part": "deceasedcraft:building_restaurantsushi/building_restaurantsushipart2_top"
+    }
+  ]
+}

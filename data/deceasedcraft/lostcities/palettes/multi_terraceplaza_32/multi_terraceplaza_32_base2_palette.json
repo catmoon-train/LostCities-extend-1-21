@@ -1,0 +1,205 @@
+{
+  "name": "multi_terraceplaza_32_base2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:maple_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:maple_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:maple_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:maple_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:composter[level=0]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:pine_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:pine_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:pine_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:pine_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:jungle_sign[waterlogged=false,rotation=4]",
+      "tag": {
+        "id": "minecraft:sign"
+      }
+    },
+    {
+      "char": "D",
+      "block": "minecraft:mangrove_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:cherry_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:mangrove_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:redwood_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:empyreal_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:willow_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_terraceplaza_32/base2/lootr_chest_type_single_waterlogged_false_facing_north"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:empyreal_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:pine_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:jungle_fence[waterlogged=false]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_terraceplaza_32/base2/lootr_chest_type_single_waterlogged_false_facing_west"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:jungle_sign[waterlogged=false,rotation=6]",
+      "tag": {
+        "id": "minecraft:sign"
+      }
+    },
+    {
+      "char": "V",
+      "block": "minecraft:redwood_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:willow_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:end_rod[facing=south]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:end_rod[facing=north]"
+    }
+  ]
+}

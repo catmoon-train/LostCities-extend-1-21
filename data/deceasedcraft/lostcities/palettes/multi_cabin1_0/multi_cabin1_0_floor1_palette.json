@@ -1,0 +1,106 @@
+{
+  "name": "multi_cabin1_0_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:oak_sapling[stage=1]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:structure_void"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:tuff_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "l",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:calcite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "v",
+      "block": "minecraft:crafting_table"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:smoker[facing=west,lit=false]"
+    }
+  ]
+}

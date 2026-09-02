@@ -1,0 +1,123 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 17,
+  "maxfloors": 17,
+  "mincellars": 5,
+  "maxcellars": 5,
+  "preferslonely": 1.0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_base2",
+      "floor": -5
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_base1",
+      "range": "-4,-1"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_ground"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor1",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor2",
+      "floor": 2
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor3",
+      "range": "3,14"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor4",
+      "range": "3,14"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor5",
+      "range": "3,14"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor6",
+      "floor": 15
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor7",
+      "floor": 16
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_ground",
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0part2_ground"
+    },
+    {
+      "inpart": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor1",
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0part2_floor1"
+    },
+    {
+      "inpart": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor2",
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0part2_floor2"
+    },
+    {
+      "inpart": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor3",
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0part2_floor3"
+    },
+    {
+      "inpart": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor4",
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0part2_floor4"
+    },
+    {
+      "inpart": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor5",
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0part2_floor5"
+    },
+    {
+      "inpart": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor6",
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0part2_floor6"
+    },
+    {
+      "inpart": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0_floor7",
+      "part": "deceasedcraft:multi_taigaresidence_0/multi_taigaresidence_0part2_floor7"
+    }
+  ]
+}

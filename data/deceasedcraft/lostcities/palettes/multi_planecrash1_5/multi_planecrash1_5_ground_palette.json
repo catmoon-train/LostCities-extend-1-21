@@ -1,0 +1,112 @@
+{
+  "name": "multi_planecrash1_5_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:structure_void"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:calcite_slab[type=top,waterlogged=true]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:calcite_slab[type=west,waterlogged=true]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "f",
+      "block": "minecraft:basalt[axis=z]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:calcite_stairs[waterlogged=true,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:calcite_stairs[waterlogged=true,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:calcite_slab[type=top,waterlogged=true]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:magma_block"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:chest[type=single,waterlogged=true,facing=east]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:smooth_basalt"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:calcite_slab[type=east,waterlogged=true]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:calcite_slab[type=south,waterlogged=true]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:calcite_slab[type=bottom,waterlogged=true]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:bubble_column[drag=true]"
+    },
+    {
+      "char": "v",
+      "block": "minecraft:stone_slab[waterlogged=true]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:calcite_stairs[waterlogged=true,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:calcite_stairs[waterlogged=true,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "z",
+      "block": "minecraft:calcite_stairs[waterlogged=true,half=bottom,facing=south,shape=straight]"
+    }
+  ]
+}

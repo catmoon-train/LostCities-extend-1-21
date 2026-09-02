@@ -1,0 +1,479 @@
+{
+  "name": "building_office3c_floor1_palette_90",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dark_oak_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:bricks"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dark_oak_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "g",
+      "block": "minecraft:gray_terracotta"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "m",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_office3c/floor1/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_office3c/floor1/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:calcite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:white_tulip",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:pink_tulip",
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "A",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:calcite_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:pink_tulip",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:pink_tulip",
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:pink_tulip",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:pink_tulip",
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:white_tulip",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:pink_tulip",
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:white_tulip",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:white_tulip",
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:pink_tulip",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:white_tulip",
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:pink_tulip",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:white_tulip",
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:white_tulip",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:white_tulip",
+            "Count": 1
+          }
+        ],
+        "size": 2
+      }
+    },
+    {
+      "char": "R",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:stripped_dark_oak_wood[axis=x]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:dark_oak_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:birch_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": ")",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "+",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [],
+        "size": 3
+      }
+    },
+    {
+      "char": "[",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "refurbished_furniture:ceiling_fan"
+      }
+    },
+    {
+      "char": "{",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "|",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "'",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    }
+  ]
+}

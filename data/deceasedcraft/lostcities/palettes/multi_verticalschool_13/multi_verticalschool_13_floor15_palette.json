@@ -1,0 +1,182 @@
+{
+  "name": "multi_verticalschool_13_floor15_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:mud"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:stripped_dark_oak_log[axis=y]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      }
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      }
+    },
+    {
+      "char": "y",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:azalea_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:dead_bush"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    }
+  ]
+}

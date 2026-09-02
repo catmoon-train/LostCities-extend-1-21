@@ -1,0 +1,138 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 18,
+  "maxfloors": 18,
+  "mincellars": 3,
+  "maxcellars": 3,
+  "preferslonely": 1.0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_base4",
+      "floor": -3
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_base3",
+      "floor": -2
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_base2",
+      "floor": -2
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_base1",
+      "floor": -1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_ground"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_floor1",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_floor2",
+      "floor": 2
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_floor3",
+      "range": "3,10"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_floor4",
+      "range": "3,10"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_floor5",
+      "range": "3,10"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_floor6",
+      "floor": 11
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_floor7",
+      "floor": 12
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_floor8",
+      "range": "13,15"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_floor9",
+      "range": "13,15"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_floor10",
+      "range": "13,15"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_floor11",
+      "floor": 16
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_floor12",
+      "floor": 17
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_officethefirst_0/multi_officethefirst_0_top"
+    }
+  ]
+}

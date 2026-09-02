@@ -1,0 +1,276 @@
+{
+  "name": "building_office3c_floor2_palette_180",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dark_oak_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:dark_oak_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "f",
+      "block": "minecraft:gray_terracotta"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "l",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:calcite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_office3c/floor2/dark_oak_drawer"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_office3c/floor2/dark_oak_drawer"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:building_office3c/floor2/dark_oak_drawer"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_office3c/floor2/dark_oak_drawer"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_office3c/floor2/dark_oak_drawer"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_office3c/floor2/dark_oak_drawer"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_office3c/floor2/dark_oak_drawer"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:stone_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    }
+  ]
+}

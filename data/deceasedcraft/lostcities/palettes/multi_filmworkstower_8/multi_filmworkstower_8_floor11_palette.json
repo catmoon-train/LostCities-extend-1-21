@@ -1,0 +1,171 @@
+{
+  "name": "multi_filmworkstower_8_floor11_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:black_stained_glass"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_filmworkstower_4/floor9/dark_oak_drawer"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_filmworkstower_4/floor9/dark_oak_drawer"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_filmworkstower_4/floor9/dark_oak_drawer"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:oak_hedge",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "quark:oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "F",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:polished_deepslate"
+    }
+  ]
+}

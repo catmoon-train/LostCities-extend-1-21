@@ -1,0 +1,148 @@
+{
+  "name": "multi_casino_2_floor22_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:brown_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:quartz_pillar[axis=z]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:brown_stained_glass"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=wall]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:heavy_weighted_pressure_plate[power=0]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,facing=west]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:calcite_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:glass"
+    }
+  ]
+}

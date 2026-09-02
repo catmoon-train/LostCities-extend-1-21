@@ -1,0 +1,72 @@
+{
+  "name": "multi_casino_5_base6_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:blue_wool"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:red_wool"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:gray_wool"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:black_wool"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:flywheel"
+      }
+    }
+  ]
+}

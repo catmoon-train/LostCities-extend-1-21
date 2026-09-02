@@ -1,0 +1,103 @@
+{
+  "name": "multi_thering_1_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:calcite"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": []
+      }
+    },
+    {
+      "char": "e",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:note_block[powered=false,instrument=bass,note=0]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_thering_1/base1/lootr_chest"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "p",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    }
+  ]
+}

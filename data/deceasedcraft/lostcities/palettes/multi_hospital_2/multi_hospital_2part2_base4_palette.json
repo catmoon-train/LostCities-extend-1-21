@@ -1,0 +1,21 @@
+{
+  "name": "multi_hospital_2part2_base4_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:redstone_wire[power=0,west=none,east=side,south=side,north=none]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=side,north=none]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=none,north=none]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:redstone_lamp[lit=false]"
+    }
+  ]
+}

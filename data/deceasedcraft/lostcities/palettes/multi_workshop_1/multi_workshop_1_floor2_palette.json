@@ -1,0 +1,122 @@
+{
+  "name": "multi_workshop_1_floor2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:multi_workshop_0/floor2/light_gray_kitchen_drawer"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=wall]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:hellbark_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:coal_block"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:daylight_detector[power=11,inverted=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:stripped_dead_log[axis=x]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:polished_andesite"
+    }
+  ]
+}

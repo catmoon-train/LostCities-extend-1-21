@@ -1,0 +1,238 @@
+{
+  "name": "building_hotela_ground_palette_180",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "d",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:gray_terracotta"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:spruce_planks"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:yellow_glazed_terracotta[facing=west]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:yellow_glazed_terracotta[facing=south]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:yellow_glazed_terracotta[facing=north]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:yellow_glazed_terracotta[facing=east]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:black_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:black_stained_glass"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:dark_oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=east]"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=south]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:ochre_froglight[axis=y]"
+    }
+  ]
+}

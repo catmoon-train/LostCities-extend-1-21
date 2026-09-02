@@ -1,0 +1,126 @@
+{
+  "name": "multi_workshop_1_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:sticky_piston[extended=true,facing=east]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:piston_head[type=sticky,facing=east,short=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:hellbark_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:hellbark_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:note_block[powered=false,instrument=basedrum,note=0]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_workshop_0/floor1/light_gray_kitchen_drawer"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:daylight_detector[power=11,inverted=false]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:stripped_dead_log[axis=x]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:polished_andesite"
+    }
+  ]
+}

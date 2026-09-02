@@ -1,0 +1,169 @@
+{
+  "name": "multi_cafe_2_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:spruce_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:bricks"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:fluid_pipe"
+      }
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:fluid_pipe"
+      }
+    },
+    {
+      "char": "q",
+      "block": "minecraft:calcite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:calcite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:calcite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_cafe_2/floor1/dark_oak_crate"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:daylight_detector[power=12,inverted=false]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:dark_oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:dark_oak_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_cafe_2/floor1/dark_oak_crate"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:spruce_planks"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:glass"
+    }
+  ]
+}

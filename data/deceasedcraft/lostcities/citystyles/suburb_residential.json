@@ -1,0 +1,270 @@
+{
+  "style": "deceasedcraft:suburb_residential_style",
+  "inherit": "citystyle_config",
+  "streetblocks": {
+    "border": "v",
+    "wall": "_",
+    "street": "H",
+    "streetbase": "G",
+    "streetvariant": "=",
+    "parts": {
+      "all": [
+        "deceasedcraft:streets/street_suburb_all",
+        "deceasedcraft:streets/street_suburb_all_2"
+      ],
+      "t": [
+        "deceasedcraft:streets/street_suburb_t_shape"
+      ],
+      "straight": [
+        "deceasedcraft:streets/street_suburb_straight",
+        "deceasedcraft:streets/street_suburb_straight_2"
+      ],
+      "bend": [
+        "deceasedcraft:streets/street_suburb_bend"
+      ],
+      "end": [
+        "deceasedcraft:streets/street_suburb_end"
+      ],
+      "none": [
+        "deceasedcraft:streets/street_suburb_none"
+      ],
+      "full": [
+        "deceasedcraft:streets/street_suburb_full"
+      ]
+    }
+  },
+  "parkblocks": {
+    "parkchance": 0.4,
+    "parkstreetthreshold": 4,
+    "elevation": "G"
+  },
+  "corridorblocks": {
+    "roof": " ",
+    "glass": " "
+  },
+  "railblocks": {
+    "railmain": " "
+  },
+  "sphereblocks": {
+    "glass": "@",
+    "border": "=",
+    "inner": "H"
+  },
+  "selectors": {
+    "buildings": [
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentiala/building_residentiala"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentiala/building_residentiala_90"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentiala/building_residentiala_180"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentiala/building_residentiala_270"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentialb/building_residentialb"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentialb/building_residentialb_90"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentialb/building_residentialb_180"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentialb/building_residentialb_270"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentialc/building_residentialc"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentialc/building_residentialc_90"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentialc/building_residentialc_180"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentialc/building_residentialc_270"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentiald/building_residentiald"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentiald/building_residentiald_90"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentiald/building_residentiald_180"
+      },
+      {
+        "factor": 0.05,
+        "value": "deceasedcraft:building_residentiald/building_residentiald_270"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_gasstation/building_gasstation"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_gasstation/building_gasstation_90"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_gasstation/building_gasstation_180"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_gasstation/building_gasstation_270"
+      }
+    ],
+    "multibuildings": [
+      {
+        "factor": 0.4,
+        "value": "deceasedcraft:multi_residentiale"
+      },
+      {
+        "factor": 0.4,
+        "value": "deceasedcraft:multi_residentialf"
+      },
+      {
+        "factor": 0.3,
+        "value": "deceasedcraft:multi_residentialsurvivor"
+      },
+      {
+        "factor": 0.3,
+        "value": "deceasedcraft:multi_policestation"
+      },
+      {
+        "factor": 0.3,
+        "value": "deceasedcraft:multi_polyclinic"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:multi_communitycenter"
+      }
+    ],
+    "bridges": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:bridge_1"
+      }
+    ],
+    "fronts": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fronts/front_suburb_residential_1"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fronts/front_suburb_residential_2"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fronts/front_suburb_residential_3"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fronts/front_suburb_residential_4"
+      }
+    ],
+    "stairs": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_1"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_2"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_3"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_4"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_5"
+      }
+    ],
+    "fountains": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fountains/fountain_6"
+      }
+    ],
+    "parks": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_1"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_2"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:parks/park_3"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_4"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:parks/park_5"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_6"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_8"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_9"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_10"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_11"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_12"
+      }
+    ],
+    "raildungeons": [
+      {
+        "factor": 1.0,
+        "value": "rail_dungeon1"
+      }
+    ]
+  },
+  "buildingsettings": {
+    "buildingchance": 0.2
+  }
+}

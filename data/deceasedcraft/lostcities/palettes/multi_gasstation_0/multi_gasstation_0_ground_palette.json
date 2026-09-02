@@ -1,0 +1,221 @@
+{
+  "name": "multi_gasstation_0_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "tag": {
+        "FluidName": "createdieselgenerators:gasoline",
+        "Amount": 12000,
+        "id": "refueled:gas_station_block_entity"
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air",
+      "tag": {
+        "FluidName": "createdieselgenerators:gasoline",
+        "Amount": 12000,
+        "id": "refueled:gas_station_block_entity"
+      }
+    },
+    {
+      "char": "A",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:command_block[facing=up,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnCarBikeOrClassic"
+      }
+    },
+    {
+      "char": "C",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_gasstation_0/ground/marketfridge"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air",
+      "tag": {
+        "FluidName": "createdieselgenerators:gasoline",
+        "Amount": 12000,
+        "id": "refueled:gas_station_block_entity"
+      }
+    },
+    {
+      "char": "I",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_gasstation_0/ground/medical_storage"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air",
+      "tag": {
+        "FluidName": "createdieselgenerators:gasoline",
+        "Amount": 12000,
+        "id": "refueled:gas_station_block_entity"
+      }
+    },
+    {
+      "char": "M",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_gasstation_0/ground/lootr_chest"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:red_terracotta"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:daylight_detector[power=8,inverted=false]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    }
+  ]
+}

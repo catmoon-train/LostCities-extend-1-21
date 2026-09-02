@@ -1,0 +1,66 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 4,
+  "maxfloors": 5,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1_ground"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1_floor1",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1_floor2"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1_floor3"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1_ground",
+      "part": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1part2_ground"
+    },
+    {
+      "inpart": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1_floor1",
+      "part": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1part2_floor1"
+    },
+    {
+      "inpart": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1_floor2",
+      "part": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1part2_floor2"
+    },
+    {
+      "inpart": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1_floor3",
+      "part": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1part2_floor3"
+    },
+    {
+      "inpart": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1_top",
+      "part": "deceasedcraft:multi_apartmentmedium_1/multi_apartmentmedium_1part2_top"
+    }
+  ]
+}

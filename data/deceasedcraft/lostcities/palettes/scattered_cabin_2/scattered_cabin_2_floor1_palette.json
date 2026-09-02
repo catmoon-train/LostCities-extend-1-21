@@ -1,0 +1,148 @@
+{
+  "name": "scattered_cabin_2_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cracked_stone_bricks"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:mossy_stone_bricks"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:hay_block[axis=y]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_brick_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:oak_sapling[stage=1]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:campfire[waterlogged=false,signal_fire=true,facing=east,lit=true]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:stripped_oak_log[axis=y]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:crafting_table"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:pink_tulip"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "v",
+      "block": "minecraft:white_tulip"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:red_bed[occupied=false,part=foot,facing=south]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "x",
+      "block": "minecraft:red_bed[occupied=false,part=head,facing=south]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "y",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:scattered_cabin_2/floor1/lootr_chest"
+    },
+    {
+      "char": "z",
+      "block": "minecraft:mossy_stone_brick_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:structure_void"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:lantern[waterlogged=false,hanging=true]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:granite"
+    },
+    {
+      "char": "G",
+      "block": "minecraft:polished_granite"
+    },
+    {
+      "char": "H",
+      "block": "minecraft:glass"
+    }
+  ]
+}

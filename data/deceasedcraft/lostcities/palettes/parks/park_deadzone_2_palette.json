@@ -1,0 +1,53 @@
+{
+  "name": "park_deadzone_2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dead_log[axis=y]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:dead_leaves"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:wither_rose"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=floor]"
+    }
+  ]
+}

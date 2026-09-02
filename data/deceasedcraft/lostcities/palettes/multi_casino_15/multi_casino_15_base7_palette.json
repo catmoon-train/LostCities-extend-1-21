@@ -1,0 +1,86 @@
+{
+  "name": "multi_casino_15_base7_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:quartz_pillar[axis=y]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:end_rod[facing=down]"
+    },
+    {
+      "char": "m",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "n",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=east]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=south]"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "name": "multi_casino_3_floor6_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:quartz_pillar[axis=y]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:brown_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:black_wool"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:jo_special_mixture",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 1
+      }
+    },
+    {
+      "char": "r",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:command_block[facing=up,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnJohnNPC"
+      }
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:black_candle[waterlogged=false,candles=2,lit=false]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:yellow_candle[waterlogged=false,candles=4,lit=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:blue_candle[waterlogged=false,candles=1,lit=false]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:blue_candle[waterlogged=false,candles=2,lit=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:brown_stained_glass"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    }
+  ]
+}

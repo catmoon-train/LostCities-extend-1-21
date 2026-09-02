@@ -1,0 +1,259 @@
+{
+  "style": "deceasedcraft:highrise_hotel_style",
+  "inherit": "citystyle_config",
+  "streetblocks": {
+    "border": "v",
+    "wall": "_",
+    "street": "H",
+    "streetbase": "G",
+    "streetvariant": "=",
+    "parts": {
+      "all": [
+        "deceasedcraft:streets/street_highrise_hotel_all",
+        "deceasedcraft:streets/street_highrise_hotel_all_2",
+        "deceasedcraft:streets/street_highrise_hotel_all_3"
+      ],
+      "t": [
+        "deceasedcraft:streets/street_highrise_hotel_t_shape"
+      ],
+      "straight": [
+        "deceasedcraft:streets/street_highrise_hotel_straight",
+        "deceasedcraft:streets/street_highrise_hotel_straight_bus_stop"
+      ],
+      "bend": [
+        "deceasedcraft:streets/street_highrise_hotel_bend"
+      ],
+      "end": [
+        "deceasedcraft:streets/street_highrise_hotel_end"
+      ],
+      "none": [
+        "deceasedcraft:streets/street_highrise_hotel_none"
+      ],
+      "full": [
+        "deceasedcraft:streets/street_highrise_hotel_full"
+      ]
+    }
+  },
+  "parkblocks": {
+    "parkchance": 0.5,
+    "parkstreetthreshold": 5,
+    "elevation": "G"
+  },
+  "corridorblocks": {
+    "roof": " ",
+    "glass": " "
+  },
+  "railblocks": {
+    "railmain": " "
+  },
+  "sphereblocks": {
+    "glass": "@",
+    "border": "=",
+    "inner": "H"
+  },
+  "selectors": {
+    "buildings": [
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hotela/building_hotela"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hotela/building_hotela_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hotela/building_hotela_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hotela/building_hotela_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hotelb/building_hotelb"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hotelb/building_hotelb_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hotelb/building_hotelb_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hotelb/building_hotelb_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hotelc/building_hotelc"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hotelc/building_hotelc_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hotelc/building_hotelc_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hotelc/building_hotelc_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hoteld/building_hoteld"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hoteld/building_hoteld_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hoteld/building_hoteld_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hoteld/building_hoteld_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_premiumclothstore/building_premiumclothstore"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_premiumclothstore/building_premiumclothstore_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_premiumclothstore/building_premiumclothstore_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_premiumclothstore/building_premiumclothstore_270"
+      }
+    ],
+    "multibuildings": [
+      {
+        "factor": 0.5,
+        "value": "deceasedcraft:multi_gasstation"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:multi_timbertower"
+      },
+      {
+        "factor": 0.4,
+        "value": "deceasedcraft:multi_sunkenclub"
+      },
+      {
+        "factor": 0.5,
+        "value": "deceasedcraft:multi_sunkenmonumentpark"
+      },
+      {
+        "factor": 0.3,
+        "value": "deceasedcraft:multi_gallery"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:multi_casino"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:multi_thering"
+      }
+    ],
+    "bridges": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:bridge_1"
+      }
+    ],
+    "fronts": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fronts/front_highrise_hotel_1"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fronts/front_highrise_hotel_2"
+      }
+    ],
+    "stairs": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_1"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_2"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_5"
+      }
+    ],
+    "fountains": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fountains/fountain_6"
+      }
+    ],
+    "parks": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_1"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_2"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:parks/park_3"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_4"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:parks/park_5"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_6"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_8"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_9"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_10"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_11"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_12"
+      }
+    ],
+    "raildungeons": [
+      {
+        "factor": 1.0,
+        "value": "rail_dungeon1"
+      }
+    ]
+  },
+  "buildingsettings": {
+    "buildingchance": 0.3
+  }
+}

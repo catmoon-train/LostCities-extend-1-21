@@ -1,0 +1,176 @@
+{
+  "name": "multi_hospital_4_base2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "c",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "d",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:light_gray_concrete"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:iron_block"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:red_terracotta"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:contraption_controls"
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:white_concrete"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:deployer"
+      }
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospital_4/base2/white_kitchen_drawer"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospital_4/base2/white_kitchen_drawer"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:detector_rail[waterlogged=false,powered=false,shape=north_south]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:rail[waterlogged=false,shape=north_south]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "comforts:sleeping_bag"
+      }
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "comforts:sleeping_bag"
+      }
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    }
+  ]
+}

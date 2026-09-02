@@ -1,0 +1,78 @@
+{
+  "name": "multi_thering_10_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:end_rod[facing=down]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:calcite"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:gray_stained_glass"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:cave_vines[age=25,berries=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:cave_vines_plant[berries=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "o",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "p",
+      "block": "minecraft:moss_block"
+    }
+  ]
+}

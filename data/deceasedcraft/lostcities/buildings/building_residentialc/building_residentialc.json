@@ -1,0 +1,41 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 2,
+  "maxfloors": 2,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_residentialc/building_residentialc_ground"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_residentialc/building_residentialc_floor1"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_residentialc/building_residentialc_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_residentialc/building_residentialc_ground",
+      "part": "deceasedcraft:building_residentialc/building_residentialcpart2_ground"
+    },
+    {
+      "inpart": "deceasedcraft:building_residentialc/building_residentialc_floor1",
+      "part": "deceasedcraft:building_residentialc/building_residentialcpart2_floor1"
+    }
+  ]
+}

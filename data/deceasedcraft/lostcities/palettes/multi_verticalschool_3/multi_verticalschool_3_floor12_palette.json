@@ -1,0 +1,29 @@
+{
+  "name": "multi_verticalschool_3_floor12_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:jungle_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:jungle_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:jungle_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+    }
+  ]
+}

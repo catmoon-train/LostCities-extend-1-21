@@ -1,0 +1,63 @@
+{
+  "name": "multi_verticalschool_13_floor30_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:smooth_sandstone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:jungle_planks"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:acacia_planks"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_verticalschool_6/floor30/medical_storage"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_6/floor30/medical_storage"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:hopper[enabled=true,facing=east]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    }
+  ]
+}

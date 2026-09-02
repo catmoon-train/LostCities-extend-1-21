@@ -1,0 +1,105 @@
+{
+  "name": "multi_timbertower_5_floor14_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:birch_planks"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:water[level=0]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stripped_oak_log[axis=y]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:spruce_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:spruce_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:spruce_planks"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "conveyorBeltSubtypeNBT": {
+          "direction": 0
+        }
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "p",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:stripped_oak_log[axis=z]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:stripped_oak_log[axis=x]"
+    }
+  ]
+}

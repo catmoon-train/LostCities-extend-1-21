@@ -1,0 +1,41 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 2,
+  "maxfloors": 2,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_residentiala/building_residentiala_ground_270"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_residentiala/building_residentiala_floor1_270"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_residentiala/building_residentiala_top_270"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_residentiala/building_residentiala_ground_270",
+      "part": "deceasedcraft:building_residentiala/building_residentialapart2_ground_270"
+    },
+    {
+      "inpart": "deceasedcraft:building_residentiala/building_residentiala_floor1_270",
+      "part": "deceasedcraft:building_residentiala/building_residentialapart2_floor1_270"
+    }
+  ]
+}

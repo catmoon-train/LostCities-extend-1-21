@@ -1,0 +1,101 @@
+{
+  "name": "park_deadzone_10_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:lantern"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:sandstone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:dead_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:dead_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:dead_log[axis=y]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:dead_leaves"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dead_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:dead_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:sandstone_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "s",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    }
+  ]
+}

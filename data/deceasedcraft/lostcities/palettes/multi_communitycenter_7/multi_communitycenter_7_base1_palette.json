@@ -1,0 +1,83 @@
+{
+  "name": "multi_communitycenter_7_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:ender_chest[waterlogged=false,facing=north]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_communitycenter_7/base1/lootr_chest"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:command_block[facing=up,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnCarBikeOrClassic"
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    }
+  ]
+}

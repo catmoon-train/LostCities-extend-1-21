@@ -1,0 +1,219 @@
+{
+  "name": "multi_verticalschool_7_floor30_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:jungle_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:jungle_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "l",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_7/floor30/iron_locker"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=wall]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:ladder[waterlogged=false,facing=south]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_7/floor30/iron_locker"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_verticalschool_7/floor30/iron_locker"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_verticalschool_7/floor30/iron_locker"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:jungle_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "N",
+      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:polished_andesite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:jungle_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "blocks": [
+        {
+          "random": 74,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 12,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    }
+  ]
+}

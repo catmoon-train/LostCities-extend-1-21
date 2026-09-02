@@ -1,0 +1,114 @@
+{
+  "name": "multi_verticalschool_13_floor11_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:white_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "variant": "minecraft:bomb"
+      }
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:white_concrete"
+    },
+    {
+      "char": "p",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "q",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:end_rod[facing=down]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:sand"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:mud"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:suspicious_sand[dusted=0]"
+    }
+  ]
+}

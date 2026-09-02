@@ -1,0 +1,82 @@
+{
+  "name": "multi_verticalschool_8_floor3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "o",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:grass_block[snowy=false]"
+    }
+  ]
+}

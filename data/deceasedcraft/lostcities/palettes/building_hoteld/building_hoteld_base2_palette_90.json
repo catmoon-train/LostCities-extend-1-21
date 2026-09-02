@@ -1,0 +1,184 @@
+{
+  "name": "building_hoteld_base2_palette_90",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:observer[powered=false,facing=north]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:observer[powered=false,facing=east]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:observer[powered=false,facing=west]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:observer[powered=false,facing=south]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:redstone_wire[power=0]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:repeater[powered=false,facing=east,locked=false,delay=4]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:repeater[powered=false,facing=west,locked=false,delay=4]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:repeater[powered=false,facing=north,locked=false,delay=1]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:comparator[powered=false,facing=north,mode=subtract]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:mud"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:observer[powered=false,facing=down]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:redstone_block"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:black_terracotta"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:redstone_lamp[lit=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:sticky_piston[extended=false,facing=down]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:brown_stained_glass"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:building_hoteld/base2/lootr_chest"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hoteld/base2/ice"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "K",
+      "block": "minecraft:iron_block"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hoteld/base2/dark_oak_kitchen_drawer"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:observer[powered=false,facing=up]"
+    }
+  ]
+}

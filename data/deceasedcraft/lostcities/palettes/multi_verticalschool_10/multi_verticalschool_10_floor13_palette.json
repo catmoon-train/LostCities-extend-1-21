@@ -1,0 +1,81 @@
+{
+  "name": "multi_verticalschool_10_floor13_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_10/floor13/large_shelves_fill"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_10/floor13/large_shelves_fill"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:white_stained_glass"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:multi_verticalschool_10/floor13/large_shelves_fill"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_verticalschool_10/floor13/large_shelves_fill"
+    }
+  ]
+}

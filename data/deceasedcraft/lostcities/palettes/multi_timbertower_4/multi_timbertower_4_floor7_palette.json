@@ -1,0 +1,224 @@
+{
+  "name": "multi_timbertower_4_floor7_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:birch_planks"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "d",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stripped_oak_log[axis=y]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=west,shape=outer_right]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:dead_leaves"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:stripped_dead_log[axis=x]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=wall]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_timbertower_4/floor7/spruce_crate"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:spruce_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:crying_obsidian"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:lectern[powered=false,has_book=false,facing=east]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:chiseled_bookshelf[slot_5_occupied=false,slot_4_occupied=false,facing=east,slot_2_occupied=false,slot_1_occupied=false,slot_3_occupied=false,slot_0_occupied=false]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:spruce_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:obsidian"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:dead_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:cave_vines[age=25,berries=false]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "X",
+      "block": "minecraft:cave_vines_plant[berries=false]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:stripped_oak_log[axis=z]"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:stripped_oak_log[axis=x]"
+    }
+  ]
+}

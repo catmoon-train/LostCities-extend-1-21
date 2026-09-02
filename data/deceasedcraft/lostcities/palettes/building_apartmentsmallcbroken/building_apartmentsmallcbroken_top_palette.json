@@ -1,0 +1,854 @@
+{
+  "name": "building_apartmentsmallcbroken_top_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:fir_planks"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:polished_diorite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:dead_planks"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:fir_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:fir_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:diorite_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:polished_diorite_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_apartmentsmallcbroken/top/light_gray_kitchen_drawer"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:birch_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_apartmentsmallcbroken/top/birch_drawer"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:polished_andesite_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:diorite_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_apartmentsmallcbroken/top/birch_drawer"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:polished_diorite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:birch_pressure_plate[powered=false]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "embellishcraft:custom_bed"
+      }
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "embellishcraft:custom_bed"
+      }
+    },
+    {
+      "char": "0",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_apartmentsmallcbroken/top/light_gray_kitchen_storage_cabinet"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "embellishcraft:custom_bed"
+      }
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "embellishcraft:custom_bed"
+      }
+    },
+    {
+      "char": "%",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_apartmentsmallcbroken/top/birch_drawer"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:diorite_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:dead_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:fir_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:fir_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_apartmentsmallcbroken/top/light_fridge"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "|",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:building_apartmentsmallcbroken/top/safe"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:redstone_torch[lit=true]"
+    },
+    {
+      "char": "'",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "<",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+    },
+    {
+      "char": ">",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ",",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ".",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "?",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "/",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "`",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "Ͱ",
+      "block": "minecraft:diorite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "ͱ",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "Ͳ",
+      "block": "minecraft:birch_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "ͳ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ʹ",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "͵",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ͷ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͷ",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "ͺ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͻ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͼ",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "ͽ",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "Ϳ",
+      "block": "minecraft:fir_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "΄",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "΅",
+      "block": "minecraft:diorite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "Ά",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "·",
+      "block": "minecraft:polished_diorite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "Έ",
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "Ή",
+      "block": "minecraft:polished_diorite_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "Ί",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ό",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ύ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ώ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ΐ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Α",
+      "block": "minecraft:dead_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "Β",
+      "block": "minecraft:polished_diorite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "Γ",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "Δ",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    },
+    {
+      "char": "Ε",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "refurbished_furniture:ceiling_fan"
+      }
+    },
+    {
+      "char": "Ζ",
+      "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "Η",
+      "block": "minecraft:dead_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "Θ",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "Ι",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "Κ",
+      "block": "minecraft:basalt[axis=y]"
+    },
+    {
+      "char": "Λ",
+      "block": "minecraft:basalt[axis=x]"
+    },
+    {
+      "char": "Μ",
+      "block": "minecraft:basalt[axis=z]"
+    },
+    {
+      "char": "Ν",
+      "block": "minecraft:dead_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "Ξ",
+      "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "Ο",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "Π",
+      "block": "minecraft:netherrack"
+    },
+    {
+      "char": "Ρ",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "Σ",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "Τ",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "Υ",
+      "block": "minecraft:polished_diorite_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "Φ",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "Χ",
+      "block": "minecraft:dead_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "Ψ",
+      "block": "minecraft:magma_block"
+    },
+    {
+      "char": "Ω",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ϊ",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "Ϋ",
+      "block": "minecraft:fire[up=false,age=0]"
+    },
+    {
+      "char": "ά",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "έ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ή",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ί",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ΰ",
+      "block": "minecraft:fir_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "α",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "β",
+      "block": "minecraft:potted_dead_bush"
+    },
+    {
+      "char": "γ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "δ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ε",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ζ",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "η",
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "θ",
+      "block": "minecraft:polished_diorite_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "ι",
+      "block": "minecraft:diorite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "κ",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "λ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "μ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ν",
+      "block": "minecraft:birch_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "ξ",
+      "block": "minecraft:birch_door[half=lower,powered=false,open=true,hinge=right,facing=west]"
+    },
+    {
+      "char": "ο",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "π",
+      "block": "minecraft:flower_pot"
+    },
+    {
+      "char": "ρ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ς",
+      "block": "minecraft:birch_door[half=upper,powered=false,open=true,hinge=right,facing=west]"
+    },
+    {
+      "char": "σ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "τ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "υ",
+      "block": "minecraft:soul_sand"
+    },
+    {
+      "char": "φ",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "χ",
+      "block": "minecraft:dead_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "ψ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ω",
+      "block": "minecraft:soul_fire"
+    },
+    {
+      "char": "ϊ",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_apartmentsmallcbroken/top/birch_drawer"
+    },
+    {
+      "char": "ϋ",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:building_apartmentsmallcbroken/top/safe"
+    },
+    {
+      "char": "ό",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "ύ",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_apartmentsmallcbroken/top/birch_drawer"
+    },
+    {
+      "char": "ώ",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "embellishcraft:custom_bed"
+      }
+    },
+    {
+      "char": "Ϗ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ϐ",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "embellishcraft:custom_bed"
+      }
+    },
+    {
+      "char": "ϑ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ϒ",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_apartmentsmallcbroken/top/safe"
+    },
+    {
+      "char": "ϓ",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_apartmentsmallcbroken/top/safe"
+    },
+    {
+      "char": "ϔ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ϕ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ϖ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ϗ",
+      "block": "minecraft:water[level=0]"
+    },
+    {
+      "char": "Ϙ",
+      "block": "minecraft:dead_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "ϙ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ϛ",
+      "block": "minecraft:polished_diorite_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "ϛ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ϝ",
+      "block": "minecraft:diorite_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "ϝ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ϟ",
+      "block": "minecraft:dead_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "ϟ",
+      "block": "minecraft:polished_andesite_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "Ϡ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ϡ",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "Ϣ",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "ϣ",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "Ϥ",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "ϥ",
+      "block": "minecraft:cauldron"
+    },
+    {
+      "char": "Ϧ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ϧ",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "Ϩ",
+      "block": "minecraft:dead_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "ϩ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ϫ",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "ϫ",
+      "block": "minecraft:campfire[waterlogged=false,signal_fire=false,facing=north,lit=true]"
+    },
+    {
+      "char": "Ϭ",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "ϭ",
+      "block": "minecraft:water_cauldron[level=3]"
+    },
+    {
+      "char": "Ϯ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ϯ",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "ϰ",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "ϱ",
+      "block": "minecraft:dead_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    }
+  ]
+}

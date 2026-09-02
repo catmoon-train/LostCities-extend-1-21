@@ -1,0 +1,91 @@
+{
+  "name": "multi_hospitaldamaged_3_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:red_terracotta"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospitaldamaged_0/base1/cyan_kitchen_drawer"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:stripped_dead_log[axis=z]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:smooth_stone"
+    }
+  ]
+}

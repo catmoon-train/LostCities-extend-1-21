@@ -1,0 +1,282 @@
+{
+  "style": "deceasedcraft:retail_district_style",
+  "inherit": "citystyle_config",
+  "streetblocks": {
+    "border": "v",
+    "wall": "_",
+    "street": "H",
+    "streetbase": "G",
+    "streetvariant": "=",
+    "parts": {
+      "all": [
+        "deceasedcraft:streets/street_retail_district_all",
+        "deceasedcraft:streets/street_retail_district_all_2",
+        "deceasedcraft:streets/street_retail_district_all_3"
+      ],
+      "t": [
+        "deceasedcraft:streets/street_retail_district_t_shape"
+      ],
+      "straight": [
+        "deceasedcraft:streets/street_retail_district_straight",
+        "deceasedcraft:streets/street_retail_district_straight_display",
+        "deceasedcraft:streets/street_retail_district_straight_bench"
+      ],
+      "bend": [
+        "deceasedcraft:streets/street_retail_district_bend"
+      ],
+      "end": [
+        "deceasedcraft:streets/street_retail_district_end"
+      ],
+      "none": [
+        "deceasedcraft:streets/street_retail_district_none"
+      ],
+      "full": [
+        "deceasedcraft:streets/street_retail_district_full"
+      ]
+    }
+  },
+  "parkblocks": {
+    "elevation": "G"
+  },
+  "corridorblocks": {
+    "roof": " ",
+    "glass": " "
+  },
+  "railblocks": {
+    "railmain": " "
+  },
+  "sphereblocks": {
+    "glass": "@",
+    "border": "=",
+    "inner": "H"
+  },
+  "selectors": {
+    "buildings": [
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_restaurantsushi/building_restaurantsushi"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_restaurantsushi/building_restaurantsushi_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_restaurantsushi/building_restaurantsushi_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_restaurantsushi/building_restaurantsushi_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_flowershop/building_flowershop"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_flowershop/building_flowershop_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_flowershop/building_flowershop_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_flowershop/building_flowershop_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_fastfood/building_fastfood"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_fastfood/building_fastfood_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_fastfood/building_fastfood_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_fastfood/building_fastfood_270"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_hardwarestorece/building_hardwarestorece"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_hardwarestorece/building_hardwarestorece_90"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_hardwarestorece/building_hardwarestorece_180"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_hardwarestorece/building_hardwarestorece_270"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_hardwarestorecedamaged/building_hardwarestorecedamaged"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_hardwarestorecedamaged/building_hardwarestorecedamaged_90"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_hardwarestorecedamaged/building_hardwarestorecedamaged_180"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_hardwarestorecedamaged/building_hardwarestorecedamaged_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hardwarestoreie/building_hardwarestoreie"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hardwarestoreie/building_hardwarestoreie_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hardwarestoreie/building_hardwarestoreie_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_hardwarestoreie/building_hardwarestoreie_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_clothstore/building_clothstore"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_clothstore/building_clothstore_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_clothstore/building_clothstore_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_clothstore/building_clothstore_270"
+      }
+    ],
+    "multibuildings": [
+      {
+        "factor": 0.4,
+        "value": "deceasedcraft:multi_gasstation"
+      },
+      {
+        "factor": 0.4,
+        "value": "deceasedcraft:multi_cafe"
+      },
+      {
+        "factor": 0.4,
+        "value": "deceasedcraft:multi_convenientstore"
+      },
+      {
+        "factor": 0.3,
+        "value": "deceasedcraft:multi_gunstore"
+      },
+      {
+        "factor": 0.3,
+        "value": "deceasedcraft:multi_hospital"
+      },
+      {
+        "factor": 0.3,
+        "value": "deceasedcraft:multi_terraceplaza"
+      }
+    ],
+    "bridges": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:bridge_1"
+      }
+    ],
+    "fronts": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fronts/front_dummy"
+      }
+    ],
+    "stairs": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_1"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_2"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_5"
+      }
+    ],
+    "fountains": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fountains/fountain_6"
+      }
+    ],
+    "parks": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_1"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_2"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:parks/park_3"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_4"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:parks/park_5"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_6"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_8"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_9"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_10"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_11"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_12"
+      }
+    ],
+    "raildungeons": [
+      {
+        "factor": 1.0,
+        "value": "rail_dungeon1"
+      }
+    ]
+  },
+  "buildingsettings": {
+    "buildingchance": 0.2
+  }
+}

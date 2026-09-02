@@ -1,0 +1,123 @@
+{
+  "name": "multi_casino_2_base9_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:brown_bed[occupied=false,part=head,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "g",
+      "block": "minecraft:ender_chest[waterlogged=false,facing=south]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_2/base9/iron_locker"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:brown_bed[occupied=false,part=foot,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "j",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_2/base9/metalshelvesfive"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_2/base9/metalshelvesfive"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_casino_2/base9/lootr_chest"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_2/base9/metalshelvesfive"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:bell[powered=false,facing=south,attachment=single_wall]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:display_link"
+      }
+    },
+    {
+      "char": "A",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    }
+  ]
+}

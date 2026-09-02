@@ -1,0 +1,275 @@
+{
+  "name": "multi_timbertower_3_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:zombie_head[rotation=12]",
+      "tag": {
+        "id": "minecraft:skull"
+      }
+    },
+    {
+      "char": "l",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:red_nether_brick_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:red_nether_brick_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:dispenser[facing=west,triggered=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:nether_wart_block"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:dropper[facing=west,triggered=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_timbertower_0/ground/iron_locker"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:infested_mossy_stone_bricks"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:infested_stone_bricks"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:infested_cracked_stone_bricks"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:stonecutter[facing=north]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_timbertower_0/ground/spruce_crate"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_timbertower_0/ground/iron_locker"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_timbertower_0/ground/iron_locker"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:observer[powered=false,facing=west]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:bell[powered=false,facing=south,attachment=floor]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_timbertower_0/ground/iron_locker"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_timbertower_0/ground/medical_storage"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_timbertower_0/ground/iron_locker"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:brewing_stand[has_bottle_2=false,has_bottle_0=false,has_bottle_1=false]"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:tnt[unstable=false]"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:air"
+    }
+  ]
+}

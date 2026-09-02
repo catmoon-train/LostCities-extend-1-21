@@ -1,0 +1,59 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 5,
+  "maxfloors": 6,
+  "mincellars": 1,
+  "maxcellars": 1,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:building_office1b/building_office1b_base1_90"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_office1b/building_office1b_ground_90"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office1b/building_office1b_floor1_90"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office1b/building_office1b_floor2_90"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office1b/building_office1b_floor3_90"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office1b/building_office1b_top_90"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_office1b/building_office1b_base1_90",
+      "part": "deceasedcraft:building_office1b/building_office1bpart2_base1_90"
+    },
+    {
+      "inpart": "deceasedcraft:building_office1b/building_office1b_floor3_90",
+      "part": "deceasedcraft:building_office1b/building_office1bpart2_floor3_90"
+    }
+  ]
+}

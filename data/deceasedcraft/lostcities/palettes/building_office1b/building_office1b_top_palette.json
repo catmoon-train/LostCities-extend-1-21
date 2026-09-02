@@ -1,0 +1,319 @@
+{
+  "name": "building_office1b_top_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:smooth_sandstone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:stripped_dark_oak_log[axis=y]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:planter_box",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "quark:dark_oak_hedge",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "T",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_office1b/top/dark_fridge"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:building_office1b/top/dark_fridge"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:black_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "refurbished_furniture:ceiling_fan"
+      }
+    },
+    {
+      "char": "7",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    }
+  ]
+}

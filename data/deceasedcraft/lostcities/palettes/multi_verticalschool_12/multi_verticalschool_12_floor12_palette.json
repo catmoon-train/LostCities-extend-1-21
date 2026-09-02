@@ -1,0 +1,142 @@
+{
+  "name": "multi_verticalschool_12_floor12_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:jungle_log[axis=y]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:white_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "minecraft:flowering_azalea_leaves",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:flowering_azalea_leaves",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:flowering_azalea_leaves",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:azalea_leaves",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:azalea_leaves",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:flowering_azalea_leaves",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:flowering_azalea_leaves",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:flowering_azalea_leaves",
+            "Count": 1
+          }
+        ]
+      }
+    }
+  ]
+}

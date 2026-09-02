@@ -1,0 +1,23 @@
+{
+  "name": "front_highrise_office_vending_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:front_highrise_office/vending/porpsi_vending_machine"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:front_highrise_office/vending/coke_vending_machine"
+    }
+  ]
+}

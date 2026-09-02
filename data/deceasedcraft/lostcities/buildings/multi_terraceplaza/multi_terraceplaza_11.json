@@ -1,0 +1,92 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 6,
+  "maxfloors": 6,
+  "mincellars": 2,
+  "maxcellars": 2,
+  "preferslonely": 1.0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11_base2",
+      "floor": -2
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11_base1",
+      "floor": -1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11_ground"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11_floor1",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11_floor2",
+      "floor": 2
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11_floor3",
+      "floor": 3
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11_floor4",
+      "floor": 4
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11_floor5",
+      "floor": 5
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11_floor6",
+      "floor": 6
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11_base2",
+      "part": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11part2_base2"
+    },
+    {
+      "inpart": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11_floor1",
+      "part": "deceasedcraft:multi_terraceplaza_11/multi_terraceplaza_11part2_floor1"
+    }
+  ]
+}

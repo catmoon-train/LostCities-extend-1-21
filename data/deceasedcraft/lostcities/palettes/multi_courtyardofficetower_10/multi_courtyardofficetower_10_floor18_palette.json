@@ -1,0 +1,357 @@
+{
+  "name": "multi_courtyardofficetower_10_floor18_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:spruce_planks"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:black_stained_glass"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:gray_stained_glass"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:stripped_spruce_log[axis=y]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=south]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:spruce_button[powered=false,facing=north,face=wall]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:spruce_pressure_plate[powered=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "bakery:chocolate_glazed_cookie",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "bakery:chocolate_glazed_cookie",
+            "Count": 1
+          },
+          {
+            "Slot": 2,
+            "id": "bakery:chocolate_glazed_cookie",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "bakery:apple_cupcake",
+            "Count": 1
+          },
+          {
+            "Slot": 4,
+            "id": "bakery:apple_cupcake",
+            "Count": 1
+          },
+          {
+            "Slot": 5,
+            "id": "bakery:apple_cupcake",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "bakery:strawberry_cupcake",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "bakery:strawberry_cupcake",
+            "Count": 1
+          },
+          {
+            "Slot": 2,
+            "id": "bakery:strawberry_cupcake",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "bakery:sweetberry_cupcake",
+            "Count": 1
+          },
+          {
+            "Slot": 4,
+            "id": "bakery:sweetberry_cupcake",
+            "Count": 1
+          },
+          {
+            "Slot": 5,
+            "id": "bakery:sweetberry_cupcake",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "bakery:jam_roll",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "bakery:jam_roll",
+            "Count": 1
+          },
+          {
+            "Slot": 2,
+            "id": "bakery:jam_roll",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "bakery:cornet",
+            "Count": 1
+          },
+          {
+            "Slot": 4,
+            "id": "bakery:cornet",
+            "Count": 1
+          },
+          {
+            "Slot": 5,
+            "id": "bakery:cornet",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "bakery:chocolate_cake",
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "bakery:strawberry_cake",
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "bakery:sweetberry_cake",
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "O",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_courtyardofficetower_6/floor18/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_courtyardofficetower_6/floor18/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_courtyardofficetower_6/floor18/lootr_chest"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    }
+  ]
+}

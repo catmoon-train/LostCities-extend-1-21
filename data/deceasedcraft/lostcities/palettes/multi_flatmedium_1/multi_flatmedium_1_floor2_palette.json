@@ -1,0 +1,302 @@
+{
+  "name": "multi_flatmedium_1_floor2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_diorite"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:cracked_stone_bricks"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_flatmedium_0/floor1/stripped_spruce_kitchen_drawer"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:green_bed[occupied=false,part=foot,facing=south]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:green_bed[occupied=false,part=head,facing=south]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_flatmedium_0/floor1/stripped_spruce_kitchen_drawer"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:stripped_spruce_log[axis=x]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_flatmedium_0/floor1/white_kitchen_drawer"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_flatmedium_1/floor2/spruce_crate"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_flatmedium_1/floor2/spruce_crate"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:stone_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_flatmedium_0/floor1/light_fridge"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:spruce_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_flatmedium_0/floor1/white_kitchen_drawer"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_flatmedium_0/floor1/white_kitchen_drawer"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "refurbished_furniture:ceiling_fan"
+      }
+    },
+    {
+      "char": "(",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:cauldron"
+    }
+  ]
+}

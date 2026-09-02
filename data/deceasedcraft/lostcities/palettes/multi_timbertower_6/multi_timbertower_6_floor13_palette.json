@@ -1,0 +1,78 @@
+{
+  "name": "multi_timbertower_6_floor13_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:spruce_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:spruce_planks"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:birch_planks"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stripped_oak_log[axis=y]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:spruce_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:calcite_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "j",
+      "block": "minecraft:calcite_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "m",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:polished_andesite"
+    }
+  ]
+}

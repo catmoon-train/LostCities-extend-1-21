@@ -1,0 +1,45 @@
+{
+  "name": "multi_hospital_3part2_base2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:redstone_wire[power=0,west=none,east=none,south=side,north=side]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:redstone_torch[lit=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:redstone_torch[lit=true]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:redstone_wire[power=0,west=none,east=side,south=side,north=none]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=none,south=none,north=side]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:redstone_lamp[lit=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=none,north=none]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:redstone_block"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:redstone_wire[power=0,west=none,east=side,south=none,north=side]"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "name": "multi_thering_19_floor6_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:calcite"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:mud"
+    },
+    {
+      "char": "h",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    }
+  ]
+}

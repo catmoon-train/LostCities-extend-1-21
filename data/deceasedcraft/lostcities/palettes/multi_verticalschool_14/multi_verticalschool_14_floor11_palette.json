@@ -1,0 +1,82 @@
+{
+  "name": "multi_verticalschool_14_floor11_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:sticky_piston[extended=true,facing=up]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:white_stained_glass"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:lever[powered=true,facing=north,face=wall]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:piston[extended=true,facing=south]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:piston_head[type=sticky,facing=up,short=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:piston_head[type=normal,facing=south,short=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:white_concrete"
+    },
+    {
+      "char": "j",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "name": "multi_filmworkstower_13_base3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:mud"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:lime_concrete"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:oak_log[axis=y]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:azalea_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:white_bed[occupied=false,part=head,facing=east]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "n",
+      "block": "minecraft:flowering_azalea_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:smithing_table"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:oak_log[axis=x]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:mossy_cobblestone"
+    }
+  ]
+}

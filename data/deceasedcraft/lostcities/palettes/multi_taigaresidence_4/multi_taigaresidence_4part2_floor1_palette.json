@@ -1,0 +1,47 @@
+{
+  "name": "multi_taigaresidence_4part2_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "blocks": [
+        {
+          "random": 22,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 106,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_brick_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:black_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "blocks": [
+        {
+          "random": 22,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 106,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "f",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+    }
+  ]
+}

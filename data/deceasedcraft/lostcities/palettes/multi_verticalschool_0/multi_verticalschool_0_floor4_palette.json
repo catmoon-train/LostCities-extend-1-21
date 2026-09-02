@@ -1,0 +1,34 @@
+{
+  "name": "multi_verticalschool_0_floor4_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:white_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:smooth_red_sandstone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "e",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    }
+  ]
+}

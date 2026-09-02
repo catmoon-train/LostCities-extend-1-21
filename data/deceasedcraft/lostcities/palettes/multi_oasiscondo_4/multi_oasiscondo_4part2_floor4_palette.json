@@ -1,0 +1,22 @@
+{
+  "name": "multi_oasiscondo_4part2_floor4_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:redstone_torch[lit=true]"
+    },
+    {
+      "char": "b",
+      "blocks": [
+        {
+          "random": 22,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 106,
+          "block": "minecraft:air"
+        }
+      ]
+    }
+  ]
+}

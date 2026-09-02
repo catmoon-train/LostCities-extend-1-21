@@ -1,0 +1,198 @@
+{
+  "name": "multi_casino_2_floor4_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:quartz_pillar[axis=z]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:quartz_pillar[axis=y]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_8/base6/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_8/base6/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:dark_oak_button[powered=false,facing=east,face=wall]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:heavy_weighted_pressure_plate[power=0]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:gray_wool"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:red_wool"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:black_wool"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:noir_wine",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 4,
+            "id": "vinery:noir_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 9
+      }
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "vinery:cherry_wine",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "vinery:cherry_wine",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 8,
+            "id": "vinery:cherry_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 9
+      }
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:dark_oak_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_casino_8/base6/dark_oak_storage_cabinet"
+    }
+  ]
+}

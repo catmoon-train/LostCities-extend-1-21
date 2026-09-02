@@ -1,0 +1,135 @@
+{
+  "name": "station_staircase_palette",
+  "palette": [
+    {
+      "char": "!",
+      "block": "minecraft:diamond_block",
+      "mob": "easymobs"
+    },
+    {
+      "char": "~",
+      "block": "minecraft:structure_void"
+    },
+    {
+      "char": "G",
+      "block": "minecraft:grass_block"
+    },
+    {
+      "char": "H",
+      "block": "minecraft:sandstone"
+    },
+    {
+      "char": "@",
+      "block": "minecraft:tinted_glass"
+    },
+    {
+      "char": "=",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "_",
+      "block": "minecraft:cobblestone_wall"
+    },
+    {
+      "char": "v",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": " ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "a",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_brick_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:water[level=0]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:cave_vines[age=17,berries=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:cave_vines[age=16,berries=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:cave_vines[age=19,berries=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:cave_vines[age=3,berries=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:cave_vines[age=18,berries=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:cave_vines_plant[berries=false]"
+    },
+    {
+      "char": "o",
+      "blocks": [
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "p",
+      "block": "minecraft:cave_vines[age=23,berries=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:cave_vines[age=11,berries=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:cave_vines[age=14,berries=false]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:cave_vines[age=4,berries=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    }
+  ]
+}

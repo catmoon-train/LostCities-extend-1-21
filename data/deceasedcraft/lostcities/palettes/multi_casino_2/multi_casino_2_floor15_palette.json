@@ -1,0 +1,76 @@
+{
+  "name": "multi_casino_2_floor15_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:brown_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:brown_stained_glass"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:end_rod[facing=down]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:chain[waterlogged=false,axis=y]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:calcite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:display_link"
+      }
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    }
+  ]
+}

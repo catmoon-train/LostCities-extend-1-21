@@ -1,0 +1,31 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 1,
+  "maxfloors": 1,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_flowershop/building_flowershop_ground_90"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_flowershop/building_flowershop_top_90"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_flowershop/building_flowershop_ground_90",
+      "part": "deceasedcraft:building_flowershop/building_flowershoppart2_ground_90"
+    }
+  ]
+}

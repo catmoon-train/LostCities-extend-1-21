@@ -1,0 +1,420 @@
+{
+  "name": "building_flowershop_ground_palette_90",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:cobblestone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:building_flowershop/ground/lootr_chest"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:smooth_sandstone"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_flowershop/ground/cherry_crate"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_flowershop/ground/cherry_crate"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:jungle_door[half=lower,powered=false,open=true,hinge=left,facing=south]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:jungle_log[axis=y]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [],
+        "size": 2
+      }
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_flowershop/ground/jungle_drawer"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:water_cauldron[level=3]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:stripped_jungle_log[axis=y]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=true,hinge=right,facing=north]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_flowershop/ground/jungle_drawer"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [],
+        "size": 2
+      }
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:jungle_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:jungle_door[half=upper,powered=false,open=true,hinge=left,facing=south]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:potted_torchflower"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:flower_pot"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:decorated_pot[waterlogged=false,cracked=false,facing=west]",
+      "tag": {
+        "id": "minecraft:decorated_pot"
+      }
+    },
+    {
+      "char": "5",
+      "block": "minecraft:potted_jungle_sapling"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:flowering_azalea_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:potted_flowering_azalea_bush"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:cherry_leaves"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:jungle_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=true,hinge=right,facing=north]"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:building_flowershop/ground/lootr_chest"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:cherry_leaves"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:potted_white_tulip"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:potted_red_tulip"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:potted_orange_tulip"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:potted_pink_tulip"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:potted_lily_of_the_valley"
+    },
+    {
+      "char": "|",
+      "block": "minecraft:potted_allium"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:potted_cornflower"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:potted_dandelion"
+    },
+    {
+      "char": "'",
+      "block": "minecraft:potted_poppy"
+    },
+    {
+      "char": "<",
+      "block": "minecraft:potted_blue_orchid"
+    },
+    {
+      "char": ">",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": ",",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ".",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "?",
+      "block": "minecraft:daylight_detector[power=2,inverted=true]"
+    },
+    {
+      "char": "/",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "`",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Ͱ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͱ",
+      "block": "minecraft:hellbark_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+    },
+    {
+      "char": "Ͳ",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "ͳ",
+      "block": "minecraft:hellbark_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=south]"
+    },
+    {
+      "char": "ʹ",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "͵",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "Ͷ",
+      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "ͷ",
+      "block": "minecraft:stripped_jungle_log[axis=z]"
+    },
+    {
+      "char": "ͺ",
+      "block": "minecraft:stripped_jungle_log[axis=x]"
+    },
+    {
+      "char": "ͻ",
+      "block": "minecraft:end_rod[facing=north]"
+    },
+    {
+      "char": "ͼ",
+      "block": "minecraft:end_rod[facing=south]"
+    },
+    {
+      "char": "ͽ",
+      "block": "minecraft:jungle_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": ";",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "Ϳ",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "΄",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "΅",
+      "block": "minecraft:jungle_button[powered=false,facing=east,face=wall]"
+    }
+  ]
+}

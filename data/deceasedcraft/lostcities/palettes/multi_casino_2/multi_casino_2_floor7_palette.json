@@ -1,0 +1,60 @@
+{
+  "name": "multi_casino_2_floor7_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:quartz_pillar[axis=y]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=east]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:display_link"
+      }
+    },
+    {
+      "char": "k",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:polished_andesite"
+    }
+  ]
+}

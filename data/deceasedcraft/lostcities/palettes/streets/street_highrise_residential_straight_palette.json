@@ -1,0 +1,66 @@
+{
+  "name": "street_highrise_residential_straight_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:spruce_planks"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:polished_deepslate_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "blocks": [
+        {
+          "random": 74,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 12,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    }
+  ]
+}

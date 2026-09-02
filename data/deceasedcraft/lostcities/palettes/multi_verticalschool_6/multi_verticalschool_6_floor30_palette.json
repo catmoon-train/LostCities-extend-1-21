@@ -1,0 +1,119 @@
+{
+  "name": "multi_verticalschool_6_floor30_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:smooth_sandstone"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:magma_block"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:basalt[axis=x]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:ancient_debris"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:sculk"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_verticalschool_6/floor30/medical_storage"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:warped_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:oak_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:warped_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:sculk_catalyst[bloom=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:warped_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:warped_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_6/floor30/medical_storage"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:calibrated_sculk_sensor[waterlogged=false,power=0,facing=north,sculk_sensor_phase=inactive]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:hopper[enabled=true,facing=west]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:polished_andesite"
+    }
+  ]
+}

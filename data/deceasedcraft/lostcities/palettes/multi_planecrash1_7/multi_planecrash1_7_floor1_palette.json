@@ -1,0 +1,48 @@
+{
+  "name": "multi_planecrash1_7_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:structure_void"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:calcite_slab[type=top,waterlogged=true]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:calcite_slab[type=west,waterlogged=true]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "g",
+      "block": "minecraft:calcite_slab[type=bottom,waterlogged=true]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:calcite_stairs[waterlogged=true,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:calcite_stairs[waterlogged=true,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:calcite_slab[type=east,waterlogged=true]"
+    }
+  ]
+}

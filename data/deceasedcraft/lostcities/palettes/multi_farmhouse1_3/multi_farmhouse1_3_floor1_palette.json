@@ -1,0 +1,44 @@
+{
+  "name": "multi_farmhouse1_3_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:crimson_fence[waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:acacia_sapling[stage=1]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:creeper_head[rotation=4]",
+      "tag": {
+        "id": "minecraft:skull"
+      }
+    },
+    {
+      "char": "i",
+      "block": "minecraft:structure_void"
+    }
+  ]
+}

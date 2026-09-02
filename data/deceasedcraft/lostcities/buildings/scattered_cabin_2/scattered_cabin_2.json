@@ -1,0 +1,40 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 2,
+  "maxfloors": 2,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:scattered_cabin_2/scattered_cabin_2_ground",
+      "floor": 0
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:scattered_cabin_2/scattered_cabin_2_floor1",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:scattered_cabin_2/scattered_cabin_2_top",
+      "floor": 2
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:scattered_cabin_2/scattered_cabin_2_floor1",
+      "part": "deceasedcraft:scattered_cabin_2/scattered_cabin_2part2_floor1"
+    }
+  ]
+}

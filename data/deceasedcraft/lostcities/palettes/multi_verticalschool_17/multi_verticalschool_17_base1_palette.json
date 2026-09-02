@@ -1,0 +1,30 @@
+{
+  "name": "multi_verticalschool_17_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:void_air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    }
+  ]
+}

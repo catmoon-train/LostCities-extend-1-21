@@ -1,0 +1,209 @@
+{
+  "name": "multi_verticalschool_7_floor15_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:end_rod[facing=down]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:jungle_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "q",
+      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:jungle_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "u",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=wall]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:ladder[waterlogged=false,facing=east]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:azalea_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:dead_bush"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    }
+  ]
+}

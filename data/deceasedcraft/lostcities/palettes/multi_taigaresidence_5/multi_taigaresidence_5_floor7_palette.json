@@ -1,0 +1,436 @@
+{
+  "name": "multi_taigaresidence_5_floor7_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=south,shape=inner_left]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 0,
+          "Z": 2,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 0,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 0,
+          "Z": 2,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 0,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 1,
+          "Z": 2,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 1,
+          "Z": 1,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 1,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 1,
+          "Z": 2,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 1,
+          "Z": 0,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 1,
+          "Z": 2,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 1,
+          "Z": 1,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 1,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "M",
+      "block": "minecraft:lightning_rod[waterlogged=false,powered=false,facing=up]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 2,
+          "Z": 2,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 2,
+          "Z": 1,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 2,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 2,
+          "Z": 2,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 2,
+          "Z": 0,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 2,
+          "Z": 2,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 2,
+          "Z": 1,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 2,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 3,
+          "Z": 2,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 3,
+          "Z": 1,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 3,
+          "Z": 0,
+          "X": 0
+        }
+      }
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 3,
+          "Z": 2,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 3,
+          "Z": 0,
+          "X": 1
+        }
+      }
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 3,
+          "Z": 2,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 3,
+          "Z": 1,
+          "X": 2
+        }
+      }
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "posInMB": {
+          "Y": 3,
+          "Z": 0,
+          "X": 2
+        }
+      }
+    }
+  ]
+}

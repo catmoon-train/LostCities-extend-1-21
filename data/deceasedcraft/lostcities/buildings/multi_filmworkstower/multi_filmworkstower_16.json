@@ -1,0 +1,130 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 16,
+  "maxfloors": 17,
+  "mincellars": 3,
+  "maxcellars": 3,
+  "preferslonely": 1.0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_base3",
+      "floor": -3
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_base2",
+      "floor": -2
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_base1",
+      "floor": -1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_ground"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_floor1",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_floor2",
+      "floor": 2
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_floor3",
+      "floor": 3
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_floor4",
+      "floor": 4
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_floor5",
+      "range": "5,9"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_floor6",
+      "range": "5,9"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_floor7",
+      "range": "5,9"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_floor8",
+      "floor": 10
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_floor9",
+      "range": "11,17"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_floor10",
+      "range": "11,17"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_floor11",
+      "range": "11,17"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16_ground",
+      "part": "deceasedcraft:multi_filmworkstower_16/multi_filmworkstower_16part2_ground"
+    }
+  ]
+}

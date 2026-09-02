@@ -1,0 +1,82 @@
+{
+  "name": "multi_verticalschool_13_floor3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:spruce_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:white_stained_glass"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "i",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "j",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:flowering_azalea_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:azalea_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:dead_bush"
+    }
+  ]
+}

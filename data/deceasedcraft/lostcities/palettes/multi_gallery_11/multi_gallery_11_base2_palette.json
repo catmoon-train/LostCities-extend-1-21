@@ -1,0 +1,89 @@
+{
+  "name": "multi_gallery_11_base2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:deepslate[axis=y]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:bamboo_fence[waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:bamboo[leaves=none,age=1,stage=0]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:bamboo[leaves=none,age=0,stage=0]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:moss_carpet"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:fluid_pipe"
+      }
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:fluid_pipe"
+      }
+    },
+    {
+      "char": "l",
+      "block": "minecraft:bamboo_fence[waterlogged=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:bamboo_fence[waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:bamboo[leaves=small,age=0,stage=0]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:bamboo[leaves=small,age=1,stage=0]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:mechanical_pump"
+      }
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:fluid_pipe"
+      }
+    },
+    {
+      "char": "r",
+      "block": "minecraft:bamboo[leaves=large,age=1,stage=0]"
+    }
+  ]
+}

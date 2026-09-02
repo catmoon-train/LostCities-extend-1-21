@@ -1,0 +1,106 @@
+{
+  "name": "multi_verticalschool_15_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:smooth_sandstone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:comparator[powered=false,facing=east,mode=subtract]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:palm_planks"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:palm_pressure_plate[powered=false]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:palm_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:palm_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:palm_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:palm_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "x",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    }
+  ]
+}

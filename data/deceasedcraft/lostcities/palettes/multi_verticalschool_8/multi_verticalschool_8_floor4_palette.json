@@ -1,0 +1,74 @@
+{
+  "name": "multi_verticalschool_8_floor4_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:dead_bush"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:oak_leaves"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:jungle_fence[waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "n",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:smooth_red_sandstone_slab[type=top,waterlogged=false]"
+    }
+  ]
+}

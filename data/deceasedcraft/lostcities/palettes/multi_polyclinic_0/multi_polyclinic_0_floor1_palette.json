@@ -1,0 +1,29 @@
+{
+  "name": "multi_polyclinic_0_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:calcite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "name": "stair_2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:void_air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "m",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    }
+  ]
+}

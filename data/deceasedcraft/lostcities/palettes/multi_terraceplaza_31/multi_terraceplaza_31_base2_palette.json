@@ -1,0 +1,246 @@
+{
+  "name": "multi_terraceplaza_31_base2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_terraceplaza_31/base2/brown_kitchen_drawer"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:maple_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:maple_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:maple_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:maple_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_terraceplaza_31/base2/lootr_chest"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:composter[level=0]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "conveyorBeltSubtypeNBT": {
+          "direction": 0
+        }
+      }
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_terraceplaza_31/base2/safe"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:jungle_fence[waterlogged=false]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:pumpkin"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:carved_pumpkin[facing=west]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:carved_pumpkin[facing=south]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:acacia_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:melon"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:birch_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:bamboo_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:bamboo_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:empyreal_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:birch_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:empyreal_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:mangrove_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:end_rod[facing=south]"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:end_rod[facing=north]"
+    }
+  ]
+}

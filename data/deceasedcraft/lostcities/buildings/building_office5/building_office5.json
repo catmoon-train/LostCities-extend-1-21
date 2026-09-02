@@ -1,0 +1,79 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 5,
+  "maxfloors": 6,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_office5/building_office5_ground"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office5/building_office5_floor1",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office5/building_office5_floor2",
+      "range": "2,5"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office5/building_office5_floor3",
+      "range": "2,5"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office5/building_office5_floor4",
+      "range": "2,5"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office5/building_office5_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_office5/building_office5_ground",
+      "part": "deceasedcraft:building_office5/building_office5part2_ground"
+    },
+    {
+      "inpart": "deceasedcraft:building_office5/building_office5_floor1",
+      "part": "deceasedcraft:building_office5/building_office5part2_floor1"
+    },
+    {
+      "inpart": "deceasedcraft:building_office5/building_office5_floor2",
+      "part": "deceasedcraft:building_office5/building_office5part2_floor2"
+    },
+    {
+      "inpart": "deceasedcraft:building_office5/building_office5_floor3",
+      "part": "deceasedcraft:building_office5/building_office5part2_floor3"
+    },
+    {
+      "inpart": "deceasedcraft:building_office5/building_office5_floor4",
+      "part": "deceasedcraft:building_office5/building_office5part2_floor4"
+    },
+    {
+      "inpart": "deceasedcraft:building_office5/building_office5_top",
+      "part": "deceasedcraft:building_office5/building_office5part2_top"
+    }
+  ]
+}

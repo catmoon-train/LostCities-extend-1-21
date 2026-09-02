@@ -1,0 +1,127 @@
+{
+  "name": "highway_open_car_palette",
+  "palette": [
+    {
+      "char": "!",
+      "block": "minecraft:diamond_block",
+      "mob": "easymobs"
+    },
+    {
+      "char": "~",
+      "block": "minecraft:structure_void"
+    },
+    {
+      "char": "G",
+      "block": "minecraft:grass_block"
+    },
+    {
+      "char": "H",
+      "block": "minecraft:sandstone"
+    },
+    {
+      "char": "@",
+      "block": "minecraft:tinted_glass"
+    },
+    {
+      "char": "=",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "_",
+      "block": "minecraft:cobblestone_wall"
+    },
+    {
+      "char": "v",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": " ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "a",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_brick_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "r",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "name": "multi_casino_6_floor4_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:quartz_pillar[axis=y]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_8/base6/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:black_wool"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_8/base6/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_8/base6/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_8/base6/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:oak_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:solaris_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "T",
+      "block": "minecraft:black_candle[waterlogged=false,candles=4,lit=false]"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:yellow_candle[waterlogged=false,candles=4,lit=false]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:blue_candle[waterlogged=false,candles=4,lit=false]"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 4,
+            "id": "vinery:cherry_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 9
+      }
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "vinery:cherry_wine",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "vinery:cherry_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 9
+      }
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "vinery:noir_wine",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "vinery:noir_wine",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 4,
+            "id": "vinery:noir_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 9
+      }
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_casino_8/base6/dark_oak_storage_cabinet"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 4,
+            "id": "vinery:solaris_wine",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 8,
+            "id": "vinery:solaris_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 9
+      }
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:solaris_wine",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 4,
+            "id": "vinery:solaris_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 9
+      }
+    },
+    {
+      "char": "5",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 4,
+            "id": "vinery:solaris_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 9
+      }
+    }
+  ]
+}

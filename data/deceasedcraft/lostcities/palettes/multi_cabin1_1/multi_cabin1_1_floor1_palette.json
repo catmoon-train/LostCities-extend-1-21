@@ -1,0 +1,91 @@
+{
+  "name": "multi_cabin1_1_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:tuff_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:barrel[open=false,facing=east]",
+      "loot": "deceasedcraft:multi_cabin1_1/floor1/lootr_chest"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:furnace[facing=west,lit=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:blast_furnace[facing=west,lit=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:multi_cabin1_1/floor1/lootr_chest"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:moss_carpet"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:bookshelf"
+    }
+  ]
+}

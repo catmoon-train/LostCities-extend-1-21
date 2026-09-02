@@ -1,0 +1,50 @@
+{
+  "name": "multi_verticalschool_12_floor3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:spruce_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "e",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "f",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:coarse_dirt"
+    }
+  ]
+}

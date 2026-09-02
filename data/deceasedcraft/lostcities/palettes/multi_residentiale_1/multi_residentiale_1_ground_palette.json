@@ -1,0 +1,220 @@
+{
+  "name": "multi_residentiale_1_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:coarse_dirt"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:fern"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dead_bush"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_residentiale_1/ground/lootr_chest"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:lantern[waterlogged=false]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=wall]"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:stripped_birch_log[axis=z]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:stripped_dark_oak_log[axis=z]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:warped_stem[axis=z]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:warped_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    }
+  ]
+}

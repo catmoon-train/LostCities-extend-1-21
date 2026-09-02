@@ -1,0 +1,85 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 2,
+  "maxfloors": 2,
+  "mincellars": 1,
+  "maxcellars": 1,
+  "preferslonely": 1.0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12_base1",
+      "floor": -1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12_ground"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12_floor1",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12_floor2",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12_floor3",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12_floor4",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12_floor5",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12_floor6",
+      "floor": 1
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12_base1",
+      "part": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12part2_base1"
+    },
+    {
+      "inpart": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12_ground",
+      "part": "deceasedcraft:multi_sunkenmonumentpark_12/multi_sunkenmonumentpark_12part2_ground"
+    }
+  ]
+}

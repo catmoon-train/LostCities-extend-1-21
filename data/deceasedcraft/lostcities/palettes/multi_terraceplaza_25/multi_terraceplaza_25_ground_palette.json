@@ -1,0 +1,688 @@
+{
+  "name": "multi_terraceplaza_25_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dark_oak_planks"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:fir_planks"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_terraceplaza_25/ground/dark_oak_kitchen_drawer"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 4
+      }
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [],
+        "size": 4
+      }
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 2,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 4
+      }
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 5,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:bread",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:bread",
+            "Count": 1
+          },
+          {
+            "Slot": 2,
+            "id": "minecraft:bread",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "minecraft:bread",
+            "Count": 1
+          }
+        ],
+        "size": 4
+      }
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 4
+      }
+    },
+    {
+      "char": "5",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [],
+        "size": 4
+      }
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 2,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 5,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "#",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 2,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "%",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 2,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "&",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_terraceplaza_25/ground/light_fridge"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "|",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "conveyorBeltSubtypeNBT": {
+          "direction": 0,
+          "cover": "minecraft:glass"
+        }
+      }
+    },
+    {
+      "char": ";",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 2,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "'",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 2,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "<",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": ">",
+      "block": "minecraft:air"
+    },
+    {
+      "char": ",",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "conveyorBeltSubtypeNBT": {
+          "direction": 0
+        }
+      }
+    },
+    {
+      "char": ".",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "?",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "/",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 2,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "`",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 2,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "Ͱ",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "ͱ",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "Ͳ",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "ͳ",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "ʹ",
+      "block": "minecraft:stripped_dark_oak_log[axis=z]"
+    },
+    {
+      "char": "͵",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "Ͷ",
+      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=east]"
+    },
+    {
+      "char": "ͷ",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "ͺ",
+      "block": "minecraft:glass"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "name": "multi_flatapartment_1_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:netherrack"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:nether_bricks"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:quartz_pillar[axis=y]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:command_block[facing=up,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnCarBikeOrClassic"
+      }
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:stone_brick_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:stone_brick_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:spruce_planks"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:stone_brick_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:crimson_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_flatapartment_1/ground/spruce_drawer"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:crimson_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:stone_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_flatapartment_1/ground/spruce_drawer"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    }
+  ]
+}

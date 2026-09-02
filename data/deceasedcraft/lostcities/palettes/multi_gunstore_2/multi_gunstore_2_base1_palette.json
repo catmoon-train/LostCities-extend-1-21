@@ -1,0 +1,185 @@
+{
+  "name": "multi_gunstore_2_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dark_oak_button[powered=false,facing=south,face=wall]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:dark_oak_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:dark_oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "tacz:ammo",
+            "tag": {
+              "AmmoId": "tacz:357mag"
+            },
+            "Count": 16
+          },
+          {
+            "Slot": 1,
+            "id": "tacz:ammo",
+            "tag": {
+              "AmmoId": "tacz:45acp"
+            },
+            "Count": 24
+          },
+          {
+            "Slot": 2,
+            "id": "tacz:ammo",
+            "tag": {
+              "AmmoId": "tacz:9mm"
+            },
+            "Count": 24
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "doapi:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "tacz:ammo",
+            "tag": {
+              "AmmoId": "tacz:357mag"
+            },
+            "Count": 16
+          },
+          {
+            "Slot": 1,
+            "id": "tacz:ammo",
+            "tag": {
+              "AmmoId": "tacz:45acp"
+            },
+            "Count": 24
+          },
+          {
+            "Slot": 2,
+            "id": "tacz:ammo",
+            "tag": {
+              "AmmoId": "tacz:9mm"
+            },
+            "Count": 24
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:dark_oak_pressure_plate[powered=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_gunstore_2/base1/dark_oak_drawer"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:dark_oak_button[powered=false,facing=north,face=wall]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_gunstore_2/base1/dark_oak_drawer"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:command_block[facing=north,conditional=false]",
+      "tag": {
+        "conditionMet": 1,
+        "auto": 1,
+        "Command": "spawnRandomDecentPistol 2 0"
+      }
+    },
+    {
+      "char": "x",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_gunstore_2/base1/lootr_chest"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    }
+  ]
+}

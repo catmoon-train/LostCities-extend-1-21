@@ -1,0 +1,118 @@
+{
+  "name": "multi_verticalschool_19_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:comparator[powered=false,facing=east,mode=subtract]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:comparator[powered=false,facing=east,mode=compare]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:smooth_sandstone"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:palm_planks"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:acacia_fence[waterlogged=false]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:palm_pressure_plate[powered=false]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:palm_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:palm_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:palm_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:palm_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "A",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "B",
+      "block": "minecraft:polished_andesite"
+    }
+  ]
+}

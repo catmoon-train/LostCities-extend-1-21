@@ -1,0 +1,141 @@
+{
+  "name": "multi_cabin2_0_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:spruce_planks"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:spruce_sapling[stage=1]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:dead_bush"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:fern"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:bookshelf"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:white_bed[occupied=false,part=head,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "m",
+      "block": "minecraft:white_bed[occupied=false,part=foot,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "n",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_cabin2_0/floor1/lootr_chest"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:stone_brick_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_cabin2_0/floor1/lootr_chest"
+    },
+    {
+      "char": "v",
+      "block": "minecraft:crafting_table"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:spruce_fence_gate[in_wall=false,powered=false,open=false,facing=south]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:structure_void"
+    },
+    {
+      "char": "z",
+      "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:stone_slab[waterlogged=false]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:stone_brick_stairs[waterlogged=true,half=bottom,facing=north,shape=straight]"
+    }
+  ]
+}

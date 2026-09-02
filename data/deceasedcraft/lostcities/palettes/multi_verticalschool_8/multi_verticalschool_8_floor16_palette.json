@@ -1,0 +1,114 @@
+{
+  "name": "multi_verticalschool_8_floor16_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:smooth_sandstone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor15/white_cooler"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:ladder[waterlogged=false,facing=north]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor15/oak_kitchen_drawer"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor15/oak_kitchen_drawer"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:multi_verticalschool_8/floor15/lootr_chest"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:smooth_quartz"
+    }
+  ]
+}

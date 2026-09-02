@@ -1,0 +1,374 @@
+{
+  "style": "deceasedcraft:highrise_office_style",
+  "inherit": "citystyle_config",
+  "streetblocks": {
+    "border": "v",
+    "wall": "_",
+    "street": "H",
+    "streetbase": "G",
+    "streetvariant": "=",
+    "parts": {
+      "all": [
+        "deceasedcraft:streets/street_highrise_office_all",
+        "deceasedcraft:streets/street_highrise_office_all_2",
+        "deceasedcraft:streets/street_highrise_office_all_3",
+        "deceasedcraft:streets/street_highrise_office_all_4",
+        "deceasedcraft:streets/street_highrise_office_all_police"
+      ],
+      "t": [
+        "deceasedcraft:streets/street_highrise_office_t_shape",
+        "deceasedcraft:streets/street_highrise_office_t_shape_adboard",
+        "deceasedcraft:streets/street_highrise_office_t_shape_bench",
+        "deceasedcraft:streets/street_highrise_office_t_shape_newspaper_store",
+        "deceasedcraft:streets/street_highrise_office_t_shape_bus_stop"
+      ],
+      "straight": [
+        "deceasedcraft:streets/street_highrise_office_straight",
+        "deceasedcraft:streets/street_highrise_office_straight_2",
+        "deceasedcraft:streets/street_highrise_office_straight_3",
+        "deceasedcraft:streets/street_highrise_office_straight_4",
+        "deceasedcraft:streets/street_highrise_office_straight_5",
+        "deceasedcraft:streets/street_highrise_office_straight_6"
+      ],
+      "bend": [
+        "deceasedcraft:streets/street_highrise_office_bend",
+        "deceasedcraft:streets/street_highrise_office_bend_2"
+      ],
+      "end": [
+        "deceasedcraft:streets/street_highrise_office_end"
+      ],
+      "none": [
+        "deceasedcraft:streets/street_highrise_office_none"
+      ],
+      "full": [
+        "deceasedcraft:streets/street_highrise_office_full"
+      ]
+    }
+  },
+  "parkblocks": {
+    "parkchance": 1.0,
+    "parkstreetthreshold": 8,
+    "elevation": "G"
+  },
+  "corridorblocks": {
+    "roof": " ",
+    "glass": " "
+  },
+  "railblocks": {
+    "railmain": " "
+  },
+  "sphereblocks": {
+    "glass": "@",
+    "border": "=",
+    "inner": "H"
+  },
+  "selectors": {
+    "buildings": [
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office1a/building_office1a"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office1a/building_office1a_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office1a/building_office1a_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office1a/building_office1a_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office1b/building_office1b"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office1b/building_office1b_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office1b/building_office1b_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office1b/building_office1b_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office2a/building_office2a"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office2a/building_office2a_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office2a/building_office2a_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office2a/building_office2a_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office2b/building_office2b"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office2b/building_office2b_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office2b/building_office2b_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office2b/building_office2b_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office3a/building_office3a"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office3a/building_office3a_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office3a/building_office3a_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office3a/building_office3a_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office3b/building_office3b"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office3b/building_office3b_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office3b/building_office3b_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office3b/building_office3b_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office3c/building_office3c"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office3c/building_office3c_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office3c/building_office3c_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office3c/building_office3c_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office4/building_office4"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office4/building_office4_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office4/building_office4_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office4/building_office4_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office5/building_office5"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office5/building_office5_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office5/building_office5_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_office5/building_office5_270"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_officebank/building_officebank"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_officebank/building_officebank_90"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_officebank/building_officebank_180"
+      },
+      {
+        "factor": 0.025,
+        "value": "deceasedcraft:building_officebank/building_officebank_270"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_policeoffice1/building_policeoffice1"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_policeoffice1/building_policeoffice1_90"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_policeoffice1/building_policeoffice1_180"
+      },
+      {
+        "factor": 0.0125,
+        "value": "deceasedcraft:building_policeoffice1/building_policeoffice1_270"
+      }
+    ],
+    "multibuildings": [
+      {
+        "factor": 0.6,
+        "value": "deceasedcraft:multi_workshop"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:multi_timbertower"
+      },
+      {
+        "factor": 0.3,
+        "value": "deceasedcraft:multi_officethefirst"
+      },
+      {
+        "factor": 0.3,
+        "value": "deceasedcraft:multi_filmworkstower"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:multi_courtyardofficetower"
+      }
+    ],
+    "bridges": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:bridge_1"
+      }
+    ],
+    "fronts": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fronts/front_highrise_office_1"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fronts/front_highrise_office_2"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fronts/front_highrise_office_3"
+      },
+      {
+        "factor": 0.5,
+        "value": "deceasedcraft:fronts/front_highrise_office_vending"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fronts/front_highrise_office_4"
+      }
+    ],
+    "stairs": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_1"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_2"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:stairs/stair_5"
+      }
+    ],
+    "fountains": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fountains/fountain_highrise_office_roadblock"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:fountains/fountain_highrise_office_trash"
+      }
+    ],
+    "parks": [
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_1"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_2"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:parks/park_3"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_4"
+      },
+      {
+        "factor": 0.2,
+        "value": "deceasedcraft:parks/park_5"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_6"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_8"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_9"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_10"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_11"
+      },
+      {
+        "factor": 1.0,
+        "value": "deceasedcraft:parks/park_12"
+      }
+    ],
+    "raildungeons": [
+      {
+        "factor": 1.0,
+        "value": "rail_dungeon1"
+      }
+    ]
+  },
+  "buildingsettings": {
+    "buildingchance": 0.4
+  }
+}

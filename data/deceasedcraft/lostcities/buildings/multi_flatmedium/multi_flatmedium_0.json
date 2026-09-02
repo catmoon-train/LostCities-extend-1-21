@@ -1,0 +1,59 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 5,
+  "maxfloors": 6,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_flatmedium_0/multi_flatmedium_0_ground"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_flatmedium_0/multi_flatmedium_0_floor1"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_flatmedium_0/multi_flatmedium_0_floor2"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_flatmedium_0/multi_flatmedium_0_floor3"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_flatmedium_0/multi_flatmedium_0_floor4"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_flatmedium_0/multi_flatmedium_0_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:multi_flatmedium_0/multi_flatmedium_0_ground",
+      "part": "deceasedcraft:multi_flatmedium_0/multi_flatmedium_0part2_ground"
+    },
+    {
+      "inpart": "deceasedcraft:multi_flatmedium_0/multi_flatmedium_0_floor3",
+      "part": "deceasedcraft:multi_flatmedium_0/multi_flatmedium_0part2_floor3"
+    }
+  ]
+}

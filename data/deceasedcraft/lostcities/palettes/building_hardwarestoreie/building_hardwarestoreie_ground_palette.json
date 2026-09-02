@@ -1,0 +1,298 @@
+{
+  "name": "building_hardwarestoreie_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:coarse_dirt"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:campfire[waterlogged=false,signal_fire=false,facing=west,lit=true]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:heavy_weighted_pressure_plate[power=0]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:daylight_detector[power=3,inverted=true]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:building_hardwarestoreie/ground/lootr_chest"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:daylight_detector[power=9,inverted=false]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:iron_ingot",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:iron_ingot",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "J",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "immersiveengineering:ingot_lead",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "immersiveengineering:ingot_lead",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "immersiveengineering:ingot_electrum",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "immersiveengineering:ingot_electrum",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "immersiveengineering:ingot_steel",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "immersiveengineering:ingot_steel",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": []
+      }
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "another_furniture:shelf",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "immersiveengineering:ingot_aluminum",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "immersiveengineering:ingot_aluminum",
+            "Count": 1
+          }
+        ]
+      }
+    },
+    {
+      "char": "W",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "loot": "deceasedcraft:building_hardwarestoreie/ground/lootr_chest"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=south]"
+    }
+  ]
+}

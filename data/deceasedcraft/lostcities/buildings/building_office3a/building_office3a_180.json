@@ -1,0 +1,75 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 5,
+  "maxfloors": 6,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_office3a/building_office3a_ground_180"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office3a/building_office3a_floor1_180",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office3a/building_office3a_floor2_180",
+      "floor": 2
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office3a/building_office3a_floor3_180",
+      "range": "3,5"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office3a/building_office3a_floor4_180",
+      "range": "3,5"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_office3a/building_office3a_top_180"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_office3a/building_office3a_ground_180",
+      "part": "deceasedcraft:building_office3a/building_office3apart2_ground_180"
+    },
+    {
+      "inpart": "deceasedcraft:building_office3a/building_office3a_floor1_180",
+      "part": "deceasedcraft:building_office3a/building_office3apart2_floor1_180"
+    },
+    {
+      "inpart": "deceasedcraft:building_office3a/building_office3a_floor2_180",
+      "part": "deceasedcraft:building_office3a/building_office3apart2_floor2_180"
+    },
+    {
+      "inpart": "deceasedcraft:building_office3a/building_office3a_floor4_180",
+      "part": "deceasedcraft:building_office3a/building_office3apart2_floor4_180"
+    },
+    {
+      "inpart": "deceasedcraft:building_office3a/building_office3a_top_180",
+      "part": "deceasedcraft:building_office3a/building_office3apart2_top_180"
+    }
+  ]
+}

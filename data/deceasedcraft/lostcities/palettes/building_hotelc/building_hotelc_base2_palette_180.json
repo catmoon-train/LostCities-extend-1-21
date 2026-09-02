@@ -1,0 +1,307 @@
+{
+  "name": "building_hotelc_base2_palette_180",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:calcite_stairs[waterlogged=true,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:soul_sand"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:magma_block"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:calcite_stairs[waterlogged=true,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:water[level=8]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:bubble_column[drag=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:bubble_column[drag=true]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:cobblestone_slab[type=south,waterlogged=true]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:kelp_plant"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:mossy_cobblestone"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:cobblestone_slab[type=east,waterlogged=true]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:stone_slab[type=top,waterlogged=true]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:cobblestone_slab[type=west,waterlogged=true]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:mossy_cobblestone_stairs[waterlogged=true,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:building_hotelc/base2/mechanics_tool_chest"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:mechanical_pump"
+      }
+    },
+    {
+      "char": "L",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:building_hotelc/base2/mechanics_tool_chest"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:fluid_pipe"
+      }
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:water[level=0]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=true]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:mossy_cobblestone_stairs[waterlogged=true,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:cobblestone_slab[type=north,waterlogged=true]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:mossy_cobblestone_wall[waterlogged=true,up=true]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:mechanical_pump"
+      }
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:kelp[age=25]"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:mossy_cobblestone_stairs[waterlogged=true,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=true]"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=true]"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "*",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "(",
+      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:fluid_pipe"
+      }
+    },
+    {
+      "char": "+",
+      "block": "minecraft:stone_brick_slab[type=south,waterlogged=true]"
+    },
+    {
+      "char": "-",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=true]"
+    },
+    {
+      "char": "[",
+      "block": "minecraft:cobblestone_wall[waterlogged=true,up=true]"
+    },
+    {
+      "char": "]",
+      "block": "minecraft:calcite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "{",
+      "block": "minecraft:mossy_cobblestone_stairs[waterlogged=true,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "}",
+      "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+    }
+  ]
+}

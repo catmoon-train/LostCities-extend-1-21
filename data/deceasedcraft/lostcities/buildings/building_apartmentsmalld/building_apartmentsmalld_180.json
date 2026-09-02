@@ -1,0 +1,65 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 4,
+  "maxfloors": 5,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalld_ground_180"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalld_floor1_180"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalld_floor2_180"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalld_floor3_180"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalld_top_180"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalld_ground_180",
+      "part": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalldpart2_ground_180"
+    },
+    {
+      "inpart": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalld_floor1_180",
+      "part": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalldpart2_floor1_180"
+    },
+    {
+      "inpart": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalld_floor2_180",
+      "part": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalldpart2_floor2_180"
+    },
+    {
+      "inpart": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalld_floor3_180",
+      "part": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalldpart2_floor3_180"
+    },
+    {
+      "inpart": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalld_top_180",
+      "part": "deceasedcraft:building_apartmentsmalld/building_apartmentsmalldpart2_top_180"
+    }
+  ]
+}

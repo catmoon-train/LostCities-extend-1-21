@@ -1,0 +1,98 @@
+{
+  "name": "multi_taigaresidence_3_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "u",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "name": "multi_hospital_0_base5_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:polished_blackstone"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:netherrack"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:magma_block"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:gray_concrete"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:soul_sand"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:nether_wart_block"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:water[level=0]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:warped_wart_block"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:bubble_column[drag=true]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:shroomlight"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospital_0/base5/white_kitchen_drawer"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:contraption_controls"
+      }
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_hospital_0/base5/white_kitchen_drawer"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:bubble_column[drag=false]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:contraption_controls"
+      }
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:contraption_controls"
+      }
+    },
+    {
+      "char": "B",
+      "block": "minecraft:brewing_stand[has_bottle_2=false,has_bottle_0=false,has_bottle_1=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:repeater[powered=false,facing=west,locked=false,delay=1]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    }
+  ]
+}

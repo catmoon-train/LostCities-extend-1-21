@@ -1,0 +1,128 @@
+{
+  "name": "multi_casino_3_floor4_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:quartz_pillar[axis=y]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:gray_wool"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:multi_casino_3/floor10/lootr_chest"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:gold_block"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_casino_3/floor10/lootr_chest"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:blue_candle[waterlogged=false,candles=3,lit=false]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:yellow_candle[waterlogged=false,candles=4,lit=false]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:black_candle[waterlogged=false,candles=3,lit=false]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:blue_candle[waterlogged=false,candles=4,lit=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "vinery:storage",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "vinery:noir_wine",
+            "tag": {},
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "vinery:noir_wine",
+            "tag": {},
+            "Count": 1
+          }
+        ],
+        "size": 3
+      }
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "create:flywheel"
+      }
+    },
+    {
+      "char": "y",
+      "block": "minecraft:yellow_candle[waterlogged=false,candles=2,lit=false]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:black_candle[waterlogged=false,candles=4,lit=false]"
+    }
+  ]
+}

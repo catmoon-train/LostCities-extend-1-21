@@ -1,0 +1,318 @@
+{
+  "name": "multi_terraceplaza_4_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:moss_block"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:fir_leaves"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:fir_planks"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:fir_pressure_plate[powered=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:stripped_dark_oak_log[axis=y]"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:dead_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:dead_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:polished_deepslate_wall[waterlogged=false,up=false]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_terraceplaza_4/ground/stripped_spruce_kitchen_drawer"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:white_stained_glass_pane[waterlogged=false]"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:white_stained_glass"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:light_gray_stained_glass"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_terraceplaza_4/ground/dark_fridge"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 4,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 5,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "0",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Items": [
+          {
+            "Slot": 0,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 1,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 3,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 4,
+            "id": "minecraft:air",
+            "Count": 1
+          },
+          {
+            "Slot": 5,
+            "id": "minecraft:air",
+            "Count": 1
+          }
+        ],
+        "size": 6
+      }
+    },
+    {
+      "char": "1",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "loot": "deceasedcraft:multi_terraceplaza_4/ground/lootr_chest"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_terraceplaza_4/ground/spruce_cabinet"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "#",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    },
+    {
+      "char": "$",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "%",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "^",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "&",
+      "block": "minecraft:spruce_fence[waterlogged=false]"
+    }
+  ]
+}

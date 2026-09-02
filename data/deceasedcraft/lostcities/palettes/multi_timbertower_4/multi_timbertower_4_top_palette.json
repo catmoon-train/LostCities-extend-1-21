@@ -1,0 +1,54 @@
+{
+  "name": "multi_timbertower_4_top_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:iron_bars[waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:cauldron"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "d",
+      "block": "minecraft:cobweb"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stripped_oak_log[axis=y]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air"
+      }
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stripped_oak_log[axis=z]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:stripped_oak_log[axis=x]"
+    }
+  ]
+}

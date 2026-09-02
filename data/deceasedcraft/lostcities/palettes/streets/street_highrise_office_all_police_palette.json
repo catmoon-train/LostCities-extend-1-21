@@ -1,0 +1,251 @@
+{
+  "name": "street_highrise_office_all_police_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:yellow_terracotta"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:polished_deepslate_wall[waterlogged=false,up=true]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=wall]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:polished_blackstone_button[powered=false,facing=north,face=wall]"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:polished_blackstone"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:coal_block"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:polished_diorite"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:ladder[waterlogged=false,facing=west]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:anvil[facing=east]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:observer[powered=false,facing=east]"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "loot": "deceasedcraft:street_highrise_office_all/police/lootr_chest"
+    },
+    {
+      "char": "J",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "K",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "minecraft:air",
+        "Facing": "west"
+      }
+    },
+    {
+      "char": "L",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:stone_button[powered=false,facing=south,face=wall]"
+    },
+    {
+      "char": "P",
+      "block": "minecraft:polished_blackstone_button[powered=false,facing=south,face=wall]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "R",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "S",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "U",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "V",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "W",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "X",
+      "block": "minecraft:polished_blackstone_pressure_plate[powered=false]"
+    },
+    {
+      "char": "Y",
+      "block": "minecraft:polished_blackstone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "Z",
+      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "0",
+      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+    },
+    {
+      "char": "1",
+      "block": "minecraft:magic_button[powered=false,facing=east,face=wall]"
+    },
+    {
+      "char": "2",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+    },
+    {
+      "char": "3",
+      "block": "minecraft:redwood_button[powered=false,facing=east,face=wall]"
+    },
+    {
+      "char": "4",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "5",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "6",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "7",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "8",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "9",
+      "block": "minecraft:air"
+    }
+  ]
+}

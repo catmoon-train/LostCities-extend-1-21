@@ -1,0 +1,37 @@
+{
+  "name": "building_officebankpart2_base2_palette_180",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:redstone_wall_torch[facing=east,lit=true]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:redstone_wall_torch[facing=west,lit=true]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:redstone_wall_torch[facing=south,lit=true]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=none,south=none,north=side]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:redstone_wire[power=0,west=none,east=side,south=none,north=side]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:redstone_wire[power=0,west=none,east=side,south=side,north=none]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:redstone_wall_torch[facing=north,lit=true]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:soul_lantern[waterlogged=false,hanging=true]"
+    }
+  ]
+}

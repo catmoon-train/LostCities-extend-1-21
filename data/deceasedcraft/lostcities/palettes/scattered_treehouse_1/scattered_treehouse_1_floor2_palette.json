@@ -1,0 +1,87 @@
+{
+  "name": "scattered_treehouse_1_floor2_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:oak_log[axis=x]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:oak_log[axis=y]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:lantern[waterlogged=false,hanging=true]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:ladder[waterlogged=false,facing=south]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:oak_leaves[waterlogged=false,persistent=false]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:oak_log[axis=z]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:oak_leaves[waterlogged=false,persistent=true]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:brown_bed[occupied=false,part=head,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "p",
+      "block": "minecraft:brown_bed[occupied=false,part=foot,facing=north]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "q",
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:cobweb"
+    }
+  ]
+}

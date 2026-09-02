@@ -1,0 +1,183 @@
+{
+  "outsidestyle": "outside",
+  "settings": {
+    "railwayavoidance": "block_railway",
+    "railpartheight6": 2
+  },
+  "multisettings": {
+    "areasize": 7,
+    "minimum": 0,
+    "maximum": 2,
+    "correctstylefactor": 0.5,
+    "attempts": 10
+  },
+  "scattered": {
+    "areasize": 7,
+    "chance": 0.8,
+    "weightnone": 20,
+    "list": [
+      {
+        "name": "deceasedcraft:scattered_cabin_1",
+        "weight": 15,
+        "maxheightdiff": 3,
+        "biomes": {}
+      },
+      {
+        "name": "deceasedcraft:scattered_cabin_2",
+        "weight": 15,
+        "maxheightdiff": 3,
+        "biomes": {}
+      },
+      {
+        "name": "deceasedcraft:scattered_cabin_3",
+        "weight": 15,
+        "maxheightdiff": 3,
+        "biomes": {}
+      },
+      {
+        "name": "deceasedcraft:scattered_foodtruck_1",
+        "weight": 15,
+        "maxheightdiff": 3,
+        "biomes": {}
+      },
+      {
+        "name": "deceasedcraft:scattered_treehouse_1",
+        "weight": 15,
+        "maxheightdiff": 3,
+        "biomes": {}
+      },
+      {
+        "name": "deceasedcraft:scattered_hideout_1",
+        "weight": 15,
+        "maxheightdiff": 2,
+        "biomes": {}
+      },
+      {
+        "name": "deceasedcraft:villager_1",
+        "weight": 5,
+        "maxheightdiff": 2,
+        "biomes": {}
+      },
+      {
+        "name": "deceasedcraft:multi_cabin1",
+        "weight": 25,
+        "maxheightdiff": 2,
+        "biomes": {}
+      },
+      {
+        "name": "deceasedcraft:multi_cabin2",
+        "weight": 25,
+        "maxheightdiff": 2,
+        "biomes": {}
+      },
+      {
+        "name": "deceasedcraft:multi_cabin3",
+        "weight": 25,
+        "maxheightdiff": 2,
+        "biomes": {}
+      },
+      {
+        "name": "deceasedcraft:multi_farmhouse1",
+        "weight": 15,
+        "maxheightdiff": 5,
+        "biomes": {}
+      },
+      {
+        "name": "deceasedcraft:multi_campsite1",
+        "weight": 15,
+        "maxheightdiff": 5,
+        "biomes": {}
+      },
+      {
+        "name": "deceasedcraft:multi_planecrash1",
+        "weight": 10,
+        "maxheightdiff": 2,
+        "biomes": {}
+      }
+    ]
+  },
+  "citybiomemultipliers": [
+    {
+      "multiplier": 1.0,
+      "biomes": {}
+    }
+  ],
+  "citystyles": [
+    {
+      "factor": 99999.0,
+      "citystyle": "deceasedcraft:suburb_residential",
+      "biomes": {}
+    },
+    {
+      "factor": 99999.0,
+      "citystyle": "deceasedcraft:highrise_office",
+      "biomes": {}
+    },
+    {
+      "factor": 99999.0,
+      "citystyle": "deceasedcraft:highrise_hotel",
+      "biomes": {}
+    },
+    {
+      "factor": 99999.0,
+      "citystyle": "deceasedcraft:highrise_residential",
+      "biomes": {}
+    },
+    {
+      "factor": 99999.0,
+      "citystyle": "deceasedcraft:retail_district",
+      "biomes": {}
+    },
+    {
+      "factor": 1.0,
+      "citystyle": "deceasedcraft:dummycity",
+      "biomes": {}
+    }
+  ],
+  "parts": {
+    "highways": {
+      "bridge": [
+        "deceasedcraft:highway_bridge",
+        "deceasedcraft:highway_bridge",
+        "deceasedcraft:highway_bridge",
+        "deceasedcraft:highway_bridge",
+        "deceasedcraft:highway_bridge",
+        "deceasedcraft:highway_bridge",
+        "deceasedcraft:highway_bridge",
+        "deceasedcraft:highway_bridge",
+        "deceasedcraft:highway_bridge",
+        "deceasedcraft:highway_bridge",
+        "deceasedcraft:highway_bridge_adboard",
+        "deceasedcraft:highway_bridge_sideblock",
+        "deceasedcraft:highway_bridge_crash"
+      ],
+      "bridge_bi": [
+        "deceasedcraft:highway_bridge_bi"
+      ],
+      "tunnel": [
+        "deceasedcraft:highway_tunnel"
+      ],
+      "tunnel_bi": [
+        "deceasedcraft:highway_tunnel_bi"
+      ],
+      "open": [
+        "deceasedcraft:highway_open",
+        "deceasedcraft:highway_open",
+        "deceasedcraft:highway_open",
+        "deceasedcraft:highway_open",
+        "deceasedcraft:highway_open",
+        "deceasedcraft:highway_open",
+        "deceasedcraft:highway_open",
+        "deceasedcraft:highway_open_middlelight",
+        "deceasedcraft:highway_open_middlelight",
+        "deceasedcraft:highway_open_middlelight",
+        "deceasedcraft:highway_open_crossroad",
+        "deceasedcraft:highway_open_crossroad",
+        "deceasedcraft:highway_open_car"
+      ],
+      "open_bi": [
+        "deceasedcraft:highway_open_bi"
+      ]
+    }
+  }
+}

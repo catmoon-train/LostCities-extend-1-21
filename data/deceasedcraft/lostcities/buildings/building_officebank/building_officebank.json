@@ -1,0 +1,70 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 4,
+  "maxfloors": 5,
+  "mincellars": 2,
+  "maxcellars": 2,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:building_officebank/building_officebank_base2",
+      "floor": -2
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:building_officebank/building_officebank_base1",
+      "floor": -1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_officebank/building_officebank_ground"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_officebank/building_officebank_floor1",
+      "floor": 1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_officebank/building_officebank_floor2",
+      "range": "2,4"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_officebank/building_officebank_floor3",
+      "range": "2,4"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_officebank/building_officebank_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_officebank/building_officebank_base2",
+      "part": "deceasedcraft:building_officebank/building_officebankpart2_base2"
+    },
+    {
+      "inpart": "deceasedcraft:building_officebank/building_officebank_floor3",
+      "part": "deceasedcraft:building_officebank/building_officebankpart2_floor3"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "name": "building_fastfood_floor1_palette_270",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:hellbark_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:redwood_slab[type=east,waterlogged=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:air",
+      "tag": {
+        "id": "fastpaintings:painting",
+        "variant": "darkpaintings:summer_heat"
+      }
+    },
+    {
+      "char": "d",
+      "block": "minecraft:glowstone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:redwood_slab[type=west,waterlogged=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:redwood_planks"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:polished_andesite"
+    }
+  ]
+}

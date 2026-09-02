@@ -1,0 +1,173 @@
+{
+  "name": "multi_cabin3_1_floor1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:grass_block[snowy=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dirt_path"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stripped_oak_log[axis=y]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:smooth_stone"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:oak_planks"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:dirt"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:smooth_quartz"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:furnace[facing=south,lit=false]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:jukebox[has_record=false]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:red_bed[occupied=false,part=foot,facing=east]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "n",
+      "block": "minecraft:red_bed[occupied=false,part=head,facing=east]",
+      "tag": {
+        "id": "minecraft:bed"
+      }
+    },
+    {
+      "char": "o",
+      "block": "minecraft:white_wool"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:crafting_table"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "loot": "deceasedcraft:multi_cabin3_1/floor1/lootr_chest"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:air",
+      "loot": "deceasedcraft:multi_cabin3_1/floor1/lootr_chest"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:barrel[open=false,facing=south]"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:composter[level=0]"
+    },
+    {
+      "char": "v",
+      "block": "minecraft:oak_fence[waterlogged=false]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:oak_fence_gate[in_wall=false,powered=false,open=false,facing=east]"
+    },
+    {
+      "char": "x",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "z",
+      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:acacia_fence[waterlogged=false]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:stone"
+    },
+    {
+      "char": "G",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+    },
+    {
+      "char": "H",
+      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:lantern[waterlogged=false,hanging=true]"
+    },
+    {
+      "char": "K",
+      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "L",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+    }
+  ]
+}

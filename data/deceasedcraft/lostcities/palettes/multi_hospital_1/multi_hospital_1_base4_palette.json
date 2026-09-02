@@ -1,0 +1,142 @@
+{
+  "name": "multi_hospital_1_base4_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:quartz_block"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:water[level=0]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:nether_wart_block"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:bubble_column[drag=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:glass_pane"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:polished_deepslate"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:lever[powered=false,facing=east,face=wall]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:obsidian"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:ladder[waterlogged=false,facing=east]"
+    },
+    {
+      "char": "l",
+      "block": "minecraft:potted_dead_bush"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:potted_cactus"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:flower_pot"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:potted_crimson_roots"
+    },
+    {
+      "char": "p",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:potted_crimson_fungus"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:potted_warped_fungus"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:warped_wart_block"
+    },
+    {
+      "char": "t",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "u",
+      "block": "minecraft:repeater[powered=false,facing=north,locked=false,delay=1]"
+    },
+    {
+      "char": "w",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "x",
+      "blocks": [
+        {
+          "random": 86,
+          "block": "minecraft:air"
+        },
+        {
+          "random": 42,
+          "block": "minecraft:air"
+        }
+      ]
+    },
+    {
+      "char": "y",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "A",
+      "block": "minecraft:cyan_terracotta"
+    },
+    {
+      "char": "B",
+      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=north]"
+    },
+    {
+      "char": "C",
+      "block": "minecraft:cut_sandstone"
+    },
+    {
+      "char": "D",
+      "block": "minecraft:repeater[powered=true,facing=south,locked=false,delay=1]"
+    },
+    {
+      "char": "E",
+      "block": "minecraft:potted_red_mushroom"
+    },
+    {
+      "char": "F",
+      "block": "minecraft:repeater[powered=false,facing=south,locked=false,delay=1]"
+    },
+    {
+      "char": "I",
+      "block": "minecraft:repeater[powered=false,facing=west,locked=false,delay=1]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:magma_block"
+    }
+  ]
+}
