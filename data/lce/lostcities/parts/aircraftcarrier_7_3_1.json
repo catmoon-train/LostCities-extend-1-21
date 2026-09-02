@@ -73,7 +73,7 @@
       },
       {
         "char": "芷",
-        "block": "minecraft:black_bed",
+        "block": "minecraft:black_bed[part=foot,facing=east]",
         "tag": {
           "z": 961,
           "x": -444,
@@ -84,7 +84,7 @@
       },
       {
         "char": "雕",
-        "block": "minecraft:black_bed",
+        "block": "minecraft:black_bed[part=head,facing=east]",
         "tag": {
           "z": 963,
           "x": -443,

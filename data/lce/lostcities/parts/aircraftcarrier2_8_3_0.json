@@ -174,7 +174,7 @@
       },
       {
         "char": "添",
-        "block": "minecraft:gray_bed",
+        "block": "minecraft:gray_bed[part=foot,facing=south]",
         "tag": {
           "z": -448,
           "x": -139,
@@ -184,7 +184,7 @@
       },
       {
         "char": "绵",
-        "block": "minecraft:gray_bed",
+        "block": "minecraft:gray_bed[part=head,facing=south]",
         "tag": {
           "z": -447,
           "x": -135,

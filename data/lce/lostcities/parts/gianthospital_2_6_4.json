@@ -117,7 +117,7 @@
       },
       {
         "char": "嘎",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
         "tag": {
           "z": 417,
           "x": -96,
@@ -128,7 +128,7 @@
       },
       {
         "char": "诠",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=east]",
         "tag": {
           "z": 421,
           "x": -74,
@@ -191,7 +191,7 @@
       },
       {
         "char": "芙",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
         "tag": {
           "z": 476,
           "x": -20,
@@ -214,7 +214,7 @@
       },
       {
         "char": "蚕",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=south]",
         "tag": {
           "z": 477,
           "x": -20,

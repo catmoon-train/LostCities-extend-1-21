@@ -88,7 +88,7 @@
       },
       {
         "char": "绰",
-        "block": "minecraft:black_bed",
+        "block": "minecraft:black_bed[part=foot,facing=east]",
         "tag": {
           "z": 963,
           "x": -458,
@@ -99,7 +99,7 @@
       },
       {
         "char": "谘",
-        "block": "minecraft:black_bed",
+        "block": "minecraft:black_bed[part=head,facing=east]",
         "tag": {
           "z": 961,
           "x": -457,
@@ -142,7 +142,7 @@
       },
       {
         "char": "赦",
-        "block": "minecraft:black_bed",
+        "block": "minecraft:black_bed[part=foot,facing=south]",
         "tag": {
           "z": 965,
           "x": -458,
@@ -176,7 +176,7 @@
       },
       {
         "char": "拱",
-        "block": "minecraft:black_bed",
+        "block": "minecraft:black_bed[part=head,facing=south]",
         "tag": {
           "z": 966,
           "x": -458,

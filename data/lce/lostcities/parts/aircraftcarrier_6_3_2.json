@@ -143,7 +143,7 @@
       },
       {
         "char": "侍",
-        "block": "minecraft:yellow_bed",
+        "block": "minecraft:yellow_bed[part=foot,facing=south]",
         "tag": {
           "z": 962,
           "x": -435,
@@ -166,7 +166,7 @@
       },
       {
         "char": "圭",
-        "block": "minecraft:yellow_bed",
+        "block": "minecraft:yellow_bed[part=foot,facing=east]",
         "tag": {
           "z": 970,
           "x": -459,
@@ -177,7 +177,7 @@
       },
       {
         "char": "逾",
-        "block": "minecraft:yellow_bed",
+        "block": "minecraft:yellow_bed[part=head,facing=east]",
         "tag": {
           "z": 970,
           "x": -458,
@@ -220,7 +220,7 @@
       },
       {
         "char": "艘",
-        "block": "minecraft:yellow_bed",
+        "block": "minecraft:yellow_bed[part=head,facing=south]",
         "tag": {
           "z": 963,
           "x": -435,
@@ -409,7 +409,7 @@
       },
       {
         "char": "开",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
         "tag": {
           "z": 951,
           "x": -534,
@@ -420,7 +420,7 @@
       },
       {
         "char": "教",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=east]",
         "tag": {
           "z": 949,
           "x": -458,

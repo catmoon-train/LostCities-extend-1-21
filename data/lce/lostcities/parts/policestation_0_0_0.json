@@ -193,7 +193,7 @@
       },
       {
         "char": "а",
-        "block": "minecraft:red_bed",
+        "block": "minecraft:red_bed[part=foot,facing=east]",
         "tag": {
           "z": 328,
           "x": 58,
@@ -204,7 +204,7 @@
       },
       {
         "char": "Ю",
-        "block": "minecraft:red_bed",
+        "block": "minecraft:red_bed[part=head,facing=east]",
         "tag": {
           "z": 328,
           "x": 59,

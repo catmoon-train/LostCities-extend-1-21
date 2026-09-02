@@ -133,7 +133,7 @@
       },
       {
         "char": "恐",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
         "tag": {
           "z": 933,
           "x": -445,
@@ -164,7 +164,7 @@
       },
       {
         "char": "搞",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=south]",
         "tag": {
           "z": 947,
           "x": -437,

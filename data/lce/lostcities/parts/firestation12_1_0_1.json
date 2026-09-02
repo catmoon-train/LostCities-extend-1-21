@@ -109,7 +109,7 @@
       },
       {
         "char": "ο",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
         "tag": {
           "z": 565,
           "x": 274,
@@ -128,7 +128,7 @@
       },
       {
         "char": "μ",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=south]",
         "tag": {
           "z": 566,
           "x": 268,
@@ -147,7 +147,7 @@
       },
       {
         "char": "τ",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
         "tag": {
           "z": 574,
           "x": 274,
@@ -158,7 +158,7 @@
       },
       {
         "char": "ϝ",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=east]",
         "tag": {
           "z": 574,
           "x": 275,

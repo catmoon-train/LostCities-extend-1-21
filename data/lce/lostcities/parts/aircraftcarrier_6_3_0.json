@@ -112,7 +112,7 @@
       },
       {
         "char": "矽",
-        "block": "minecraft:black_bed",
+        "block": "minecraft:black_bed[part=foot,facing=south]",
         "tag": {
           "z": 963,
           "x": -460,
@@ -131,7 +131,7 @@
       },
       {
         "char": "缉",
-        "block": "minecraft:black_bed",
+        "block": "minecraft:black_bed[part=head,facing=south]",
         "tag": {
           "z": 964,
           "x": -460,

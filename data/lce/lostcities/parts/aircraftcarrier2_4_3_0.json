@@ -556,7 +556,7 @@
       },
       {
         "char": "玫",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
         "tag": {
           "z": -451,
           "x": -109,
@@ -570,7 +570,7 @@
       },
       {
         "char": "碎",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=south]",
         "tag": {
           "z": -446,
           "x": -132,
@@ -580,7 +580,7 @@
       },
       {
         "char": "些",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
         "tag": {
           "z": -477,
           "x": -224,
@@ -590,7 +590,7 @@
       },
       {
         "char": "己",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=east]",
         "tag": {
           "z": -477,
           "x": -223,

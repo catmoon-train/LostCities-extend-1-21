@@ -325,7 +325,7 @@
       },
       {
         "char": "狄",
-        "block": "minecraft:black_bed",
+        "block": "minecraft:black_bed[part=foot,facing=east]",
         "tag": {
           "z": -447,
           "x": -180,
@@ -335,7 +335,7 @@
       },
       {
         "char": "颤",
-        "block": "minecraft:black_bed",
+        "block": "minecraft:black_bed[part=head,facing=east]",
         "tag": {
           "z": -447,
           "x": -179,
@@ -561,7 +561,7 @@
       },
       {
         "char": "些",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
         "tag": {
           "z": -477,
           "x": -224,
@@ -571,7 +571,7 @@
       },
       {
         "char": "己",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=east]",
         "tag": {
           "z": -477,
           "x": -223,
@@ -614,7 +614,7 @@
       },
       {
         "char": "玫",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
         "tag": {
           "z": -451,
           "x": -109,
@@ -628,7 +628,7 @@
       },
       {
         "char": "碎",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=south]",
         "tag": {
           "z": -446,
           "x": -132,
@@ -664,7 +664,7 @@
       },
       {
         "char": "酌",
-        "block": "minecraft:yellow_bed",
+        "block": "minecraft:yellow_bed[part=foot,facing=south]",
         "tag": {
           "z": -448,
           "x": -157,
@@ -678,7 +678,7 @@
       },
       {
         "char": "诘",
-        "block": "minecraft:yellow_bed",
+        "block": "minecraft:yellow_bed[part=foot,facing=east]",
         "tag": {
           "z": -453,
           "x": -176,
@@ -688,7 +688,7 @@
       },
       {
         "char": "渝",
-        "block": "minecraft:yellow_bed",
+        "block": "minecraft:yellow_bed[part=head,facing=east]",
         "tag": {
           "z": -440,
           "x": -180,
@@ -718,7 +718,7 @@
       },
       {
         "char": "惰",
-        "block": "minecraft:yellow_bed",
+        "block": "minecraft:yellow_bed[part=head,facing=south]",
         "tag": {
           "z": -452,
           "x": -169,

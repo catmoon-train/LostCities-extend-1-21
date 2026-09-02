@@ -533,7 +533,7 @@
       },
       {
         "char": "仔",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
         "tag": {
           "z": -464,
           "x": -159,
@@ -553,7 +553,7 @@
       },
       {
         "char": "赵",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=south]",
         "tag": {
           "z": -485,
           "x": -162,
@@ -563,7 +563,7 @@
       },
       {
         "char": "逾",
-        "block": "minecraft:yellow_bed",
+        "block": "minecraft:yellow_bed[part=foot,facing=east]",
         "tag": {
           "z": -438,
           "x": -167,
@@ -573,7 +573,7 @@
       },
       {
         "char": "晖",
-        "block": "minecraft:yellow_bed",
+        "block": "minecraft:yellow_bed[part=head,facing=east]",
         "tag": {
           "z": -438,
           "x": -166,

@@ -89,7 +89,7 @@
       },
       {
         "char": "α",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
         "tag": {
           "z": 539,
           "x": 46,
@@ -104,7 +104,7 @@
       },
       {
         "char": "σ",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=south]",
         "tag": {
           "z": 540,
           "x": 46,

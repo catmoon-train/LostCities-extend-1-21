@@ -1,36 +1,16 @@
 {
   "palette": [
     {
-      "char": "k",
+      "char": "+",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:redstone_wire"
+    },
+    {
+      "char": "=",
       "block": "minecraft:rail[shape=north_south]"
-    },
-    {
-      "char": "e",
-      "block": "minecraft:rail[shape=east_west]"
-    },
-    {
-      "char": "j",
-      "block": "minecraft:rail[shape=ascending_east]"
-    },
-    {
-      "char": "q",
-      "block": "minecraft:rail[shape=south_east]"
-    },
-    {
-      "char": "s",
-      "block": "minecraft:rail[shape=south_west]"
-    },
-    {
-      "char": "r",
-      "block": "minecraft:rail[shape=north_west]"
-    },
-    {
-      "char": "n",
-      "block": "minecraft:rail[shape=north_east]"
-    },
-    {
-      "char": "m",
-      "block": "minecraft:powered_rail[powered=true,shape=north_south]"
     },
     {
       "char": "E",
@@ -41,12 +21,96 @@
       "block": "minecraft:powered_rail[powered=true,shape=ascending_north]"
     },
     {
+      "char": "I",
+      "block": "minecraft:rail[shape=east_west]"
+    },
+    {
+      "char": "J",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "M",
+      "block": "minecraft:redstone_block"
+    },
+    {
+      "char": "N",
+      "block": "minecraft:redstone_block"
+    },
+    {
+      "char": "O",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "_",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:rail[shape=east_west]"
+    },
+    {
       "char": "f",
       "block": "minecraft:powered_rail[powered=true,shape=east_west]"
     },
     {
+      "char": "g",
+      "block": "minecraft:rail[shape=north_south]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_bricks"
+    },
+    {
       "char": "i",
       "block": "minecraft:powered_rail[powered=true,shape=ascending_east]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:rail[shape=ascending_east]"
+    },
+    {
+      "char": "k",
+      "block": "minecraft:rail[shape=north_south]"
+    },
+    {
+      "char": "m",
+      "block": "minecraft:powered_rail[powered=true,shape=north_south]"
+    },
+    {
+      "char": "n",
+      "block": "minecraft:rail[shape=north_east]"
+    },
+    {
+      "char": "o",
+      "block": "minecraft:rail[shape=east_west]"
+    },
+    {
+      "char": "q",
+      "block": "minecraft:rail[shape=south_east]"
+    },
+    {
+      "char": "r",
+      "block": "minecraft:rail[shape=north_west]"
+    },
+    {
+      "char": "s",
+      "block": "minecraft:rail[shape=south_west]"
+    },
+    {
+      "char": "y",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "~",
+      "block": "minecraft:air"
     }
   ]
 }

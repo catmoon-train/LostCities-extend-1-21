@@ -293,7 +293,7 @@
       },
       {
         "char": "开",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
         "tag": {
           "z": 951,
           "x": -534,
@@ -304,7 +304,7 @@
       },
       {
         "char": "教",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=east]",
         "tag": {
           "z": 949,
           "x": -458,
@@ -343,7 +343,7 @@
       },
       {
         "char": "栏",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
         "tag": {
           "z": 960,
           "x": -393,
@@ -354,7 +354,7 @@
       },
       {
         "char": "酸",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=south]",
         "tag": {
           "z": 963,
           "x": -405,

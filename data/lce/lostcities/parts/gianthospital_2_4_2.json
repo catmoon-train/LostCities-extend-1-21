@@ -159,7 +159,7 @@
       },
       {
         "char": "戍",
-        "block": "minecraft:red_bed",
+        "block": "minecraft:red_bed[part=foot,facing=east]",
         "tag": {
           "z": 453,
           "x": -96,
@@ -170,7 +170,7 @@
       },
       {
         "char": "濂",
-        "block": "minecraft:red_bed",
+        "block": "minecraft:red_bed[part=head,facing=east]",
         "tag": {
           "z": 416,
           "x": -76,

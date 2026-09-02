@@ -41,7 +41,7 @@
       },
       {
         "char": "恭",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
         "tag": {
           "z": -460,
           "x": -91,
@@ -51,7 +51,7 @@
       },
       {
         "char": "厚",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=east]",
         "tag": {
           "z": -462,
           "x": -103,
@@ -81,7 +81,7 @@
       },
       {
         "char": "些",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
         "tag": {
           "z": -477,
           "x": -224,
@@ -91,7 +91,7 @@
       },
       {
         "char": "己",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=east]",
         "tag": {
           "z": -477,
           "x": -223,

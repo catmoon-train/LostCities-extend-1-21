@@ -45,7 +45,7 @@
       },
       {
         "char": "芭",
-        "block": "minecraft:gray_bed",
+        "block": "minecraft:gray_bed[part=foot,facing=south]",
         "tag": {
           "z": -465,
           "x": -134,
@@ -94,7 +94,7 @@
       },
       {
         "char": "敲",
-        "block": "minecraft:gray_bed",
+        "block": "minecraft:gray_bed[part=head,facing=south]",
         "tag": {
           "z": -464,
           "x": -142,

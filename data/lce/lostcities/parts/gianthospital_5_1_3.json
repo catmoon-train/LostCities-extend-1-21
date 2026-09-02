@@ -125,7 +125,7 @@
       },
       {
         "char": "菁",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
         "tag": {
           "z": 417,
           "x": -71,
@@ -148,7 +148,7 @@
       },
       {
         "char": "赫",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=south]",
         "tag": {
           "z": 471,
           "x": -87,
@@ -218,7 +218,7 @@
       },
       {
         "char": "液",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
         "tag": {
           "z": 471,
           "x": -12,
@@ -229,7 +229,7 @@
       },
       {
         "char": "哉",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=east]",
         "tag": {
           "z": 424,
           "x": -62,

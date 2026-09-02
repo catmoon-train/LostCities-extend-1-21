@@ -191,7 +191,7 @@
       },
       {
         "char": "芙",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
         "tag": {
           "z": 476,
           "x": -20,
@@ -210,7 +210,7 @@
       },
       {
         "char": "蚕",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=south]",
         "tag": {
           "z": 477,
           "x": -20,

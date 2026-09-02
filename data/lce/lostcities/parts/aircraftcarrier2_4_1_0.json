@@ -63,7 +63,7 @@
       },
       {
         "char": "樵",
-        "block": "minecraft:blue_bed",
+        "block": "minecraft:blue_bed[part=foot,facing=east]",
         "tag": {
           "z": -480,
           "x": -211,
@@ -73,7 +73,7 @@
       },
       {
         "char": "曳",
-        "block": "minecraft:blue_bed",
+        "block": "minecraft:blue_bed[part=head,facing=east]",
         "tag": {
           "z": -480,
           "x": -210,

@@ -280,7 +280,7 @@
       },
       {
         "char": "栏",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=south]",
         "tag": {
           "z": 960,
           "x": -393,
@@ -299,7 +299,7 @@
       },
       {
         "char": "酸",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=south]",
         "tag": {
           "z": 963,
           "x": -405,

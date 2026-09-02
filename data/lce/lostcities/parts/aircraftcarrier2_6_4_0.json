@@ -256,7 +256,7 @@
       },
       {
         "char": "溺",
-        "block": "minecraft:black_bed",
+        "block": "minecraft:black_bed[part=foot,facing=south]",
         "tag": {
           "z": -445,
           "x": -180,
@@ -288,7 +288,7 @@
       },
       {
         "char": "椒",
-        "block": "minecraft:black_bed",
+        "block": "minecraft:black_bed[part=head,facing=south]",
         "tag": {
           "z": -444,
           "x": -180,
@@ -748,7 +748,7 @@
       },
       {
         "char": "诘",
-        "block": "minecraft:yellow_bed",
+        "block": "minecraft:yellow_bed[part=foot,facing=east]",
         "tag": {
           "z": -453,
           "x": -176,
@@ -758,7 +758,7 @@
       },
       {
         "char": "渝",
-        "block": "minecraft:yellow_bed",
+        "block": "minecraft:yellow_bed[part=head,facing=east]",
         "tag": {
           "z": -440,
           "x": -180,
@@ -780,7 +780,7 @@
       },
       {
         "char": "些",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
         "tag": {
           "z": -477,
           "x": -224,
@@ -790,7 +790,7 @@
       },
       {
         "char": "己",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=east]",
         "tag": {
           "z": -477,
           "x": -223,

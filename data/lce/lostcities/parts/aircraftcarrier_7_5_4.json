@@ -65,7 +65,7 @@
       },
       {
         "char": "喃",
-        "block": "minecraft:white_bed",
+        "block": "minecraft:white_bed[part=foot,facing=east]",
         "tag": {
           "z": 988,
           "x": -449,
@@ -76,7 +76,7 @@
       },
       {
         "char": "稻",
-        "block": "minecraft:white_bed",
+        "block": "minecraft:white_bed[part=head,facing=east]",
         "tag": {
           "z": 988,
           "x": -448,

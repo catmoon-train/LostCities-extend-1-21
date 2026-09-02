@@ -275,7 +275,7 @@
       },
       {
         "char": "Щ",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
         "tag": {
           "z": 327,
           "x": 64,
@@ -286,7 +286,7 @@
       },
       {
         "char": "Ш",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=east]",
         "tag": {
           "z": 327,
           "x": 65,
@@ -297,7 +297,7 @@
       },
       {
         "char": "т",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=foot,facing=east]",
         "tag": {
           "z": 327,
           "x": 67,
@@ -308,7 +308,7 @@
       },
       {
         "char": "Э",
-        "block": "minecraft:light_gray_bed",
+        "block": "minecraft:light_gray_bed[part=head,facing=east]",
         "tag": {
           "z": 327,
           "x": 68,

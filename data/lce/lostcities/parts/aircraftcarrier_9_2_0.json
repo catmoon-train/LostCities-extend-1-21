@@ -37,7 +37,7 @@
       },
       {
         "char": "璃",
-        "block": "minecraft:gray_bed",
+        "block": "minecraft:gray_bed[part=foot,facing=south]",
         "tag": {
           "z": 945,
           "x": -418,
@@ -48,7 +48,7 @@
       },
       {
         "char": "煮",
-        "block": "minecraft:gray_bed",
+        "block": "minecraft:gray_bed[part=head,facing=south]",
         "tag": {
           "z": 946,
           "x": -418,
