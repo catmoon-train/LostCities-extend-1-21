@@ -48,6 +48,37 @@
       "block": "minecraft:cobblestone_wall"
     },
     {
+      "char": "S",
+      "block": "minecraft:smooth_stone_slab[type=double]",
+      "damaged": "minecraft:iron_bars"
+    },
+    {
+      "char": "T",
+      "block": "minecraft:wall_torch[facing=north]",
+      "torch": true
+    },
+    {
+      "char": "g",
+      "block": "minecraft:redstone_torch[lit=true]"
+    },
+    {
+      "char": "Q",
+      "block": "minecraft:quartz_block",
+      "damaged": "minecraft:iron_bars"
+    },
+    {
+      "char": ":",
+      "block": "minecraft:iron_bars"
+    },
+    {
+      "char": "+",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": ")",
+      "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
+    },
+    {
       "char": "z",
       "block": "minecraft:air"
     },
