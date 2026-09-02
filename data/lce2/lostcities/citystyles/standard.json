@@ -1,6 +1,9 @@
 {
   "inherit": "citystyle_config",
   "selectors": {
+    "buildings": [
+      {"factor": 1.0, "value": "lce2:common_empty"}
+    ],
     "multibuildings": [
       {"factor": 0.15, "value": "lce2:scattered/scattered_antenna"},
       {"factor": 0.15, "value": "lce2:scattered/scattered_container"},

@@ -1,6 +1,9 @@
 {
   "inherit": "citystyle_config",
   "selectors": {
+    "buildings": [
+      {"factor": 1.0, "value": "lce2:common_empty"}
+    ],
     "multibuildings": [
       {"factor": 0.15, "value": "lce2:base/base_building_medium"},
       {"factor": 0.15, "value": "lce2:base/base_building_body"},
