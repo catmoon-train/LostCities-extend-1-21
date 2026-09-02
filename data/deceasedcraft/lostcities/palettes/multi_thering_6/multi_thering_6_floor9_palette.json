@@ -105,7 +105,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:tuff_slab[type=south,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "C",
@@ -146,7 +146,7 @@
     },
     {
       "char": "N",
-      "block": "minecraft:tuff_slab[type=north,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "O",
@@ -265,7 +265,7 @@
     },
     {
       "char": "*",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
     },
     {
       "char": "(",
@@ -277,7 +277,7 @@
     },
     {
       "char": "+",
-      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
     },
     {
       "char": "-",
@@ -289,7 +289,7 @@
     },
     {
       "char": "]",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
     },
     {
       "char": "{",

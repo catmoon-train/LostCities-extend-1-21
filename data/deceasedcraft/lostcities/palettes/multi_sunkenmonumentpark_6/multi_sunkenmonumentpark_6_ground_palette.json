@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "e",
@@ -59,7 +59,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:calcite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "p",
@@ -75,11 +75,11 @@
     },
     {
       "char": "s",
-      "block": "minecraft:calcite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "t",
-      "block": "minecraft:calcite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "u",
@@ -107,15 +107,15 @@
     },
     {
       "char": "C",
-      "block": "minecraft:calcite_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
     },
     {
       "char": "D",
-      "block": "minecraft:calcite_slab[type=west,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "E",
-      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
     }
   ]
 }

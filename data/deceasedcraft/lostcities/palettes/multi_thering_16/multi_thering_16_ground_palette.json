@@ -43,11 +43,11 @@
     },
     {
       "char": "k",
-      "block": "minecraft:tuff_slab[type=east,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "l",
-      "block": "minecraft:tuff_slab[type=west,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "m",
@@ -67,7 +67,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:tuff_slab[type=south,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "r",
@@ -79,7 +79,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:tuff_slab[type=north,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "u",
@@ -135,23 +135,23 @@
     },
     {
       "char": "L",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
     },
     {
       "char": "M",
-      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
     },
     {
       "char": "N",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
     },
     {
       "char": "O",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
     },
     {
       "char": "P",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
     },
     {
       "char": "Q",

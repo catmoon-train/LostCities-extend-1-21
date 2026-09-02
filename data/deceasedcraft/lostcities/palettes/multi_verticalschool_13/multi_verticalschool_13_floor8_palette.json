@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
     },
     {
       "char": "b",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:tuff_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "i",
@@ -79,7 +79,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
     },
     {
       "char": "u",

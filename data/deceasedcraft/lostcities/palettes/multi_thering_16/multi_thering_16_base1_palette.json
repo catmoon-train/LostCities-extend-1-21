@@ -79,7 +79,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:tuff_slab[type=south,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "u",
@@ -139,7 +139,7 @@
     },
     {
       "char": "M",
-      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
     },
     {
       "char": "N",
@@ -160,7 +160,7 @@
     },
     {
       "char": "P",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
     }
   ]
 }

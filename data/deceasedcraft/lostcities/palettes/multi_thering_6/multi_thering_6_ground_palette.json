@@ -76,11 +76,11 @@
     },
     {
       "char": "r",
-      "block": "minecraft:tuff_slab[type=south,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "s",
-      "block": "minecraft:tuff_slab[type=north,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "t",
@@ -124,11 +124,11 @@
     },
     {
       "char": "F",
-      "block": "minecraft:tuff_slab[type=east,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "I",
-      "block": "minecraft:tuff_slab[type=west,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "J",
@@ -156,11 +156,11 @@
     },
     {
       "char": "P",
-      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
     },
     {
       "char": "Q",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
     },
     {
       "char": "R",
@@ -168,7 +168,7 @@
     },
     {
       "char": "S",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
     },
     {
       "char": "T",
@@ -200,11 +200,11 @@
     },
     {
       "char": "0",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
     },
     {
       "char": "1",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
     },
     {
       "char": "2",

@@ -175,7 +175,7 @@
     },
     {
       "char": "V",
-      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "W",
@@ -203,7 +203,7 @@
     },
     {
       "char": "2",
-      "block": "minecraft:tuff_slab[type=south,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "3",
@@ -243,23 +243,23 @@
     },
     {
       "char": "%",
-      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
     },
     {
       "char": "^",
-      "block": "minecraft:calcite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "&",
-      "block": "minecraft:calcite_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "*",
-      "block": "minecraft:tuff_slab[type=west,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "(",
-      "block": "minecraft:tuff_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
     },
     {
       "char": ")",
@@ -279,7 +279,7 @@
     },
     {
       "char": "]",
-      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "{",
@@ -348,11 +348,11 @@
     },
     {
       "char": "ͱ",
-      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
     },
     {
       "char": "Ͳ",
-      "block": "minecraft:tuff_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
     },
     {
       "char": "ͳ",

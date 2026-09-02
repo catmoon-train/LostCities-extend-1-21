@@ -110,7 +110,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:magic_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
     },
     {
       "char": "A",
@@ -225,11 +225,11 @@
     },
     {
       "char": "0",
-      "block": "minecraft:fir_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
     },
     {
       "char": "1",
-      "block": "minecraft:fir_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
     },
     {
       "char": "2",
@@ -245,7 +245,7 @@
     },
     {
       "char": "5",
-      "block": "minecraft:fir_planks"
+      "block": "minecraft:oak_planks"
     }
   ]
 }

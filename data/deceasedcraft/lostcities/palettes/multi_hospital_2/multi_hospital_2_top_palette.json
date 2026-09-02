@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:calcite_slab[type=west,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "b",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:willow_planks"
+      "block": "minecraft:oak_planks"
     },
     {
       "char": "j",
@@ -75,7 +75,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:willow_slab[type=east,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "t",
@@ -105,7 +105,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:willow_slab[type=west,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "C",
@@ -170,7 +170,7 @@
     },
     {
       "char": "T",
-      "block": "minecraft:calcite_slab[type=east,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "U",
@@ -242,7 +242,7 @@
     },
     {
       "char": "$",
-      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
     },
     {
       "char": "%",
@@ -250,11 +250,11 @@
     },
     {
       "char": "^",
-      "block": "minecraft:calcite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
     },
     {
       "char": "&",
-      "block": "minecraft:calcite_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
     },
     {
       "char": "*",

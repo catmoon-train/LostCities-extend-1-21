@@ -35,11 +35,11 @@
     },
     {
       "char": "i",
-      "block": "minecraft:hellbark_button[powered=false,facing=west,face=floor]"
+      "block": "minecraft:oak_button[powered=false,facing=west,face=floor]"
     },
     {
       "char": "j",
-      "block": "minecraft:hellbark_button[powered=false,facing=east,face=floor]"
+      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
     },
     {
       "char": "k",
@@ -115,7 +115,7 @@
     },
     {
       "char": "D",
-      "block": "minecraft:dead_planks"
+      "block": "minecraft:oak_planks"
     },
     {
       "char": "E",
@@ -123,11 +123,11 @@
     },
     {
       "char": "F",
-      "block": "minecraft:palm_planks"
+      "block": "minecraft:oak_planks"
     },
     {
       "char": "I",
-      "block": "minecraft:dead_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "J",
@@ -139,7 +139,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:maple_planks"
+      "block": "minecraft:oak_planks"
     },
     {
       "char": "M",
@@ -227,11 +227,11 @@
     },
     {
       "char": "7",
-      "block": "minecraft:hellbark_button[powered=false,facing=west,face=wall]"
+      "block": "minecraft:oak_button[powered=false,facing=west,face=wall]"
     },
     {
       "char": "8",
-      "block": "minecraft:maple_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
     },
     {
       "char": "9",
@@ -239,7 +239,7 @@
     },
     {
       "char": "#",
-      "block": "minecraft:hellbark_button[powered=false,facing=east,face=wall]"
+      "block": "minecraft:oak_button[powered=false,facing=east,face=wall]"
     },
     {
       "char": "$",
@@ -256,7 +256,7 @@
     },
     {
       "char": "&",
-      "block": "minecraft:palm_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
     },
     {
       "char": "*",
@@ -276,55 +276,55 @@
     },
     {
       "char": "-",
-      "block": "minecraft:maple_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "[",
-      "block": "minecraft:palm_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "]",
-      "block": "minecraft:palm_pressure_plate[powered=false]"
+      "block": "minecraft:oak_pressure_plate[powered=false]"
     },
     {
       "char": "{",
-      "block": "minecraft:palm_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "}",
-      "block": "minecraft:dead_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
     },
     {
       "char": "|",
-      "block": "minecraft:palm_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
     },
     {
       "char": ";",
-      "block": "minecraft:maple_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
     },
     {
       "char": ":",
-      "block": "minecraft:maple_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "'",
-      "block": "minecraft:dead_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "<",
-      "block": "minecraft:palm_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
     },
     {
       "char": ">",
-      "block": "minecraft:dead_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
     },
     {
       "char": ",",
-      "block": "minecraft:palm_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
     },
     {
       "char": ".",
-      "block": "minecraft:palm_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
     }
   ]
 }

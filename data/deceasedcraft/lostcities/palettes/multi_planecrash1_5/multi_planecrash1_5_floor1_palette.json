@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:calcite_slab[type=top,waterlogged=true]"
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=true]"
     },
     {
       "char": "d",
@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:calcite_slab[type=north,waterlogged=true]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=true]"
     },
     {
       "char": "g",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:calcite_slab[type=south,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "j",
@@ -43,19 +43,19 @@
     },
     {
       "char": "k",
-      "block": "minecraft:calcite_stairs[waterlogged=true,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=true,half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "l",
-      "block": "minecraft:calcite_slab[type=south,waterlogged=true]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=true]"
     },
     {
       "char": "m",
-      "block": "minecraft:calcite_slab[type=top,waterlogged=true]"
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=true]"
     },
     {
       "char": "n",
-      "block": "minecraft:calcite_slab[type=north,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
     },
     {
       "char": "o",
@@ -79,15 +79,15 @@
     },
     {
       "char": "t",
-      "block": "minecraft:calcite_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
     },
     {
       "char": "u",
-      "block": "minecraft:calcite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "v",
-      "block": "minecraft:calcite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
     }
   ]
 }

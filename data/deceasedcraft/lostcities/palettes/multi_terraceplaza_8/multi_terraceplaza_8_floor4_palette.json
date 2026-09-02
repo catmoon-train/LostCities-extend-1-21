@@ -165,7 +165,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:dead_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
     },
     {
       "char": "P",
@@ -276,7 +276,7 @@
     },
     {
       "char": "*",
-      "block": "minecraft:dead_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
     },
     {
       "char": "(",
@@ -289,7 +289,7 @@
     },
     {
       "char": "+",
-      "block": "minecraft:fir_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
     },
     {
       "char": "-",
@@ -342,11 +342,11 @@
     },
     {
       "char": ".",
-      "block": "minecraft:fir_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
     },
     {
       "char": "?",
-      "block": "minecraft:fir_planks"
+      "block": "minecraft:oak_planks"
     },
     {
       "char": "/",
