@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "c",
@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "g",
@@ -55,11 +55,11 @@
     },
     {
       "char": "l",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "m",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "n",
@@ -83,7 +83,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "t",

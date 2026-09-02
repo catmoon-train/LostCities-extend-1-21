@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=top]"
     },
     {
       "char": "f",
@@ -27,15 +27,15 @@
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "h",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "i",
-      "block": "minecraft:dark_oak_slab[type=north,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "j",
@@ -66,15 +66,15 @@
     },
     {
       "char": "p",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "q",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "r",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "s",
@@ -101,11 +101,11 @@
     },
     {
       "char": "y",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "A",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "B",
@@ -190,11 +190,11 @@
     },
     {
       "char": "X",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "Y",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "Z",
@@ -202,7 +202,7 @@
     },
     {
       "char": "0",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_22/floor1/oak_crate"
     },
     {

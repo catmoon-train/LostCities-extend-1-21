@@ -2,17 +2,17 @@
   "palette": [
     {
       "char": "u",
-      "block": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=true]",
+      "block": "minecraft:iron_bars[east=false,north=true,south=true,west=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": ",",
-      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]",
+      "block": "minecraft:polished_andesite_slab[type=bottom]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "T",
-      "block": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=true]",
+      "block": "minecraft:dark_oak_fence[north=true,south=true,west=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -27,37 +27,37 @@
     },
     {
       "char": "&",
-      "block": "minecraft:stone_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:stone_stairs[facing=south,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "Ͱ",
-      "block": "minecraft:deepslate_tile_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]",
+      "block": "minecraft:deepslate_tile_wall[south=low,up=true,west=low]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": ";",
-      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=north,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "΁",
-      "block": "minecraft:deepslate_tile_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:deepslate_tile_wall[north=tall,up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "ͽ",
-      "block": "minecraft:iron_bars[east=false,north=true,south=false,waterlogged=false,west=false]",
+      "block": "minecraft:iron_bars[east=false,north=true,south=false,west=false]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "O",
-      "block": "minecraft:deepslate_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]",
+      "block": "minecraft:deepslate_brick_stairs[facing=north,half=bottom,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "=",
-      "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]",
+      "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=false]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -72,22 +72,22 @@
     },
     {
       "char": "x",
-      "block": "minecraft:iron_bars[east=true,north=true,south=true,waterlogged=false,west=true]",
+      "block": "minecraft:iron_bars[east=true,north=true,south=true,west=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "ͼ",
-      "block": "minecraft:iron_bars[east=false,north=false,south=true,waterlogged=false,west=false]",
+      "block": "minecraft:iron_bars[east=false,north=false,south=true,west=false]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": ")",
-      "block": "minecraft:cobbled_deepslate_slab[type=top,waterlogged=false]",
+      "block": "minecraft:cobbled_deepslate_slab[type=top]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "V",
-      "block": "minecraft:deepslate_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=tall]",
+      "block": "minecraft:deepslate_brick_wall[north=tall,up=true,west=tall]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -97,27 +97,27 @@
     },
     {
       "char": "m",
-      "block": "minecraft:polished_andesite_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:polished_andesite_stairs[facing=west,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "΀",
-      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "<",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]",
+      "block": "minecraft:dark_oak_slab[type=bottom]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "$",
-      "block": "minecraft:diorite_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:diorite_wall[up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "΃",
-      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=south,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -127,12 +127,12 @@
     },
     {
       "char": "b",
-      "block": "minecraft:polished_blackstone_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=none]",
+      "block": "minecraft:polished_blackstone_wall[north=low,south=low]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": ".",
-      "block": "minecraft:stone_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:stone_stairs[facing=east,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -142,22 +142,22 @@
     },
     {
       "char": "w",
-      "block": "minecraft:iron_bars[east=true,north=true,south=true,waterlogged=false,west=false]",
+      "block": "minecraft:iron_bars[east=true,north=true,south=true,west=false]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "H",
-      "block": "minecraft:dark_oak_fence[east=true,north=true,south=true,waterlogged=false,west=false]",
+      "block": "minecraft:dark_oak_fence[east=true,north=true,south=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "7",
-      "block": "minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+      "block": "minecraft:deepslate_tile_stairs[facing=east,half=bottom,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "D",
-      "block": "minecraft:deepslate_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:deepslate_brick_wall[east=low,up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -167,52 +167,52 @@
     },
     {
       "char": "(",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]",
+      "block": "minecraft:stone_slab[type=top]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "6",
-      "block": "minecraft:stone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+      "block": "minecraft:stone_stairs[facing=west,half=bottom,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "M",
-      "block": "minecraft:deepslate_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:deepslate_brick_stairs[facing=north,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "R",
-      "block": "minecraft:deepslate_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]",
+      "block": "minecraft:deepslate_brick_wall[up=true,west=low]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "΅",
-      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=south,half=bottom,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "!",
-      "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]",
+      "block": "minecraft:oak_leaves",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "+",
-      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]",
+      "block": "minecraft:stone_brick_slab[type=bottom]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "t",
-      "block": "minecraft:iron_bars[east=true,north=false,south=true,waterlogged=false,west=true]",
+      "block": "minecraft:iron_bars[east=true,north=false,south=true,west=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "_",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]",
+      "block": "minecraft:smooth_stone_slab[type=bottom]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "p",
-      "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]",
+      "block": "minecraft:iron_bars[east=true,north=false,south=false,west=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -222,27 +222,27 @@
     },
     {
       "char": "k",
-      "block": "minecraft:iron_bars[east=false,north=true,south=false,waterlogged=false,west=true]",
+      "block": "minecraft:iron_bars[east=false,north=true,south=false,west=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "5",
-      "block": "minecraft:stone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+      "block": "minecraft:stone_stairs[facing=east,half=bottom,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "G",
-      "block": "minecraft:warped_slab[type=bottom,waterlogged=false]",
+      "block": "minecraft:warped_slab[type=bottom]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "`",
-      "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]",
+      "block": "minecraft:quartz_slab[type=bottom]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "U",
-      "block": "minecraft:deepslate_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+      "block": "minecraft:deepslate_brick_stairs[facing=west,half=bottom,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -252,12 +252,12 @@
     },
     {
       "char": "N",
-      "block": "minecraft:deepslate_brick_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:deepslate_brick_wall[east=low,north=low,up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "c",
-      "block": "minecraft:polished_blackstone_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:polished_blackstone_wall[east=low,north=low,south=low,up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -267,17 +267,17 @@
     },
     {
       "char": "Q",
-      "block": "minecraft:deepslate_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:deepslate_brick_stairs[facing=west,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "W",
-      "block": "minecraft:deepslate_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=low]",
+      "block": "minecraft:deepslate_brick_wall[north=low,up=true,west=low]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "]",
-      "block": "minecraft:iron_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]",
+      "block": "minecraft:iron_trapdoor[facing=north,half=bottom,open=false]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -287,27 +287,27 @@
     },
     {
       "char": "e",
-      "block": "minecraft:polished_blackstone_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:polished_blackstone_wall[north=low,up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "n",
-      "block": "minecraft:deepslate_tile_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:deepslate_tile_wall[up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "{",
-      "block": "minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=true]",
+      "block": "minecraft:iron_bars[east=false,north=false,south=false,west=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "o",
-      "block": "minecraft:polished_andesite_stairs[facing=north,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:polished_andesite_stairs[facing=north,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "S",
-      "block": "minecraft:deepslate_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]",
+      "block": "minecraft:deepslate_brick_wall[south=low,up=true,west=low]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -327,17 +327,17 @@
     },
     {
       "char": "΄",
-      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=west,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "2",
-      "block": "minecraft:deepslate_tile_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:deepslate_tile_stairs[facing=west,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "L",
-      "block": "minecraft:deepslate_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:deepslate_brick_wall[east=tall,north=tall,up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -347,57 +347,57 @@
     },
     {
       "char": "8",
-      "block": "minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+      "block": "minecraft:deepslate_tile_stairs[facing=west,half=bottom,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "y",
-      "block": "minecraft:iron_bars[east=true,north=true,south=false,waterlogged=false,west=true]",
+      "block": "minecraft:iron_bars[east=true,north=true,south=false,west=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "/",
-      "block": "minecraft:stone_stairs[facing=west,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:stone_stairs[facing=west,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "d",
-      "block": "minecraft:deepslate_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]",
+      "block": "minecraft:deepslate_brick_wall[east=low,west=low]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "-",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]",
+      "block": "minecraft:stone_slab[type=bottom]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "%",
-      "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]",
+      "block": "minecraft:stone_brick_slab[type=top]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "h",
-      "block": "minecraft:iron_bars[east=true,north=false,south=true,waterlogged=false,west=false]",
+      "block": "minecraft:iron_bars[east=true,north=false,south=true,west=false]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "s",
-      "block": "minecraft:deepslate_tile_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:deepslate_tile_wall[east=low,south=low,up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "3",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]",
+      "block": "minecraft:stone_slab[type=double]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "P",
-      "block": "minecraft:deepslate_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]",
+      "block": "minecraft:deepslate_brick_stairs[facing=south,half=bottom,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "E",
-      "block": "minecraft:deepslate_brick_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:deepslate_brick_wall[east=low,south=low,up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -407,47 +407,47 @@
     },
     {
       "char": "?",
-      "block": "minecraft:andesite_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:andesite_wall[north=tall,up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "i",
-      "block": "minecraft:iron_bars[east=false,north=false,south=true,waterlogged=false,west=true]",
+      "block": "minecraft:iron_bars[east=false,north=false,south=true,west=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "ͺ",
-      "block": "minecraft:deepslate_tile_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=tall]",
+      "block": "minecraft:deepslate_tile_wall[east=tall,west=tall]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "I",
-      "block": "minecraft:deepslate_brick_slab[type=bottom,waterlogged=false]",
+      "block": "minecraft:deepslate_brick_slab[type=bottom]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "z",
-      "block": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]",
+      "block": "minecraft:iron_bars[east=false,north=true,south=true,west=false]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "r",
-      "block": "minecraft:polished_andesite_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:polished_andesite_stairs[facing=east,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "Ϳ",
-      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]",
+      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=west,half=bottom,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "J",
-      "block": "minecraft:deepslate_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+      "block": "minecraft:deepslate_brick_stairs[facing=east,half=bottom,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "΂",
-      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]",
+      "block": "minecraft:waxed_exposed_cut_copper_stairs[facing=east,half=bottom,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -457,22 +457,22 @@
     },
     {
       "char": "0",
-      "block": "minecraft:deepslate_tile_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:deepslate_tile_stairs[facing=east,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "q",
-      "block": "minecraft:polished_andesite_stairs[facing=south,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:polished_andesite_stairs[facing=south,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "}",
-      "block": "minecraft:deepslate_tile_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:deepslate_tile_wall[east=low,north=low,up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "j",
-      "block": "minecraft:iron_bars[east=true,north=true,south=false,waterlogged=false,west=false]",
+      "block": "minecraft:iron_bars[east=true,north=true,south=false,west=false]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -492,52 +492,52 @@
     },
     {
       "char": "9",
-      "block": "minecraft:spruce_fence_gate[facing=west,in_wall=false,open=false,powered=false]",
+      "block": "minecraft:spruce_fence_gate[facing=west,in_wall=false,open=false]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": ">",
-      "block": "minecraft:andesite_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+      "block": "minecraft:andesite_wall[north=tall,south=tall]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "B",
-      "block": "minecraft:deepslate_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]",
+      "block": "minecraft:deepslate_brick_stairs[facing=east,half=top,shape=straight]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "K",
-      "block": "minecraft:deepslate_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:deepslate_brick_wall[up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "[",
-      "block": "minecraft:polished_blackstone_slab[type=bottom,waterlogged=false]",
+      "block": "minecraft:polished_blackstone_slab[type=bottom]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "ͻ",
-      "block": "minecraft:deepslate_tile_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]",
+      "block": "minecraft:deepslate_tile_wall[north=tall,south=tall]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "|",
-      "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=false]",
+      "block": "minecraft:iron_bars[east=true,north=false,south=false,west=false]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "\\",
-      "block": "minecraft:polished_blackstone_slab[type=top,waterlogged=false]",
+      "block": "minecraft:polished_blackstone_slab[type=top]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "@",
-      "block": "minecraft:deepslate_brick_slab[type=top,waterlogged=false]",
+      "block": "minecraft:deepslate_brick_slab[type=top]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "a",
-      "block": "minecraft:polished_blackstone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:polished_blackstone_wall[south=low,up=true]",
       "damaged": "minecraft:iron_bars"
     }
   ]

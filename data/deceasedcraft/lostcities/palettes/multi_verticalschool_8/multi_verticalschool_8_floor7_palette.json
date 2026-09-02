@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "c",
@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+      "block": "minecraft:jungle_slab[type=top]"
     },
     {
       "char": "f",
@@ -39,27 +39,27 @@
     },
     {
       "char": "j",
-      "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=bottom]"
     },
     {
       "char": "k",
-      "block": "minecraft:dark_oak_slab[type=west,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "l",
-      "block": "minecraft:white_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:white_stained_glass_pane"
     },
     {
       "char": "m",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "n",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "o",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "p",
@@ -67,11 +67,11 @@
     },
     {
       "char": "q",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "r",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "s",
@@ -79,7 +79,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "u",
@@ -104,7 +104,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_8/floor7/jungle_drawer"
     }
   ]

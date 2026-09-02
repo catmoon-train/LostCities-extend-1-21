@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "k",
@@ -87,7 +87,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=bottom]"
     },
     {
       "char": "w",
@@ -99,11 +99,11 @@
     },
     {
       "char": "y",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "A",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "B",
@@ -135,7 +135,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_casino_2/floor6/medical_storage"
     },
     {
@@ -173,15 +173,15 @@
     },
     {
       "char": "S",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=east]"
     },
     {
       "char": "T",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "U",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "V",
@@ -193,11 +193,11 @@
     },
     {
       "char": "X",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "Y",
-      "block": "minecraft:dark_oak_slab[type=east,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "Z",

@@ -13,7 +13,7 @@
       },
       {
         "char": "h",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "c",
@@ -33,7 +33,7 @@
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "e",
@@ -49,7 +49,7 @@
       },
       {
         "char": "y",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=top]"
       },
       {
         "char": "n",
@@ -57,11 +57,11 @@
       },
       {
         "char": "z",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "Щ",
-        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[south=true]"
       },
       {
         "char": "ω",
@@ -73,11 +73,11 @@
       },
       {
         "char": "Н",
-        "block": "minecraft:oak_fence_gate[facing=south,in_wall=false,open=true,powered=false]"
+        "block": "minecraft:oak_fence_gate[facing=south,in_wall=false,open=true]"
       },
       {
         "char": "Ζ",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "ϲ",
@@ -85,7 +85,7 @@
       },
       {
         "char": "Q",
-        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence"
       },
       {
         "char": "Ќ",
@@ -105,7 +105,7 @@
       },
       {
         "char": "l",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       }
     ]
   },

@@ -25,23 +25,23 @@
       },
       {
         "char": "筒",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=inner_left]"
       },
       {
         "char": "w",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "谜",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_left]"
       },
       {
         "char": "赠",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=outer_right]"
       },
       {
         "char": "x",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "e",
@@ -49,7 +49,7 @@
       },
       {
         "char": "霍",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=inner_right]"
       },
       {
         "char": "l",
@@ -65,7 +65,7 @@
       },
       {
         "char": "z",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "g",
@@ -93,15 +93,15 @@
       },
       {
         "char": "须",
-        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "溺",
-        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=inner_left]"
       },
       {
         "char": "喃",
-        "block": "minecraft:white_bed[facing=east,occupied=false,part=foot]",
+        "block": "minecraft:white_bed",
         "tag": {
           "z": 988,
           "x": -449,
@@ -112,7 +112,7 @@
       },
       {
         "char": "稻",
-        "block": "minecraft:white_bed[facing=east,occupied=false,part=head]",
+        "block": "minecraft:white_bed",
         "tag": {
           "z": 988,
           "x": -448,
@@ -123,7 +123,7 @@
       },
       {
         "char": "楼",
-        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=straight]"
       }
     ]
   },

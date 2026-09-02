@@ -59,7 +59,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "p",
@@ -249,7 +249,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:target[power=0]"
+      "block": "minecraft:target"
     },
     {
       "char": "K",
@@ -261,12 +261,12 @@
     },
     {
       "char": "M",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_gunstore_3/base1/lootr_chest"
     },
     {
       "char": "N",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "O",

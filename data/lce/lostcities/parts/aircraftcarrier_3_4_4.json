@@ -37,7 +37,7 @@
       },
       {
         "char": "A",
-        "block": "minecraft:iron_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=south,half=bottom,open=false]"
       },
       {
         "char": "吞",
@@ -53,7 +53,7 @@
       },
       {
         "char": "ћ",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "f",
@@ -61,23 +61,23 @@
       },
       {
         "char": "I",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "拼",
-        "block": "minecraft:iron_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=north,half=top,open=false]"
       },
       {
         "char": "剃",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "介",
-        "block": "minecraft:iron_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=east,half=bottom,open=false]"
       },
       {
         "char": "甘",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "俊",
@@ -89,31 +89,31 @@
       },
       {
         "char": "庄",
-        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=inner_left]"
       },
       {
         "char": "弦",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "F",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "暴",
-        "block": "minecraft:smooth_quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "倪",
-        "block": "minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=inner_right]"
       },
       {
         "char": "汉",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "扣",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "手",
@@ -129,7 +129,7 @@
       },
       {
         "char": "券",
-        "block": "minecraft:dispenser[facing=north,triggered=false]",
+        "block": "minecraft:dispenser[facing=north]",
         "tag": {
           "z": 975,
           "x": -505,
@@ -148,11 +148,11 @@
       },
       {
         "char": "葡",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=inner_left]"
       },
       {
         "char": "昂",
-        "block": "minecraft:hopper[enabled=true,facing=north]",
+        "block": "minecraft:hopper[facing=north]",
         "tag": {
           "z": 988,
           "x": -472,
@@ -168,31 +168,31 @@
       },
       {
         "char": "疵",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=inner_right]"
       },
       {
         "char": "惰",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=outer_right]"
       },
       {
         "char": "棠",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=inner_left]"
       },
       {
         "char": "遂",
-        "block": "minecraft:iron_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "饰",
-        "block": "minecraft:iron_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "稿",
-        "block": "minecraft:iron_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "筹",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "埔",
@@ -200,15 +200,15 @@
       },
       {
         "char": "欺",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "债",
-        "block": "minecraft:iron_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "穹",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "余",
@@ -220,7 +220,7 @@
       },
       {
         "char": "沛",
-        "block": "minecraft:andesite_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:andesite_wall[south=low,up=true]"
       }
     ]
   },

@@ -3,15 +3,15 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "b",
-      "block": "minecraft:spruce_slab[type=west,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "c",
-      "block": "minecraft:spruce_slab[type=east,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "d",
@@ -35,11 +35,11 @@
     },
     {
       "char": "i",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "j",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "k",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "m",
@@ -159,7 +159,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "B",
@@ -171,7 +171,7 @@
     },
     {
       "char": "D",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "E",

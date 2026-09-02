@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=bottom]"
     },
     {
       "char": "b",
@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=top]"
     },
     {
       "char": "d",
@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "f",
@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:daylight_detector[power=12,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "h",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_residentiala/floor1/lootr_chest"
     },
     {
@@ -48,11 +48,11 @@
     },
     {
       "char": "l",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "m",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "n",
@@ -60,7 +60,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     }
   ]
 }

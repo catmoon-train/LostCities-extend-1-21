@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "c",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "j",
@@ -107,31 +107,31 @@
     },
     {
       "char": "C",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "D",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "E",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=south]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "F",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "I",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=north]"
     },
     {
       "char": "J",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "K",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=east]"
     }
   ]
 }

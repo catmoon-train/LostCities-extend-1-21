@@ -53,7 +53,7 @@
       },
       {
         "char": "ϲ",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "d",
@@ -81,7 +81,7 @@
       },
       {
         "char": "Р",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "ѣ",
@@ -93,11 +93,11 @@
       },
       {
         "char": "б",
-        "block": "minecraft:mossy_cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_cobblestone_wall[east=low,west=low]"
       },
       {
         "char": "Ы",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,west=low]"
       },
       {
         "char": "R",
@@ -125,7 +125,7 @@
       },
       {
         "char": "ѥ",
-        "block": "minecraft:skeleton_skull[rotation=9]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 587,
           "x": 138,
@@ -136,15 +136,15 @@
       },
       {
         "char": "γ",
-        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "Ҳ",
-        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=inner_left]"
       },
       {
         "char": "Ϯ",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire"
       },
       {
         "char": "o",
@@ -152,7 +152,7 @@
       },
       {
         "char": "ϡ",
-        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "X",
@@ -160,7 +160,7 @@
       },
       {
         "char": "ӈ",
-        "block": "minecraft:oak_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=south,half=bottom,shape=inner_right]"
       },
       {
         "char": "j",
@@ -168,15 +168,15 @@
       },
       {
         "char": "r",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[south=true,west=true]"
       },
       {
         "char": "΅",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=false]"
       },
       {
         "char": "s",
-        "block": "minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[east=true,north=true]"
       },
       {
         "char": "k",
@@ -184,15 +184,15 @@
       },
       {
         "char": "D",
-        "block": "minecraft:glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=true,west=true]"
       },
       {
         "char": "h",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "Ϳ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 594,
           "x": 142,
@@ -228,43 +228,43 @@
       },
       {
         "char": "ϱ",
-        "block": "minecraft:oak_leaves[distance=4,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "N",
-        "block": "minecraft:oak_leaves[distance=3,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "G",
-        "block": "minecraft:oak_leaves[distance=2,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "O",
-        "block": "minecraft:oak_leaves[distance=1,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "ψ",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "ε",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "ζ",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "ϫ",
-        "block": "minecraft:cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "Џ",
-        "block": "minecraft:glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=false,west=false]"
       },
       {
         "char": "ϳ",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence"
       }
     ]
   },

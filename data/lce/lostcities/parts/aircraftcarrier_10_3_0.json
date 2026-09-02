@@ -41,7 +41,7 @@
       },
       {
         "char": "燕",
-        "block": "minecraft:dark_oak_door[facing=east,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=east,half=lower,hinge=right,open=false]"
       },
       {
         "char": "暨",
@@ -49,11 +49,11 @@
       },
       {
         "char": "喂",
-        "block": "minecraft:dark_oak_door[facing=south,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=south,half=lower,hinge=right,open=false]"
       },
       {
         "char": "B",
-        "block": "minecraft:iron_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=north,half=bottom,open=false]"
       },
       {
         "char": "陌",
@@ -65,19 +65,19 @@
       },
       {
         "char": "斜",
-        "block": "minecraft:dark_oak_door[facing=east,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=east,half=upper,hinge=right,open=false]"
       },
       {
         "char": "滋",
-        "block": "minecraft:dark_oak_door[facing=south,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=south,half=upper,hinge=right,open=false]"
       },
       {
         "char": "P",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "家",
-        "block": "minecraft:white_wall_banner[facing=south]",
+        "block": "minecraft:white_wall_banner",
         "tag": {
           "z": 939,
           "Patterns": [
@@ -106,11 +106,11 @@
       },
       {
         "char": "恢",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "诡",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "蛙",
@@ -118,11 +118,11 @@
       },
       {
         "char": "胞",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "燃",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true]"
       },
       {
         "char": "g",
@@ -130,7 +130,7 @@
       },
       {
         "char": "啪",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=false]"
       },
       {
         "char": "采",

@@ -2,7 +2,7 @@
   "palette": [
     {
       "char": "+",
-      "block": "minecraft:deepslate_tile_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:deepslate_tile_wall[up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "char": "5",
-      "block": "minecraft:deepslate_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]",
+      "block": "minecraft:deepslate_brick_wall[east=tall,south=tall,up=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -27,12 +27,12 @@
     },
     {
       "char": "7",
-      "block": "minecraft:deepslate_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]",
+      "block": "minecraft:deepslate_brick_wall[south=tall,up=true,west=tall]",
       "damaged": "minecraft:iron_bars"
     },
     {
       "char": "9",
-      "block": "minecraft:campfire[facing=north,lit=true,signal_fire=false,waterlogged=false]",
+      "block": "minecraft:campfire[facing=north,lit=true]",
       "damaged": "minecraft:iron_bars"
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "char": "$",
-      "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]",
+      "block": "minecraft:oak_leaves",
       "damaged": "minecraft:iron_bars"
     },
     {

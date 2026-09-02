@@ -89,11 +89,11 @@
       },
       {
         "char": "ѩ",
-        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=bottom]"
       },
       {
         "char": "ҹ",
-        "block": "minecraft:mossy_cobblestone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=bottom]"
       },
       {
         "char": "g",
@@ -105,11 +105,11 @@
       },
       {
         "char": "H",
-        "block": "minecraft:birch_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:birch_leaves"
       },
       {
         "char": "Ѝ",
-        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "x",
@@ -117,7 +117,7 @@
       },
       {
         "char": "Ͽ",
-        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "y",
@@ -125,11 +125,11 @@
       },
       {
         "char": "N",
-        "block": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_stone_brick_wall[east=tall,up=true]"
       },
       {
         "char": "Ҝ",
-        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=inner_right]"
       },
       {
         "char": "ѳ",
@@ -137,7 +137,7 @@
       },
       {
         "char": "Ϊ",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "q",
@@ -145,7 +145,7 @@
       },
       {
         "char": "ϋ",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 652,
@@ -161,23 +161,23 @@
       },
       {
         "char": "J",
-        "block": "minecraft:stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[east=tall,up=true]"
       },
       {
         "char": "ϝ",
-        "block": "minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=south,half=top,open=true]"
       },
       {
         "char": "Һ",
-        "block": "minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=east,half=top,open=false]"
       },
       {
         "char": "һ",
-        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=false]"
       },
       {
         "char": "ͻ",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "Ҷ",
@@ -185,7 +185,7 @@
       },
       {
         "char": "ҙ",
-        "block": "minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=false]"
       },
       {
         "char": "Ҕ",
@@ -193,7 +193,7 @@
       },
       {
         "char": "ҍ",
-        "block": "minecraft:hopper[enabled=true,facing=west]",
+        "block": "minecraft:hopper[facing=west]",
         "tag": {
           "z": 667,
           "x": 180,
@@ -209,7 +209,7 @@
       },
       {
         "char": "Ҭ",
-        "block": "minecraft:hopper[enabled=true,facing=south]",
+        "block": "minecraft:hopper[facing=south]",
         "tag": {
           "z": 667,
           "x": 181,
@@ -225,7 +225,7 @@
       },
       {
         "char": "m",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "l",
@@ -233,11 +233,11 @@
       },
       {
         "char": "Ј",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "и",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "Ѓ",
@@ -245,11 +245,11 @@
       },
       {
         "char": "8",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence"
       },
       {
         "char": "е",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 665,
           "x": 183,
@@ -285,15 +285,15 @@
       },
       {
         "char": "Ң",
-        "block": "minecraft:birch_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "Ҹ",
-        "block": "minecraft:dark_oak_door[facing=west,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=west,half=upper,hinge=right,open=false]"
       },
       {
         "char": "ѝ",
-        "block": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_stone_brick_wall[east=tall,south=tall,up=true]"
       },
       {
         "char": "Р",
@@ -305,7 +305,7 @@
       },
       {
         "char": "ѹ",
-        "block": "minecraft:white_wall_banner[facing=north]",
+        "block": "minecraft:white_wall_banner",
         "tag": {
           "z": 667,
           "Patterns": [],
@@ -321,7 +321,7 @@
       },
       {
         "char": "z",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "0",
@@ -329,23 +329,23 @@
       },
       {
         "char": "E",
-        "block": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "қ",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=outer_left]"
       },
       {
         "char": "ф",
-        "block": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "Ѣ",
-        "block": "minecraft:jungle_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:jungle_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "҈",
-        "block": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "M",

@@ -3,11 +3,11 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:spruce_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=bottom]"
     },
     {
       "char": "b",
-      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:spruce_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "c",

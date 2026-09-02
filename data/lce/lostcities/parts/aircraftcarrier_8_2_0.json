@@ -13,7 +13,7 @@
       },
       {
         "char": "ϑ",
-        "block": "minecraft:birch_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 953,
           "x": -527,
@@ -49,7 +49,7 @@
       },
       {
         "char": "C",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "c",
@@ -61,7 +61,7 @@
       },
       {
         "char": "z",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "b",
@@ -85,11 +85,11 @@
       },
       {
         "char": "җ",
-        "block": "minecraft:water[level=1]"
+        "block": "minecraft:water"
       },
       {
         "char": "罩",
-        "block": "minecraft:water[level=2]"
+        "block": "minecraft:water"
       },
       {
         "char": "k",
@@ -97,7 +97,7 @@
       },
       {
         "char": "璃",
-        "block": "minecraft:gray_bed[facing=north,occupied=false,part=head]",
+        "block": "minecraft:gray_bed",
         "tag": {
           "z": 945,
           "x": -418,
@@ -108,19 +108,19 @@
       },
       {
         "char": "烧",
-        "block": "minecraft:ladder[facing=south,waterlogged=false]"
+        "block": "minecraft:ladder[facing=south]"
       },
       {
         "char": "瘟",
-        "block": "minecraft:water[level=3]"
+        "block": "minecraft:water"
       },
       {
         "char": "卷",
-        "block": "minecraft:ladder[facing=west,waterlogged=false]"
+        "block": "minecraft:ladder[facing=west]"
       },
       {
         "char": "尚",
-        "block": "minecraft:birch_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 945,
           "x": -465,
@@ -156,7 +156,7 @@
       },
       {
         "char": "煮",
-        "block": "minecraft:gray_bed[facing=north,occupied=false,part=foot]",
+        "block": "minecraft:gray_bed",
         "tag": {
           "z": 946,
           "x": -418,
@@ -167,31 +167,31 @@
       },
       {
         "char": "抖",
-        "block": "minecraft:water[level=4]"
+        "block": "minecraft:water"
       },
       {
         "char": "恒",
-        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "雁",
-        "block": "minecraft:water[level=5]"
+        "block": "minecraft:water"
       },
       {
         "char": "葬",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_right]"
       },
       {
         "char": "w",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "谜",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_left]"
       },
       {
         "char": "谁",
-        "block": "minecraft:chest[facing=north,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 977,
@@ -207,7 +207,7 @@
       },
       {
         "char": "获",
-        "block": "minecraft:redstone_wire[east=none,north=up,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,north=up,west=none]"
       },
       {
         "char": "垂",
@@ -215,7 +215,7 @@
       },
       {
         "char": "黎",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "首",
@@ -227,7 +227,7 @@
       },
       {
         "char": "衫",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[east=none,south=none]"
       },
       {
         "char": "绘",
@@ -239,7 +239,7 @@
       },
       {
         "char": "擦",
-        "block": "minecraft:iron_door[facing=west,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=west,half=lower,hinge=left,open=false]"
       },
       {
         "char": "践",
@@ -247,7 +247,7 @@
       },
       {
         "char": "拢",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire"
       },
       {
         "char": "陷",
@@ -263,7 +263,7 @@
       },
       {
         "char": "靖",
-        "block": "minecraft:iron_door[facing=west,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=west,half=upper,hinge=left,open=false]"
       },
       {
         "char": "雕",
@@ -271,7 +271,7 @@
       },
       {
         "char": "顽",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "O",

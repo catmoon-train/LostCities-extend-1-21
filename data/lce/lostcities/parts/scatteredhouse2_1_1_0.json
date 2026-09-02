@@ -25,7 +25,7 @@
       },
       {
         "char": "j",
-        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true,south=true]"
       },
       {
         "char": "f",
@@ -61,23 +61,23 @@
       },
       {
         "char": "ϑ",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[west=true]"
       },
       {
         "char": "ώ",
-        "block": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[east=true]"
       },
       {
         "char": "Φ",
-        "block": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[east=true,west=true]"
       },
       {
         "char": "ϰ",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[north=true,west=true]"
       },
       {
         "char": "Ͱ",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 332,
           "x": 144,
@@ -117,15 +117,15 @@
       },
       {
         "char": "ͱ",
-        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[east=true,west=true]"
       },
       {
         "char": "ϙ",
-        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "Σ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 329,
           "x": 138,
@@ -177,11 +177,11 @@
       },
       {
         "char": "ϗ",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[north=true]"
       },
       {
         "char": "ϧ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 335,
           "x": 129,
@@ -217,19 +217,19 @@
       },
       {
         "char": "Ж",
-        "block": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true,south=true]"
       },
       {
         "char": "ϣ",
-        "block": "minecraft:glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=true,west=true]"
       },
       {
         "char": "ϓ",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[south=true]"
       },
       {
         "char": "φ",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[north=true,south=true]"
       },
       {
         "char": "χ",
@@ -237,7 +237,7 @@
       },
       {
         "char": "d",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "г",
@@ -245,19 +245,19 @@
       },
       {
         "char": "l",
-        "block": "minecraft:oak_leaves[distance=2,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "o",
-        "block": "minecraft:oak_leaves[distance=4,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "Ͳ",
-        "block": "minecraft:oak_leaves[distance=1,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "m",
-        "block": "minecraft:oak_leaves[distance=3,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "ϊ",
@@ -265,7 +265,7 @@
       },
       {
         "char": "ʹ",
-        "block": "minecraft:brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:brick_stairs[facing=north,half=bottom,shape=straight]"
       }
     ]
   },

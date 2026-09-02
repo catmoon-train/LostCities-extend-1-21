@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:redstone_wire[power=0]"
+      "block": "minecraft:redstone_wire"
     },
     {
       "char": "k",
@@ -82,7 +82,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "s",
@@ -94,7 +94,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "w",
@@ -106,7 +106,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "A",
@@ -114,7 +114,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "C",
@@ -130,7 +130,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "I",
@@ -159,19 +159,19 @@
     },
     {
       "char": "O",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "P",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "Q",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "R",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "S",
@@ -195,7 +195,7 @@
     },
     {
       "char": "X",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_hospitaldamaged_3/base2/birch_drawer"
     },
     {
@@ -252,11 +252,11 @@
     },
     {
       "char": "$",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "%",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=north]"
     }
   ]
 }

@@ -15,11 +15,11 @@
     },
     {
       "char": "d",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=false,facing=west]"
     },
     {
       "char": "e",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=east]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=false,facing=east]"
     },
     {
       "char": "f",
@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=north]"
     },
     {
       "char": "h",
@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "k",
@@ -47,27 +47,27 @@
     },
     {
       "char": "l",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=bottom]"
     },
     {
       "char": "m",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "n",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "o",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "p",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "q",
-      "block": "minecraft:white_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:white_stained_glass_pane"
     },
     {
       "char": "r",
@@ -79,7 +79,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=top]"
     },
     {
       "char": "u",
@@ -103,7 +103,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:light_gray_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:light_gray_stained_glass_pane"
     },
     {
       "char": "C",

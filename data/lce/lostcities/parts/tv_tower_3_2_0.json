@@ -113,15 +113,15 @@
       },
       {
         "char": "Ѩ",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "k",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "Ѳ",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,west=false]"
       },
       {
         "char": "Ѥ",
@@ -143,11 +143,11 @@
       },
       {
         "char": "N",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "考",
-        "block": "minecraft:crimson_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:crimson_wall_sign",
         "tag": {
           "z": -259,
           "x": -6,
@@ -182,15 +182,15 @@
       },
       {
         "char": "章",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,west=false]"
       },
       {
         "char": "M",
-        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=top]"
       },
       {
         "char": "ѩ",
-        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=top]"
       }
     ]
   },

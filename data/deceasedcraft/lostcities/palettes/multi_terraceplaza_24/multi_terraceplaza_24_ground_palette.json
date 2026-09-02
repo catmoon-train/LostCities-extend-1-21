@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=bottom]"
     },
     {
       "char": "i",
@@ -43,11 +43,11 @@
     },
     {
       "char": "k",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "l",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "m",
@@ -75,7 +75,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "t",
@@ -120,11 +120,11 @@
     },
     {
       "char": "F",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=false,facing=south]"
     },
     {
       "char": "I",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=false,facing=north]"
     },
     {
       "char": "J",
@@ -197,7 +197,7 @@
     },
     {
       "char": "V",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "W",
@@ -240,7 +240,7 @@
     },
     {
       "char": "4",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_23/ground/lootr_chest"
     },
     {
@@ -249,7 +249,7 @@
     },
     {
       "char": "6",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_23/ground/lootr_chest"
     },
     {

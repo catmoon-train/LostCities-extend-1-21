@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:oak_leaves"
     },
     {
       "char": "e",
@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "g",
@@ -77,7 +77,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=double]"
     },
     {
       "char": "r",
@@ -85,23 +85,23 @@
     },
     {
       "char": "s",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "t",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "u",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "w",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "x",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "y",
@@ -134,7 +134,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_convenientstore_2/ground/metalshelvesone"
     },
     {
@@ -143,11 +143,11 @@
     },
     {
       "char": "K",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "L",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=east,shape=straight]"
     }
   ]
 }

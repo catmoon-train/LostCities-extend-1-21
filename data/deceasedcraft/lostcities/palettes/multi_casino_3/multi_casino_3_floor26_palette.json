@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:brown_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:brown_stained_glass_pane"
     },
     {
       "char": "b",
@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:jukebox[has_record=false]"
+      "block": "minecraft:jukebox"
     },
     {
       "char": "g",
@@ -76,7 +76,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_casino_6/floor23/dark_oak_drawer"
     },
     {

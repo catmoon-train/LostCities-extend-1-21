@@ -40,7 +40,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "k",
@@ -48,7 +48,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "m",
@@ -61,7 +61,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "p",
@@ -69,7 +69,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_hotela/base2/lootr_chest"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "t",
@@ -99,11 +99,11 @@
     },
     {
       "char": "y",
-      "block": "minecraft:jukebox[has_record=false]"
+      "block": "minecraft:jukebox"
     },
     {
       "char": "A",
-      "block": "minecraft:spruce_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=bottom]"
     },
     {
       "char": "B",
@@ -119,7 +119,7 @@
     },
     {
       "char": "E",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "F",

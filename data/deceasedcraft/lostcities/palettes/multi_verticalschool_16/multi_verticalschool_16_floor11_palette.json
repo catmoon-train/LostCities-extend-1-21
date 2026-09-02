@@ -7,20 +7,20 @@
     },
     {
       "char": "b",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_16/floor11/lootr_chest"
     },
     {
       "char": "c",
-      "block": "minecraft:chain[waterlogged=false,axis=y]"
+      "block": "minecraft:chain[axis=y]"
     },
     {
       "char": "d",
-      "block": "minecraft:ender_chest[waterlogged=false,facing=east]"
+      "block": "minecraft:ender_chest"
     },
     {
       "char": "e",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "f",
@@ -53,7 +53,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "l",

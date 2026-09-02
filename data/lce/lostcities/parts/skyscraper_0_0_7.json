@@ -17,7 +17,7 @@
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "e",
@@ -25,7 +25,7 @@
       },
       {
         "char": "f",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "h",
@@ -45,11 +45,11 @@
       },
       {
         "char": "J",
-        "block": "minecraft:glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=true,west=true]"
       },
       {
         "char": "I",
-        "block": "minecraft:glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=true,south=true,west=false]"
       },
       {
         "char": "l",
@@ -57,7 +57,7 @@
       },
       {
         "char": "Д",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "k",
@@ -65,11 +65,11 @@
       },
       {
         "char": "ѷ",
-        "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=double]"
       },
       {
         "char": "K",
-        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "Ю",
@@ -106,11 +106,11 @@
       },
       {
         "char": "Ё",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "Ӈ",
-        "block": "minecraft:skeleton_skull[rotation=6]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 621,
           "x": 78,
@@ -121,7 +121,7 @@
       },
       {
         "char": "ҩ",
-        "block": "minecraft:skeleton_skull[rotation=12]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 622,
           "x": 76,
@@ -132,11 +132,11 @@
       },
       {
         "char": "y",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire"
       },
       {
         "char": "Έ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 618,
           "x": 74,
@@ -176,15 +176,15 @@
       },
       {
         "char": "Ћ",
-        "block": "minecraft:oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "ь",
-        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "р",
-        "block": "minecraft:oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=south,half=top,open=true]"
       }
     ]
   },

@@ -21,25 +21,25 @@
     },
     {
       "char": "e",
-      "block": "minecraft:light_gray_bed[occupied=false,part=head,facing=west]",
+      "block": "minecraft:light_gray_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "f",
-      "block": "minecraft:light_gray_bed[occupied=false,part=foot,facing=west]",
+      "block": "minecraft:light_gray_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "g",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "h",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "i",
@@ -60,7 +60,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_residentialb/floor1/lootr_chest"
     },
     {
@@ -69,11 +69,11 @@
     },
     {
       "char": "o",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "p",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "q",
@@ -81,7 +81,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "s",
@@ -105,7 +105,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:lantern[waterlogged=false,hanging=false]"
+      "block": "minecraft:lantern[hanging=false]"
     },
     {
       "char": "A",
@@ -113,15 +113,15 @@
     },
     {
       "char": "B",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "C",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "D",
-      "block": "minecraft:daylight_detector[power=11,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "E",
@@ -129,15 +129,15 @@
     },
     {
       "char": "F",
-      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=top]"
     },
     {
       "char": "I",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "J",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=bottom]"
     },
     {
       "char": "K",

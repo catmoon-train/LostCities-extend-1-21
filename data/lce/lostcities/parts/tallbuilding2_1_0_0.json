@@ -81,11 +81,11 @@
       },
       {
         "char": "ϻ",
-        "block": "minecraft:oak_door[facing=south,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=south,half=lower,hinge=left,open=false]"
       },
       {
         "char": "M",
-        "block": "minecraft:acacia_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:acacia_leaves"
       },
       {
         "char": "ͽ",
@@ -101,19 +101,19 @@
       },
       {
         "char": "K",
-        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=bottom]"
       },
       {
         "char": "Ϸ",
-        "block": "minecraft:oak_door[facing=south,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=south,half=upper,hinge=left,open=false]"
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "Δ",
-        "block": "minecraft:glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=true,west=true]"
       },
       {
         "char": "d",
@@ -121,15 +121,15 @@
       },
       {
         "char": "μ",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=true]"
       },
       {
         "char": "h",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "z",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "n",

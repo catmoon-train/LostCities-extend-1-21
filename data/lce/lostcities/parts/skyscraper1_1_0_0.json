@@ -65,7 +65,7 @@
       },
       {
         "char": "χ",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "h",
@@ -73,7 +73,7 @@
       },
       {
         "char": "Ђ",
-        "block": "minecraft:skeleton_skull[rotation=2]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 616,
           "x": 55,
@@ -104,11 +104,11 @@
       },
       {
         "char": "E",
-        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=bottom]"
       },
       {
         "char": "Κ",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "f",
@@ -116,11 +116,11 @@
       },
       {
         "char": "a",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "Д",
-        "block": "minecraft:oak_door[facing=south,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=south,half=lower,hinge=left,open=false]"
       },
       {
         "char": "d",
@@ -128,7 +128,7 @@
       },
       {
         "char": "i",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "D",
@@ -136,11 +136,11 @@
       },
       {
         "char": "Ͼ",
-        "block": "minecraft:iron_door[facing=east,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=east,half=lower,hinge=left,open=false]"
       },
       {
         "char": "ϭ",
-        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 621,
@@ -156,7 +156,7 @@
       },
       {
         "char": "j",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "z",
@@ -164,11 +164,11 @@
       },
       {
         "char": "Ͽ",
-        "block": "minecraft:iron_door[facing=east,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=east,half=lower,hinge=right,open=false]"
       },
       {
         "char": "ϟ",
-        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 622,
@@ -184,7 +184,7 @@
       },
       {
         "char": "ϲ",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 622,
@@ -200,19 +200,19 @@
       },
       {
         "char": "Ї",
-        "block": "minecraft:oak_door[facing=south,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=south,half=upper,hinge=left,open=false]"
       },
       {
         "char": "В",
-        "block": "minecraft:iron_door[facing=east,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=east,half=upper,hinge=left,open=false]"
       },
       {
         "char": "Ќ",
-        "block": "minecraft:iron_door[facing=east,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=east,half=upper,hinge=right,open=false]"
       },
       {
         "char": "ζ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 618,
           "x": 47,
@@ -248,7 +248,7 @@
       },
       {
         "char": "΄",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 621,
           "x": 46,
@@ -284,7 +284,7 @@
       },
       {
         "char": "8",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 619,
           "x": 51,
@@ -320,11 +320,11 @@
       },
       {
         "char": "F",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=true]"
       },
       {
         "char": "ξ",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "G",

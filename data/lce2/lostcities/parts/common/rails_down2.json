@@ -6,19 +6,19 @@
     "palette": [
       {
         "char": "J",
-        "block": "minecraft:rail[shape=east_west,waterlogged=false]"
+        "block": "minecraft:rail[shape=east_west]"
       },
       {
         "char": "M",
-        "block": "minecraft:rail[shape=ascending_east,waterlogged=false]"
+        "block": "minecraft:rail[shape=ascending_east]"
       },
       {
         "char": "N",
-        "block": "minecraft:lantern[hanging=true,waterlogged=false]"
+        "block": "minecraft:lantern[hanging=true]"
       },
       {
         "char": "O",
-        "block": "minecraft:mossy_stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_slab[type=top]"
       }
     ]
   },

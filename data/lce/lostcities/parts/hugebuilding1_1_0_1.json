@@ -9,7 +9,7 @@
       },
       {
         "char": "Ң",
-        "block": "minecraft:oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "K",
@@ -17,7 +17,7 @@
       },
       {
         "char": "А",
-        "block": "minecraft:oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "Т",
@@ -29,7 +29,7 @@
       },
       {
         "char": "x",
-        "block": "minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[east=true,south=true]"
       },
       {
         "char": "c",
@@ -41,7 +41,7 @@
       },
       {
         "char": "л",
-        "block": "minecraft:oak_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "k",
@@ -49,7 +49,7 @@
       },
       {
         "char": "D",
-        "block": "minecraft:glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=true,west=true]"
       },
       {
         "char": "d",
@@ -57,7 +57,7 @@
       },
       {
         "char": "y",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[north=true,west=true]"
       },
       {
         "char": "ѣ",
@@ -73,11 +73,11 @@
       },
       {
         "char": "Э",
-        "block": "minecraft:oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "H",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=true]"
       },
       {
         "char": "α",
@@ -93,11 +93,11 @@
       },
       {
         "char": "е",
-        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=inner_right]"
       },
       {
         "char": "γ",
-        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "q",
@@ -113,7 +113,7 @@
       },
       {
         "char": "ω",
-        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "p",
@@ -121,15 +121,15 @@
       },
       {
         "char": "h",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "Ϳ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 594,
           "x": 142,
@@ -173,23 +173,23 @@
       },
       {
         "char": "J",
-        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=top]"
       },
       {
         "char": "ψ",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "ε",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "ζ",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "κ",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true]"
       }
     ]
   },

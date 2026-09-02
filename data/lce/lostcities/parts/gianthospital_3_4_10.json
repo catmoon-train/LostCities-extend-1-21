@@ -45,7 +45,7 @@
       },
       {
         "char": "E",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "逛",
@@ -65,11 +65,11 @@
       },
       {
         "char": "梓",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire[north=none]"
       },
       {
         "char": "D",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "醉",
@@ -160,7 +160,7 @@
       },
       {
         "char": "贞",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "嘱",
@@ -176,7 +176,7 @@
       },
       {
         "char": "蝙",
-        "block": "minecraft:dispenser[facing=east,triggered=false]",
+        "block": "minecraft:dispenser[facing=east]",
         "tag": {
           "z": 481,
           "x": -57,
@@ -195,19 +195,19 @@
       },
       {
         "char": "绮",
-        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence"
       },
       {
         "char": "闹",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "么",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "殉",
-        "block": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "B",
@@ -215,7 +215,7 @@
       },
       {
         "char": "G",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "苔",
@@ -223,7 +223,7 @@
       },
       {
         "char": "瓜",
-        "block": "minecraft:jungle_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:jungle_leaves"
       },
       {
         "char": "伤",
@@ -257,15 +257,15 @@
       },
       {
         "char": "震",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "a",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "k",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=top]"
       },
       {
         "char": "喙",
@@ -281,11 +281,11 @@
       },
       {
         "char": "r",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=top]"
       },
       {
         "char": "A",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       }
     ]
   },

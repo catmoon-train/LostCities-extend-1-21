@@ -13,11 +13,11 @@
       },
       {
         "char": "ѷ",
-        "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=double]"
       },
       {
         "char": "е",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=top]"
       },
       {
         "char": "i",
@@ -29,7 +29,7 @@
       },
       {
         "char": "f",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "H",
@@ -65,7 +65,7 @@
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "j",
@@ -73,7 +73,7 @@
       },
       {
         "char": "y",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire"
       },
       {
         "char": "m",
@@ -81,7 +81,7 @@
       },
       {
         "char": "会",
-        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 617,
@@ -97,11 +97,11 @@
       },
       {
         "char": "n",
-        "block": "minecraft:quartz_slab[type=double,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=double]"
       },
       {
         "char": "ґ",
-        "block": "minecraft:skeleton_skull[rotation=8]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 628,
           "x": 73,
@@ -116,11 +116,11 @@
       },
       {
         "char": "Ё",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "҃",
-        "block": "minecraft:skeleton_skull[rotation=4]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 618,
           "x": 72,
@@ -131,7 +131,7 @@
       },
       {
         "char": "x",
-        "block": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "Ҷ",
@@ -139,7 +139,7 @@
       },
       {
         "char": "Έ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 618,
           "x": 74,
@@ -175,7 +175,7 @@
       },
       {
         "char": "Ϊ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 621,
           "x": 75,

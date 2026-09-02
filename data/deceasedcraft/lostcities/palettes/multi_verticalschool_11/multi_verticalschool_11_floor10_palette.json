@@ -19,15 +19,15 @@
     },
     {
       "char": "e",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "f",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "h",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "m",
@@ -83,7 +83,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:decorated_pot[waterlogged=false,cracked=false,facing=south]",
+      "block": "minecraft:decorated_pot",
       "tag": {
         "id": "minecraft:decorated_pot"
       }

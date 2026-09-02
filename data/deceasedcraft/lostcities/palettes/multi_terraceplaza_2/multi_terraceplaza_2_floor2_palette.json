@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:white_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:white_stained_glass_pane"
     },
     {
       "char": "b",
@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "e",
@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "g",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=west]"
     },
     {
       "char": "n",
@@ -63,7 +63,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "q",
@@ -91,7 +91,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "y",
@@ -132,7 +132,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=false,facing=north]"
     },
     {
       "char": "L",

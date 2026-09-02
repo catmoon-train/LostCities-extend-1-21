@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "h",
@@ -87,11 +87,11 @@
     },
     {
       "char": "s",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "t",
-      "block": "minecraft:acacia_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=north]"
+      "block": "minecraft:acacia_trapdoor[half=top,open=true,facing=north]"
     },
     {
       "char": "u",
@@ -125,7 +125,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:acacia_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=south]"
+      "block": "minecraft:acacia_trapdoor[half=top,open=true,facing=south]"
     },
     {
       "char": "D",
@@ -161,23 +161,23 @@
     },
     {
       "char": "N",
-      "block": "minecraft:dark_oak_slab[type=north,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "O",
-      "block": "minecraft:dark_oak_slab[type=west,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "P",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]"
+      "block": "minecraft:chest"
     },
     {
       "char": "Q",
-      "block": "minecraft:dark_oak_slab[type=east,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "R",
-      "block": "minecraft:dark_oak_slab[type=south,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "S",

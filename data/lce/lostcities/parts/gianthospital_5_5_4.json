@@ -17,11 +17,11 @@
       },
       {
         "char": "硫",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[west=none]"
       },
       {
         "char": "E",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "x",
@@ -41,7 +41,7 @@
       },
       {
         "char": "D",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "h",
@@ -57,11 +57,11 @@
       },
       {
         "char": "淆",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[north=none,west=none]"
       },
       {
         "char": "鳞",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[south=none]"
       },
       {
         "char": "怨",
@@ -69,7 +69,7 @@
       },
       {
         "char": "捏",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[east=none,south=none]"
       },
       {
         "char": "醉",
@@ -97,11 +97,11 @@
       },
       {
         "char": "杠",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "y",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "i",
@@ -117,7 +117,7 @@
       },
       {
         "char": "Q",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "剷",
@@ -125,7 +125,7 @@
       },
       {
         "char": "锁",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "刍",
@@ -133,7 +133,7 @@
       },
       {
         "char": "w",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       }
     ]
   },

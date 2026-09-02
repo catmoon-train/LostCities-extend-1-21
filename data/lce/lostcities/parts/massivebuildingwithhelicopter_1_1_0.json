@@ -109,11 +109,11 @@
       },
       {
         "char": "Ѝ",
-        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "Ͽ",
-        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "к",
@@ -121,11 +121,11 @@
       },
       {
         "char": "ѓ",
-        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=inner_left]"
       },
       {
         "char": "ϋ",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 652,
@@ -145,7 +145,7 @@
       },
       {
         "char": "ϴ",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "x",
@@ -153,7 +153,7 @@
       },
       {
         "char": "ϝ",
-        "block": "minecraft:spruce_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=south,half=top,open=true]"
       },
       {
         "char": "з",
@@ -161,11 +161,11 @@
       },
       {
         "char": "ђ",
-        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_right]"
       },
       {
         "char": "Ё",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom]"
       },
       {
         "char": "Ӆ",
@@ -173,7 +173,7 @@
       },
       {
         "char": "m",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "j",
@@ -193,7 +193,7 @@
       },
       {
         "char": "Ј",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "Ѓ",
@@ -201,7 +201,7 @@
       },
       {
         "char": "Ϊ",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "҃",
@@ -209,11 +209,11 @@
       },
       {
         "char": "8",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence"
       },
       {
         "char": "и",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "л",
@@ -225,15 +225,15 @@
       },
       {
         "char": "w",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "ф",
-        "block": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:jungle_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "҈",
-        "block": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=true]"
       }
     ]
   },

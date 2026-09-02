@@ -13,19 +13,19 @@
       },
       {
         "char": "沁",
-        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[south=true]"
       },
       {
         "char": "蔬",
-        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true]"
       },
       {
         "char": "坍",
-        "block": "minecraft:oak_fence[east=true,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[east=true,north=true,south=true,west=true]"
       },
       {
         "char": "辙",
-        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[west=true]"
       },
       {
         "char": "j",
@@ -33,11 +33,11 @@
       },
       {
         "char": "淬",
-        "block": "minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:iron_bars[east=false,north=false,south=false,west=false]"
       },
       {
         "char": "羹",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true]"
       },
       {
         "char": "m",
@@ -49,7 +49,7 @@
       },
       {
         "char": "喳",
-        "block": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[east=true,south=true,west=true]"
       },
       {
         "char": "p",
@@ -57,15 +57,15 @@
       },
       {
         "char": "烊",
-        "block": "minecraft:oak_fence[east=true,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true,north=true,south=true]"
       },
       {
         "char": "滕",
-        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[north=true,south=true,west=true]"
       },
       {
         "char": "瘁",
-        "block": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[east=true,north=true,west=true]"
       },
       {
         "char": "e",

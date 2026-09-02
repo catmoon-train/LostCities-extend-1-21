@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=bottom]"
     },
     {
       "char": "b",
@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=top]"
     },
     {
       "char": "d",
@@ -23,15 +23,15 @@
     },
     {
       "char": "f",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "g",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "h",
-      "block": "minecraft:spruce_stairs[waterlogged=false,facing=east]"
+      "block": "minecraft:spruce_stairs[facing=east]"
     },
     {
       "char": "i",
@@ -39,11 +39,11 @@
     },
     {
       "char": "j",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "k",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "l",
@@ -59,7 +59,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "p",
@@ -71,7 +71,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:daylight_detector[power=4,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "s",
@@ -83,7 +83,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     }
   ]
 }

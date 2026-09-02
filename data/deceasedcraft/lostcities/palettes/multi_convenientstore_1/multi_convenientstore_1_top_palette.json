@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "d",
@@ -51,11 +51,11 @@
     },
     {
       "char": "m",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "n",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "o",
@@ -91,7 +91,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "y",
@@ -131,7 +131,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "L",
@@ -139,7 +139,7 @@
     },
     {
       "char": "M",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "N",
@@ -166,7 +166,7 @@
     },
     {
       "char": "S",
-      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab[type=bottom]"
     }
   ]
 }

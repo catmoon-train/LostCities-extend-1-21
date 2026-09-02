@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:jungle_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:jungle_leaves"
     },
     {
       "char": "f",
@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "k",
@@ -55,7 +55,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=north]"
     }
   ]
 }

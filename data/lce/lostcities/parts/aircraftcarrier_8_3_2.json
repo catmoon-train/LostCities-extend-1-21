@@ -13,7 +13,7 @@
       },
       {
         "char": "C",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "f",
@@ -21,11 +21,11 @@
       },
       {
         "char": "嘟",
-        "block": "minecraft:iron_door[facing=north,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=north,half=upper,hinge=left,open=false]"
       },
       {
         "char": "汽",
-        "block": "minecraft:chest[facing=east,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 964,
@@ -41,7 +41,7 @@
       },
       {
         "char": "予",
-        "block": "minecraft:chest[facing=east,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 962,
@@ -57,7 +57,7 @@
       },
       {
         "char": "w",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "b",
@@ -69,7 +69,7 @@
       },
       {
         "char": "愈",
-        "block": "minecraft:birch_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 979,
           "x": -456,
@@ -113,11 +113,11 @@
       },
       {
         "char": "袁",
-        "block": "minecraft:iron_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=west,half=top,open=false]"
       },
       {
         "char": "J",
-        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "余",
@@ -129,7 +129,7 @@
       },
       {
         "char": "吉",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "祈",
@@ -141,11 +141,11 @@
       },
       {
         "char": "介",
-        "block": "minecraft:iron_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=east,half=bottom,open=false]"
       },
       {
         "char": "苗",
-        "block": "minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=false]"
       },
       {
         "char": "羽",
@@ -199,31 +199,31 @@
       },
       {
         "char": "耕",
-        "block": "minecraft:birch_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:birch_stairs[facing=west,half=bottom,shape=inner_right]"
       },
       {
         "char": "祸",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=false]"
       },
       {
         "char": "饼",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=false]"
       },
       {
         "char": "昱",
-        "block": "minecraft:birch_stairs[facing=west,half=bottom,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:birch_stairs[facing=west,half=bottom,shape=inner_left]"
       },
       {
         "char": "詗",
-        "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=false,west=true]"
       },
       {
         "char": "窍",
-        "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=true,west=true]"
       },
       {
         "char": "尹",
-        "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=true,west=false]"
       },
       {
         "char": "悦",
@@ -269,11 +269,11 @@
       },
       {
         "char": "稀",
-        "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=false,west=false]"
       },
       {
         "char": "汗",
-        "block": "minecraft:dark_oak_door[facing=west,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=west,half=upper,hinge=right,open=false]"
       },
       {
         "char": "洗",
@@ -323,11 +323,11 @@
       },
       {
         "char": "ϒ",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "嫁",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=false]"
       },
       {
         "char": "洛",
@@ -335,7 +335,7 @@
       },
       {
         "char": "家",
-        "block": "minecraft:white_wall_banner[facing=south]",
+        "block": "minecraft:white_wall_banner",
         "tag": {
           "z": 939,
           "Patterns": [
@@ -379,7 +379,7 @@
       },
       {
         "char": "雳",
-        "block": "minecraft:white_wall_banner[facing=east]",
+        "block": "minecraft:white_wall_banner",
         "tag": {
           "z": 949,
           "Patterns": [
@@ -408,7 +408,7 @@
       },
       {
         "char": "唷",
-        "block": "minecraft:white_wall_banner[facing=west]",
+        "block": "minecraft:white_wall_banner",
         "tag": {
           "z": 944,
           "Patterns": [

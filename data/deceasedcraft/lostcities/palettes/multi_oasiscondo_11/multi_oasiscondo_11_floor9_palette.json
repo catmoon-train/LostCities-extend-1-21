@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "e",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "i",
@@ -55,7 +55,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:chiseled_bookshelf[slot_5_occupied=false,slot_4_occupied=false,facing=west,slot_2_occupied=false,slot_1_occupied=false,slot_3_occupied=false,slot_0_occupied=false]"
+      "block": "minecraft:chiseled_bookshelf[facing=west]"
     },
     {
       "char": "o",
@@ -84,11 +84,11 @@
     },
     {
       "char": "u",
-      "block": "minecraft:lectern[powered=false,has_book=true,facing=west]"
+      "block": "minecraft:lectern[facing=west]"
     },
     {
       "char": "w",
-      "block": "minecraft:lectern[powered=false,has_book=false,facing=east]"
+      "block": "minecraft:lectern[facing=east]"
     },
     {
       "char": "x",
@@ -100,7 +100,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:gray_stained_glass_pane"
     },
     {
       "char": "B",
@@ -108,11 +108,11 @@
     },
     {
       "char": "C",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "D",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "E",
@@ -128,7 +128,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:spruce_leaves"
     },
     {
       "char": "K",
@@ -148,7 +148,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_oasiscondo_1/floor9/oak_drawer"
     },
     {
@@ -157,7 +157,7 @@
     },
     {
       "char": "Q",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "R",
@@ -173,7 +173,7 @@
     },
     {
       "char": "U",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     }
   ]
 }

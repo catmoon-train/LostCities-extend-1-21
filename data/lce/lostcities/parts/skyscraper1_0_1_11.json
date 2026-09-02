@@ -29,11 +29,11 @@
       },
       {
         "char": "a",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "R",
-        "block": "minecraft:oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "e",
@@ -81,7 +81,7 @@
       },
       {
         "char": "ν",
-        "block": "minecraft:glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=true,south=false,west=false]"
       },
       {
         "char": "ϼ",
@@ -93,7 +93,7 @@
       },
       {
         "char": "ή",
-        "block": "minecraft:glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=true,west=false]"
       },
       {
         "char": "Λ",
@@ -101,7 +101,7 @@
       },
       {
         "char": "i",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "ϻ",
@@ -113,15 +113,15 @@
       },
       {
         "char": "J",
-        "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:iron_bars[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "·",
-        "block": "minecraft:glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=true,south=true,west=false]"
       },
       {
         "char": "΄",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 621,
           "x": 46,
@@ -157,7 +157,7 @@
       },
       {
         "char": "j",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       }
     ]
   },

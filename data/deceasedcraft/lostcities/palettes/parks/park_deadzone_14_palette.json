@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:cobblestone_slab[type=bottom]"
     },
     {
       "char": "b",
@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:cobblestone_slab[type=top]"
     },
     {
       "char": "d",
@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:cobblestone_slab[type=double]"
     },
     {
       "char": "f",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "m",
@@ -67,7 +67,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "r",
@@ -75,7 +75,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "t",
@@ -91,7 +91,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:lightning_rod[waterlogged=false,powered=false,facing=up]"
+      "block": "minecraft:lightning_rod[powered=false,facing=up]"
     }
   ]
 }

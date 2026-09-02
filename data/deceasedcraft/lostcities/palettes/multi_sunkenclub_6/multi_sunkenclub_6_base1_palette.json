@@ -11,11 +11,11 @@
     },
     {
       "char": "c",
-      "block": "minecraft:sculk_sensor[waterlogged=false,power=0,sculk_sensor_phase=inactive]"
+      "block": "minecraft:sculk_sensor[sculk_sensor_phase=inactive]"
     },
     {
       "char": "d",
-      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:spruce_leaves"
     },
     {
       "char": "e",
@@ -23,11 +23,11 @@
     },
     {
       "char": "f",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "h",
@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "k",
@@ -59,11 +59,11 @@
     },
     {
       "char": "o",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "p",
-      "block": "minecraft:polished_andesite_slab[type=east,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "q",
@@ -71,31 +71,31 @@
     },
     {
       "char": "r",
-      "block": "minecraft:polished_andesite_slab[type=west,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "s",
-      "block": "minecraft:water[level=0]"
+      "block": "minecraft:water"
     },
     {
       "char": "t",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "u",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "w",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=true,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "x",
-      "block": "minecraft:polished_andesite_slab[type=south,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "y",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "A",
@@ -107,7 +107,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "D",
@@ -143,15 +143,15 @@
     },
     {
       "char": "N",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "O",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "P",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "Q",
@@ -167,7 +167,7 @@
     },
     {
       "char": "T",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "U",
@@ -188,11 +188,11 @@
     },
     {
       "char": "W",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "X",
-      "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab[type=top]"
     }
   ]
 }

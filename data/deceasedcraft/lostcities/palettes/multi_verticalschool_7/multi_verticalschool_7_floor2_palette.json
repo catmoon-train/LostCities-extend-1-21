@@ -7,23 +7,23 @@
     },
     {
       "char": "b",
-      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=bottom]"
     },
     {
       "char": "c",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "d",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "e",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "f",
-      "block": "minecraft:jungle_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:jungle_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "g",
@@ -31,15 +31,15 @@
     },
     {
       "char": "h",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "i",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "j",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "k",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "m",
@@ -68,11 +68,11 @@
     },
     {
       "char": "o",
-      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=top]"
     },
     {
       "char": "p",
-      "block": "minecraft:jungle_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+      "block": "minecraft:jungle_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "q",
@@ -87,11 +87,11 @@
     },
     {
       "char": "s",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "t",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "u",
@@ -99,7 +99,7 @@
     },
     {
       "char": "w",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=south]"
+      "block": "minecraft:iron_trapdoor[half=top,open=true,facing=south]"
     },
     {
       "char": "x",
@@ -115,19 +115,19 @@
     },
     {
       "char": "B",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "C",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "D",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "E",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "F",
@@ -143,19 +143,19 @@
     },
     {
       "char": "K",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "L",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "M",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "N",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "O",

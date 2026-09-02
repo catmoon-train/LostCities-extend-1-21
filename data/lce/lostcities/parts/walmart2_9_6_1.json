@@ -13,7 +13,7 @@
       },
       {
         "char": "n",
-        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+        "block": "minecraft:oak_slab[type=top]"
       },
       {
         "char": "z",
@@ -25,7 +25,7 @@
       },
       {
         "char": "ҧ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 463,
           "x": 74,
@@ -65,15 +65,15 @@
       },
       {
         "char": "K",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "声",
-        "block": "minecraft:mossy_cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=top]"
       },
       {
         "char": "位",
-        "block": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=double]"
       },
       {
         "char": "Ұ",
@@ -109,11 +109,11 @@
       },
       {
         "char": "目",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=tall,up=true]"
       },
       {
         "char": "台",
-        "block": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,north=tall,up=true]"
       },
       {
         "char": "A",
@@ -121,11 +121,11 @@
       },
       {
         "char": "安",
-        "block": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=low,north=low,up=true]"
       },
       {
         "char": "常",
-        "block": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,north=low,up=true,west=low]"
       }
     ]
   },

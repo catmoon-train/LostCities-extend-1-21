@@ -29,7 +29,7 @@
       },
       {
         "char": "P",
-        "block": "minecraft:dispenser[facing=south,triggered=false]",
+        "block": "minecraft:dispenser[facing=south]",
         "tag": {
           "z": 739,
           "x": 189,
@@ -68,11 +68,11 @@
       },
       {
         "char": "C",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "Z",
-        "block": "minecraft:zombie_head[rotation=14]",
+        "block": "minecraft:zombie_head",
         "tag": {
           "z": 738,
           "x": 189,
@@ -107,7 +107,7 @@
       },
       {
         "char": "h",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "R",

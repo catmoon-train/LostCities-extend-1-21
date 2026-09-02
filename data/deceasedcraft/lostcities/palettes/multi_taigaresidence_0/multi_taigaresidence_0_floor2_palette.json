@@ -7,11 +7,11 @@
     },
     {
       "char": "b",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "c",
-      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:spruce_leaves"
     },
     {
       "char": "d",
@@ -23,19 +23,19 @@
     },
     {
       "char": "f",
-      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=bottom]"
     },
     {
       "char": "g",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "h",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "i",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "j",
@@ -43,7 +43,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_taigaresidence_0/floor2/lootr_chest"
     },
     {
@@ -52,7 +52,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "n",
@@ -88,11 +88,11 @@
     },
     {
       "char": "w",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "x",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "y",
@@ -100,11 +100,11 @@
     },
     {
       "char": "A",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "B",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "C",
@@ -112,27 +112,27 @@
     },
     {
       "char": "D",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "E",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "F",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "I",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "J",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "K",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "L",
@@ -140,7 +140,7 @@
     },
     {
       "char": "M",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "N",
@@ -156,7 +156,7 @@
     },
     {
       "char": "Q",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "R",
@@ -168,7 +168,7 @@
     },
     {
       "char": "T",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "U",
@@ -184,7 +184,7 @@
     },
     {
       "char": "X",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     }
   ]
 }

@@ -61,11 +61,11 @@
       },
       {
         "char": "名",
-        "block": "minecraft:dark_oak_fence_gate[facing=north,in_wall=false,open=true,powered=false]"
+        "block": "minecraft:dark_oak_fence_gate[facing=north,in_wall=false,open=true]"
       },
       {
         "char": "主",
-        "block": "minecraft:birch_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": -273,
           "x": -31,
@@ -96,7 +96,7 @@
       },
       {
         "char": "ӟ",
-        "block": "minecraft:iron_bars[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:iron_bars[east=true,north=false,south=true,west=true]"
       },
       {
         "char": "X",
@@ -108,19 +108,19 @@
       },
       {
         "char": "N",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "Ѵ",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=false,south=false,west=true]"
       },
       {
         "char": "生",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=false,south=false,west=false]"
       },
       {
         "char": "Ѳ",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,west=false]"
       },
       {
         "char": "S",

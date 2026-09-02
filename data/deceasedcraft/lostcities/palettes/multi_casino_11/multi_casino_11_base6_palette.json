@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "h",
@@ -67,7 +67,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "r",
@@ -75,23 +75,23 @@
     },
     {
       "char": "s",
-      "block": "minecraft:daylight_detector[power=1,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "t",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "u",
-      "block": "minecraft:daylight_detector[power=0,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "w",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=east]"
     },
     {
       "char": "x",
-      "block": "minecraft:daylight_detector[power=3,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "y",

@@ -29,7 +29,7 @@
       },
       {
         "char": "k",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "w",
@@ -37,19 +37,19 @@
       },
       {
         "char": "h",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "б",
-        "block": "minecraft:glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=false,west=false]"
       },
       {
         "char": "А",
-        "block": "minecraft:glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=true,west=false]"
       },
       {
         "char": "έ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 623,
           "x": 107,
@@ -89,7 +89,7 @@
       },
       {
         "char": "ξ",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "Β",
@@ -121,7 +121,7 @@
       },
       {
         "char": "ё",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "n",
@@ -129,11 +129,11 @@
       },
       {
         "char": "Ж",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "К",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "Ѡ",
@@ -162,15 +162,15 @@
       },
       {
         "char": "Ύ",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "а",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true]"
       },
       {
         "char": "Ҝ",
-        "block": "minecraft:player_head[rotation=6]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 617,
           "x": 105,
@@ -185,7 +185,7 @@
       },
       {
         "char": "і",
-        "block": "minecraft:detector_rail[powered=false,shape=north_south,waterlogged=false]"
+        "block": "minecraft:detector_rail[powered=false,shape=north_south]"
       },
       {
         "char": "ы",
@@ -193,7 +193,7 @@
       },
       {
         "char": "Ѻ",
-        "block": "minecraft:hopper[enabled=true,facing=down]",
+        "block": "minecraft:hopper[facing=down]",
         "tag": {
           "z": 621,
           "x": 105,

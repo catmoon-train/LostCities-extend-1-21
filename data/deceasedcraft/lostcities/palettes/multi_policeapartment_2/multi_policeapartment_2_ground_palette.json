@@ -27,15 +27,15 @@
     },
     {
       "char": "g",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "h",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "i",
-      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:polished_blackstone_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "j",
@@ -139,19 +139,19 @@
     },
     {
       "char": "L",
-      "block": "minecraft:ladder[waterlogged=false,facing=south]"
+      "block": "minecraft:ladder[facing=south]"
     },
     {
       "char": "M",
-      "block": "minecraft:polished_deepslate_slab[type=north,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab"
     },
     {
       "char": "N",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "O",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "P",
@@ -171,19 +171,19 @@
     },
     {
       "char": "T",
-      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:polished_blackstone_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "U",
-      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:polished_blackstone_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "V",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=north]"
     },
     {
       "char": "W",
-      "block": "minecraft:polished_blackstone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_blackstone_slab[type=bottom]"
     },
     {
       "char": "X",
@@ -195,7 +195,7 @@
     },
     {
       "char": "Z",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "0",
@@ -219,19 +219,19 @@
     },
     {
       "char": "5",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "6",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "7",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "8",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=east,shape=straight]"
     }
   ]
 }

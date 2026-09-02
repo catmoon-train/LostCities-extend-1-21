@@ -3,15 +3,15 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "b",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "c",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "d",
@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "h",
@@ -39,11 +39,11 @@
     },
     {
       "char": "j",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "k",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "l",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=bottom]"
     },
     {
       "char": "n",
@@ -63,7 +63,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "q",
@@ -105,7 +105,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=east]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=false,facing=east]"
     },
     {
       "char": "C",
@@ -122,11 +122,11 @@
     },
     {
       "char": "F",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "I",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "J",

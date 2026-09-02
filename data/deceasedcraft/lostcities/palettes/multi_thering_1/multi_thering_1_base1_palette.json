@@ -35,7 +35,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:note_block[powered=false,instrument=bass,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "i",
@@ -43,11 +43,11 @@
     },
     {
       "char": "j",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "k",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=bottom]"
     },
     {
       "char": "l",
@@ -55,7 +55,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_thering_1/base1/lootr_chest"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "u",

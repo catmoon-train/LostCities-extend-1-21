@@ -111,7 +111,7 @@
       },
       {
         "char": "却",
-        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,west=true]"
       },
       {
         "char": "体",
@@ -119,7 +119,7 @@
       },
       {
         "char": "影",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=false]"
       },
       {
         "char": "i",
@@ -147,7 +147,7 @@
       },
       {
         "char": "多",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "性",
@@ -167,7 +167,7 @@
       },
       {
         "char": "爱",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "v",
@@ -175,7 +175,7 @@
       },
       {
         "char": "Ѕ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 471,
           "x": 31,
@@ -211,7 +211,7 @@
       },
       {
         "char": "O",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence"
       }
     ]
   },

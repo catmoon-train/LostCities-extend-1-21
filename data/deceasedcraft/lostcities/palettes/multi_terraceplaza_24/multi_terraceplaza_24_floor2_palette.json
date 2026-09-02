@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "d",
@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:dark_oak_slab[type=south,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "h",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "j",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "m",
@@ -63,7 +63,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=false,facing=south]"
     },
     {
       "char": "q",
@@ -92,7 +92,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "y",
@@ -108,7 +108,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "D",
@@ -136,7 +136,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top]"
     },
     {
       "char": "M",
@@ -172,7 +172,7 @@
     },
     {
       "char": "U",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:oak_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "V",
@@ -180,7 +180,7 @@
     },
     {
       "char": "W",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=bottom,facing=north,shape=straight]"
     }
   ]
 }

@@ -25,7 +25,7 @@
       },
       {
         "char": "π",
-        "block": "minecraft:ladder[facing=south,waterlogged=false]"
+        "block": "minecraft:ladder[facing=south]"
       },
       {
         "char": "o",
@@ -33,15 +33,15 @@
       },
       {
         "char": "q",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "Δ",
-        "block": "minecraft:oak_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=south,half=bottom,open=false]"
       },
       {
         "char": "Μ",
-        "block": "minecraft:daylight_detector[inverted=true,power=11]",
+        "block": "minecraft:daylight_detector[inverted=true]",
         "tag": {
           "z": 327,
           "x": 75,
@@ -52,7 +52,7 @@
       },
       {
         "char": "ͳ",
-        "block": "minecraft:daylight_detector[inverted=false,power=0]",
+        "block": "minecraft:daylight_detector[inverted=false]",
         "tag": {
           "z": 337,
           "x": 75,
@@ -67,11 +67,11 @@
       },
       {
         "char": "θ",
-        "block": "minecraft:powered_rail[powered=false,shape=east_west,waterlogged=false]"
+        "block": "minecraft:powered_rail[powered=false,shape=east_west]"
       },
       {
         "char": "ϕ",
-        "block": "minecraft:detector_rail[powered=false,shape=east_west,waterlogged=false]"
+        "block": "minecraft:detector_rail[powered=false,shape=east_west]"
       }
     ]
   },

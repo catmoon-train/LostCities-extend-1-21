@@ -33,19 +33,19 @@
       },
       {
         "char": "鞭",
-        "block": "minecraft:spruce_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=north,half=top,open=false]"
       },
       {
         "char": "悬",
-        "block": "minecraft:spruce_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=south,half=top,open=false]"
       },
       {
         "char": "笼",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=false]"
       },
       {
         "char": "啪",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=false]"
       },
       {
         "char": "r",
@@ -69,11 +69,11 @@
       },
       {
         "char": "恒",
-        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "ҕ",
-        "block": "minecraft:chest[facing=south,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 942,
@@ -89,7 +89,7 @@
       },
       {
         "char": "Ѷ",
-        "block": "minecraft:chest[facing=south,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 940,
@@ -105,7 +105,7 @@
       },
       {
         "char": "碟",
-        "block": "minecraft:chest[facing=west,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 957,

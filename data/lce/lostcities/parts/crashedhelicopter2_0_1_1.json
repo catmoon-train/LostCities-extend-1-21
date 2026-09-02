@@ -13,11 +13,11 @@
       },
       {
         "char": "h",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "m",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "A",
@@ -43,31 +43,31 @@
       },
       {
         "char": "k",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "0",
-        "block": "minecraft:nether_brick_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:nether_brick_fence[south=true]"
       },
       {
         "char": "Y",
-        "block": "minecraft:nether_brick_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:nether_brick_fence[east=true]"
       },
       {
         "char": "1",
-        "block": "minecraft:nether_brick_fence[east=true,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:nether_brick_fence[east=true,north=true,south=true,west=true]"
       },
       {
         "char": "4",
-        "block": "minecraft:nether_brick_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:nether_brick_fence[west=true]"
       },
       {
         "char": "W",
-        "block": "minecraft:nether_brick_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:nether_brick_fence[north=true]"
       },
       {
         "char": "2",
-        "block": "minecraft:nether_brick_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:nether_brick_fence"
       }
     ]
   },

@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:cobbled_deepslate_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:cobbled_deepslate_slab[type=bottom]"
     },
     {
       "char": "c",
@@ -15,27 +15,27 @@
     },
     {
       "char": "d",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:oak_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "e",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:oak_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "f",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:oak_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "h",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "i",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "j",
@@ -55,11 +55,11 @@
     },
     {
       "char": "n",
-      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=bottom]"
     },
     {
       "char": "o",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "p",
@@ -79,15 +79,15 @@
     },
     {
       "char": "t",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "u",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "w",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "x",
@@ -99,11 +99,11 @@
     },
     {
       "char": "A",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "B",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "C",
@@ -130,11 +130,11 @@
     },
     {
       "char": "J",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "K",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "L",
@@ -142,11 +142,11 @@
     },
     {
       "char": "M",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "N",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "O",
@@ -176,11 +176,11 @@
     },
     {
       "char": "T",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "U",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "V",
@@ -202,7 +202,7 @@
     },
     {
       "char": "Y",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "Z",
@@ -210,7 +210,7 @@
     },
     {
       "char": "0",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=north,shape=straight]"
     }
   ]
 }

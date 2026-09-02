@@ -11,11 +11,11 @@
     },
     {
       "char": "c",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=true]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "d",
-      "block": "minecraft:bubble_column[drag=true]"
+      "block": "minecraft:bubble_column"
     },
     {
       "char": "e",
@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=true]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "g",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "j",
@@ -43,19 +43,19 @@
     },
     {
       "char": "k",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=true,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "l",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=true]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "m",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=true]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "n",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "o",
@@ -79,15 +79,15 @@
     },
     {
       "char": "t",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "u",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "v",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     }
   ]
 }

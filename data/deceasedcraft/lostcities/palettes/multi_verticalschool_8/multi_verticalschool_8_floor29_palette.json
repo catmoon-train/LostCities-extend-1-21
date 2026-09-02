@@ -42,7 +42,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "k",
@@ -54,7 +54,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "n",
@@ -147,11 +147,11 @@
     },
     {
       "char": "M",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=east]"
     },
     {
       "char": "N",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "O",
@@ -223,7 +223,7 @@
     },
     {
       "char": "5",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_8/floor25/oak_drawer"
     },
     {
@@ -232,11 +232,11 @@
     },
     {
       "char": "7",
-      "block": "minecraft:note_block[powered=false,instrument=harp,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "8",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "9",
@@ -244,7 +244,7 @@
     },
     {
       "char": "#",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "$",
@@ -252,7 +252,7 @@
     },
     {
       "char": "%",
-      "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab[type=top]"
     },
     {
       "char": "^",

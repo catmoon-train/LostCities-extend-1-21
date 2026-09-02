@@ -37,11 +37,11 @@
       },
       {
         "char": "A",
-        "block": "minecraft:iron_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=south,half=bottom,open=false]"
       },
       {
         "char": "介",
-        "block": "minecraft:iron_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=east,half=bottom,open=false]"
       },
       {
         "char": "n",
@@ -53,7 +53,7 @@
       },
       {
         "char": "z",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "g",
@@ -65,7 +65,7 @@
       },
       {
         "char": "喃",
-        "block": "minecraft:white_bed[facing=east,occupied=false,part=foot]",
+        "block": "minecraft:white_bed",
         "tag": {
           "z": 988,
           "x": -449,
@@ -76,7 +76,7 @@
       },
       {
         "char": "稻",
-        "block": "minecraft:white_bed[facing=east,occupied=false,part=head]",
+        "block": "minecraft:white_bed",
         "tag": {
           "z": 988,
           "x": -448,
@@ -87,7 +87,7 @@
       },
       {
         "char": "楼",
-        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "M",
@@ -95,15 +95,15 @@
       },
       {
         "char": "约",
-        "block": "minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "檬",
-        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=inner_right]"
       },
       {
         "char": "寺",
-        "block": "minecraft:lectern[facing=west,has_book=false,powered=false]",
+        "block": "minecraft:lectern[facing=west]",
         "tag": {
           "z": 965,
           "x": -457,

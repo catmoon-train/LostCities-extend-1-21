@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:dark_oak_slab[type=south,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "b",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:note_block[powered=false,instrument=bass,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "i",
@@ -67,7 +67,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "r",
@@ -75,7 +75,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "t",
@@ -83,7 +83,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=top]"
     }
   ]
 }

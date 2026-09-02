@@ -43,7 +43,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_6/floor30/medical_storage"
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:calibrated_sculk_sensor[waterlogged=false,power=0,facing=north,sculk_sensor_phase=inactive]"
+      "block": "minecraft:calibrated_sculk_sensor[facing=north,sculk_sensor_phase=inactive]"
     },
     {
       "char": "y",
@@ -101,7 +101,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:hopper[enabled=true,facing=west]"
+      "block": "minecraft:hopper[facing=west]"
     },
     {
       "char": "B",
@@ -109,7 +109,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "D",

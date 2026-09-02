@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "g",
@@ -44,11 +44,11 @@
     },
     {
       "char": "k",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "l",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "m",
@@ -56,7 +56,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "o",
@@ -64,20 +64,20 @@
     },
     {
       "char": "p",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_casino_2/base9/lootr_chest"
     },
     {
       "char": "q",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "r",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "s",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "t",
@@ -89,7 +89,7 @@
     },
     {
       "char": "w",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "x",
@@ -97,7 +97,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "A",
@@ -105,7 +105,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "C",

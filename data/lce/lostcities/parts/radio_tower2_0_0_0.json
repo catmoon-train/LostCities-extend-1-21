@@ -157,15 +157,15 @@
       },
       {
         "char": "0",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=outer_right]"
       },
       {
         "char": "6",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "Ϳ",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=outer_left]"
       },
       {
         "char": "I",
@@ -181,7 +181,7 @@
       },
       {
         "char": "H",
-        "block": "minecraft:daylight_detector[inverted=false,power=14]",
+        "block": "minecraft:daylight_detector[inverted=false]",
         "tag": {
           "x": -344,
           "y": -54,
@@ -325,7 +325,7 @@
       },
       {
         "char": "΅",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "ForgeData": {

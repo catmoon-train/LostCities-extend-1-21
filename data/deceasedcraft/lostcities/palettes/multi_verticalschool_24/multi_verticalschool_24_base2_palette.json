@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=top]"
     },
     {
       "char": "g",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=east]"
     },
     {
       "char": "i",
@@ -43,7 +43,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab[type=top]"
     },
     {
       "char": "l",
@@ -63,15 +63,15 @@
     },
     {
       "char": "p",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "q",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "r",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "s",
@@ -91,11 +91,11 @@
     },
     {
       "char": "x",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "y",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=top,facing=north,shape=straight]"
     }
   ]
 }

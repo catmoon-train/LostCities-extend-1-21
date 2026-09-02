@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=bottom]"
     },
     {
       "char": "b",
@@ -23,11 +23,11 @@
     },
     {
       "char": "f",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "g",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "h",
@@ -35,27 +35,27 @@
     },
     {
       "char": "i",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=south,shape=outer_left]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=south,shape=outer_left]"
     },
     {
       "char": "j",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "k",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "l",
-      "block": "minecraft:spruce_stairs[waterlogged=false,facing=west]"
+      "block": "minecraft:spruce_stairs[facing=west]"
     },
     {
       "char": "m",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=north,shape=outer_right]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=north,shape=outer_right]"
     },
     {
       "char": "n",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "o",
@@ -76,11 +76,11 @@
     },
     {
       "char": "s",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "t",
-      "block": "minecraft:spruce_stairs[waterlogged=false,facing=east]"
+      "block": "minecraft:spruce_stairs[facing=east]"
     },
     {
       "char": "u",
@@ -180,7 +180,7 @@
     },
     {
       "char": "W",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_taigaresidence_0/floor5/safe"
     },
     {
@@ -230,7 +230,7 @@
     },
     {
       "char": "8",
-      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=east]"
+      "block": "minecraft:spruce_trapdoor[half=top,open=false,facing=east]"
     },
     {
       "char": "9",

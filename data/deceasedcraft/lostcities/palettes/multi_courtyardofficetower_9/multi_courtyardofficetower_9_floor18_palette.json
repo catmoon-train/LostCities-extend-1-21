@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:gray_stained_glass_pane"
     },
     {
       "char": "f",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:birch_slab[type=east,waterlogged=false]"
+      "block": "minecraft:birch_slab"
     },
     {
       "char": "m",
@@ -71,7 +71,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:birch_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "s",
@@ -79,11 +79,11 @@
     },
     {
       "char": "t",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "u",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "w",
@@ -95,7 +95,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:spruce_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=bottom]"
     },
     {
       "char": "A",
@@ -143,15 +143,15 @@
     },
     {
       "char": "N",
-      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:birch_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "O",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "P",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "Q",
@@ -159,7 +159,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]"
+      "block": "minecraft:chest"
     },
     {
       "char": "S",
@@ -179,7 +179,7 @@
     },
     {
       "char": "W",
-      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+      "block": "minecraft:birch_slab[type=top]"
     },
     {
       "char": "X",

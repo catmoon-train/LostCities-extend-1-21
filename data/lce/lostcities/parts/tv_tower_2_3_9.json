@@ -37,7 +37,7 @@
       },
       {
         "char": "H",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "f",
@@ -65,15 +65,15 @@
       },
       {
         "char": "u",
-        "block": "minecraft:iron_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=south,half=bottom,open=false]"
       },
       {
         "char": "w",
-        "block": "minecraft:iron_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=south,half=top,open=false]"
       },
       {
         "char": "j",
-        "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:polished_andesite_slab[type=top]"
       }
     ]
   },

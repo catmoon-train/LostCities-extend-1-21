@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom]"
     },
     {
       "char": "f",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "i",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "n",
@@ -59,15 +59,15 @@
     },
     {
       "char": "o",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "p",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=false,facing=north]"
     },
     {
       "char": "q",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=false,facing=south]"
     }
   ]
 }

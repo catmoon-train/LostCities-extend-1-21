@@ -3,11 +3,11 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "b",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "c",
@@ -56,7 +56,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "o",
@@ -68,15 +68,15 @@
     },
     {
       "char": "q",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "r",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "s",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=east,shape=inner_left]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=east,shape=inner_left]"
     },
     {
       "char": "t",
@@ -84,27 +84,27 @@
     },
     {
       "char": "u",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=inner_right]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=west,shape=inner_right]"
     },
     {
       "char": "w",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "x",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "y",
-      "block": "minecraft:soul_lantern[waterlogged=false,hanging=false]"
+      "block": "minecraft:soul_lantern[hanging=false]"
     },
     {
       "char": "A",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=east]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=false,facing=east]"
     },
     {
       "char": "B",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=false,facing=west]"
     },
     {
       "char": "C",

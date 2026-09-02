@@ -45,7 +45,7 @@
       },
       {
         "char": "肃",
-        "block": "minecraft:redstone_ore[lit=false]"
+        "block": "minecraft:redstone_ore"
       },
       {
         "char": "俊",
@@ -61,11 +61,11 @@
       },
       {
         "char": "ӯ",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "页",
-        "block": "minecraft:jukebox[has_record=false]",
+        "block": "minecraft:jukebox",
         "tag": {
           "RecordStartTick": "0L",
           "IsPlaying": "0b",
@@ -87,23 +87,23 @@
       },
       {
         "char": "x",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "s",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "C",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "w",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "穗",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=inner_left]"
       },
       {
         "char": "p",
@@ -111,11 +111,11 @@
       },
       {
         "char": "押",
-        "block": "minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "吉",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "手",
@@ -160,11 +160,11 @@
       },
       {
         "char": "鸦",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=false]"
       },
       {
         "char": "仕",
-        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=false]"
       },
       {
         "char": "弥",
@@ -176,11 +176,11 @@
       },
       {
         "char": "肾",
-        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false]"
       },
       {
         "char": "谁",
-        "block": "minecraft:chest[facing=north,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 977,
@@ -196,7 +196,7 @@
       },
       {
         "char": "活",
-        "block": "minecraft:chest[facing=north,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 958,
@@ -220,7 +220,7 @@
       },
       {
         "char": "获",
-        "block": "minecraft:redstone_wire[east=none,north=up,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,north=up,west=none]"
       },
       {
         "char": "霖",
@@ -236,7 +236,7 @@
       },
       {
         "char": "Ӯ",
-        "block": "minecraft:birch_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 955,
           "x": -442,
@@ -276,7 +276,7 @@
       },
       {
         "char": "黎",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       }
     ]
   },

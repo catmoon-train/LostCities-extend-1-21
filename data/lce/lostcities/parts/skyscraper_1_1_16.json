@@ -9,15 +9,15 @@
       },
       {
         "char": "N",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=false]"
       },
       {
         "char": "q",
-        "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "Л",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence"
       },
       {
         "char": "a",
@@ -25,27 +25,27 @@
       },
       {
         "char": "R",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=false]"
       },
       {
         "char": "ы",
-        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=true,west=false]"
       },
       {
         "char": "r",
-        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "п",
-        "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=true,west=true]"
       },
       {
         "char": "ҵ",
-        "block": "minecraft:water[level=0]"
+        "block": "minecraft:water"
       },
       {
         "char": "Џ",
-        "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:black_stained_glass_pane[east=true,north=true,south=false,west=true]"
       },
       {
         "char": "i",
@@ -77,7 +77,7 @@
       },
       {
         "char": "来",
-        "block": "minecraft:cobblestone_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=south,half=top,shape=outer_right]"
       },
       {
         "char": "C",
@@ -85,23 +85,23 @@
       },
       {
         "char": "Ѫ",
-        "block": "minecraft:cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "Ң",
-        "block": "minecraft:cobblestone_stairs[facing=north,half=top,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=north,half=top,shape=outer_left]"
       },
       {
         "char": "Ҽ",
-        "block": "minecraft:cobblestone_stairs[facing=east,half=top,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=east,half=top,shape=outer_left]"
       },
       {
         "char": "ҭ",
-        "block": "minecraft:cobblestone_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "ү",
-        "block": "minecraft:cobblestone_stairs[facing=west,half=top,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=west,half=top,shape=outer_right]"
       },
       {
         "char": "k",
@@ -121,7 +121,7 @@
       },
       {
         "char": "Ӑ",
-        "block": "minecraft:scaffolding[bottom=false,distance=0,waterlogged=false]"
+        "block": "minecraft:scaffolding[bottom=false]"
       },
       {
         "char": "H",
@@ -137,11 +137,11 @@
       },
       {
         "char": "й",
-        "block": "minecraft:birch_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "З",
-        "block": "minecraft:birch_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "ӝ",
@@ -149,11 +149,11 @@
       },
       {
         "char": "Ҥ",
-        "block": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:jungle_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "ӓ",
-        "block": "minecraft:jungle_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:jungle_trapdoor[facing=south,half=bottom,open=true]"
       }
     ]
   },

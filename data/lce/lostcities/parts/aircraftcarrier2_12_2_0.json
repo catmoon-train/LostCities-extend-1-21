@@ -37,7 +37,7 @@
       },
       {
         "char": "O",
-        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "f",
@@ -49,7 +49,7 @@
       },
       {
         "char": "C",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "沛",
@@ -75,7 +75,7 @@
       },
       {
         "char": "B",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "g",
@@ -83,7 +83,7 @@
       },
       {
         "char": "F",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "曰",
@@ -102,15 +102,15 @@
       },
       {
         "char": "Z",
-        "block": "minecraft:quartz_slab[type=double,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=double]"
       },
       {
         "char": "v",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "坚",
-        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=bottom]"
       },
       {
         "char": "q",
@@ -118,7 +118,7 @@
       },
       {
         "char": "A",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "蝴",
@@ -136,7 +136,7 @@
       },
       {
         "char": "E",
-        "block": "minecraft:iron_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=north,half=bottom,open=false]"
       },
       {
         "char": "ҟ",
@@ -156,7 +156,7 @@
       },
       {
         "char": "吃",
-        "block": "minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "l",
@@ -168,7 +168,7 @@
       },
       {
         "char": "府",
-        "block": "minecraft:smooth_quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "s",
@@ -176,7 +176,7 @@
       },
       {
         "char": "态",
-        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "0",
@@ -200,7 +200,7 @@
       },
       {
         "char": "俱",
-        "block": "minecraft:white_wall_banner[facing=west]",
+        "block": "minecraft:white_wall_banner",
         "tag": {
           "z": -483,
           "Patterns": [
@@ -249,7 +249,7 @@
       },
       {
         "char": "击",
-        "block": "minecraft:iron_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=west,half=bottom,open=false]"
       }
     ]
   },

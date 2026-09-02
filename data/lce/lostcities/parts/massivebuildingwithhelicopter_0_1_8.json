@@ -13,7 +13,7 @@
       },
       {
         "char": "n",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "c",
@@ -21,7 +21,7 @@
       },
       {
         "char": "Ω",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 662,
           "x": 199,
@@ -57,7 +57,7 @@
       },
       {
         "char": "J",
-        "block": "minecraft:stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[east=tall,up=true]"
       },
       {
         "char": "d",
@@ -69,7 +69,7 @@
       },
       {
         "char": "Ϯ",
-        "block": "minecraft:oak_door[facing=south,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=south,half=upper,hinge=left,open=false]"
       },
       {
         "char": "b",
@@ -89,7 +89,7 @@
       },
       {
         "char": "Y",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "O",
@@ -97,11 +97,11 @@
       },
       {
         "char": "ѭ",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=false]"
       },
       {
         "char": "m",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "g",
@@ -109,19 +109,19 @@
       },
       {
         "char": "N",
-        "block": "minecraft:mossy_stone_brick_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_stone_brick_wall[east=tall,up=true]"
       },
       {
         "char": "e",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "У",
-        "block": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=inner_right]"
       },
       {
         "char": "Q",
-        "block": "minecraft:mossy_stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "X",
@@ -129,19 +129,19 @@
       },
       {
         "char": "A",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "ϧ",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=inner_right]"
       },
       {
         "char": "Ϣ",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=inner_left]"
       },
       {
         "char": "z",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "s",
@@ -149,7 +149,7 @@
       },
       {
         "char": "k",
-        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=top]"
       },
       {
         "char": "3",
@@ -157,11 +157,11 @@
       },
       {
         "char": "E",
-        "block": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "r",
-        "block": "minecraft:mossy_stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_slab[type=top]"
       },
       {
         "char": "0",
@@ -169,19 +169,19 @@
       },
       {
         "char": "w",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "Ϝ",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=inner_right]"
       },
       {
         "char": "C",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "K",
-        "block": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "R",
@@ -193,7 +193,7 @@
       },
       {
         "char": "ϩ",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=inner_left]"
       },
       {
         "char": "Р",
@@ -201,7 +201,7 @@
       },
       {
         "char": "ҝ",
-        "block": "minecraft:mossy_stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "ѻ",

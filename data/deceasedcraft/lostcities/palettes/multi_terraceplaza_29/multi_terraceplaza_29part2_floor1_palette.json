@@ -3,15 +3,15 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=none,north=none]"
+      "block": "minecraft:redstone_wire[south=none,north=none]"
     },
     {
       "char": "b",
-      "block": "minecraft:redstone_wire[power=0,west=side,east=none,south=side,north=none]"
+      "block": "minecraft:redstone_wire[east=none,north=none]"
     },
     {
       "char": "c",
-      "block": "minecraft:redstone_wire[power=0,west=none,east=none,south=side,north=side]"
+      "block": "minecraft:redstone_wire[west=none,east=none]"
     },
     {
       "char": "d",

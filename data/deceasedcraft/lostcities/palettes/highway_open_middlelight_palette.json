@@ -48,23 +48,23 @@
     },
     {
       "char": "b",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "c",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "d",
-      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:stone_brick_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "e",
-      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab[type=bottom]"
     },
     {
       "char": "f",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "g",
@@ -72,19 +72,19 @@
     },
     {
       "char": "h",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "i",
-      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_brick_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "j",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "k",
-      "block": "minecraft:oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:oak_leaves"
     },
     {
       "char": "l",
@@ -108,15 +108,15 @@
     },
     {
       "char": "q",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "r",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "s",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "t",
@@ -124,11 +124,11 @@
     },
     {
       "char": "u",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "w",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     }
   ]
 }

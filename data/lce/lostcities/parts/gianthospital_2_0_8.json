@@ -45,15 +45,15 @@
       },
       {
         "char": "y",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "w",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "K",
-        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=bottom]"
       },
       {
         "char": "酷",
@@ -61,23 +61,23 @@
       },
       {
         "char": "喃",
-        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=bottom]"
       },
       {
         "char": "N",
-        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=top]"
       },
       {
         "char": "綑",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_cobblestone_wall[south=low,up=true,west=low]"
       },
       {
         "char": "鑫",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[south=tall,up=true]"
       },
       {
         "char": "桎",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[up=true]"
       }
     ]
   },

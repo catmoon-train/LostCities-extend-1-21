@@ -17,7 +17,7 @@
       },
       {
         "char": "D",
-        "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=double]"
       },
       {
         "char": "b",
@@ -25,7 +25,7 @@
       },
       {
         "char": "7",
-        "block": "minecraft:campfire[facing=north,lit=true,signal_fire=false,waterlogged=false]",
+        "block": "minecraft:campfire[facing=north,lit=true]",
         "tag": {
           "CookingTotalTimes": [
             "I",
@@ -79,7 +79,7 @@
       },
       {
         "char": "h",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "p",
@@ -91,11 +91,11 @@
       },
       {
         "char": "E",
-        "block": "minecraft:oak_leaves[distance=1,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "v",
-        "block": "minecraft:oak_leaves[distance=2,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "F",
@@ -111,7 +111,7 @@
       },
       {
         "char": "K",
-        "block": "minecraft:oak_leaves[distance=3,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       }
     ]
   },

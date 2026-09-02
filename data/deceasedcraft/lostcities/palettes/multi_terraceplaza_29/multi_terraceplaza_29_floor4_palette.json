@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top]"
     },
     {
       "char": "b",
@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:white_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:white_stained_glass_pane"
     },
     {
       "char": "e",
@@ -46,18 +46,18 @@
     },
     {
       "char": "k",
-      "block": "minecraft:dead_brain_coral_fan[waterlogged=false]"
+      "block": "minecraft:dead_brain_coral_fan"
     },
     {
       "char": "l",
-      "block": "minecraft:red_bed[occupied=false,part=foot,facing=south]",
+      "block": "minecraft:red_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "m",
-      "block": "minecraft:red_bed[occupied=false,part=head,facing=south]",
+      "block": "minecraft:red_bed",
       "tag": {
         "id": "minecraft:bed"
       }
@@ -72,7 +72,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:lectern[powered=false,has_book=false,facing=east]"
+      "block": "minecraft:lectern[facing=east]"
     },
     {
       "char": "q",
@@ -84,11 +84,11 @@
     },
     {
       "char": "s",
-      "block": "minecraft:ladder[waterlogged=false,facing=north]"
+      "block": "minecraft:ladder[facing=north]"
     },
     {
       "char": "t",
-      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:spruce_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "u",
@@ -106,11 +106,11 @@
     },
     {
       "char": "x",
-      "block": "minecraft:brown_shulker_box[facing=north]"
+      "block": "minecraft:brown_shulker_box"
     },
     {
       "char": "y",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "A",
@@ -122,7 +122,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "D",
@@ -153,7 +153,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+      "block": "minecraft:spruce_trapdoor[half=top,open=false,facing=north]"
     },
     {
       "char": "M",
@@ -161,7 +161,7 @@
     },
     {
       "char": "N",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "O",
@@ -172,7 +172,7 @@
     },
     {
       "char": "P",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "Q",
@@ -217,7 +217,7 @@
     },
     {
       "char": "Y",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "Z",
@@ -225,11 +225,11 @@
     },
     {
       "char": "0",
-      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top]"
     },
     {
       "char": "1",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:oak_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "2",
@@ -237,11 +237,11 @@
     },
     {
       "char": "3",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "4",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "5",

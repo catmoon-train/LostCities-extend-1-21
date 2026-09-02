@@ -17,7 +17,7 @@
       },
       {
         "char": "y",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "l",
@@ -25,11 +25,11 @@
       },
       {
         "char": "D",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "N",
-        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=top]"
       },
       {
         "char": "b",
@@ -57,11 +57,11 @@
       },
       {
         "char": "E",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "贷",
-        "block": "minecraft:redstone_wire[east=none,north=none,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire[east=none,north=none]"
       },
       {
         "char": "h",
@@ -77,7 +77,7 @@
       },
       {
         "char": "捏",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[east=none,south=none]"
       },
       {
         "char": "e",
@@ -93,11 +93,11 @@
       },
       {
         "char": "w",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "K",
-        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=bottom]"
       },
       {
         "char": "J",
@@ -113,11 +113,11 @@
       },
       {
         "char": "G",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "染",
-        "block": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=double]"
       },
       {
         "char": "蜀",
@@ -141,7 +141,7 @@
       },
       {
         "char": "芙",
-        "block": "minecraft:light_gray_bed[facing=south,occupied=false,part=foot]",
+        "block": "minecraft:light_gray_bed",
         "tag": {
           "z": 476,
           "x": -20,
@@ -152,7 +152,7 @@
       },
       {
         "char": "蚕",
-        "block": "minecraft:light_gray_bed[facing=south,occupied=false,part=head]",
+        "block": "minecraft:light_gray_bed",
         "tag": {
           "z": 477,
           "x": -20,
@@ -187,23 +187,23 @@
       },
       {
         "char": "H",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "楷",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:mossy_cobblestone_wall[up=true,west=tall]"
       },
       {
         "char": "佩",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[up=true,west=tall]"
       },
       {
         "char": "涨",
-        "block": "minecraft:glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=true,west=false]"
       },
       {
         "char": "捕",
-        "block": "minecraft:glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=false,west=false]"
       },
       {
         "char": "谱",
@@ -222,19 +222,19 @@
       },
       {
         "char": "k",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=top]"
       },
       {
         "char": "r",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=top]"
       },
       {
         "char": "a",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "A",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "役",

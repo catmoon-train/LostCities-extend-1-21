@@ -13,7 +13,7 @@
       },
       {
         "char": "C",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "p",
@@ -21,7 +21,7 @@
       },
       {
         "char": "挂",
-        "block": "minecraft:birch_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": -460,
           "x": -163,
@@ -52,7 +52,7 @@
       },
       {
         "char": "F",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "b",
@@ -80,7 +80,7 @@
       },
       {
         "char": "台",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire"
       },
       {
         "char": "谛",
@@ -88,7 +88,7 @@
       },
       {
         "char": "斗",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "h",
@@ -96,15 +96,15 @@
       },
       {
         "char": "秉",
-        "block": "minecraft:quartz_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=top,shape=inner_left]"
       },
       {
         "char": "R",
-        "block": "minecraft:quartz_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "ҝ",
-        "block": "minecraft:chest[facing=south,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": -446,
@@ -116,7 +116,7 @@
       },
       {
         "char": "ѧ",
-        "block": "minecraft:chest[facing=south,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": -479,
@@ -128,7 +128,7 @@
       },
       {
         "char": "逊",
-        "block": "minecraft:chest[facing=south,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": -460,
@@ -140,15 +140,15 @@
       },
       {
         "char": "拂",
-        "block": "minecraft:quartz_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=top,shape=inner_left]"
       },
       {
         "char": "O",
-        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "底",
-        "block": "minecraft:chest[facing=west,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": -452,
@@ -160,11 +160,11 @@
       },
       {
         "char": "淳",
-        "block": "minecraft:acacia_door[facing=east,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=east,half=lower,hinge=left,open=false]"
       },
       {
         "char": "证",
-        "block": "minecraft:chest[facing=north,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": -452,
@@ -180,7 +180,7 @@
       },
       {
         "char": "朽",
-        "block": "minecraft:acacia_door[facing=east,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=east,half=lower,hinge=right,open=false]"
       },
       {
         "char": "吞",
@@ -219,11 +219,11 @@
       },
       {
         "char": "傍",
-        "block": "minecraft:acacia_door[facing=east,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=east,half=upper,hinge=left,open=false]"
       },
       {
         "char": "憧",
-        "block": "minecraft:acacia_door[facing=east,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=east,half=upper,hinge=right,open=false]"
       },
       {
         "char": "煽",
@@ -302,23 +302,23 @@
       },
       {
         "char": "B",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "v",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "A",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "狸",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_right]"
       },
       {
         "char": "z",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "征",
@@ -357,15 +357,15 @@
       },
       {
         "char": "Z",
-        "block": "minecraft:quartz_slab[type=double,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=double]"
       },
       {
         "char": "穗",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_left]"
       },
       {
         "char": "2",
-        "block": "minecraft:quartz_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "g",
@@ -425,19 +425,19 @@
       },
       {
         "char": "坚",
-        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=bottom]"
       },
       {
         "char": "仗",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_left]"
       },
       {
         "char": "娜",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_right]"
       },
       {
         "char": "P",
-        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "祥",

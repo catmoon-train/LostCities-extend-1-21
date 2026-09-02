@@ -59,7 +59,7 @@
       },
       {
         "char": "英",
-        "block": "minecraft:dark_oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:dark_oak_wall_sign",
         "tag": {
           "z": 336,
           "x": 164,
@@ -95,19 +95,19 @@
       },
       {
         "char": "些",
-        "block": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "维",
-        "block": "minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[east=true,north=true]"
       },
       {
         "char": "构",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[north=true,west=true]"
       },
       {
         "char": "友",
-        "block": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "4",
@@ -115,11 +115,11 @@
       },
       {
         "char": "败",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[south=true]"
       },
       {
         "char": "痛",
-        "block": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "K",
@@ -127,7 +127,7 @@
       },
       {
         "char": "忘",
-        "block": "minecraft:skeleton_skull[rotation=7]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 313,
           "x": 167,
@@ -142,7 +142,7 @@
       },
       {
         "char": "李",
-        "block": "minecraft:skeleton_skull[rotation=9]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 346,
           "x": 127,
@@ -169,7 +169,7 @@
       },
       {
         "char": "罪",
-        "block": "minecraft:skeleton_skull[rotation=8]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 340,
           "x": 174,
@@ -184,7 +184,7 @@
       },
       {
         "char": "马",
-        "block": "minecraft:skeleton_skull[rotation=11]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 345,
           "x": 115,
@@ -207,7 +207,7 @@
       },
       {
         "char": "百",
-        "block": "minecraft:skeleton_skull[rotation=6]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 319,
           "x": 156,
@@ -218,7 +218,7 @@
       },
       {
         "char": "简",
-        "block": "minecraft:skeleton_skull[rotation=12]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 342,
           "x": 159,

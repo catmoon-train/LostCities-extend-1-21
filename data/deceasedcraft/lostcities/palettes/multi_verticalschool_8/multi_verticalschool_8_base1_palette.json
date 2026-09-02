@@ -23,11 +23,11 @@
     },
     {
       "char": "f",
-      "block": "minecraft:polished_andesite_slab[type=east,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "g",
-      "block": "minecraft:polished_andesite_slab[type=west,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "h",
@@ -47,19 +47,19 @@
     },
     {
       "char": "l",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "m",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "n",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "o",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "p",
@@ -67,11 +67,11 @@
     },
     {
       "char": "q",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "r",
-      "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=bottom]"
     },
     {
       "char": "s",
@@ -79,11 +79,11 @@
     },
     {
       "char": "t",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "u",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "w",
@@ -103,7 +103,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "C",
@@ -136,7 +136,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:jungle_fence[waterlogged=false]"
+      "block": "minecraft:jungle_fence"
     }
   ]
 }

@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "f",
@@ -53,7 +53,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "m",
@@ -142,7 +142,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:daylight_detector[power=3,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "L",
@@ -153,7 +153,7 @@
     },
     {
       "char": "M",
-      "block": "minecraft:daylight_detector[power=1,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "N",
@@ -197,7 +197,7 @@
     },
     {
       "char": "S",
-      "block": "minecraft:chain[waterlogged=false,axis=y]"
+      "block": "minecraft:chain[axis=y]"
     }
   ]
 }

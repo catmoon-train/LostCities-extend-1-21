@@ -52,11 +52,11 @@
     },
     {
       "char": "c",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "d",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]"
+      "block": "minecraft:chest"
     },
     {
       "char": "e",
@@ -84,27 +84,27 @@
     },
     {
       "char": "k",
-      "block": "minecraft:rail[waterlogged=false,shape=east_west]"
+      "block": "minecraft:rail[shape=east_west]"
     },
     {
       "char": "l",
-      "block": "minecraft:powered_rail[waterlogged=false,powered=false,shape=east_west]"
+      "block": "minecraft:powered_rail[powered=false,shape=east_west]"
     },
     {
       "char": "m",
-      "block": "minecraft:andesite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:andesite_slab[type=bottom]"
     },
     {
       "char": "n",
-      "block": "minecraft:detector_rail[waterlogged=false,powered=false,shape=east_west]"
+      "block": "minecraft:detector_rail[powered=false,shape=east_west]"
     },
     {
       "char": "o",
-      "block": "minecraft:powered_rail[waterlogged=false,powered=true,shape=east_west]"
+      "block": "minecraft:powered_rail[powered=true,shape=east_west]"
     },
     {
       "char": "p",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "q",
@@ -112,7 +112,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "s",
@@ -124,11 +124,11 @@
     },
     {
       "char": "u",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "w",
-      "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab[type=top]"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:fire[up=false,age=0]"
+      "block": "minecraft:fire[up=false]"
     },
     {
       "char": "b",
@@ -19,15 +19,15 @@
     },
     {
       "char": "e",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+      "block": "minecraft:cobblestone_wall"
     },
     {
       "char": "f",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+      "block": "minecraft:cobblestone_wall"
     },
     {
       "char": "g",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     }
   ]
 }

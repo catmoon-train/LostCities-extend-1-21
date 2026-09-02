@@ -21,7 +21,7 @@
       },
       {
         "char": "a",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "b",
@@ -29,7 +29,7 @@
       },
       {
         "char": "j",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "k",
@@ -37,7 +37,7 @@
       },
       {
         "char": "i",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "e",
@@ -45,7 +45,7 @@
       },
       {
         "char": "η",
-        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,west=true]"
       },
       {
         "char": "p",
@@ -73,7 +73,7 @@
       },
       {
         "char": "ύ",
-        "block": "minecraft:jukebox[has_record=false]",
+        "block": "minecraft:jukebox",
         "tag": {
           "RecordStartTick": "0L",
           "IsPlaying": "0b",
@@ -87,15 +87,15 @@
       },
       {
         "char": "N",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "Ϯ",
-        "block": "minecraft:acacia_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:acacia_fence"
       },
       {
         "char": "ή",
-        "block": "minecraft:glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=true,west=false]"
       }
     ]
   },

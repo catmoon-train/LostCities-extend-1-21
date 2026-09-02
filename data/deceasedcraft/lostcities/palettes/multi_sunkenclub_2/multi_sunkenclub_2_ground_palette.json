@@ -23,15 +23,15 @@
     },
     {
       "char": "f",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "g",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "h",
-      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:spruce_leaves"
     },
     {
       "char": "i",
@@ -47,11 +47,11 @@
     },
     {
       "char": "l",
-      "block": "minecraft:spruce_sapling[stage=1]"
+      "block": "minecraft:spruce_sapling"
     },
     {
       "char": "m",
-      "block": "minecraft:lantern[waterlogged=false,hanging=false]"
+      "block": "minecraft:lantern[hanging=false]"
     }
   ]
 }

@@ -55,20 +55,20 @@
     },
     {
       "char": "n",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "o",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "p",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_filmworkstower_1/ground/dark_oak_storage_cabinet"
     },
     {
       "char": "q",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=bottom,facing=east,shape=straight]"
     }
   ]
 }

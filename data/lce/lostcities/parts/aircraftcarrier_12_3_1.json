@@ -29,7 +29,7 @@
       },
       {
         "char": "枪",
-        "block": "minecraft:light_gray_bed[facing=east,occupied=false,part=foot]",
+        "block": "minecraft:light_gray_bed",
         "tag": {
           "z": 957,
           "x": -364,
@@ -40,7 +40,7 @@
       },
       {
         "char": "蝎",
-        "block": "minecraft:light_gray_bed[facing=east,occupied=false,part=head]",
+        "block": "minecraft:light_gray_bed",
         "tag": {
           "z": 951,
           "x": -369,
@@ -55,7 +55,7 @@
       },
       {
         "char": "H",
-        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "歇",
@@ -81,7 +81,7 @@
       },
       {
         "char": "屿",
-        "block": "minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=true,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=true]"
       },
       {
         "char": "p",
@@ -89,7 +89,7 @@
       },
       {
         "char": "谁",
-        "block": "minecraft:chest[facing=north,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 977,
@@ -105,7 +105,7 @@
       },
       {
         "char": "活",
-        "block": "minecraft:chest[facing=north,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 958,

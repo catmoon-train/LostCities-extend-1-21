@@ -15,11 +15,11 @@
     },
     {
       "char": "d",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "e",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "f",
@@ -59,7 +59,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "p",
@@ -75,7 +75,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "t",
@@ -127,7 +127,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "C",
@@ -143,7 +143,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "I",
@@ -155,7 +155,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "L",
@@ -183,7 +183,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     }
   ]
 }

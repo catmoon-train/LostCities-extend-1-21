@@ -37,19 +37,19 @@
       },
       {
         "char": "缺",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=13,south=side,west=none]"
+        "block": "minecraft:redstone_wire[north=none,west=none]"
       },
       {
         "char": "座",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=14,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "免",
-        "block": "minecraft:redstone_wire[east=none,north=none,power=15,south=side,west=side]"
+        "block": "minecraft:redstone_wire[east=none,north=none]"
       },
       {
         "char": "核",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=12,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "徵",
@@ -57,19 +57,19 @@
       },
       {
         "char": "轮",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=11,south=none,west=none]"
+        "block": "minecraft:redstone_wire[south=none,west=none]"
       },
       {
         "char": "边",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=12,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "治",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=13,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "导",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=15,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "底",
@@ -123,11 +123,11 @@
       },
       {
         "char": "і",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "耶",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "Е",
@@ -135,7 +135,7 @@
       },
       {
         "char": "阳",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "ғ",
@@ -143,15 +143,15 @@
       },
       {
         "char": "当",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire"
       },
       {
         "char": "政",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true]"
       },
       {
         "char": "Ӊ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 326,
           "x": 175,
@@ -187,11 +187,11 @@
       },
       {
         "char": "及",
-        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "В",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 332,
           "x": 143,
@@ -235,7 +235,7 @@
       },
       {
         "char": "ϊ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 347,
           "x": 115,
@@ -275,7 +275,7 @@
       },
       {
         "char": "跑",
-        "block": "minecraft:dropper[facing=east,triggered=false]",
+        "block": "minecraft:dropper[facing=east]",
         "tag": {
           "z": 311,
           "x": 149,
@@ -298,11 +298,11 @@
       },
       {
         "char": "请",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "群",
-        "block": "minecraft:chest[facing=north,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 345,
@@ -330,7 +330,7 @@
       },
       {
         "char": "她",
-        "block": "minecraft:birch_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 344,
           "x": 117,
@@ -374,11 +374,11 @@
       },
       {
         "char": "ӟ",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "继",
-        "block": "minecraft:lectern[facing=west,has_book=false,powered=false]",
+        "block": "minecraft:lectern[facing=west]",
         "tag": {
           "z": 319,
           "x": 153,
@@ -389,7 +389,7 @@
       },
       {
         "char": "百",
-        "block": "minecraft:skeleton_skull[rotation=6]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 319,
           "x": 156,

@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=true]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "j",
@@ -43,15 +43,15 @@
     },
     {
       "char": "k",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "l",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "m",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "n",
@@ -71,7 +71,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:fire[up=false,age=0]"
+      "block": "minecraft:fire[up=false]"
     },
     {
       "char": "s",
@@ -79,7 +79,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "u",
@@ -87,7 +87,7 @@
     },
     {
       "char": "w",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "x",
@@ -99,15 +99,15 @@
     },
     {
       "char": "A",
-      "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=bottom]"
     },
     {
       "char": "B",
-      "block": "minecraft:polished_diorite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_diorite_slab[type=bottom]"
     },
     {
       "char": "C",
-      "block": "minecraft:polished_diorite_slab[type=east,waterlogged=false]"
+      "block": "minecraft:polished_diorite_slab"
     },
     {
       "char": "D",
@@ -127,7 +127,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "K",
@@ -139,7 +139,7 @@
     },
     {
       "char": "M",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "N",
@@ -159,11 +159,11 @@
     },
     {
       "char": "R",
-      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=bottom]"
     },
     {
       "char": "S",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "T",
@@ -175,11 +175,11 @@
     },
     {
       "char": "V",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "W",
-      "block": "minecraft:oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:oak_leaves"
     },
     {
       "char": "X",
@@ -199,15 +199,15 @@
     },
     {
       "char": "1",
-      "block": "minecraft:oak_slab[type=west,waterlogged=false]"
+      "block": "minecraft:oak_slab"
     },
     {
       "char": "2",
-      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom]"
     },
     {
       "char": "3",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "4",
@@ -215,7 +215,7 @@
     },
     {
       "char": "5",
-      "block": "minecraft:polished_diorite_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:polished_diorite_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "6",
@@ -223,11 +223,11 @@
     },
     {
       "char": "7",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "8",
-      "block": "minecraft:polished_diorite_slab[type=south,waterlogged=false]"
+      "block": "minecraft:polished_diorite_slab"
     },
     {
       "char": "9",
@@ -243,31 +243,31 @@
     },
     {
       "char": "%",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "^",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "&",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "*",
-      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom]"
     },
     {
       "char": "(",
-      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": ")",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "+",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "-",
@@ -279,11 +279,11 @@
     },
     {
       "char": "]",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "{",
-      "block": "minecraft:polished_diorite_slab[type=north,waterlogged=false]"
+      "block": "minecraft:polished_diorite_slab"
     },
     {
       "char": "}",
@@ -291,7 +291,7 @@
     },
     {
       "char": "|",
-      "block": "minecraft:polished_diorite_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_diorite_slab[type=top]"
     },
     {
       "char": ";",
@@ -299,7 +299,7 @@
     },
     {
       "char": ":",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "'",
@@ -307,7 +307,7 @@
     },
     {
       "char": "<",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": ">",
@@ -332,11 +332,11 @@
     },
     {
       "char": "?",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "/",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "`",
@@ -344,19 +344,19 @@
     },
     {
       "char": "Ͱ",
-      "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab[type=top]"
     },
     {
       "char": "ͱ",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "Ͳ",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "ͳ",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "ʹ",
@@ -364,7 +364,7 @@
     },
     {
       "char": "͵",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "Ͷ",

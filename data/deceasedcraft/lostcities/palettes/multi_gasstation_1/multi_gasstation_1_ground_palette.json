@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "g",
@@ -101,7 +101,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "y",
@@ -135,7 +135,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:birch_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "J",
@@ -210,11 +210,11 @@
     },
     {
       "char": "Z",
-      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:birch_door[half=upper,open=false,hinge=left,facing=east]"
     },
     {
       "char": "0",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_gasstation_1/ground/lootr_chest"
     },
     {
@@ -235,11 +235,11 @@
     },
     {
       "char": "5",
-      "block": "minecraft:chain[waterlogged=false,axis=y]"
+      "block": "minecraft:chain[axis=y]"
     },
     {
       "char": "6",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     }
   ]
 }

@@ -19,11 +19,11 @@
     },
     {
       "char": "e",
-      "block": "minecraft:stone_stairs[waterlogged=true,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "f",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "g",
@@ -31,15 +31,15 @@
     },
     {
       "char": "h",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "i",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "j",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "k",
@@ -51,11 +51,11 @@
     },
     {
       "char": "m",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "n",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_residentialsurvivor_1/base1/lootr_chest"
     },
     {
@@ -78,11 +78,11 @@
     },
     {
       "char": "r",
-      "block": "minecraft:ladder[waterlogged=false,facing=west]"
+      "block": "minecraft:ladder[facing=west]"
     },
     {
       "char": "s",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "t",
@@ -98,19 +98,19 @@
     },
     {
       "char": "x",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "y",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "A",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "B",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "C",
@@ -126,7 +126,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     }
   ]
 }

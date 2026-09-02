@@ -31,11 +31,11 @@
     },
     {
       "char": "h",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "i",
-      "block": "minecraft:jungle_fence[waterlogged=false]"
+      "block": "minecraft:jungle_fence"
     },
     {
       "char": "j",
@@ -43,15 +43,15 @@
     },
     {
       "char": "k",
-      "block": "minecraft:smooth_red_sandstone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_red_sandstone_slab[type=top]"
     },
     {
       "char": "l",
-      "block": "minecraft:jungle_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:jungle_leaves"
     },
     {
       "char": "m",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "n",
@@ -99,7 +99,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:lectern[powered=false,has_book=false,facing=north]"
+      "block": "minecraft:lectern[facing=north]"
     },
     {
       "char": "B",
@@ -117,7 +117,7 @@
     },
     {
       "char": "E",
-      "block": "minecraft:lectern[powered=false,has_book=true,facing=north]"
+      "block": "minecraft:lectern[facing=north]"
     },
     {
       "char": "F",
@@ -125,7 +125,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_16/ground/oak_drawer"
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_16/ground/oak_drawer"
     },
     {

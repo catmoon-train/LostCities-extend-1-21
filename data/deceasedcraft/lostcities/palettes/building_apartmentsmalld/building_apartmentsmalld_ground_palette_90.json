@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "g",
@@ -92,7 +92,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "y",
@@ -139,7 +139,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+      "block": "minecraft:cobblestone_wall"
     },
     {
       "char": "M",
@@ -155,15 +155,15 @@
     },
     {
       "char": "P",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "Q",
-      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top]"
     },
     {
       "char": "R",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:oak_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "S",
@@ -171,12 +171,12 @@
     },
     {
       "char": "T",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_apartmentsmalld/ground/lootr_chest"
     },
     {
       "char": "U",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_apartmentsmalld/ground/lootr_chest"
     },
     {
@@ -189,7 +189,7 @@
     },
     {
       "char": "X",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "Y",
@@ -197,15 +197,15 @@
     },
     {
       "char": "Z",
-      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=bottom]"
     },
     {
       "char": "0",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "1",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=east,shape=straight]"
     }
   ]
 }

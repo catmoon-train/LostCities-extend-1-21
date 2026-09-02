@@ -43,7 +43,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=top]"
     },
     {
       "char": "l",
@@ -121,12 +121,12 @@
     },
     {
       "char": "E",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_gunstore_0/base1/safe"
     },
     {
       "char": "F",
-      "block": "minecraft:daylight_detector[power=0,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "I",
@@ -188,7 +188,7 @@
     },
     {
       "char": "U",
-      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=top]"
     },
     {
       "char": "V",
@@ -196,7 +196,7 @@
     },
     {
       "char": "W",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     }
   ]
 }

@@ -33,7 +33,7 @@
       },
       {
         "char": "G",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "i",
@@ -65,7 +65,7 @@
       },
       {
         "char": "染",
-        "block": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=double]"
       },
       {
         "char": "m",
@@ -109,7 +109,7 @@
       },
       {
         "char": "Q",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "郭",
@@ -234,7 +234,7 @@
       },
       {
         "char": "颳",
-        "block": "minecraft:dropper[facing=west,triggered=false]",
+        "block": "minecraft:dropper[facing=west]",
         "tag": {
           "z": 481,
           "x": -58,
@@ -257,11 +257,11 @@
       },
       {
         "char": "窘",
-        "block": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true,north=true]"
       },
       {
         "char": "畜",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 473,
           "x": -89,
@@ -297,7 +297,7 @@
       },
       {
         "char": "壼",
-        "block": "minecraft:oak_sign[rotation=8,waterlogged=false]",
+        "block": "minecraft:oak_sign",
         "tag": {
           "z": 468,
           "x": -63,
@@ -349,7 +349,7 @@
       },
       {
         "char": "蝙",
-        "block": "minecraft:dispenser[facing=east,triggered=false]",
+        "block": "minecraft:dispenser[facing=east]",
         "tag": {
           "z": 481,
           "x": -57,
@@ -364,7 +364,7 @@
       },
       {
         "char": "瓜",
-        "block": "minecraft:jungle_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:jungle_leaves"
       },
       {
         "char": "谱",
@@ -387,7 +387,7 @@
       },
       {
         "char": "钞",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 479,
           "x": -90,
@@ -438,15 +438,15 @@
       },
       {
         "char": "N",
-        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=top]"
       },
       {
         "char": "y",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "喃",
-        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=bottom]"
       },
       {
         "char": "划",
@@ -469,7 +469,7 @@
       },
       {
         "char": "锁",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "苔",
@@ -477,15 +477,15 @@
       },
       {
         "char": "a",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "拔",
-        "block": "minecraft:mossy_cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=top]"
       },
       {
         "char": "k",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=top]"
       },
       {
         "char": "酷",
@@ -493,11 +493,11 @@
       },
       {
         "char": "A",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "r",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=top]"
       }
     ]
   },

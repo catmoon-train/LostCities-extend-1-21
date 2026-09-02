@@ -29,7 +29,7 @@
       },
       {
         "char": "y",
-        "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:polished_andesite_slab[type=top]"
       },
       {
         "char": "e",
@@ -37,7 +37,7 @@
       },
       {
         "char": "F",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=top]"
       },
       {
         "char": "I",
@@ -53,15 +53,15 @@
       },
       {
         "char": "H",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "ф",
-        "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:polished_andesite_slab[type=bottom]"
       },
       {
         "char": "E",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "z",
@@ -81,7 +81,7 @@
       },
       {
         "char": "切",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "B",
@@ -121,7 +121,7 @@
       },
       {
         "char": "N",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "i",
@@ -137,11 +137,11 @@
       },
       {
         "char": "ѿ",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[west=true]"
       },
       {
         "char": "Ѳ",
-        "block": "minecraft:rail[shape=south_west,waterlogged=false]"
+        "block": "minecraft:rail[shape=south_west]"
       },
       {
         "char": "P",
@@ -149,7 +149,7 @@
       },
       {
         "char": "ѱ",
-        "block": "minecraft:rail[shape=north_west,waterlogged=false]"
+        "block": "minecraft:rail[shape=north_west]"
       },
       {
         "char": "提",
@@ -161,19 +161,19 @@
       },
       {
         "char": "h",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "处",
-        "block": "minecraft:spruce_fence[east=true,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[east=true,south=true]"
       },
       {
         "char": "全",
-        "block": "minecraft:spruce_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[north=true,south=true]"
       },
       {
         "char": "Ӄ",
-        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[north=true]"
       },
       {
         "char": "开",

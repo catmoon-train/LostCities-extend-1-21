@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "d",
@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "f",
@@ -39,11 +39,11 @@
     },
     {
       "char": "j",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "k",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "l",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "n",
@@ -63,19 +63,19 @@
     },
     {
       "char": "p",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "q",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "r",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "s",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "t",
@@ -87,7 +87,7 @@
     },
     {
       "char": "w",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "x",
@@ -131,7 +131,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=top]"
     },
     {
       "char": "L",
@@ -139,7 +139,7 @@
     },
     {
       "char": "M",
-      "block": "minecraft:chiseled_bookshelf[slot_5_occupied=false,slot_4_occupied=false,facing=east,slot_2_occupied=false,slot_1_occupied=false,slot_3_occupied=false,slot_0_occupied=false]"
+      "block": "minecraft:chiseled_bookshelf[facing=east]"
     },
     {
       "char": "N",
@@ -175,7 +175,7 @@
     },
     {
       "char": "V",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_1/floor22/oak_drawer"
     },
     {
@@ -184,7 +184,7 @@
     },
     {
       "char": "X",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_1/floor22/oak_drawer"
     },
     {

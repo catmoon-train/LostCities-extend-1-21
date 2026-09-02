@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "c",
@@ -35,15 +35,15 @@
     },
     {
       "char": "i",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "j",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "k",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "l",
@@ -67,7 +67,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "r",
@@ -75,15 +75,15 @@
     },
     {
       "char": "s",
-      "block": "minecraft:red_candle[waterlogged=false,candles=3,lit=false]"
+      "block": "minecraft:red_candle[candles=3,lit=false]"
     },
     {
       "char": "t",
-      "block": "minecraft:blue_candle[waterlogged=false,candles=4,lit=false]"
+      "block": "minecraft:blue_candle[candles=4,lit=false]"
     },
     {
       "char": "u",
-      "block": "minecraft:green_candle[waterlogged=false,candles=2,lit=false]"
+      "block": "minecraft:green_candle[candles=2,lit=false]"
     }
   ]
 }

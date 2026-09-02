@@ -13,7 +13,7 @@
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "i",
@@ -29,15 +29,15 @@
       },
       {
         "char": "Д",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "Б",
-        "block": "minecraft:glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=true,west=false]"
       },
       {
         "char": "f",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "e",
@@ -65,15 +65,15 @@
       },
       {
         "char": "n",
-        "block": "minecraft:quartz_slab[type=double,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=double]"
       },
       {
         "char": "x",
-        "block": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "Έ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 618,
           "x": 74,
@@ -117,7 +117,7 @@
       },
       {
         "char": "е",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=top]"
       }
     ]
   },

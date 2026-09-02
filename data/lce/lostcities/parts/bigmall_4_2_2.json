@@ -25,7 +25,7 @@
       },
       {
         "char": "ӥ",
-        "block": "minecraft:birch_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:birch_slab[type=bottom]"
       },
       {
         "char": "ђ",
@@ -51,7 +51,7 @@
       },
       {
         "char": "ӝ",
-        "block": "minecraft:water[level=1]"
+        "block": "minecraft:water"
       },
       {
         "char": "C",
@@ -59,7 +59,7 @@
       },
       {
         "char": "5",
-        "block": "minecraft:water[level=0]"
+        "block": "minecraft:water"
       },
       {
         "char": "s",
@@ -67,7 +67,7 @@
       },
       {
         "char": "叫",
-        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 333,
@@ -83,11 +83,11 @@
       },
       {
         "char": "x",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "Q",
-        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=top]"
       },
       {
         "char": "u",
@@ -99,11 +99,11 @@
       },
       {
         "char": "岛",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=outer_left]"
       },
       {
         "char": "香",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_left]"
       },
       {
         "char": "k",
@@ -126,7 +126,7 @@
       },
       {
         "char": "I",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "o",
@@ -134,11 +134,11 @@
       },
       {
         "char": "ҕ",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "Ӝ",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "球",
@@ -154,11 +154,11 @@
       },
       {
         "char": "雷",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_left]"
       },
       {
         "char": "谓",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=outer_left]"
       },
       {
         "char": "q",
@@ -174,27 +174,27 @@
       },
       {
         "char": "功",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=inner_right]"
       },
       {
         "char": "Ӧ",
-        "block": "minecraft:scaffolding[bottom=false,distance=0,waterlogged=false]"
+        "block": "minecraft:scaffolding[bottom=false]"
       },
       {
         "char": "在",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "і",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "兄",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=inner_left]"
       },
       {
         "char": "O",
-        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=top]"
       },
       {
         "char": "2",
@@ -210,7 +210,7 @@
       },
       {
         "char": "议",
-        "block": "minecraft:polished_andesite_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:polished_andesite_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "r",
@@ -226,7 +226,7 @@
       },
       {
         "char": "程",
-        "block": "minecraft:birch_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 321,
           "x": 150,
@@ -270,7 +270,7 @@
       },
       {
         "char": "说",
-        "block": "minecraft:spruce_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:spruce_wall_sign",
         "tag": {
           "z": 310,
           "x": 112,
@@ -306,7 +306,7 @@
       },
       {
         "char": "Ӊ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 326,
           "x": 175,
@@ -342,7 +342,7 @@
       },
       {
         "char": "光",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "楚",
@@ -350,15 +350,15 @@
       },
       {
         "char": "G",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "P",
-        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=bottom]"
       },
       {
         "char": "ͱ",
-        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=bottom]"
       },
       {
         "char": "H",

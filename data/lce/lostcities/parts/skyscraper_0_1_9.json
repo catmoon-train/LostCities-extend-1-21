@@ -13,7 +13,7 @@
       },
       {
         "char": "f",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "h",
@@ -21,7 +21,7 @@
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "i",
@@ -41,7 +41,7 @@
       },
       {
         "char": "ϯ",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "k",
@@ -53,15 +53,15 @@
       },
       {
         "char": "u",
-        "block": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "ж",
-        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "І",
-        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "П",
@@ -69,15 +69,15 @@
       },
       {
         "char": "Њ",
-        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "Б",
-        "block": "minecraft:glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=true,west=false]"
       },
       {
         "char": "Ѣ",
-        "block": "minecraft:hopper[enabled=true,facing=down]",
+        "block": "minecraft:hopper[facing=down]",
         "tag": {
           "z": 627,
           "x": 73,
@@ -97,7 +97,7 @@
       },
       {
         "char": "ґ",
-        "block": "minecraft:skeleton_skull[rotation=8]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 628,
           "x": 73,
@@ -112,11 +112,11 @@
       },
       {
         "char": "y",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire"
       },
       {
         "char": "ϻ",
-        "block": "minecraft:oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "Н",
@@ -124,11 +124,11 @@
       },
       {
         "char": "ӱ",
-        "block": "minecraft:birch_door[facing=west,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:birch_door[facing=west,half=lower,hinge=right,open=false]"
       },
       {
         "char": "I",
-        "block": "minecraft:glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=true,south=true,west=false]"
       },
       {
         "char": "l",
@@ -136,7 +136,7 @@
       },
       {
         "char": "P",
-        "block": "minecraft:glass_pane[east=true,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=true,south=false,west=true]"
       },
       {
         "char": "Ї",
@@ -148,11 +148,11 @@
       },
       {
         "char": "τ",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "Ӎ",
-        "block": "minecraft:birch_door[facing=west,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:birch_door[facing=west,half=upper,hinge=right,open=false]"
       },
       {
         "char": "щ",
@@ -160,7 +160,7 @@
       },
       {
         "char": "Έ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 618,
           "x": 74,

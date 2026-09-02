@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:black_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:black_stained_glass_pane"
     },
     {
       "char": "d",
@@ -19,11 +19,11 @@
     },
     {
       "char": "e",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "f",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "g",
@@ -35,11 +35,11 @@
     },
     {
       "char": "i",
-      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:gray_stained_glass_pane"
     },
     {
       "char": "j",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "k",
@@ -59,7 +59,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab[type=top]"
     },
     {
       "char": "p",
@@ -81,7 +81,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "t",
@@ -134,15 +134,15 @@
     },
     {
       "char": "I",
-      "block": "minecraft:smooth_red_sandstone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_red_sandstone_slab[type=bottom]"
     },
     {
       "char": "J",
-      "block": "minecraft:smooth_red_sandstone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:smooth_red_sandstone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "K",
-      "block": "minecraft:smooth_red_sandstone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:smooth_red_sandstone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "L",
@@ -158,19 +158,19 @@
     },
     {
       "char": "O",
-      "block": "minecraft:rail[waterlogged=false,shape=north_south]"
+      "block": "minecraft:rail[shape=north_south]"
     },
     {
       "char": "P",
-      "block": "minecraft:glass_pane[waterlogged=false]"
+      "block": "minecraft:glass_pane"
     },
     {
       "char": "Q",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "R",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     }
   ]
 }

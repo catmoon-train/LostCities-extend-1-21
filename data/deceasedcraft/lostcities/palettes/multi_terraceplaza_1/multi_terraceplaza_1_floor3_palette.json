@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:white_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:white_stained_glass_pane"
     },
     {
       "char": "b",
@@ -71,31 +71,31 @@
     },
     {
       "char": "r",
-      "block": "minecraft:water[level=5]"
+      "block": "minecraft:water"
     },
     {
       "char": "s",
-      "block": "minecraft:water[level=4]"
+      "block": "minecraft:water"
     },
     {
       "char": "t",
-      "block": "minecraft:water[level=3]"
+      "block": "minecraft:water"
     },
     {
       "char": "u",
-      "block": "minecraft:water[level=2]"
+      "block": "minecraft:water"
     },
     {
       "char": "w",
-      "block": "minecraft:water[level=1]"
+      "block": "minecraft:water"
     },
     {
       "char": "x",
-      "block": "minecraft:stone_stairs[waterlogged=false,facing=south]"
+      "block": "minecraft:stone_stairs[facing=south]"
     },
     {
       "char": "y",
-      "block": "minecraft:water[level=6]"
+      "block": "minecraft:water"
     }
   ]
 }

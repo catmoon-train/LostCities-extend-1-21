@@ -23,15 +23,15 @@
     },
     {
       "char": "f",
-      "block": "minecraft:oak_sapling[stage=1]"
+      "block": "minecraft:oak_sapling"
     },
     {
       "char": "g",
-      "block": "minecraft:birch_sapling[stage=1]"
+      "block": "minecraft:birch_sapling"
     },
     {
       "char": "h",
-      "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab[type=top]"
     },
     {
       "char": "i",
@@ -51,11 +51,11 @@
     },
     {
       "char": "m",
-      "block": "minecraft:birch_stairs[waterlogged=false,facing=south]"
+      "block": "minecraft:birch_stairs[facing=south]"
     },
     {
       "char": "n",
-      "block": "minecraft:campfire[waterlogged=false,signal_fire=false,facing=north,lit=true]"
+      "block": "minecraft:campfire[facing=north,lit=true]"
     },
     {
       "char": "o",
@@ -67,15 +67,15 @@
     },
     {
       "char": "q",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "r",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "s",
-      "block": "minecraft:birch_slab[type=south,waterlogged=false]"
+      "block": "minecraft:birch_slab"
     },
     {
       "char": "t",
@@ -91,19 +91,19 @@
     },
     {
       "char": "w",
-      "block": "minecraft:brown_bed[occupied=false,part=head,facing=north]",
+      "block": "minecraft:brown_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "x",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:scattered_cabin_1/floor1/lootr_chest"
     },
     {
       "char": "y",
-      "block": "minecraft:brown_bed[occupied=false,part=foot,facing=north]",
+      "block": "minecraft:brown_bed",
       "tag": {
         "id": "minecraft:bed"
       }
@@ -122,11 +122,11 @@
     },
     {
       "char": "C",
-      "block": "minecraft:polished_deepslate_slab[type=west,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab"
     },
     {
       "char": "D",
-      "block": "minecraft:polished_deepslate_slab[type=east,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab"
     },
     {
       "char": "E",
@@ -134,11 +134,11 @@
     },
     {
       "char": "F",
-      "block": "minecraft:brown_candle[waterlogged=false,candles=1,lit=false]"
+      "block": "minecraft:brown_candle[candles=1,lit=false]"
     },
     {
       "char": "G",
-      "block": "minecraft:glow_lichen[waterlogged=false,up=false,down=false]"
+      "block": "minecraft:glow_lichen[up=false,down=false]"
     },
     {
       "char": "H",
@@ -146,11 +146,11 @@
     },
     {
       "char": "I",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "J",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "K",
@@ -162,11 +162,11 @@
     },
     {
       "char": "M",
-      "block": "minecraft:glow_lichen[waterlogged=false,up=true,down=false]"
+      "block": "minecraft:glow_lichen[up=true,down=false]"
     },
     {
       "char": "N",
-      "block": "minecraft:chain[waterlogged=false,axis=y]"
+      "block": "minecraft:chain[axis=y]"
     }
   ]
 }

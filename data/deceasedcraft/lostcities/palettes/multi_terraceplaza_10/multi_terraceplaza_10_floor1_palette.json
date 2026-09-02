@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "e",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "i",
@@ -67,15 +67,15 @@
     },
     {
       "char": "q",
-      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:birch_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "r",
-      "block": "minecraft:birch_slab[type=north,waterlogged=false]"
+      "block": "minecraft:birch_slab"
     },
     {
       "char": "s",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:birch_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "t",
@@ -83,7 +83,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "w",
@@ -91,7 +91,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:birch_slab[type=west,waterlogged=false]"
+      "block": "minecraft:birch_slab"
     },
     {
       "char": "y",
@@ -107,7 +107,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:oak_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "D",
@@ -119,11 +119,11 @@
     },
     {
       "char": "F",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "I",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=bottom]"
     },
     {
       "char": "J",
@@ -149,7 +149,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "P",
@@ -178,7 +178,7 @@
     },
     {
       "char": "V",
-      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:birch_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "W",
@@ -186,7 +186,7 @@
     },
     {
       "char": "X",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=false,facing=south]"
     },
     {
       "char": "Y",
@@ -198,7 +198,7 @@
     },
     {
       "char": "0",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=false,facing=north]"
     },
     {
       "char": "1",
@@ -206,7 +206,7 @@
     },
     {
       "char": "2",
-      "block": "minecraft:chiseled_bookshelf[slot_5_occupied=false,slot_4_occupied=false,facing=south,slot_2_occupied=false,slot_1_occupied=false,slot_3_occupied=false,slot_0_occupied=false]"
+      "block": "minecraft:chiseled_bookshelf[facing=south]"
     },
     {
       "char": "3",
@@ -222,7 +222,7 @@
     },
     {
       "char": "6",
-      "block": "minecraft:chiseled_bookshelf[slot_5_occupied=false,slot_4_occupied=false,facing=north,slot_2_occupied=false,slot_1_occupied=false,slot_3_occupied=false,slot_0_occupied=false]"
+      "block": "minecraft:chiseled_bookshelf[facing=north]"
     },
     {
       "char": "7",
@@ -258,7 +258,7 @@
     },
     {
       "char": "*",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "(",

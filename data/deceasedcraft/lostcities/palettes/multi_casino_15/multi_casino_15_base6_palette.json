@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "f",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "j",
@@ -75,15 +75,15 @@
     },
     {
       "char": "s",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "t",
-      "block": "minecraft:daylight_detector[power=0,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "u",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=east]"
     },
     {
       "char": "w",

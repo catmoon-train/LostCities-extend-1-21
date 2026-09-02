@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "f",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "i",
@@ -43,7 +43,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:zombie_head[rotation=12]",
+      "block": "minecraft:zombie_head",
       "tag": {
         "id": "minecraft:skull"
       }
@@ -58,19 +58,19 @@
     },
     {
       "char": "n",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "o",
-      "block": "minecraft:red_nether_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:red_nether_brick_slab[type=bottom]"
     },
     {
       "char": "p",
-      "block": "minecraft:red_nether_brick_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:red_nether_brick_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "q",
-      "block": "minecraft:dispenser[facing=west,triggered=false]"
+      "block": "minecraft:dispenser[facing=west]"
     },
     {
       "char": "r",
@@ -82,15 +82,15 @@
     },
     {
       "char": "t",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "u",
-      "block": "minecraft:dropper[facing=west,triggered=false]"
+      "block": "minecraft:dropper[facing=west]"
     },
     {
       "char": "w",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "x",
@@ -106,7 +106,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "C",
@@ -139,11 +139,11 @@
     },
     {
       "char": "L",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "M",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "N",
@@ -172,25 +172,25 @@
     },
     {
       "char": "T",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "U",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_timbertower_0/ground/iron_locker"
     },
     {
       "char": "V",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_timbertower_0/ground/iron_locker"
     },
     {
       "char": "W",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=east]"
     },
     {
       "char": "X",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "Y",
@@ -198,19 +198,19 @@
     },
     {
       "char": "Z",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "0",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "1",
-      "block": "minecraft:bell[powered=false,facing=south,attachment=floor]"
+      "block": "minecraft:bell[facing=south,attachment=floor]"
     },
     {
       "char": "2",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_timbertower_0/ground/iron_locker"
     },
     {
@@ -220,11 +220,11 @@
     },
     {
       "char": "4",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "5",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_timbertower_0/ground/iron_locker"
     },
     {
@@ -233,15 +233,15 @@
     },
     {
       "char": "7",
-      "block": "minecraft:brewing_stand[has_bottle_2=false,has_bottle_0=false,has_bottle_1=false]"
+      "block": "minecraft:brewing_stand"
     },
     {
       "char": "8",
-      "block": "minecraft:tnt[unstable=false]"
+      "block": "minecraft:tnt"
     },
     {
       "char": "9",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "#",
@@ -253,15 +253,15 @@
     },
     {
       "char": "%",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "^",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "&",
-      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab[type=bottom]"
     },
     {
       "char": "*",

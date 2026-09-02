@@ -37,11 +37,11 @@
       },
       {
         "char": "έ",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "F",
-        "block": "minecraft:birch_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:birch_leaves"
       },
       {
         "char": "Ͼ",
@@ -57,7 +57,7 @@
       },
       {
         "char": "6",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 593,
           "x": 95,
@@ -121,19 +121,19 @@
       },
       {
         "char": "B",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "w",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "Ώ",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom]"
       },
       {
         "char": "ϥ",
-        "block": "minecraft:trapped_chest[facing=east,type=single,waterlogged=false]",
+        "block": "minecraft:trapped_chest",
         "loot": "shoploot",
         "tag": {
           "z": 602,
@@ -185,7 +185,7 @@
       },
       {
         "char": "ϊ",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "Ϥ",
@@ -209,7 +209,7 @@
       },
       {
         "char": "Ϡ",
-        "block": "minecraft:player_head[rotation=1]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 596,
           "x": 92,
@@ -220,7 +220,7 @@
       },
       {
         "char": "r",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "Ͱ",
@@ -236,15 +236,15 @@
       },
       {
         "char": "z",
-        "block": "minecraft:sandstone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:sandstone_slab[type=double]"
       },
       {
         "char": "D",
-        "block": "minecraft:sandstone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:sandstone_slab[type=bottom]"
       },
       {
         "char": "ϛ",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "shoploot",
         "tag": {
           "z": 600,

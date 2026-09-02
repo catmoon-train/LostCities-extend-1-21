@@ -3,15 +3,15 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "b",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "c",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "d",
@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "h",
@@ -35,11 +35,11 @@
     },
     {
       "char": "i",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "j",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "k",
@@ -60,15 +60,15 @@
     },
     {
       "char": "o",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "p",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "q",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "r",
@@ -76,7 +76,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=bottom]"
     },
     {
       "char": "t",
@@ -84,20 +84,20 @@
     },
     {
       "char": "u",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "w",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "x",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_17/floor13/iron_locker"
     },
     {
       "char": "y",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_17/floor13/iron_locker"
     },
     {
@@ -118,11 +118,11 @@
     },
     {
       "char": "E",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=left,facing=east]"
     },
     {
       "char": "F",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "I",
@@ -134,7 +134,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=left,facing=north]"
     }
   ]
 }

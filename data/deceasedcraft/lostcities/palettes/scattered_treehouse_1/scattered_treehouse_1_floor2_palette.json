@@ -7,11 +7,11 @@
     },
     {
       "char": "b",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "c",
-      "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab[type=top]"
     },
     {
       "char": "d",
@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:stone_brick_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "f",
@@ -27,23 +27,23 @@
     },
     {
       "char": "g",
-      "block": "minecraft:lantern[waterlogged=false,hanging=true]"
+      "block": "minecraft:lantern[hanging=true]"
     },
     {
       "char": "h",
-      "block": "minecraft:ladder[waterlogged=false,facing=south]"
+      "block": "minecraft:ladder[facing=south]"
     },
     {
       "char": "i",
-      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_brick_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "j",
-      "block": "minecraft:oak_leaves[waterlogged=false,persistent=false]"
+      "block": "minecraft:oak_leaves"
     },
     {
       "char": "k",
-      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab[type=bottom]"
     },
     {
       "char": "l",
@@ -51,33 +51,33 @@
     },
     {
       "char": "m",
-      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top]"
     },
     {
       "char": "n",
-      "block": "minecraft:oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:oak_leaves"
     },
     {
       "char": "o",
-      "block": "minecraft:brown_bed[occupied=false,part=head,facing=north]",
+      "block": "minecraft:brown_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "p",
-      "block": "minecraft:brown_bed[occupied=false,part=foot,facing=north]",
+      "block": "minecraft:brown_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "q",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "r",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "s",

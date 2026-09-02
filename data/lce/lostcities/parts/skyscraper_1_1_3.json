@@ -13,7 +13,7 @@
       },
       {
         "char": "f",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "h",
@@ -21,7 +21,7 @@
       },
       {
         "char": "F",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "i",
@@ -29,7 +29,7 @@
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "m",
@@ -53,7 +53,7 @@
       },
       {
         "char": "ϳ",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 618,
           "x": 75,
@@ -89,19 +89,19 @@
       },
       {
         "char": "Ѻ",
-        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+        "block": "minecraft:oak_slab[type=top]"
       },
       {
         "char": "S",
-        "block": "minecraft:oak_slab[type=double,waterlogged=false]"
+        "block": "minecraft:oak_slab[type=double]"
       },
       {
         "char": "Ҕ",
-        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "Έ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 618,
           "x": 74,
@@ -137,7 +137,7 @@
       },
       {
         "char": "中",
-        "block": "minecraft:chest[facing=south,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 630,
@@ -153,7 +153,7 @@
       },
       {
         "char": "Ә",
-        "block": "minecraft:chest[facing=south,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 630,
@@ -169,11 +169,11 @@
       },
       {
         "char": "τ",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "ϵ",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "ϴ",
@@ -181,15 +181,15 @@
       },
       {
         "char": "Ί",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=true]"
       },
       {
         "char": "P",
-        "block": "minecraft:glass_pane[east=true,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=true,south=false,west=true]"
       },
       {
         "char": "ú",
-        "block": "minecraft:player_head[rotation=7]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 627,
           "x": 80,
@@ -200,7 +200,7 @@
       },
       {
         "char": "ӽ",
-        "block": "minecraft:player_head[rotation=9]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 627,
           "x": 81,
@@ -215,27 +215,27 @@
       },
       {
         "char": "϶",
-        "block": "minecraft:dark_oak_leaves[distance=1,persistent=true,waterlogged=false]"
+        "block": "minecraft:dark_oak_leaves"
       },
       {
         "char": "ϸ",
-        "block": "minecraft:dark_oak_leaves[distance=2,persistent=true,waterlogged=false]"
+        "block": "minecraft:dark_oak_leaves"
       },
       {
         "char": "ѽ",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[south=true]"
       },
       {
         "char": "Ҋ",
-        "block": "minecraft:spruce_fence[east=true,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[east=true,north=true,south=true,west=true]"
       },
       {
         "char": "҅",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[west=true]"
       },
       {
         "char": "Қ",
-        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[north=true]"
       }
     ]
   },

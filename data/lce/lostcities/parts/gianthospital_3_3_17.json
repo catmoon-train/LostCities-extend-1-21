@@ -9,11 +9,11 @@
       },
       {
         "char": "绮",
-        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence"
       },
       {
         "char": "蔬",
-        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true]"
       },
       {
         "char": "p",
@@ -21,7 +21,7 @@
       },
       {
         "char": "辙",
-        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[west=true]"
       }
     ]
   },

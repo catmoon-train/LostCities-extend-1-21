@@ -9,11 +9,11 @@
       },
       {
         "char": "g",
-        "block": "minecraft:brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:brick_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "ύ",
-        "block": "minecraft:brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "a",
@@ -21,11 +21,11 @@
       },
       {
         "char": "ϔ",
-        "block": "minecraft:oak_slab[type=double,waterlogged=false]"
+        "block": "minecraft:oak_slab[type=double]"
       },
       {
         "char": "Σ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 329,
           "x": 138,
@@ -65,11 +65,11 @@
       },
       {
         "char": "Ϙ",
-        "block": "minecraft:brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:brick_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "i",
-        "block": "minecraft:brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:brick_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "k",
@@ -77,15 +77,15 @@
       },
       {
         "char": "л",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "Ц",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "Е",
-        "block": "minecraft:campfire[facing=east,lit=false,signal_fire=false,waterlogged=false]",
+        "block": "minecraft:campfire[facing=east,lit=false]",
         "tag": {
           "CookingTotalTimes": [
             "I",
@@ -111,15 +111,15 @@
       },
       {
         "char": "С",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "т",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "Ю",
-        "block": "minecraft:brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:brick_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "Н",
@@ -127,7 +127,7 @@
       },
       {
         "char": "Χ",
-        "block": "minecraft:brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:brick_slab[type=bottom]"
       }
     ]
   },

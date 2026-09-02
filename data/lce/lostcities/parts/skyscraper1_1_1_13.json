@@ -9,11 +9,11 @@
       },
       {
         "char": "ε",
-        "block": "minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:iron_bars[east=false,north=false,south=false,west=false]"
       },
       {
         "char": "a",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "f",
@@ -33,7 +33,7 @@
       },
       {
         "char": "Ϧ",
-        "block": "minecraft:dispenser[facing=down,triggered=false]",
+        "block": "minecraft:dispenser[facing=down]",
         "tag": {
           "z": 624,
           "x": 48,
@@ -48,11 +48,11 @@
       },
       {
         "char": "J",
-        "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:iron_bars[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "K",
-        "block": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:iron_bars[east=false,north=true,south=true,west=false]"
       }
     ]
   },

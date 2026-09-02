@@ -17,7 +17,7 @@
       },
       {
         "char": "拭",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,west=low]"
       },
       {
         "char": "e",
@@ -29,7 +29,7 @@
       },
       {
         "char": "吒",
-        "block": "minecraft:mossy_cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_cobblestone_wall[east=low,west=low]"
       },
       {
         "char": "l",
@@ -101,7 +101,7 @@
       },
       {
         "char": "馊",
-        "block": "minecraft:skeleton_skull[rotation=6]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 445,
           "x": -54,
@@ -120,7 +120,7 @@
       },
       {
         "char": "绢",
-        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "惕",
@@ -128,11 +128,11 @@
       },
       {
         "char": "酮",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "尻",
-        "block": "minecraft:campfire[facing=east,lit=false,signal_fire=false,waterlogged=false]",
+        "block": "minecraft:campfire[facing=east,lit=false]",
         "tag": {
           "CookingTotalTimes": [
             "I",
@@ -158,7 +158,7 @@
       },
       {
         "char": "帛",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "躏",
@@ -170,11 +170,11 @@
       },
       {
         "char": "饴",
-        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "钣",
-        "block": "minecraft:skeleton_skull[rotation=10]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 424,
           "x": -61,
@@ -185,7 +185,7 @@
       },
       {
         "char": "拎",
-        "block": "minecraft:skeleton_skull[rotation=7]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 433,
           "x": -54,

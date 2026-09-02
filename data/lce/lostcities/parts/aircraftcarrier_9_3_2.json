@@ -9,7 +9,7 @@
       },
       {
         "char": "z",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "f",
@@ -17,7 +17,7 @@
       },
       {
         "char": "C",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "g",
@@ -25,7 +25,7 @@
       },
       {
         "char": "甄",
-        "block": "minecraft:iron_door[facing=north,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=north,half=upper,hinge=right,open=false]"
       },
       {
         "char": "僧",
@@ -33,7 +33,7 @@
       },
       {
         "char": "嗜",
-        "block": "minecraft:birch_sign[rotation=6,waterlogged=false]",
+        "block": "minecraft:birch_sign",
         "tag": {
           "z": 962,
           "x": -405,
@@ -69,11 +69,11 @@
       },
       {
         "char": "w",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "ϑ",
-        "block": "minecraft:birch_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 953,
           "x": -527,
@@ -109,7 +109,7 @@
       },
       {
         "char": "卿",
-        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 963,
@@ -129,7 +129,7 @@
       },
       {
         "char": "汽",
-        "block": "minecraft:chest[facing=east,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 964,
@@ -145,7 +145,7 @@
       },
       {
         "char": "谁",
-        "block": "minecraft:chest[facing=north,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 977,
@@ -161,7 +161,7 @@
       },
       {
         "char": "活",
-        "block": "minecraft:chest[facing=north,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 958,
@@ -177,7 +177,7 @@
       },
       {
         "char": "予",
-        "block": "minecraft:chest[facing=east,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 962,
@@ -193,7 +193,7 @@
       },
       {
         "char": "胎",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 945,
@@ -237,11 +237,11 @@
       },
       {
         "char": "K",
-        "block": "minecraft:quartz_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "J",
-        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "宅",
@@ -249,11 +249,11 @@
       },
       {
         "char": "P",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "ϒ",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "颖",
@@ -261,7 +261,7 @@
       },
       {
         "char": "顽",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "u",
@@ -269,7 +269,7 @@
       },
       {
         "char": "页",
-        "block": "minecraft:jukebox[has_record=false]",
+        "block": "minecraft:jukebox",
         "tag": {
           "RecordStartTick": "0L",
           "IsPlaying": "0b",
@@ -316,55 +316,55 @@
       },
       {
         "char": "胸",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "猴",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom]"
       },
       {
         "char": "谷",
-        "block": "minecraft:birch_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:birch_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "冈",
-        "block": "minecraft:birch_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:birch_stairs[facing=east,half=bottom,shape=inner_left]"
       },
       {
         "char": "祸",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=false]"
       },
       {
         "char": "迎",
-        "block": "minecraft:birch_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:birch_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "佑",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[up=true,west=tall]"
       },
       {
         "char": "睹",
-        "block": "minecraft:birch_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:birch_slab[type=bottom]"
       },
       {
         "char": "欺",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "冲",
-        "block": "minecraft:birch_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:birch_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "涂",
-        "block": "minecraft:birch_stairs[facing=east,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:birch_stairs[facing=east,half=bottom,shape=inner_right]"
       },
       {
         "char": "遂",
-        "block": "minecraft:iron_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "s",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "棵",
@@ -372,11 +372,11 @@
       },
       {
         "char": "债",
-        "block": "minecraft:iron_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "H",
-        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "n",
@@ -409,15 +409,15 @@
       },
       {
         "char": "污",
-        "block": "minecraft:spruce_fence_gate[facing=west,in_wall=false,open=false,powered=false]"
+        "block": "minecraft:spruce_fence_gate[facing=west,in_wall=false,open=false]"
       },
       {
         "char": "肺",
-        "block": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[north=low,south=low,up=true,west=tall]"
       },
       {
         "char": "尚",
-        "block": "minecraft:birch_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 945,
           "x": -465,

@@ -26,7 +26,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "g",
@@ -34,7 +34,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "i",
@@ -46,15 +46,15 @@
     },
     {
       "char": "k",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "l",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "m",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "n",
@@ -62,7 +62,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "p",
@@ -82,7 +82,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+      "block": "minecraft:jungle_slab[type=top]"
     },
     {
       "char": "u",
@@ -98,7 +98,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "A",
@@ -110,11 +110,11 @@
     },
     {
       "char": "C",
-      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:jungle_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "D",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "E",
@@ -126,11 +126,11 @@
     },
     {
       "char": "I",
-      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:jungle_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "J",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "K",
@@ -150,7 +150,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:jungle_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "P",
@@ -162,7 +162,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:jungle_door[half=upper,open=false,hinge=left,facing=north]"
     }
   ]
 }

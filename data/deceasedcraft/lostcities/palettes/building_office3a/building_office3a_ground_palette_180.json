@@ -23,11 +23,11 @@
     },
     {
       "char": "f",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "h",
@@ -49,7 +49,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "m",
@@ -57,7 +57,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:flowering_azalea_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:flowering_azalea_leaves"
     },
     {
       "char": "o",
@@ -193,7 +193,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "S",
@@ -201,7 +201,7 @@
     },
     {
       "char": "T",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "U",
@@ -232,11 +232,11 @@
     },
     {
       "char": "Z",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "0",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_office3a/ground/lootr_chest"
     },
     {
@@ -299,7 +299,7 @@
     },
     {
       "char": "&",
-      "block": "minecraft:lantern[waterlogged=false,hanging=true]"
+      "block": "minecraft:lantern[hanging=true]"
     },
     {
       "char": "*",
@@ -308,7 +308,7 @@
     },
     {
       "char": "(",
-      "block": "minecraft:chain[waterlogged=false,axis=y]"
+      "block": "minecraft:chain[axis=y]"
     },
     {
       "char": ")",

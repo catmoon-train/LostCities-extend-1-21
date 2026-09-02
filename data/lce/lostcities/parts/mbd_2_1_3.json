@@ -93,11 +93,11 @@
       },
       {
         "char": "E",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "N",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "л",
@@ -109,7 +109,7 @@
       },
       {
         "char": "р",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence"
       },
       {
         "char": "呢",
@@ -125,7 +125,7 @@
       },
       {
         "char": "Ц",
-        "block": "minecraft:spruce_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:spruce_slab[type=bottom]"
       },
       {
         "char": "觉",
@@ -141,7 +141,7 @@
       },
       {
         "char": "K",
-        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "Ь",
@@ -157,15 +157,15 @@
       },
       {
         "char": "Ѯ",
-        "block": "minecraft:rail[shape=north_east,waterlogged=false]"
+        "block": "minecraft:rail[shape=north_east]"
       },
       {
         "char": "Ѱ",
-        "block": "minecraft:rail[shape=south_east,waterlogged=false]"
+        "block": "minecraft:rail[shape=south_east]"
       },
       {
         "char": "h",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "щ",
@@ -173,11 +173,11 @@
       },
       {
         "char": "ӊ",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[south=true]"
       },
       {
         "char": "ұ",
-        "block": "minecraft:oak_leaves[distance=1,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "н",
@@ -201,19 +201,19 @@
       },
       {
         "char": "ѥ",
-        "block": "minecraft:oak_leaves[distance=3,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "ѡ",
-        "block": "minecraft:oak_leaves[distance=2,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "ӫ",
-        "block": "minecraft:oak_leaves[distance=4,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "Ҁ",
-        "block": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[east=true]"
       },
       {
         "char": "道",
@@ -221,15 +221,15 @@
       },
       {
         "char": "组",
-        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[north=true,west=true]"
       },
       {
         "char": "ы",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom]"
       },
       {
         "char": "Ѷ",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom]"
       }
     ]
   },

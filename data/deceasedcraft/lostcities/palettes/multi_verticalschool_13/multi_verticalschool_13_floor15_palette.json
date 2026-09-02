@@ -3,11 +3,11 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=top]"
     },
     {
       "char": "b",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "c",
@@ -36,7 +36,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "h",
@@ -44,7 +44,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "j",
@@ -128,15 +128,15 @@
     },
     {
       "char": "D",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "E",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "F",
-      "block": "minecraft:azalea_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:azalea_leaves"
     },
     {
       "char": "I",

@@ -112,7 +112,7 @@
     },
     {
       "char": "D",
-      "block": "minecraft:spruce_slab[type=north,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "E",
@@ -120,16 +120,16 @@
     },
     {
       "char": "F",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_communitycenter_5/ground/birch_drawer"
     },
     {
       "char": "I",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "J",
-      "block": "minecraft:spruce_slab[type=west,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "K",
@@ -177,7 +177,7 @@
     },
     {
       "char": "V",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "W",
@@ -189,11 +189,11 @@
     },
     {
       "char": "Y",
-      "block": "minecraft:cave_vines[age=25,berries=false]"
+      "block": "minecraft:cave_vines[berries=false]"
     },
     {
       "char": "Z",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "0",
@@ -201,11 +201,11 @@
     },
     {
       "char": "1",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=north]"
     },
     {
       "char": "2",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_communitycenter_5/ground/birch_drawer"
     },
     {
@@ -231,11 +231,11 @@
     },
     {
       "char": "6",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "7",
-      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+      "block": "minecraft:birch_slab[type=top]"
     }
   ]
 }

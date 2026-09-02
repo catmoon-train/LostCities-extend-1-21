@@ -63,7 +63,7 @@
       },
       {
         "char": "唆",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "j",
@@ -79,11 +79,11 @@
       },
       {
         "char": "哆",
-        "block": "minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=true,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=south,half=lower,hinge=left,open=true]"
       },
       {
         "char": "忝",
-        "block": "minecraft:chest[facing=south,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "hospital",
         "tag": {
           "z": 467,
@@ -99,7 +99,7 @@
       },
       {
         "char": "濡",
-        "block": "minecraft:chest[facing=south,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "hospital",
         "tag": {
           "z": 401,
@@ -127,7 +127,7 @@
       },
       {
         "char": "鶩",
-        "block": "minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=west,half=lower,hinge=right,open=false]"
       },
       {
         "char": "惕",
@@ -139,7 +139,7 @@
       },
       {
         "char": "钞",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 479,
           "x": -90,
@@ -175,7 +175,7 @@
       },
       {
         "char": "辘",
-        "block": "minecraft:dark_oak_door[facing=west,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=west,half=lower,hinge=left,open=false]"
       },
       {
         "char": "琅",
@@ -183,11 +183,11 @@
       },
       {
         "char": "嗅",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "叽",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 483,
           "x": -40,
@@ -223,7 +223,7 @@
       },
       {
         "char": "嚏",
-        "block": "minecraft:chest[facing=north,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "hospital",
         "tag": {
           "z": 470,
@@ -239,7 +239,7 @@
       },
       {
         "char": "痧",
-        "block": "minecraft:chest[facing=north,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "hospital",
         "tag": {
           "z": 470,
@@ -255,7 +255,7 @@
       },
       {
         "char": "俏",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 409,
           "x": -87,
@@ -291,7 +291,7 @@
       },
       {
         "char": "珪",
-        "block": "minecraft:birch_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=east,half=top,open=false]"
       },
       {
         "char": "p",
@@ -299,7 +299,7 @@
       },
       {
         "char": "亳",
-        "block": "minecraft:birch_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "琏",
@@ -307,31 +307,31 @@
       },
       {
         "char": "樊",
-        "block": "minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "葆",
-        "block": "minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "苹",
-        "block": "minecraft:birch_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=south,half=top,open=true]"
       },
       {
         "char": "雹",
-        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "乒",
-        "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:oak_slab[type=bottom]"
       },
       {
         "char": "畀",
-        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "蒙",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "歉",
@@ -369,7 +369,7 @@
       },
       {
         "char": "捆",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "hospital",
         "tag": {
           "z": 485,
@@ -397,27 +397,27 @@
       },
       {
         "char": "沁",
-        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[south=true]"
       },
       {
         "char": "婬",
-        "block": "minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=true,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=south,half=upper,hinge=left,open=true]"
       },
       {
         "char": "崽",
-        "block": "minecraft:dark_oak_door[facing=west,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=west,half=upper,hinge=right,open=false]"
       },
       {
         "char": "銂",
-        "block": "minecraft:dark_oak_door[facing=west,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=west,half=upper,hinge=left,open=false]"
       },
       {
         "char": "锁",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "症",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[north=true,west=true]"
       },
       {
         "char": "晒",
@@ -425,15 +425,15 @@
       },
       {
         "char": "辙",
-        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[west=true]"
       },
       {
         "char": "w",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "K",
-        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=bottom]"
       },
       {
         "char": "棋",
@@ -445,15 +445,15 @@
       },
       {
         "char": "喳",
-        "block": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[east=true,south=true,west=true]"
       },
       {
         "char": "y",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "瓜",
-        "block": "minecraft:jungle_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:jungle_leaves"
       },
       {
         "char": "迫",
@@ -465,11 +465,11 @@
       },
       {
         "char": "N",
-        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=top]"
       },
       {
         "char": "H",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "谱",
@@ -492,23 +492,23 @@
       },
       {
         "char": "a",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "k",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=top]"
       },
       {
         "char": "r",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=top]"
       },
       {
         "char": "剖",
-        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,west=false]"
       },
       {
         "char": "拔",
-        "block": "minecraft:mossy_cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=top]"
       },
       {
         "char": "酷",
@@ -516,7 +516,7 @@
       },
       {
         "char": "A",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       }
     ]
   },

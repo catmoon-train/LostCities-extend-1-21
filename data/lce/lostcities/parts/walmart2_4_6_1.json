@@ -9,7 +9,7 @@
       },
       {
         "char": "球",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 424,
           "x": 152,
@@ -81,11 +81,11 @@
       },
       {
         "char": "t",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "天",
-        "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=double]"
       },
       {
         "char": "他",

@@ -31,11 +31,11 @@
     },
     {
       "char": "h",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "i",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "j",
@@ -79,7 +79,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:hopper[enabled=true,facing=down]"
+      "block": "minecraft:hopper[facing=down]"
     },
     {
       "char": "u",
@@ -95,11 +95,11 @@
     },
     {
       "char": "y",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "A",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "B",
@@ -123,7 +123,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "J",

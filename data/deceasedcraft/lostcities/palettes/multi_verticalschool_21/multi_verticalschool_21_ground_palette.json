@@ -39,11 +39,11 @@
     },
     {
       "char": "j",
-      "block": "minecraft:smooth_red_sandstone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_red_sandstone_slab[type=top]"
     },
     {
       "char": "k",
-      "block": "minecraft:jungle_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:jungle_leaves"
     },
     {
       "char": "l",
@@ -108,7 +108,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:lectern[powered=false,has_book=true,facing=north]"
+      "block": "minecraft:lectern[facing=north]"
     },
     {
       "char": "D",

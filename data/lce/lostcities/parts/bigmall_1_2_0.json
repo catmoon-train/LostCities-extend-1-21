@@ -49,15 +49,15 @@
       },
       {
         "char": "і",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "公",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "力",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "8",
@@ -65,11 +65,11 @@
       },
       {
         "char": "十",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "ϊ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 347,
           "x": 115,
@@ -105,11 +105,11 @@
       },
       {
         "char": "目",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "Ғ",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 336,
           "x": 144,
@@ -145,15 +145,15 @@
       },
       {
         "char": "妈",
-        "block": "minecraft:jungle_door[facing=south,half=lower,hinge=right,open=true,powered=false]"
+        "block": "minecraft:jungle_door[facing=south,half=lower,hinge=right,open=true]"
       },
       {
         "char": "控",
-        "block": "minecraft:jungle_door[facing=south,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:jungle_door[facing=south,half=lower,hinge=left,open=false]"
       },
       {
         "char": "转",
-        "block": "minecraft:jukebox[has_record=false]",
+        "block": "minecraft:jukebox",
         "tag": {
           "RecordStartTick": "0L",
           "IsPlaying": "0b",

@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:polished_andesite_slab[type=north,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "b",
@@ -11,23 +11,23 @@
     },
     {
       "char": "c",
-      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=top]"
     },
     {
       "char": "d",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "e",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=north]"
     },
     {
       "char": "f",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "g",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "h",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "j",
@@ -51,11 +51,11 @@
     },
     {
       "char": "m",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "n",
-      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=bottom]"
     },
     {
       "char": "o",
@@ -63,11 +63,11 @@
     },
     {
       "char": "p",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "q",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "r",
@@ -84,7 +84,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:smooth_quartz_slab[type=double,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=double]"
     },
     {
       "char": "w",
@@ -92,7 +92,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_hospitaldamaged_2/ground/market_shelves"
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:tnt[unstable=false]"
+      "block": "minecraft:tnt"
     },
     {
       "char": "J",
@@ -137,15 +137,15 @@
     },
     {
       "char": "L",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "M",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "N",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     }
   ]
 }

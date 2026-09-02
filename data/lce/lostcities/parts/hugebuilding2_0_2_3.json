@@ -9,7 +9,7 @@
       },
       {
         "char": "I",
-        "block": "minecraft:iron_bars[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:iron_bars[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "b",
@@ -21,15 +21,15 @@
       },
       {
         "char": "v",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "Κ",
-        "block": "minecraft:iron_bars[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:iron_bars[east=true,north=true,south=false,west=false]"
       },
       {
         "char": "N",
-        "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:iron_bars[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "c",
@@ -45,7 +45,7 @@
       },
       {
         "char": "H",
-        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "j",
@@ -53,7 +53,7 @@
       },
       {
         "char": "E",
-        "block": "minecraft:oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "d",
@@ -77,23 +77,23 @@
       },
       {
         "char": "u",
-        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=top]"
       },
       {
         "char": "e",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "Q",
-        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "G",
-        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "K",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "w",
@@ -101,11 +101,11 @@
       },
       {
         "char": "Δ",
-        "block": "minecraft:glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=false,west=false]"
       },
       {
         "char": "Ϫ",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 598,

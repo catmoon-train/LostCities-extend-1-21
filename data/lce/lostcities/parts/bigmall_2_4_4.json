@@ -45,11 +45,11 @@
       },
       {
         "char": "够",
-        "block": "minecraft:stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:stone_brick_wall[north=low,up=true,west=low]"
       },
       {
         "char": "界",
-        "block": "minecraft:stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[east=low,up=true]"
       },
       {
         "char": "w",
@@ -65,15 +65,15 @@
       },
       {
         "char": "德",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:stone_brick_wall[south=low,up=true,west=low]"
       },
       {
         "char": "注",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[south=low,up=true]"
       },
       {
         "char": "3",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[up=true]"
       },
       {
         "char": "l",
@@ -81,23 +81,23 @@
       },
       {
         "char": "P",
-        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=bottom]"
       },
       {
         "char": "ͱ",
-        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=bottom]"
       },
       {
         "char": "G",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "O",
-        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=top]"
       },
       {
         "char": "D",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "A",

@@ -95,7 +95,7 @@
       },
       {
         "char": "下",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom]"
       },
       {
         "char": "k",
@@ -103,7 +103,7 @@
       },
       {
         "char": "x",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "ӗ",
@@ -115,7 +115,7 @@
       },
       {
         "char": "且",
-        "block": "minecraft:andesite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:andesite_slab[type=bottom]"
       },
       {
         "char": "z",
@@ -127,11 +127,11 @@
       },
       {
         "char": "3",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[up=true]"
       },
       {
         "char": "D",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "U",
@@ -139,7 +139,7 @@
       },
       {
         "char": "须",
-        "block": "minecraft:skeleton_skull[rotation=10]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 339,
           "x": 154,

@@ -3,19 +3,19 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:spruce_slab[type=west,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "b",
-      "block": "minecraft:spruce_slab[type=east,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "c",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "d",
-      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+      "block": "minecraft:birch_slab[type=top]"
     },
     {
       "char": "e",
@@ -39,11 +39,11 @@
     },
     {
       "char": "j",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "k",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "l",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:cobblestone_slab[type=bottom]"
     },
     {
       "char": "n",
@@ -91,7 +91,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     }
   ]
 }

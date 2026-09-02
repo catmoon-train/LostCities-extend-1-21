@@ -11,15 +11,15 @@
     },
     {
       "char": "c",
-      "block": "minecraft:lantern[waterlogged=false,hanging=false]"
+      "block": "minecraft:lantern[hanging=false]"
     },
     {
       "char": "d",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "e",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+      "block": "minecraft:cobblestone_wall"
     }
   ]
 }

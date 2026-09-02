@@ -49,15 +49,15 @@
       },
       {
         "char": "w",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "K",
-        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=bottom]"
       },
       {
         "char": "蒙",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "v",
@@ -69,7 +69,7 @@
       },
       {
         "char": "唆",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "j",
@@ -77,15 +77,15 @@
       },
       {
         "char": "袅",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "庇",
-        "block": "minecraft:diorite_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:diorite_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "捱",
-        "block": "minecraft:birch_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "迫",
@@ -97,11 +97,11 @@
       },
       {
         "char": "贀",
-        "block": "minecraft:birch_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "酝",
-        "block": "minecraft:birch_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "倜",
@@ -109,7 +109,7 @@
       },
       {
         "char": "濠",
-        "block": "minecraft:oak_sign[rotation=2,waterlogged=false]",
+        "block": "minecraft:oak_sign",
         "tag": {
           "z": 441,
           "x": -103,
@@ -161,7 +161,7 @@
       },
       {
         "char": "擂",
-        "block": "minecraft:diorite_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:diorite_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "m",
@@ -169,11 +169,11 @@
       },
       {
         "char": "H",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "捕",
-        "block": "minecraft:glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=false,west=false]"
       },
       {
         "char": "n",
@@ -185,7 +185,7 @@
       },
       {
         "char": "辽",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=false]"
       },
       {
         "char": "于",
@@ -193,11 +193,11 @@
       },
       {
         "char": "岛",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "幡",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=true]"
       },
       {
         "char": "p",
@@ -205,23 +205,23 @@
       },
       {
         "char": "剖",
-        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,west=false]"
       },
       {
         "char": "涨",
-        "block": "minecraft:glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=true,west=false]"
       },
       {
         "char": "床",
-        "block": "minecraft:oak_leaves[distance=2,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "劲",
-        "block": "minecraft:oak_leaves[distance=3,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "巡",
-        "block": "minecraft:oak_leaves[distance=1,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "暸",
@@ -233,19 +233,19 @@
       },
       {
         "char": "亥",
-        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "y",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "N",
-        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=top]"
       },
       {
         "char": "桨",
-        "block": "minecraft:diorite_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:diorite_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "麒",
@@ -253,7 +253,7 @@
       },
       {
         "char": "袱",
-        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "竺",
@@ -261,11 +261,11 @@
       },
       {
         "char": "椎",
-        "block": "minecraft:quartz_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "叽",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 483,
           "x": -40,

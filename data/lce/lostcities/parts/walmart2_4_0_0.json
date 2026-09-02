@@ -95,11 +95,11 @@
       },
       {
         "char": "u",
-        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=bottom]"
       },
       {
         "char": "多",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "与",
@@ -119,7 +119,7 @@
       },
       {
         "char": "N",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[up=true]"
       },
       {
         "char": "龙",
@@ -131,27 +131,27 @@
       },
       {
         "char": "Ҫ",
-        "block": "minecraft:oak_leaves[distance=3,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "L",
-        "block": "minecraft:oak_leaves[distance=2,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "比",
-        "block": "minecraft:oak_leaves[distance=4,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "问",
-        "block": "minecraft:oak_leaves[distance=1,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "版",
-        "block": "minecraft:oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "林",
-        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "没",
@@ -159,11 +159,11 @@
       },
       {
         "char": "跟",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,up=true,west=low]"
       },
       {
         "char": "空",
-        "block": "minecraft:oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=east,half=top,open=true]"
       }
     ]
   },

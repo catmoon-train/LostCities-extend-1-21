@@ -103,7 +103,7 @@
       },
       {
         "char": "传",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[north=true,south=true]"
       },
       {
         "char": "活",
@@ -123,7 +123,7 @@
       },
       {
         "char": "联",
-        "block": "minecraft:dark_oak_fence_gate[facing=east,in_wall=false,open=false,powered=false]"
+        "block": "minecraft:dark_oak_fence_gate[facing=east,in_wall=false,open=false]"
       },
       {
         "char": "j",
@@ -131,7 +131,7 @@
       },
       {
         "char": "建",
-        "block": "minecraft:ladder[facing=west,waterlogged=false]"
+        "block": "minecraft:ladder[facing=west]"
       },
       {
         "char": "J",
@@ -139,15 +139,15 @@
       },
       {
         "char": "二",
-        "block": "minecraft:ladder[facing=east,waterlogged=false]"
+        "block": "minecraft:ladder[facing=east]"
       },
       {
         "char": "Ҭ",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "时",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 434,
           "x": 58,
@@ -187,7 +187,7 @@
       },
       {
         "char": "久",
-        "block": "minecraft:oak_sign[rotation=4,waterlogged=false]",
+        "block": "minecraft:oak_sign",
         "tag": {
           "z": 483,
           "x": 81,
@@ -223,15 +223,15 @@
       },
       {
         "char": "今",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=low,up=true]"
       },
       {
         "char": "年",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "变",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[up=true,west=low]"
       },
       {
         "char": "研",
@@ -243,11 +243,11 @@
       },
       {
         "char": "N",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[up=true]"
       },
       {
         "char": "听",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,west=low]"
       },
       {
         "char": "v",

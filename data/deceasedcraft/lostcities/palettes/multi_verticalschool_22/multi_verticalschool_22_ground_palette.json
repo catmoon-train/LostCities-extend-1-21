@@ -55,11 +55,11 @@
     },
     {
       "char": "n",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "o",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "p",
@@ -67,7 +67,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "r",
@@ -83,11 +83,11 @@
     },
     {
       "char": "u",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=south]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "w",
-      "block": "minecraft:jungle_fence[waterlogged=false]"
+      "block": "minecraft:jungle_fence"
     },
     {
       "char": "x",
@@ -95,7 +95,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:jungle_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:jungle_leaves"
     }
   ]
 }

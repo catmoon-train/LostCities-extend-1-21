@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:birch_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "f",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:birch_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "i",
@@ -78,7 +78,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:gray_bed[occupied=false,part=foot,facing=south]",
+      "block": "minecraft:gray_bed",
       "tag": {
         "id": "minecraft:bed"
       }
@@ -97,7 +97,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:birch_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "y",
@@ -110,7 +110,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:gray_bed[occupied=false,part=head,facing=south]",
+      "block": "minecraft:gray_bed",
       "tag": {
         "id": "minecraft:bed"
       }
@@ -126,11 +126,11 @@
     },
     {
       "char": "E",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "F",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "I",
@@ -138,11 +138,11 @@
     },
     {
       "char": "J",
-      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:birch_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "K",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "L",
@@ -160,7 +160,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:birch_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "P",
@@ -176,7 +176,7 @@
     },
     {
       "char": "S",
-      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:birch_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "T",
@@ -201,7 +201,7 @@
     },
     {
       "char": "Y",
-      "block": "minecraft:gray_bed[occupied=false,part=head,facing=north]",
+      "block": "minecraft:gray_bed",
       "tag": {
         "id": "minecraft:bed"
       }
@@ -230,21 +230,21 @@
     },
     {
       "char": "4",
-      "block": "minecraft:gray_bed[occupied=false,part=foot,facing=north]",
+      "block": "minecraft:gray_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "5",
-      "block": "minecraft:gray_bed[occupied=false,part=foot,facing=east]",
+      "block": "minecraft:gray_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "6",
-      "block": "minecraft:gray_bed[occupied=false,part=head,facing=east]",
+      "block": "minecraft:gray_bed",
       "tag": {
         "id": "minecraft:bed"
       }
@@ -264,12 +264,12 @@
     },
     {
       "char": "#",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_thering_6/floor2/lootr_chest"
     },
     {
       "char": "$",
-      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+      "block": "minecraft:birch_slab[type=top]"
     },
     {
       "char": "%",
@@ -293,19 +293,19 @@
     },
     {
       "char": ")",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "+",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "-",
-      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:birch_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "[",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "]",
@@ -313,7 +313,7 @@
     },
     {
       "char": "{",
-      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:birch_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "}",
@@ -325,7 +325,7 @@
     },
     {
       "char": ";",
-      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:birch_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": ":",
@@ -353,7 +353,7 @@
     },
     {
       "char": "?",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_thering_6/floor2/lootr_chest"
     },
     {
@@ -374,7 +374,7 @@
     },
     {
       "char": "Ͳ",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:birch_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "ͳ",
@@ -382,7 +382,7 @@
     },
     {
       "char": "ʹ",
-      "block": "minecraft:polished_andesite_slab[type=north,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "͵",
@@ -398,11 +398,11 @@
     },
     {
       "char": "ͺ",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=top,open=true,facing=west]"
     },
     {
       "char": "ͻ",
-      "block": "minecraft:polished_andesite_slab[type=east,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "ͼ",
@@ -450,11 +450,11 @@
     },
     {
       "char": "Ί",
-      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=north]"
+      "block": "minecraft:birch_trapdoor[half=top,open=true,facing=north]"
     },
     {
       "char": "Ό",
-      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=west]"
+      "block": "minecraft:birch_trapdoor[half=top,open=true,facing=west]"
     },
     {
       "char": "Ύ",
@@ -462,11 +462,11 @@
     },
     {
       "char": "Ώ",
-      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=east]"
+      "block": "minecraft:birch_trapdoor[half=top,open=true,facing=east]"
     },
     {
       "char": "ΐ",
-      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=south]"
+      "block": "minecraft:birch_trapdoor[half=top,open=true,facing=south]"
     },
     {
       "char": "Α",
@@ -474,7 +474,7 @@
     },
     {
       "char": "Β",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "Γ",
@@ -482,11 +482,11 @@
     },
     {
       "char": "Δ",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "Ε",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     }
   ]
 }

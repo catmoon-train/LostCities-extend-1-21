@@ -52,7 +52,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "d",
@@ -60,15 +60,15 @@
     },
     {
       "char": "e",
-      "block": "minecraft:chain[waterlogged=false,axis=y]"
+      "block": "minecraft:chain[axis=y]"
     },
     {
       "char": "f",
-      "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab[type=top]"
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     }
   ]
 }

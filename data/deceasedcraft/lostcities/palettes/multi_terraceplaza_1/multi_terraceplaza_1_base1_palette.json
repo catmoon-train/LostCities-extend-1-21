@@ -19,11 +19,11 @@
     },
     {
       "char": "e",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "f",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "g",
@@ -44,7 +44,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_1/base2/oak_crate"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "p",
@@ -70,7 +70,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=south]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=false,facing=south]"
     },
     {
       "char": "r",
@@ -102,7 +102,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "B",
@@ -143,7 +143,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "L",
@@ -167,11 +167,11 @@
     },
     {
       "char": "Q",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "R",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "S",

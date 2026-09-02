@@ -29,15 +29,15 @@
       },
       {
         "char": "k",
-        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[south=true]"
       },
       {
         "char": "j",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true]"
       },
       {
         "char": "G",
-        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence"
       },
       {
         "char": "W",
@@ -61,43 +61,43 @@
       },
       {
         "char": "Q",
-        "block": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true,south=true]"
       },
       {
         "char": "m",
-        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[west=true]"
       },
       {
         "char": "n",
-        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true]"
       },
       {
         "char": "J",
-        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[south=true,west=true]"
       },
       {
         "char": "b",
-        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true,south=true]"
       },
       {
         "char": "R",
-        "block": "minecraft:oak_fence[east=true,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true,north=true,south=true]"
       },
       {
         "char": "c",
-        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[east=true,west=true]"
       },
       {
         "char": "P",
-        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[north=true,south=true,west=true]"
       },
       {
         "char": "K",
-        "block": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true,north=true]"
       },
       {
         "char": "L",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[north=true,west=true]"
       },
       {
         "char": "r",
@@ -105,15 +105,15 @@
       },
       {
         "char": "M",
-        "block": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[east=true,south=true,west=true]"
       },
       {
         "char": "N",
-        "block": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[east=true,north=true,west=true]"
       },
       {
         "char": "Ͱ",
-        "block": "minecraft:mossy_stone_brick_slab[type=double,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_slab[type=double]"
       },
       {
         "char": "a",
@@ -141,7 +141,7 @@
       },
       {
         "char": "d",
-        "block": "minecraft:stone_brick_slab[type=double,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=double]"
       },
       {
         "char": "6",
@@ -177,7 +177,7 @@
       },
       {
         "char": "x",
-        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=top]"
       },
       {
         "char": "s",
@@ -189,15 +189,15 @@
       },
       {
         "char": "ͱ",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[up=true]"
       },
       {
         "char": "ͼ",
-        "block": "minecraft:stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[east=low,up=true]"
       },
       {
         "char": "Ί",
-        "block": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_stone_brick_wall[up=true,west=low]"
       },
       {
         "char": "Ά",
@@ -322,7 +322,7 @@
       },
       {
         "char": "ͺ",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "x": -392,
@@ -338,11 +338,11 @@
       },
       {
         "char": "ͳ",
-        "block": "minecraft:stone_brick_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[east=low,south=low,up=true]"
       },
       {
         "char": "Ό",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:stone_brick_wall[south=low,up=true,west=low]"
       },
       {
         "char": "D",
@@ -390,7 +390,7 @@
       },
       {
         "char": "Ύ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "back_text": {
             "color": "black",
@@ -429,7 +429,7 @@
       },
       {
         "char": "΄",
-        "block": "minecraft:daylight_detector[inverted=false,power=14]",
+        "block": "minecraft:daylight_detector[inverted=false]",
         "tag": {
           "x": -393,
           "y": -15,

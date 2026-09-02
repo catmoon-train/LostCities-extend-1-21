@@ -61,7 +61,7 @@
       },
       {
         "char": "H",
-        "block": "minecraft:stone_brick_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[north=low,south=low]"
       },
       {
         "char": "c",
@@ -69,7 +69,7 @@
       },
       {
         "char": "K",
-        "block": "minecraft:rail[shape=east_west,waterlogged=false]"
+        "block": "minecraft:rail[shape=east_west]"
       },
       {
         "char": "q",
@@ -81,15 +81,15 @@
       },
       {
         "char": "ϒ",
-        "block": "minecraft:stone_brick_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[east=low,north=low,up=true]"
       },
       {
         "char": "9",
-        "block": "minecraft:stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:stone_brick_wall[east=low,west=low]"
       },
       {
         "char": "Ϣ",
-        "block": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_stone_brick_wall[east=low,west=low]"
       },
       {
         "char": "L",
@@ -113,7 +113,7 @@
       },
       {
         "char": "F",
-        "block": "minecraft:birch_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:birch_leaves"
       },
       {
         "char": "b",
@@ -129,7 +129,7 @@
       },
       {
         "char": "Њ",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=15,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "N",
@@ -141,27 +141,27 @@
       },
       {
         "char": "B",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "r",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "Ϟ",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=14,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "ϣ",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=13,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "ϲ",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=12,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "ϋ",
-        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "E",
@@ -173,7 +173,7 @@
       },
       {
         "char": "Ϧ",
-        "block": "minecraft:birch_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 582,
           "x": 93,
@@ -213,7 +213,7 @@
       },
       {
         "char": "Џ",
-        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,west=false]"
       },
       {
         "char": "Ϙ",
@@ -229,19 +229,19 @@
       },
       {
         "char": "δ",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=false]"
       },
       {
         "char": "Ϝ",
-        "block": "minecraft:glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=true,west=true]"
       },
       {
         "char": "I",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "Ό",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 573,
           "x": 107,
@@ -277,7 +277,7 @@
       },
       {
         "char": "σ",
-        "block": "minecraft:birch_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "n",
@@ -285,11 +285,11 @@
       },
       {
         "char": "z",
-        "block": "minecraft:sandstone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:sandstone_slab[type=double]"
       },
       {
         "char": "D",
-        "block": "minecraft:sandstone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:sandstone_slab[type=bottom]"
       }
     ]
   },

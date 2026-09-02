@@ -23,11 +23,11 @@
     },
     {
       "char": "f",
-      "block": "minecraft:dark_oak_slab[type=south,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "g",
-      "block": "minecraft:dark_oak_slab[type=east,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "h",
@@ -48,15 +48,15 @@
     },
     {
       "char": "j",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "k",
-      "block": "minecraft:dark_oak_slab[type=north,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "l",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "m",
@@ -92,7 +92,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_thering_0/base2/dead_body"
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "C",

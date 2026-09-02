@@ -45,7 +45,7 @@
       },
       {
         "char": "Ӣ",
-        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+        "block": "minecraft:spruce_slab[type=top]"
       },
       {
         "char": "问",
@@ -244,7 +244,7 @@
       },
       {
         "char": "原",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 324,
@@ -264,7 +264,7 @@
       },
       {
         "char": "G",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "l",
@@ -276,11 +276,11 @@
       },
       {
         "char": "P",
-        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=bottom]"
       },
       {
         "char": "ͱ",
-        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=bottom]"
       },
       {
         "char": "A",
@@ -288,7 +288,7 @@
       },
       {
         "char": "D",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "0",
@@ -296,7 +296,7 @@
       },
       {
         "char": "3",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[up=true]"
       },
       {
         "char": "4",
@@ -304,11 +304,11 @@
       },
       {
         "char": "大",
-        "block": "minecraft:rail[shape=north_east,waterlogged=false]"
+        "block": "minecraft:rail[shape=north_east]"
       },
       {
         "char": "没",
-        "block": "minecraft:rail[shape=south_east,waterlogged=false]"
+        "block": "minecraft:rail[shape=south_east]"
       }
     ]
   },

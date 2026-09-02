@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "b",
@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "d",
@@ -23,27 +23,27 @@
     },
     {
       "char": "f",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "g",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "h",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:birch_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "i",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:birch_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "j",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "k",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "l",
@@ -60,7 +60,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "p",
@@ -81,7 +81,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "u",
@@ -101,7 +101,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "B",
@@ -109,7 +109,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:birch_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "D",
@@ -126,7 +126,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "J",
@@ -134,7 +134,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_officebank/floor1/stripped_spruce_desk_cabinet"
     },
     {
@@ -155,7 +155,7 @@
     },
     {
       "char": "P",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "Q",
@@ -179,19 +179,19 @@
     },
     {
       "char": "V",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:birch_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "W",
-      "block": "minecraft:birch_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:birch_slab[type=bottom]"
     },
     {
       "char": "X",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "Y",
-      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+      "block": "minecraft:birch_slab[type=top]"
     }
   ]
 }

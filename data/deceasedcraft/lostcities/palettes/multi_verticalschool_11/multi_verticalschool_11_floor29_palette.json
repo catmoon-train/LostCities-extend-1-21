@@ -48,12 +48,12 @@
     },
     {
       "char": "l",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_11/floor28/lootr_chest"
     },
     {
       "char": "m",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "n",
@@ -61,7 +61,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "p",
@@ -98,11 +98,11 @@
     },
     {
       "char": "y",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "A",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "B",
@@ -153,7 +153,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "P",
@@ -161,7 +161,7 @@
     },
     {
       "char": "Q",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "R",
@@ -197,7 +197,7 @@
     },
     {
       "char": "Z",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "0",
@@ -276,11 +276,11 @@
     },
     {
       "char": ")",
-      "block": "minecraft:note_block[powered=false,instrument=harp,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "+",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "-",

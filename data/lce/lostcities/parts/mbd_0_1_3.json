@@ -61,7 +61,7 @@
       },
       {
         "char": "N",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "i",
@@ -73,7 +73,7 @@
       },
       {
         "char": "E",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "Q",
@@ -85,7 +85,7 @@
       },
       {
         "char": "Ҁ",
-        "block": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[east=true]"
       },
       {
         "char": "G",
@@ -97,15 +97,15 @@
       },
       {
         "char": "Ѯ",
-        "block": "minecraft:rail[shape=north_east,waterlogged=false]"
+        "block": "minecraft:rail[shape=north_east]"
       },
       {
         "char": "Ѱ",
-        "block": "minecraft:rail[shape=south_east,waterlogged=false]"
+        "block": "minecraft:rail[shape=south_east]"
       },
       {
         "char": "h",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "щ",
@@ -117,15 +117,15 @@
       },
       {
         "char": "区",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[south=true,west=true]"
       },
       {
         "char": "全",
-        "block": "minecraft:spruce_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[north=true,south=true]"
       },
       {
         "char": "Ӄ",
-        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[north=true]"
       }
     ]
   },

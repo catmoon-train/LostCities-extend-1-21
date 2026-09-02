@@ -27,11 +27,11 @@
     },
     {
       "char": "g",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "h",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "i",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "m",
@@ -59,15 +59,15 @@
     },
     {
       "char": "o",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "p",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "q",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "r",
@@ -75,7 +75,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "t",
@@ -87,7 +87,7 @@
     },
     {
       "char": "w",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "x",
@@ -111,7 +111,7 @@
     },
     {
       "char": "D",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "E",
@@ -147,7 +147,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_casino_6/base9/safe"
     },
     {
@@ -161,11 +161,11 @@
     },
     {
       "char": "R",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "S",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "T",
@@ -173,7 +173,7 @@
     },
     {
       "char": "U",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "V",
@@ -181,7 +181,7 @@
     },
     {
       "char": "W",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "X",
@@ -194,12 +194,12 @@
     },
     {
       "char": "Z",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_casino_6/base9/safe"
     },
     {
       "char": "0",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_casino_6/base9/safe"
     },
     {
@@ -213,11 +213,11 @@
     },
     {
       "char": "3",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=top,open=true,facing=west]"
     },
     {
       "char": "4",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=top,open=true,facing=north]"
     },
     {
       "char": "5",
@@ -225,11 +225,11 @@
     },
     {
       "char": "6",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=top,open=true,facing=east]"
     },
     {
       "char": "7",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=south]"
+      "block": "minecraft:iron_trapdoor[half=top,open=true,facing=south]"
     },
     {
       "char": "8",
@@ -241,7 +241,7 @@
     },
     {
       "char": "#",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "$",

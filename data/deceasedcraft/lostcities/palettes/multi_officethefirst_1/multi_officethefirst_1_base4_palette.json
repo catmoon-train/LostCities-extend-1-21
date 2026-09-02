@@ -32,7 +32,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "i",
@@ -67,7 +67,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "q",
@@ -75,7 +75,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "s",
@@ -131,7 +131,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:water[level=0]"
+      "block": "minecraft:water"
     },
     {
       "char": "J",
@@ -159,7 +159,7 @@
     },
     {
       "char": "P",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_officethefirst_1/base4/corpsesack"
     },
     {
@@ -177,7 +177,7 @@
     },
     {
       "char": "T",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:oak_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "U",
@@ -224,11 +224,11 @@
     },
     {
       "char": "3",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=east]"
     },
     {
       "char": "4",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "5",

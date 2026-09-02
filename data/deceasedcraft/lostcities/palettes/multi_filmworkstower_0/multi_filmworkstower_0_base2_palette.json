@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom]"
     },
     {
       "char": "i",
@@ -43,7 +43,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "l",
@@ -82,7 +82,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_filmworkstower_0/base2/lootr_chest"
     },
     {
@@ -184,7 +184,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:tripwire[powered=false,attached=false,disarmed=false]"
+      "block": "minecraft:tripwire[attached=false]"
     },
     {
       "char": "M",
@@ -200,7 +200,7 @@
     },
     {
       "char": "P",
-      "block": "minecraft:dispenser[facing=down,triggered=false]"
+      "block": "minecraft:dispenser[facing=down]"
     },
     {
       "char": "Q",

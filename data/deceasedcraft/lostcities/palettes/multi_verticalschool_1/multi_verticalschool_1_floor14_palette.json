@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "b",
@@ -15,15 +15,15 @@
     },
     {
       "char": "d",
-      "block": "minecraft:polished_andesite_slab[type=south,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "e",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "f",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_1/floor13/oak_crate"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:polished_andesite_slab[type=north,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "j",
@@ -45,7 +45,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_1/floor13/oak_crate"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+      "block": "minecraft:jungle_slab[type=top]"
     },
     {
       "char": "n",

@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "e",
@@ -27,11 +27,11 @@
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "h",
-      "block": "minecraft:spruce_stairs[waterlogged=false,facing=east]"
+      "block": "minecraft:spruce_stairs[facing=east]"
     },
     {
       "char": "i",
@@ -55,7 +55,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "n",
@@ -63,7 +63,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:water[level=0]"
+      "block": "minecraft:water"
     },
     {
       "char": "p",
@@ -83,7 +83,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_taigaresidence_2/ground/lootr_chest"
     },
     {
@@ -112,11 +112,11 @@
     },
     {
       "char": "C",
-      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:spruce_leaves"
     },
     {
       "char": "D",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_taigaresidence_2/ground/lootr_chest"
     },
     {

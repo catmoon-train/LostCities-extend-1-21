@@ -73,7 +73,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "o",
@@ -81,11 +81,11 @@
     },
     {
       "char": "p",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=south]"
     },
     {
       "char": "q",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=north]"
     }
   ]
 }

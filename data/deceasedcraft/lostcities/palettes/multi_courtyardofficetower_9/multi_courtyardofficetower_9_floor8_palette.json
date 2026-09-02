@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:gray_stained_glass_pane"
     },
     {
       "char": "g",
@@ -43,15 +43,15 @@
     },
     {
       "char": "k",
-      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=north]"
+      "block": "minecraft:spruce_trapdoor[half=top,open=true,facing=north]"
     },
     {
       "char": "l",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "m",
-      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=west]"
+      "block": "minecraft:spruce_trapdoor[half=top,open=true,facing=west]"
     },
     {
       "char": "n",
@@ -59,11 +59,11 @@
     },
     {
       "char": "o",
-      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=east]"
+      "block": "minecraft:spruce_trapdoor[half=top,open=true,facing=east]"
     },
     {
       "char": "p",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "q",
@@ -71,7 +71,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=south]"
+      "block": "minecraft:spruce_trapdoor[half=top,open=true,facing=south]"
     },
     {
       "char": "s",
@@ -127,7 +127,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "K",
@@ -151,7 +151,7 @@
     },
     {
       "char": "P",
-      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:spruce_leaves"
     },
     {
       "char": "Q",
@@ -181,7 +181,7 @@
     },
     {
       "char": "T",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_courtyardofficetower_9/floor8/spruce_kitchen_storage_cabinet"
     },
     {
@@ -208,15 +208,15 @@
     },
     {
       "char": "V",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "W",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "X",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     }
   ]
 }

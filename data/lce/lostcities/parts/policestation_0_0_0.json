@@ -49,7 +49,7 @@
       },
       {
         "char": "C",
-        "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:oak_slab[type=bottom]"
       },
       {
         "char": "Ή",
@@ -101,11 +101,11 @@
       },
       {
         "char": "Δ",
-        "block": "minecraft:oak_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=south,half=bottom,open=false]"
       },
       {
         "char": "A",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "͵",
@@ -121,7 +121,7 @@
       },
       {
         "char": "Х",
-        "block": "minecraft:chest[facing=west,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 327,
@@ -155,7 +155,7 @@
       },
       {
         "char": "Д",
-        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 327,
@@ -168,7 +168,7 @@
       },
       {
         "char": "И",
-        "block": "minecraft:chest[facing=north,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 328,
@@ -193,7 +193,7 @@
       },
       {
         "char": "а",
-        "block": "minecraft:red_bed[facing=east,occupied=false,part=foot]",
+        "block": "minecraft:red_bed",
         "tag": {
           "z": 328,
           "x": 58,
@@ -204,7 +204,7 @@
       },
       {
         "char": "Ю",
-        "block": "minecraft:red_bed[facing=east,occupied=false,part=head]",
+        "block": "minecraft:red_bed",
         "tag": {
           "z": 328,
           "x": 59,
@@ -219,7 +219,7 @@
       },
       {
         "char": "и",
-        "block": "minecraft:skeleton_skull[rotation=10]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 329,
           "x": 59,
@@ -234,7 +234,7 @@
       },
       {
         "char": "φ",
-        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 327,
@@ -259,11 +259,11 @@
       },
       {
         "char": "ϴ",
-        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "М",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 334,
           "x": 62,
@@ -307,7 +307,7 @@
       },
       {
         "char": "δ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 335,
           "x": 64,

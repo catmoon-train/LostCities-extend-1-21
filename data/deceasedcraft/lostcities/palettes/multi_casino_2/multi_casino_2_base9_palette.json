@@ -23,14 +23,14 @@
     },
     {
       "char": "f",
-      "block": "minecraft:brown_bed[occupied=false,part=head,facing=north]",
+      "block": "minecraft:brown_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "g",
-      "block": "minecraft:ender_chest[waterlogged=false,facing=south]"
+      "block": "minecraft:ender_chest"
     },
     {
       "char": "h",
@@ -39,7 +39,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:brown_bed[occupied=false,part=foot,facing=north]",
+      "block": "minecraft:brown_bed",
       "tag": {
         "id": "minecraft:bed"
       }
@@ -50,11 +50,11 @@
     },
     {
       "char": "k",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "l",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "m",
@@ -76,16 +76,16 @@
     },
     {
       "char": "q",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_casino_2/base9/lootr_chest"
     },
     {
       "char": "r",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "s",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "t",
@@ -94,15 +94,15 @@
     },
     {
       "char": "u",
-      "block": "minecraft:bell[powered=false,facing=south,attachment=single_wall]"
+      "block": "minecraft:bell[facing=south,attachment=single_wall]"
     },
     {
       "char": "w",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "x",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "y",
@@ -117,7 +117,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     }
   ]
 }

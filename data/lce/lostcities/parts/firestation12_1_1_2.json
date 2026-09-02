@@ -49,11 +49,11 @@
       },
       {
         "char": "Ѹ",
-        "block": "minecraft:spruce_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=west,half=top,shape=inner_left]"
       },
       {
         "char": "ќ",
-        "block": "minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "Ѯ",
@@ -78,7 +78,7 @@
       },
       {
         "char": "Ͼ",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "firestation",
         "tag": {
           "z": 572,
@@ -94,7 +94,7 @@
       },
       {
         "char": "п",
-        "block": "minecraft:zombie_head[rotation=2]",
+        "block": "minecraft:zombie_head",
         "tag": {
           "z": 576,
           "x": 273,
@@ -105,7 +105,7 @@
       },
       {
         "char": "О",
-        "block": "minecraft:zombie_head[rotation=15]",
+        "block": "minecraft:zombie_head",
         "tag": {
           "z": 576,
           "x": 274,
@@ -120,7 +120,7 @@
       },
       {
         "char": "y",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "v",
@@ -136,11 +136,11 @@
       },
       {
         "char": "2",
-        "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:polished_andesite_slab[type=bottom]"
       },
       {
         "char": "R",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       }
     ]
   },

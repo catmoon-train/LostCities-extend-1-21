@@ -13,7 +13,7 @@
       },
       {
         "char": "A",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "i",
@@ -29,11 +29,11 @@
       },
       {
         "char": "q",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "ͳ",
-        "block": "minecraft:daylight_detector[inverted=false,power=0]",
+        "block": "minecraft:daylight_detector[inverted=false]",
         "tag": {
           "z": 337,
           "x": 75,
@@ -44,7 +44,7 @@
       },
       {
         "char": "Μ",
-        "block": "minecraft:daylight_detector[inverted=true,power=11]",
+        "block": "minecraft:daylight_detector[inverted=true]",
         "tag": {
           "z": 327,
           "x": 75,

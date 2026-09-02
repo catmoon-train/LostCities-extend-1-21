@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "b",
@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=top]"
     },
     {
       "char": "e",
@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+      "block": "minecraft:jungle_slab[type=top]"
     },
     {
       "char": "g",
@@ -56,11 +56,11 @@
     },
     {
       "char": "n",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "o",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "p",
@@ -88,7 +88,7 @@
     },
     {
       "char": "w",
-      "block": "minecraft:lectern[powered=false,has_book=false,facing=south]"
+      "block": "minecraft:lectern[facing=south]"
     },
     {
       "char": "x",
@@ -115,12 +115,12 @@
     },
     {
       "char": "D",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_8/floor17/lootr_chest"
     },
     {
       "char": "E",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "F",
@@ -128,11 +128,11 @@
     },
     {
       "char": "I",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "J",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_8/floor17/lootr_chest"
     },
     {

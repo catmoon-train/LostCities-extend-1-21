@@ -48,15 +48,15 @@
     },
     {
       "char": "b",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "c",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "d",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "e",
@@ -84,7 +84,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "l",
@@ -96,7 +96,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:stone_brick_wall[waterlogged=false,up=true]"
+      "block": "minecraft:stone_brick_wall[up=true]"
     },
     {
       "char": "o",
@@ -108,7 +108,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "r",
@@ -125,7 +125,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     }
   ]
 }

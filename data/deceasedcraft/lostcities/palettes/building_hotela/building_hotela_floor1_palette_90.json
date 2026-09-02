@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "c",
@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "e",
@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "h",
@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "k",
@@ -47,11 +47,11 @@
     },
     {
       "char": "l",
-      "block": "minecraft:black_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:black_stained_glass_pane"
     },
     {
       "char": "m",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "n",
@@ -63,7 +63,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "q",
@@ -97,7 +97,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:brown_candle[waterlogged=false,candles=3,lit=false]"
+      "block": "minecraft:brown_candle[candles=3,lit=false]"
     },
     {
       "char": "A",
@@ -105,15 +105,15 @@
     },
     {
       "char": "B",
-      "block": "minecraft:white_candle[waterlogged=false,candles=2,lit=false]"
+      "block": "minecraft:white_candle[candles=2,lit=false]"
     },
     {
       "char": "C",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "D",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "E",
@@ -125,7 +125,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "J",
@@ -141,15 +141,15 @@
     },
     {
       "char": "L",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "M",
-      "block": "minecraft:bell[powered=false,facing=south,attachment=floor]"
+      "block": "minecraft:bell[facing=south,attachment=floor]"
     },
     {
       "char": "N",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_hotela/floor1/spruce_storage_cabinet"
     },
     {
@@ -166,7 +166,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=bottom,facing=south,shape=straight]"
     }
   ]
 }

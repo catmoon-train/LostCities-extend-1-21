@@ -21,11 +21,11 @@
       },
       {
         "char": "r",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[south=true,west=true]"
       },
       {
         "char": "s",
-        "block": "minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[east=true,north=true]"
       },
       {
         "char": "e",
@@ -37,7 +37,7 @@
       },
       {
         "char": "h",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "d",
@@ -49,11 +49,11 @@
       },
       {
         "char": "ѕ",
-        "block": "minecraft:oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "Ҏ",
-        "block": "minecraft:campfire[facing=north,lit=false,signal_fire=false,waterlogged=false]",
+        "block": "minecraft:campfire[facing=north,lit=false]",
         "tag": {
           "CookingTotalTimes": [
             "I",
@@ -79,15 +79,15 @@
       },
       {
         "char": "B",
-        "block": "minecraft:glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=true,south=true,west=false]"
       },
       {
         "char": "ω",
-        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "э",
-        "block": "minecraft:player_head[rotation=6]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 589,
           "x": 139,
@@ -102,11 +102,11 @@
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "Ё",
-        "block": "minecraft:player_head[rotation=4]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 590,
           "x": 141,
@@ -121,7 +121,7 @@
       },
       {
         "char": "Ѩ",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 591,
@@ -141,7 +141,7 @@
       },
       {
         "char": "Ϝ",
-        "block": "minecraft:white_wall_banner[facing=south]",
+        "block": "minecraft:white_wall_banner",
         "tag": {
           "z": 587,
           "Patterns": [],
@@ -153,7 +153,7 @@
       },
       {
         "char": "Ж",
-        "block": "minecraft:white_wall_banner[facing=east]",
+        "block": "minecraft:white_wall_banner",
         "tag": {
           "z": 592,
           "Patterns": [],
@@ -165,15 +165,15 @@
       },
       {
         "char": "Ά",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "Σ",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "D",
-        "block": "minecraft:glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=true,west=true]"
       },
       {
         "char": "b",
@@ -189,15 +189,15 @@
       },
       {
         "char": "ѫ",
-        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true]"
       },
       {
         "char": "Щ",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[north=true,west=true]"
       },
       {
         "char": "Ν",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 592,
           "x": 145,

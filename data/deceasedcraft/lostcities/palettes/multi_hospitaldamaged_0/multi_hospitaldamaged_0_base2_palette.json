@@ -48,7 +48,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_hospitaldamaged_0/base2/white_kitchen_drawer"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "n",
@@ -89,11 +89,11 @@
     },
     {
       "char": "s",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "t",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "u",
@@ -125,11 +125,11 @@
     },
     {
       "char": "B",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "C",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_hospitaldamaged_0/base2/white_kitchen_drawer"
     },
     {
@@ -186,11 +186,11 @@
     },
     {
       "char": "R",
-      "block": "minecraft:detector_rail[waterlogged=false,powered=false,shape=east_west]"
+      "block": "minecraft:detector_rail[powered=false,shape=east_west]"
     },
     {
       "char": "S",
-      "block": "minecraft:rail[waterlogged=false,shape=east_west]"
+      "block": "minecraft:rail[shape=east_west]"
     },
     {
       "char": "T",

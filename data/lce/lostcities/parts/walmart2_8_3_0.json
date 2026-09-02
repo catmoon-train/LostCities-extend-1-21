@@ -53,7 +53,7 @@
       },
       {
         "char": "设",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true]"
       },
       {
         "char": "G",
@@ -65,15 +65,15 @@
       },
       {
         "char": "光",
-        "block": "minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "站",
-        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+        "block": "minecraft:spruce_slab[type=top]"
       },
       {
         "char": "买",
-        "block": "minecraft:spruce_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "A",
@@ -93,7 +93,7 @@
       },
       {
         "char": "後",
-        "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:iron_bars[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "i",
@@ -109,7 +109,7 @@
       },
       {
         "char": "神",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "案",
@@ -125,7 +125,7 @@
       },
       {
         "char": "合",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "里",
@@ -133,7 +133,7 @@
       },
       {
         "char": "怎",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "压",
@@ -145,7 +145,7 @@
       },
       {
         "char": "N",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[up=true]"
       },
       {
         "char": "子",
@@ -169,11 +169,11 @@
       },
       {
         "char": "万",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "球",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 424,
           "x": 152,
@@ -217,11 +217,11 @@
       },
       {
         "char": "叫",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[south=true]"
       },
       {
         "char": "时",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 434,
           "x": 58,
@@ -261,11 +261,11 @@
       },
       {
         "char": "O",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence"
       },
       {
         "char": "留",
-        "block": "minecraft:iron_bars[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:iron_bars[east=true,north=false,south=true,west=true]"
       },
       {
         "char": "o",

@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:polished_deepslate_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab[type=bottom]"
     },
     {
       "char": "k",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:mangrove_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+      "block": "minecraft:mangrove_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "m",
@@ -55,11 +55,11 @@
     },
     {
       "char": "n",
-      "block": "minecraft:chain[waterlogged=false,axis=z]"
+      "block": "minecraft:chain[axis=z]"
     },
     {
       "char": "o",
-      "block": "minecraft:mangrove_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:mangrove_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "p",
@@ -67,7 +67,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:mangrove_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:mangrove_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "r",
@@ -75,7 +75,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:mangrove_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:mangrove_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "t",
@@ -98,15 +98,15 @@
     },
     {
       "char": "y",
-      "block": "minecraft:mangrove_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:mangrove_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "A",
-      "block": "minecraft:mangrove_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:mangrove_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "B",
-      "block": "minecraft:mangrove_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:mangrove_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "C",
@@ -114,7 +114,7 @@
     },
     {
       "char": "D",
-      "block": "minecraft:mangrove_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:mangrove_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "E",
@@ -130,7 +130,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "K",
@@ -150,7 +150,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "P",
@@ -170,7 +170,7 @@
     },
     {
       "char": "T",
-      "block": "minecraft:mangrove_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:mangrove_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "U",
@@ -182,15 +182,15 @@
     },
     {
       "char": "W",
-      "block": "minecraft:mangrove_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=east]"
+      "block": "minecraft:mangrove_trapdoor[half=bottom,open=false,facing=east]"
     },
     {
       "char": "X",
-      "block": "minecraft:mangrove_slab[type=top,waterlogged=false]"
+      "block": "minecraft:mangrove_slab[type=top]"
     },
     {
       "char": "Y",
-      "block": "minecraft:mangrove_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:mangrove_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "Z",
@@ -198,7 +198,7 @@
     },
     {
       "char": "0",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "1",
@@ -210,15 +210,15 @@
     },
     {
       "char": "3",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=east]"
     },
     {
       "char": "4",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "5",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     }
   ]
 }

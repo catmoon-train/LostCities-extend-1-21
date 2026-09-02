@@ -59,7 +59,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "p",
@@ -91,7 +91,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "y",
@@ -119,11 +119,11 @@
     },
     {
       "char": "F",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "I",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "J",
@@ -151,15 +151,15 @@
     },
     {
       "char": "P",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "Q",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "R",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "S",
@@ -167,23 +167,23 @@
     },
     {
       "char": "T",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "U",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "V",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "W",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "X",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     }
   ]
 }

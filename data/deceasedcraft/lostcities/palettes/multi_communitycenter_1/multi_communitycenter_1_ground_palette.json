@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:birch_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "d",
@@ -55,7 +55,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=bottom]"
     },
     {
       "char": "o",
@@ -91,7 +91,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "y",
@@ -107,11 +107,11 @@
     },
     {
       "char": "C",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "D",
-      "block": "minecraft:lantern[waterlogged=false,hanging=true]"
+      "block": "minecraft:lantern[hanging=true]"
     },
     {
       "char": "E",
@@ -119,7 +119,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:soul_lantern[waterlogged=false,hanging=false]"
+      "block": "minecraft:soul_lantern[hanging=false]"
     },
     {
       "char": "I",
@@ -131,7 +131,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:brewing_stand[has_bottle_2=false,has_bottle_0=false,has_bottle_1=false]"
+      "block": "minecraft:brewing_stand"
     },
     {
       "char": "L",
@@ -147,11 +147,11 @@
     },
     {
       "char": "O",
-      "block": "minecraft:chain[waterlogged=false,axis=y]"
+      "block": "minecraft:chain[axis=y]"
     },
     {
       "char": "P",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "Q",
@@ -159,7 +159,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "S",
@@ -167,11 +167,11 @@
     },
     {
       "char": "T",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "U",
-      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+      "block": "minecraft:birch_slab[type=top]"
     }
   ]
 }

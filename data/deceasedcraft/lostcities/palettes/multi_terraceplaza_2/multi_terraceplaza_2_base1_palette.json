@@ -7,11 +7,11 @@
     },
     {
       "char": "b",
-      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=bottom]"
     },
     {
       "char": "c",
-      "block": "minecraft:ender_chest[waterlogged=false,facing=west]"
+      "block": "minecraft:ender_chest"
     },
     {
       "char": "d",
@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_1/base2/oak_crate"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_1/base2/oak_crate"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_1/base2/oak_crate"
     },
     {
@@ -59,11 +59,11 @@
     },
     {
       "char": "n",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "o",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "p",
@@ -80,7 +80,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=false,facing=north]"
     },
     {
       "char": "t",
@@ -128,7 +128,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=top]"
     },
     {
       "char": "J",
@@ -148,7 +148,7 @@
     },
     {
       "char": "N",
-      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top]"
     },
     {
       "char": "O",

@@ -9,7 +9,7 @@
       },
       {
         "char": "m",
-        "block": "minecraft:iron_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=west,half=bottom,open=false]"
       },
       {
         "char": "c",
@@ -25,11 +25,11 @@
       },
       {
         "char": "她",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[south=low,up=true]"
       },
       {
         "char": "就",
-        "block": "minecraft:stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[north=low,up=true]"
       }
     ]
   },

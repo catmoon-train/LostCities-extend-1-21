@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_flowershop/ground/lootr_chest"
     },
     {
@@ -78,11 +78,11 @@
     },
     {
       "char": "s",
-      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:jungle_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "t",
-      "block": "minecraft:jungle_door[half=lower,powered=false,open=true,hinge=left,facing=west]"
+      "block": "minecraft:jungle_door[half=lower,open=true,hinge=left,facing=west]"
     },
     {
       "char": "u",
@@ -148,11 +148,11 @@
     },
     {
       "char": "M",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=true,hinge=right,facing=east]"
+      "block": "minecraft:oak_door[half=lower,open=true,hinge=right,facing=east]"
     },
     {
       "char": "N",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "O",
@@ -194,7 +194,7 @@
     },
     {
       "char": "W",
-      "block": "minecraft:jungle_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:jungle_leaves"
     },
     {
       "char": "X",
@@ -202,11 +202,11 @@
     },
     {
       "char": "Y",
-      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:jungle_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "Z",
-      "block": "minecraft:jungle_door[half=upper,powered=false,open=true,hinge=left,facing=west]"
+      "block": "minecraft:jungle_door[half=upper,open=true,hinge=left,facing=west]"
     },
     {
       "char": "0",
@@ -226,7 +226,7 @@
     },
     {
       "char": "4",
-      "block": "minecraft:decorated_pot[waterlogged=false,cracked=false,facing=north]",
+      "block": "minecraft:decorated_pot",
       "tag": {
         "id": "minecraft:decorated_pot"
       }
@@ -245,7 +245,7 @@
     },
     {
       "char": "8",
-      "block": "minecraft:flowering_azalea_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:flowering_azalea_leaves"
     },
     {
       "char": "9",
@@ -265,19 +265,19 @@
     },
     {
       "char": "^",
-      "block": "minecraft:jungle_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+      "block": "minecraft:jungle_trapdoor[half=bottom,open=false,facing=north]"
     },
     {
       "char": "&",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=true,hinge=right,facing=east]"
+      "block": "minecraft:oak_door[half=upper,open=true,hinge=right,facing=east]"
     },
     {
       "char": "*",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "(",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_flowershop/ground/lootr_chest"
     },
     {
@@ -342,7 +342,7 @@
     },
     {
       "char": "?",
-      "block": "minecraft:daylight_detector[power=2,inverted=true]"
+      "block": "minecraft:daylight_detector[inverted=true]"
     },
     {
       "char": "/",
@@ -358,27 +358,27 @@
     },
     {
       "char": "ͱ",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=east]"
+      "block": "minecraft:oak_trapdoor[half=top,open=false,facing=east]"
     },
     {
       "char": "Ͳ",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "ͳ",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+      "block": "minecraft:oak_trapdoor[half=top,open=false,facing=west]"
     },
     {
       "char": "ʹ",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "͵",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "Ͷ",
-      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+      "block": "minecraft:jungle_slab[type=top]"
     },
     {
       "char": "ͷ",
@@ -398,7 +398,7 @@
     },
     {
       "char": "ͽ",
-      "block": "minecraft:jungle_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:jungle_slab[type=bottom]"
     },
     {
       "char": ";",
@@ -406,7 +406,7 @@
     },
     {
       "char": "Ϳ",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "΄",

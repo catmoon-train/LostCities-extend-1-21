@@ -7,11 +7,11 @@
     },
     {
       "char": "b",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "c",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "d",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:note_block[powered=false,instrument=harp,note=1]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "i",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:note_block[powered=false,instrument=bass,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "m",
@@ -63,11 +63,11 @@
     },
     {
       "char": "p",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "q",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "r",
@@ -88,7 +88,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=false,facing=north]"
     },
     {
       "char": "u",

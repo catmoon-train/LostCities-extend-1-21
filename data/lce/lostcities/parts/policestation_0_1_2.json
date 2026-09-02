@@ -45,7 +45,7 @@
       },
       {
         "char": "t",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "d",
@@ -65,11 +65,11 @@
       },
       {
         "char": "q",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "ͳ",
-        "block": "minecraft:daylight_detector[inverted=false,power=0]",
+        "block": "minecraft:daylight_detector[inverted=false]",
         "tag": {
           "z": 337,
           "x": 75,
@@ -80,7 +80,7 @@
       },
       {
         "char": "Μ",
-        "block": "minecraft:daylight_detector[inverted=true,power=11]",
+        "block": "minecraft:daylight_detector[inverted=true]",
         "tag": {
           "z": 327,
           "x": 75,
@@ -111,7 +111,7 @@
       },
       {
         "char": "φ",
-        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 327,
@@ -152,7 +152,7 @@
       },
       {
         "char": "Љ",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 350,

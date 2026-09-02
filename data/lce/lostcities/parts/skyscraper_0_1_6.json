@@ -13,7 +13,7 @@
       },
       {
         "char": "f",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "h",
@@ -21,7 +21,7 @@
       },
       {
         "char": "u",
-        "block": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "e",
@@ -33,15 +33,15 @@
       },
       {
         "char": "ϯ",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "P",
-        "block": "minecraft:glass_pane[east=true,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=true,south=false,west=true]"
       },
       {
         "char": "d",
@@ -61,11 +61,11 @@
       },
       {
         "char": "y",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire"
       },
       {
         "char": "I",
-        "block": "minecraft:glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=true,south=true,west=false]"
       },
       {
         "char": "о",
@@ -97,7 +97,7 @@
       },
       {
         "char": "ϳ",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 618,
           "x": 75,
@@ -133,35 +133,35 @@
       },
       {
         "char": "Ѓ",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "ѵ",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[north=true,south=true,west=true]"
       },
       {
         "char": "Ϲ",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[north=true,south=true]"
       },
       {
         "char": "Ф",
-        "block": "minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[east=true,north=true]"
       },
       {
         "char": "Ѥ",
-        "block": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[east=true,west=true]"
       },
       {
         "char": "ӯ",
-        "block": "minecraft:dark_oak_fence[east=true,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[east=true,north=true,west=true]"
       },
       {
         "char": "и",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[south=true,west=true]"
       },
       {
         "char": "ғ",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[north=true]"
       }
     ]
   },

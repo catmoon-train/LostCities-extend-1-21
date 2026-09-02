@@ -31,11 +31,11 @@
     },
     {
       "char": "h",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "i",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "j",
@@ -55,19 +55,19 @@
     },
     {
       "char": "n",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+      "block": "minecraft:cobblestone_wall"
     },
     {
       "char": "o",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "p",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "q",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "r",
@@ -83,7 +83,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:fire[up=false,age=0]"
+      "block": "minecraft:fire[up=false]"
     },
     {
       "char": "w",
@@ -91,7 +91,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:cobblestone_slab[type=bottom]"
     },
     {
       "char": "y",
@@ -99,7 +99,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "B",
@@ -107,7 +107,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "D",
@@ -181,7 +181,7 @@
     },
     {
       "char": "W",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "X",
@@ -217,7 +217,7 @@
     },
     {
       "char": "5",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "6",
@@ -259,7 +259,7 @@
     },
     {
       "char": "^",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_flatapartment_0/floor2/lootr_chest"
     },
     {
@@ -297,7 +297,7 @@
     },
     {
       "char": "]",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "{",
@@ -313,7 +313,7 @@
     },
     {
       "char": ";",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": ":",
@@ -337,7 +337,7 @@
     },
     {
       "char": ".",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "?",
@@ -361,12 +361,12 @@
     },
     {
       "char": "Ͳ",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_flatapartment_0/floor2/lootr_chest"
     },
     {
       "char": "ͳ",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "ʹ",
@@ -374,7 +374,7 @@
     },
     {
       "char": "͵",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=left,facing=east]"
     },
     {
       "char": "Ͷ",
@@ -383,11 +383,11 @@
     },
     {
       "char": "ͷ",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "ͺ",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "ͻ",
@@ -395,7 +395,7 @@
     },
     {
       "char": "ͼ",
-      "block": "minecraft:spruce_slab[type=east,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "ͽ",
@@ -411,11 +411,11 @@
     },
     {
       "char": "΄",
-      "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:cobblestone_slab[type=top]"
     },
     {
       "char": "΅",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "Ά",
@@ -423,7 +423,7 @@
     },
     {
       "char": "·",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "Έ",
@@ -434,11 +434,11 @@
     },
     {
       "char": "Ή",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "Ί",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "Ό",

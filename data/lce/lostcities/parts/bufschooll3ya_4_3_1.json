@@ -13,7 +13,7 @@
       },
       {
         "char": "b",
-        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+        "block": "minecraft:spruce_slab[type=top]"
       },
       {
         "char": "γ",
@@ -25,7 +25,7 @@
       },
       {
         "char": "Ν",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:stone_brick_wall[up=true,west=tall]"
       },
       {
         "char": "Q",
@@ -57,7 +57,7 @@
       },
       {
         "char": "χ",
-        "block": "minecraft:spruce_fence_gate[facing=west,in_wall=false,open=false,powered=false]"
+        "block": "minecraft:spruce_fence_gate[facing=west,in_wall=false,open=false]"
       },
       {
         "char": "ά",
@@ -77,15 +77,15 @@
       },
       {
         "char": "Ώ",
-        "block": "minecraft:spruce_fence_gate[facing=west,in_wall=true,open=false,powered=false]"
+        "block": "minecraft:spruce_fence_gate[facing=west,in_wall=true,open=false]"
       },
       {
         "char": "ϴ",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=false]"
       },
       {
         "char": "д",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=false]"
       },
       {
         "char": "d",
@@ -93,7 +93,7 @@
       },
       {
         "char": "϶",
-        "block": "minecraft:stone_brick_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:stone_brick_wall[north=low,south=low,up=true,west=tall]"
       },
       {
         "char": "ϔ",
@@ -205,7 +205,7 @@
       },
       {
         "char": "ξ",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "Ε",
@@ -241,11 +241,11 @@
       },
       {
         "char": "ΰ",
-        "block": "minecraft:sandstone_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:sandstone_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "μ",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "i",
@@ -257,7 +257,7 @@
       },
       {
         "char": "Ο",
-        "block": "minecraft:cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "y",

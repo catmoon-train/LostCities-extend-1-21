@@ -9,31 +9,31 @@
       },
       {
         "char": "u",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "Z",
-        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[east=true,west=true]"
       },
       {
         "char": "ά",
-        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[south=true,west=true]"
       },
       {
         "char": "T",
-        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true,south=true]"
       },
       {
         "char": "y",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "έ",
-        "block": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[east=true,south=true,west=true]"
       },
       {
         "char": "з",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[north=true,west=true]"
       },
       {
         "char": "N",
@@ -41,7 +41,7 @@
       },
       {
         "char": "γ",
-        "block": "minecraft:daylight_detector[inverted=false,power=0]",
+        "block": "minecraft:daylight_detector[inverted=false]",
         "tag": {
           "z": 573,
           "x": 268,
@@ -52,11 +52,11 @@
       },
       {
         "char": "Ό",
-        "block": "minecraft:rail[shape=south_west,waterlogged=false]"
+        "block": "minecraft:rail[shape=south_west]"
       },
       {
         "char": "Ύ",
-        "block": "minecraft:rail[shape=north_west,waterlogged=false]"
+        "block": "minecraft:rail[shape=north_west]"
       }
     ]
   },

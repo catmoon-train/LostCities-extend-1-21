@@ -9,11 +9,11 @@
       },
       {
         "char": "风",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=true,south=false,west=false]"
       },
       {
         "char": "除",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=false,south=true,west=true]"
       },
       {
         "char": "q",
@@ -33,15 +33,15 @@
       },
       {
         "char": "科",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "办",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=true,west=false]"
       },
       {
         "char": "战",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,west=true]"
       },
       {
         "char": "亦",
@@ -57,11 +57,11 @@
       },
       {
         "char": "ї",
-        "block": "minecraft:water[level=8]"
+        "block": "minecraft:water"
       },
       {
         "char": "黄",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,west=true]"
       },
       {
         "char": "由",
@@ -97,7 +97,7 @@
       },
       {
         "char": "ө",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "ώ",
@@ -105,7 +105,7 @@
       },
       {
         "char": "Ғ",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 336,
           "x": 144,
@@ -145,7 +145,7 @@
       },
       {
         "char": "报",
-        "block": "minecraft:dark_oak_door[facing=south,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=south,half=upper,hinge=right,open=false]"
       },
       {
         "char": "d",
@@ -169,7 +169,7 @@
       },
       {
         "char": "答",
-        "block": "minecraft:white_wall_banner[facing=south]",
+        "block": "minecraft:white_wall_banner",
         "tag": {
           "z": 341,
           "Patterns": [
@@ -234,7 +234,7 @@
       },
       {
         "char": "ϊ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 347,
           "x": 115,
@@ -270,7 +270,7 @@
       },
       {
         "char": "究",
-        "block": "minecraft:black_wall_banner[facing=north]",
+        "block": "minecraft:black_wall_banner",
         "tag": {
           "z": 332,
           "Patterns": [],
@@ -282,11 +282,11 @@
       },
       {
         "char": "F",
-        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=top]"
       },
       {
         "char": "6",
-        "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+        "block": "minecraft:dark_oak_slab[type=top]"
       },
       {
         "char": "H",
@@ -294,11 +294,11 @@
       },
       {
         "char": "里",
-        "block": "minecraft:oak_leaves[distance=2,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "校",
-        "block": "minecraft:oak_leaves[distance=1,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "数",
@@ -310,7 +310,7 @@
       },
       {
         "char": "内",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "j",

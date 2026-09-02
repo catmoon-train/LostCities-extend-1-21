@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "h",
@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=bottom]"
     },
     {
       "char": "k",
@@ -164,7 +164,7 @@
     },
     {
       "char": "S",
-      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+      "block": "minecraft:birch_trapdoor[half=top,open=false,facing=west]"
     },
     {
       "char": "T",
@@ -501,7 +501,7 @@
     },
     {
       "char": "{",
-      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+      "block": "minecraft:birch_trapdoor[half=top,open=false,facing=north]"
     },
     {
       "char": "}",
@@ -574,7 +574,7 @@
     },
     {
       "char": "<",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": ">",
@@ -592,7 +592,7 @@
     },
     {
       "char": ".",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "?",
@@ -650,7 +650,7 @@
     },
     {
       "char": "Ͱ",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "ͱ",
@@ -674,7 +674,7 @@
     },
     {
       "char": "Ͷ",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=east]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=false,facing=east]"
     },
     {
       "char": "ͷ",

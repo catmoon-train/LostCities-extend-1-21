@@ -19,11 +19,11 @@
     },
     {
       "char": "e",
-      "block": "minecraft:dark_oak_slab[type=north,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "f",
-      "block": "minecraft:polished_deepslate_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab[type=bottom]"
     },
     {
       "char": "g",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:polished_blackstone_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "j",
@@ -64,7 +64,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "q",
@@ -119,12 +119,12 @@
     },
     {
       "char": "E",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_8/floor9/iron_locker"
     },
     {
       "char": "F",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "I",
@@ -132,7 +132,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:note_block[powered=false,instrument=bass,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "K",
@@ -156,11 +156,11 @@
     },
     {
       "char": "P",
-      "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab[type=top]"
     },
     {
       "char": "Q",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "R",

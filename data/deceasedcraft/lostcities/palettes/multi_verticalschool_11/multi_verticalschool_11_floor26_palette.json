@@ -43,11 +43,11 @@
     },
     {
       "char": "k",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "l",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "m",
@@ -81,7 +81,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:bell[powered=false,facing=north,attachment=floor]"
+      "block": "minecraft:bell[facing=north,attachment=floor]"
     },
     {
       "char": "u",
@@ -97,7 +97,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:daylight_detector[power=1,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "A",
@@ -109,16 +109,16 @@
     },
     {
       "char": "C",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_11/floor25/oak_drawer"
     },
     {
       "char": "D",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "E",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "F",
@@ -158,11 +158,11 @@
     },
     {
       "char": "Q",
-      "block": "minecraft:note_block[powered=false,instrument=harp,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "R",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "S",

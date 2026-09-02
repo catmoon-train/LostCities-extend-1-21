@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "i",
@@ -43,19 +43,19 @@
     },
     {
       "char": "k",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=false,facing=west]"
     },
     {
       "char": "l",
-      "block": "minecraft:brown_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:brown_stained_glass_pane"
     },
     {
       "char": "m",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "n",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "o",
@@ -67,11 +67,11 @@
     },
     {
       "char": "q",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "r",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "s",
@@ -79,11 +79,11 @@
     },
     {
       "char": "t",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "u",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "w",

@@ -96,11 +96,11 @@
     },
     {
       "char": "w",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "x",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "y",
@@ -120,7 +120,7 @@
     },
     {
       "char": "D",
-      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+      "block": "minecraft:jungle_slab[type=top]"
     },
     {
       "char": "E",
@@ -133,7 +133,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_8/floor17/lootr_chest"
     },
     {
@@ -142,11 +142,11 @@
     },
     {
       "char": "K",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "L",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "M",
@@ -166,7 +166,7 @@
     },
     {
       "char": "Q",
-      "block": "minecraft:lectern[powered=false,has_book=false,facing=south]"
+      "block": "minecraft:lectern[facing=south]"
     },
     {
       "char": "R",
@@ -175,7 +175,7 @@
     },
     {
       "char": "S",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_8/floor17/lootr_chest"
     },
     {
@@ -206,11 +206,11 @@
     },
     {
       "char": "Z",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=east]"
     },
     {
       "char": "0",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "1",

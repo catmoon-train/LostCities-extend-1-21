@@ -42,11 +42,11 @@
     },
     {
       "char": "j",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "k",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "l",
@@ -199,7 +199,7 @@
     },
     {
       "char": "W",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]"
+      "block": "minecraft:chest"
     },
     {
       "char": "X",
@@ -215,15 +215,15 @@
     },
     {
       "char": "0",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]"
+      "block": "minecraft:chest"
     },
     {
       "char": "1",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "2",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "3",
@@ -273,7 +273,7 @@
     },
     {
       "char": "^",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]"
+      "block": "minecraft:chest"
     },
     {
       "char": "&",
@@ -285,7 +285,7 @@
     },
     {
       "char": "(",
-      "block": "minecraft:daylight_detector[power=3,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": ")",
@@ -301,11 +301,11 @@
     },
     {
       "char": "[",
-      "block": "minecraft:note_block[powered=false,instrument=harp,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "]",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "{",

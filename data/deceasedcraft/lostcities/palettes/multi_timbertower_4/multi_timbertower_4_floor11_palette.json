@@ -80,15 +80,15 @@
     },
     {
       "char": "p",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "q",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "r",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "s",
@@ -112,7 +112,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "A",
@@ -145,7 +145,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "K",
@@ -153,27 +153,27 @@
     },
     {
       "char": "L",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "M",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "N",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=true,hinge=left,facing=south]"
+      "block": "minecraft:spruce_door[half=lower,open=true,hinge=left,facing=south]"
     },
     {
       "char": "O",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "P",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "Q",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=true,hinge=left,facing=north]"
+      "block": "minecraft:spruce_door[half=lower,open=true,hinge=left,facing=north]"
     },
     {
       "char": "R",
@@ -182,7 +182,7 @@
     },
     {
       "char": "S",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "T",
@@ -198,7 +198,7 @@
     },
     {
       "char": "W",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "X",
@@ -265,19 +265,19 @@
     },
     {
       "char": "%",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "^",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=true,hinge=left,facing=south]"
+      "block": "minecraft:spruce_door[half=upper,open=true,hinge=left,facing=south]"
     },
     {
       "char": "&",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "*",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=true,hinge=left,facing=north]"
+      "block": "minecraft:spruce_door[half=upper,open=true,hinge=left,facing=north]"
     },
     {
       "char": "(",
@@ -348,11 +348,11 @@
     },
     {
       "char": ",",
-      "block": "minecraft:spruce_slab[type=south,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": ".",
-      "block": "minecraft:spruce_slab[type=north,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "?",
@@ -376,16 +376,16 @@
     },
     {
       "char": "Ͱ",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_timbertower_1/floor11/spruce_cabinet"
     },
     {
       "char": "ͱ",
-      "block": "minecraft:polished_andesite_slab[type=south,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "Ͳ",
-      "block": "minecraft:polished_andesite_slab[type=north,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "ͳ",
@@ -421,15 +421,15 @@
     },
     {
       "char": "ͺ",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "ͻ",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "ͼ",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=south,shape=straight]"
     }
   ]
 }

@@ -15,15 +15,15 @@
     },
     {
       "char": "d",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "e",
-      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab[type=bottom]"
     },
     {
       "char": "f",
-      "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:cobblestone_slab[type=bottom]"
     },
     {
       "char": "g",
@@ -59,7 +59,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:polished_deepslate_wall[waterlogged=false,up=true]"
+      "block": "minecraft:polished_deepslate_wall[up=true]"
     },
     {
       "char": "p",
@@ -75,7 +75,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:oak_sapling[stage=1]"
+      "block": "minecraft:oak_sapling"
     },
     {
       "char": "t",
@@ -83,7 +83,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "w",
@@ -100,15 +100,15 @@
     },
     {
       "char": "x",
-      "block": "minecraft:daylight_detector[power=3,inverted=true]"
+      "block": "minecraft:daylight_detector[inverted=true]"
     },
     {
       "char": "y",
-      "block": "minecraft:polished_deepslate_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab[type=bottom]"
     },
     {
       "char": "A",
-      "block": "minecraft:daylight_detector[power=12,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     }
   ]
 }

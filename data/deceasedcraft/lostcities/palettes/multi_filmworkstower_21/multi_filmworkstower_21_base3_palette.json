@@ -23,15 +23,15 @@
     },
     {
       "char": "f",
-      "block": "minecraft:sandstone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:sandstone_slab[type=bottom]"
     },
     {
       "char": "g",
-      "block": "minecraft:sandstone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:sandstone_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "h",
-      "block": "minecraft:sandstone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:sandstone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "i",
@@ -43,7 +43,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:sandstone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:sandstone_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "l",
@@ -64,12 +64,12 @@
     },
     {
       "char": "p",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_filmworkstower_17/base3/dead_body"
     },
     {
       "char": "q",
-      "block": "minecraft:campfire[waterlogged=false,signal_fire=false,facing=north,lit=true]"
+      "block": "minecraft:campfire[facing=north,lit=true]"
     },
     {
       "char": "r",

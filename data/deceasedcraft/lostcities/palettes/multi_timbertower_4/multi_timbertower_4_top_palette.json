@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "b",
@@ -44,7 +44,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "j",

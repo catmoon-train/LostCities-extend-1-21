@@ -23,11 +23,11 @@
     },
     {
       "char": "f",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "h",
@@ -63,7 +63,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "q",
@@ -75,15 +75,15 @@
     },
     {
       "char": "s",
-      "block": "minecraft:lectern[powered=false,has_book=false,facing=south]"
+      "block": "minecraft:lectern[facing=south]"
     },
     {
       "char": "t",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:oak_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "u",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:oak_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "w",
@@ -99,11 +99,11 @@
     },
     {
       "char": "A",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:oak_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "B",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:oak_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "C",
@@ -131,11 +131,11 @@
     },
     {
       "char": "K",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "L",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "M",
@@ -168,12 +168,12 @@
     },
     {
       "char": "R",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_office2b/base1/oak_crate"
     },
     {
       "char": "S",
-      "block": "minecraft:daylight_detector[power=15,inverted=true]"
+      "block": "minecraft:daylight_detector[inverted=true]"
     },
     {
       "char": "T",
@@ -181,7 +181,7 @@
     },
     {
       "char": "U",
-      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=top]"
     },
     {
       "char": "V",

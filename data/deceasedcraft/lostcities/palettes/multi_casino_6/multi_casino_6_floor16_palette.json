@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:brown_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:brown_stained_glass_pane"
     },
     {
       "char": "i",
@@ -48,7 +48,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_casino_6/floor16/lootr_chest"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "char": "T",
-      "block": "minecraft:chain[waterlogged=false,axis=y]"
+      "block": "minecraft:chain[axis=y]"
     }
   ]
 }

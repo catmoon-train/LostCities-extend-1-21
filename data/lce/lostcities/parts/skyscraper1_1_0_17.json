@@ -13,7 +13,7 @@
       },
       {
         "char": "Џ",
-        "block": "minecraft:dispenser[facing=up,triggered=false]",
+        "block": "minecraft:dispenser[facing=up]",
         "tag": {
           "z": 620,
           "x": 48,
@@ -32,7 +32,7 @@
       },
       {
         "char": "ι",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight]"
       }
     ]
   },

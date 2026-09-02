@@ -13,11 +13,11 @@
       },
       {
         "char": "理",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=inner_right]"
       },
       {
         "char": "T",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "k",
@@ -41,7 +41,7 @@
       },
       {
         "char": "P",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "c",
@@ -65,7 +65,7 @@
       },
       {
         "char": "ͳ",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[west=true]"
       },
       {
         "char": "意",
@@ -93,11 +93,11 @@
       },
       {
         "char": "D",
-        "block": "minecraft:dark_oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:dark_oak_leaves"
       },
       {
         "char": "Β",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence"
       },
       {
         "char": "x",
@@ -141,11 +141,11 @@
       },
       {
         "char": "8",
-        "block": "minecraft:smooth_sandstone_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_sandstone_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "9",
-        "block": "minecraft:smooth_sandstone_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_sandstone_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "f",
@@ -157,7 +157,7 @@
       },
       {
         "char": "Ξ",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[south=true]"
       },
       {
         "char": "者",
@@ -165,15 +165,15 @@
       },
       {
         "char": "ή",
-        "block": "minecraft:spruce_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[east=true,north=true]"
       },
       {
         "char": "Φ",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[south=true,west=true]"
       },
       {
         "char": "Σ",
-        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[north=true]"
       }
     ]
   },

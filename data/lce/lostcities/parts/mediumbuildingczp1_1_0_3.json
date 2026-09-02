@@ -29,7 +29,7 @@
       },
       {
         "char": "k",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "d",
@@ -45,11 +45,11 @@
       },
       {
         "char": "О",
-        "block": "minecraft:oak_door[facing=north,half=upper,hinge=right,open=true,powered=false]"
+        "block": "minecraft:oak_door[facing=north,half=upper,hinge=right,open=true]"
       },
       {
         "char": "ο",
-        "block": "minecraft:dark_oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:dark_oak_leaves"
       },
       {
         "char": "λ",
@@ -65,7 +65,7 @@
       },
       {
         "char": "h",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "y",
@@ -73,7 +73,7 @@
       },
       {
         "char": "ϸ",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 627,
           "x": 110,
@@ -109,7 +109,7 @@
       },
       {
         "char": "Ͻ",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "Ώ",
@@ -117,7 +117,7 @@
       },
       {
         "char": "ҍ",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=inner_right]"
       },
       {
         "char": "Ґ",
@@ -141,7 +141,7 @@
       },
       {
         "char": "ϥ",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "b",
@@ -161,7 +161,7 @@
       },
       {
         "char": "Ύ",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "w",
@@ -169,11 +169,11 @@
       },
       {
         "char": "ϼ",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "Ѹ",
-        "block": "minecraft:skeleton_skull[rotation=10]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 619,
           "x": 118,
@@ -188,11 +188,11 @@
       },
       {
         "char": "ΰ",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire"
       },
       {
         "char": "έ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 623,
           "x": 107,
@@ -228,11 +228,11 @@
       },
       {
         "char": "Ϧ",
-        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "Њ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 627,
           "x": 113,
@@ -268,27 +268,27 @@
       },
       {
         "char": "В",
-        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "я",
-        "block": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[east=true]"
       },
       {
         "char": "П",
-        "block": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[east=true,west=true]"
       },
       {
         "char": "Җ",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[west=true]"
       },
       {
         "char": "ϻ",
-        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "ϡ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 628,
           "x": 112,
@@ -324,7 +324,7 @@
       },
       {
         "char": "Т",
-        "block": "minecraft:oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "n",

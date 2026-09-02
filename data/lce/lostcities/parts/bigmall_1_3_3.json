@@ -65,19 +65,19 @@
       },
       {
         "char": "G",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "ͱ",
-        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=bottom]"
       },
       {
         "char": "P",
-        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=bottom]"
       },
       {
         "char": "本",
-        "block": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "p",
@@ -109,7 +109,7 @@
       },
       {
         "char": "x",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "t",
@@ -117,27 +117,27 @@
       },
       {
         "char": "I",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "Q",
-        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=top]"
       },
       {
         "char": "冷",
-        "block": "minecraft:smooth_sandstone_stairs[facing=south,half=top,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:smooth_sandstone_stairs[facing=south,half=top,shape=outer_right]"
       },
       {
         "char": "琴",
-        "block": "minecraft:smooth_sandstone_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:smooth_sandstone_stairs[facing=south,half=top,shape=outer_left]"
       },
       {
         "char": "康",
-        "block": "minecraft:smooth_sandstone_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_sandstone_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "程",
-        "block": "minecraft:birch_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 321,
           "x": 150,
@@ -173,11 +173,11 @@
       },
       {
         "char": "害",
-        "block": "minecraft:smooth_sandstone_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_sandstone_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "她",
-        "block": "minecraft:birch_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 344,
           "x": 117,
@@ -217,35 +217,35 @@
       },
       {
         "char": "Ө",
-        "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:black_stained_glass_pane[east=false,north=true,south=false,west=true]"
       },
       {
         "char": "弹",
-        "block": "minecraft:smooth_sandstone_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:smooth_sandstone_stairs[facing=south,half=top,shape=inner_right]"
       },
       {
         "char": "念",
-        "block": "minecraft:smooth_sandstone_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_sandstone_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "厂",
-        "block": "minecraft:smooth_sandstone_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:smooth_sandstone_stairs[facing=south,half=top,shape=inner_left]"
       },
       {
         "char": "值",
-        "block": "minecraft:acacia_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:acacia_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "Ӎ",
-        "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=true,west=true]"
       },
       {
         "char": "然",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=false]"
       },
       {
         "char": "罗",
-        "block": "minecraft:dark_oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:dark_oak_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "ώ",
@@ -253,7 +253,7 @@
       },
       {
         "char": "印",
-        "block": "minecraft:player_head[rotation=0]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 307,
           "x": 152,
@@ -264,7 +264,7 @@
       },
       {
         "char": "不",
-        "block": "minecraft:spruce_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:spruce_wall_sign",
         "tag": {
           "z": 340,
           "x": 170,
@@ -300,7 +300,7 @@
       },
       {
         "char": "说",
-        "block": "minecraft:spruce_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:spruce_wall_sign",
         "tag": {
           "z": 310,
           "x": 112,
@@ -340,7 +340,7 @@
       },
       {
         "char": "原",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 324,
@@ -360,7 +360,7 @@
       },
       {
         "char": "ϊ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 347,
           "x": 115,

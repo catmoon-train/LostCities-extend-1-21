@@ -42,15 +42,15 @@
     },
     {
       "char": "j",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]"
+      "block": "minecraft:chest"
     },
     {
       "char": "k",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "l",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "m",
@@ -173,7 +173,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "S",
@@ -233,11 +233,11 @@
     },
     {
       "char": "5",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "6",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "7",
@@ -298,7 +298,7 @@
     },
     {
       "char": "-",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "[",
@@ -313,7 +313,7 @@
     },
     {
       "char": "{",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]"
+      "block": "minecraft:chest"
     },
     {
       "char": "}",
@@ -325,11 +325,11 @@
     },
     {
       "char": ";",
-      "block": "minecraft:note_block[powered=false,instrument=harp,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": ":",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "'",

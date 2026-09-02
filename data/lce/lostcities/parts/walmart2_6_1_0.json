@@ -49,7 +49,7 @@
       },
       {
         "char": "提",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "之",
@@ -57,7 +57,7 @@
       },
       {
         "char": "N",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[up=true]"
       },
       {
         "char": "花",
@@ -65,7 +65,7 @@
       },
       {
         "char": "规",
-        "block": "minecraft:spruce_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "说",
@@ -96,19 +96,19 @@
       },
       {
         "char": "猫",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "院",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=true,south=false,west=false]"
       },
       {
         "char": "元",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "图",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,west=true]"
       },
       {
         "char": "便",
@@ -124,15 +124,15 @@
       },
       {
         "char": "度",
-        "block": "minecraft:oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=south,half=top,open=true]"
       },
       {
         "char": "版",
-        "block": "minecraft:oak_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "林",
-        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "没",
@@ -140,7 +140,7 @@
       },
       {
         "char": "跟",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,up=true,west=low]"
       }
     ]
   },

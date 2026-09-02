@@ -29,7 +29,7 @@
       },
       {
         "char": "ҕ",
-        "block": "minecraft:chest[facing=south,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 942,
@@ -45,7 +45,7 @@
       },
       {
         "char": "Ѷ",
-        "block": "minecraft:chest[facing=south,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 940,
@@ -73,7 +73,7 @@
       },
       {
         "char": "驰",
-        "block": "minecraft:hopper[enabled=true,facing=down]",
+        "block": "minecraft:hopper[facing=down]",
         "tag": {
           "z": 940,
           "x": -449,
@@ -93,7 +93,7 @@
       },
       {
         "char": "嘎",
-        "block": "minecraft:iron_door[facing=east,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=east,half=upper,hinge=left,open=false]"
       },
       {
         "char": "馨",
@@ -101,11 +101,11 @@
       },
       {
         "char": "靖",
-        "block": "minecraft:iron_door[facing=west,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=west,half=upper,hinge=left,open=false]"
       },
       {
         "char": "瞬",
-        "block": "minecraft:iron_door[facing=east,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=east,half=upper,hinge=right,open=false]"
       },
       {
         "char": "g",
@@ -113,11 +113,11 @@
       },
       {
         "char": "ӯ",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "ϑ",
-        "block": "minecraft:birch_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 953,
           "x": -527,
@@ -153,11 +153,11 @@
       },
       {
         "char": "P",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "尚",
-        "block": "minecraft:birch_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 945,
           "x": -465,
@@ -193,7 +193,7 @@
       },
       {
         "char": "愈",
-        "block": "minecraft:birch_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 979,
           "x": -456,
@@ -229,7 +229,7 @@
       },
       {
         "char": "开",
-        "block": "minecraft:light_gray_bed[facing=west,occupied=false,part=head]",
+        "block": "minecraft:light_gray_bed",
         "tag": {
           "z": 951,
           "x": -534,
@@ -240,7 +240,7 @@
       },
       {
         "char": "教",
-        "block": "minecraft:light_gray_bed[facing=west,occupied=false,part=foot]",
+        "block": "minecraft:light_gray_bed",
         "tag": {
           "z": 949,
           "x": -458,
@@ -251,7 +251,7 @@
       },
       {
         "char": "埋",
-        "block": "minecraft:birch_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "遥",
@@ -263,7 +263,7 @@
       },
       {
         "char": "搞",
-        "block": "minecraft:light_gray_bed[facing=north,occupied=false,part=foot]",
+        "block": "minecraft:light_gray_bed",
         "tag": {
           "z": 947,
           "x": -437,
@@ -274,15 +274,15 @@
       },
       {
         "char": "杜",
-        "block": "minecraft:birch_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "助",
-        "block": "minecraft:ladder[facing=east,waterlogged=false]"
+        "block": "minecraft:ladder[facing=east]"
       },
       {
         "char": "碟",
-        "block": "minecraft:chest[facing=west,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 957,
@@ -298,7 +298,7 @@
       },
       {
         "char": "匪",
-        "block": "minecraft:lectern[facing=east,has_book=false,powered=false]",
+        "block": "minecraft:lectern[facing=east]",
         "tag": {
           "z": 968,
           "x": -439,
@@ -309,7 +309,7 @@
       },
       {
         "char": "底",
-        "block": "minecraft:chest[facing=north,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 975,
@@ -325,7 +325,7 @@
       },
       {
         "char": "谁",
-        "block": "minecraft:chest[facing=north,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 977,
@@ -341,7 +341,7 @@
       },
       {
         "char": "活",
-        "block": "minecraft:chest[facing=north,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 958,
@@ -357,7 +357,7 @@
       },
       {
         "char": "厕",
-        "block": "minecraft:lectern[facing=north,has_book=false,powered=false]",
+        "block": "minecraft:lectern[facing=north]",
         "tag": {
           "z": 976,
           "x": -438,
@@ -368,11 +368,11 @@
       },
       {
         "char": "澳",
-        "block": "minecraft:birch_door[facing=south,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:birch_door[facing=south,half=lower,hinge=right,open=false]"
       },
       {
         "char": "恐",
-        "block": "minecraft:light_gray_bed[facing=north,occupied=false,part=head]",
+        "block": "minecraft:light_gray_bed",
         "tag": {
           "z": 933,
           "x": -445,
@@ -383,11 +383,11 @@
       },
       {
         "char": "烧",
-        "block": "minecraft:ladder[facing=south,waterlogged=false]"
+        "block": "minecraft:ladder[facing=south]"
       },
       {
         "char": "绵",
-        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 961,
@@ -403,11 +403,11 @@
       },
       {
         "char": "慌",
-        "block": "minecraft:birch_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=west,half=top,open=false]"
       },
       {
         "char": "汽",
-        "block": "minecraft:chest[facing=east,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 964,
@@ -423,7 +423,7 @@
       },
       {
         "char": "予",
-        "block": "minecraft:chest[facing=east,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 962,
@@ -439,7 +439,7 @@
       },
       {
         "char": "卿",
-        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 963,
@@ -455,11 +455,11 @@
       },
       {
         "char": "尝",
-        "block": "minecraft:birch_door[facing=west,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:birch_door[facing=west,half=lower,hinge=left,open=false]"
       },
       {
         "char": "页",
-        "block": "minecraft:jukebox[has_record=false]",
+        "block": "minecraft:jukebox",
         "tag": {
           "RecordStartTick": "0L",
           "IsPlaying": "0b",
@@ -473,11 +473,11 @@
       },
       {
         "char": "斌",
-        "block": "minecraft:birch_door[facing=south,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:birch_door[facing=south,half=upper,hinge=right,open=false]"
       },
       {
         "char": "呻",
-        "block": "minecraft:birch_door[facing=west,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:birch_door[facing=west,half=upper,hinge=left,open=false]"
       }
     ]
   },

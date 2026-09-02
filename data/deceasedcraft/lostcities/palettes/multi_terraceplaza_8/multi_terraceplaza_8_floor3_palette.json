@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "i",
@@ -75,15 +75,15 @@
     },
     {
       "char": "s",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "t",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "u",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "w",
@@ -92,7 +92,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_22/floor2/cardboard_box"
     },
     {
@@ -105,12 +105,12 @@
     },
     {
       "char": "B",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_22/floor2/cardboard_box"
     },
     {
       "char": "C",
-      "block": "minecraft:dark_oak_slab[type=south,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "D",
@@ -118,7 +118,7 @@
     },
     {
       "char": "E",
-      "block": "minecraft:daylight_detector[power=10,inverted=true]"
+      "block": "minecraft:daylight_detector[inverted=true]"
     },
     {
       "char": "F",
@@ -126,21 +126,21 @@
     },
     {
       "char": "I",
-      "block": "minecraft:daylight_detector[power=9,inverted=true]"
+      "block": "minecraft:daylight_detector[inverted=true]"
     },
     {
       "char": "J",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_22/floor2/cardboard_box"
     },
     {
       "char": "K",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_22/floor2/cardboard_box"
     },
     {
       "char": "L",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_22/floor2/cardboard_box"
     },
     {
@@ -176,7 +176,7 @@
     },
     {
       "char": "T",
-      "block": "minecraft:water[level=0]"
+      "block": "minecraft:water"
     },
     {
       "char": "U",
@@ -192,7 +192,7 @@
     },
     {
       "char": "X",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=bottom]"
     },
     {
       "char": "Y",

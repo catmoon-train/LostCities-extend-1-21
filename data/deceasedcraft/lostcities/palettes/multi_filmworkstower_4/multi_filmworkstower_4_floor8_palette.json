@@ -33,7 +33,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "i",
@@ -51,7 +51,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_filmworkstower_4/floor8/dark_oak_drawer"
     },
     {
@@ -112,11 +112,11 @@
     },
     {
       "char": "C",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "D",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     }
   ]
 }

@@ -19,11 +19,11 @@
     },
     {
       "char": "e",
-      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom]"
     },
     {
       "char": "f",
-      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+      "block": "minecraft:birch_slab[type=top]"
     },
     {
       "char": "g",
@@ -31,11 +31,11 @@
     },
     {
       "char": "h",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:birch_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "i",
-      "block": "minecraft:polished_andesite_slab[type=north,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "j",
@@ -64,7 +64,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:birch_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "q",
@@ -84,7 +84,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:birch_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "w",
@@ -101,15 +101,15 @@
     },
     {
       "char": "x",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "y",
-      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "A",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:birch_stairs[half=top,facing=south,shape=straight]"
     }
   ]
 }

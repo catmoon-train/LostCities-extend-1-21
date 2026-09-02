@@ -45,11 +45,11 @@
     },
     {
       "char": "k",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "l",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "m",
@@ -57,7 +57,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "o",
@@ -92,7 +92,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "t",
@@ -141,7 +141,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "I",
@@ -199,31 +199,31 @@
     },
     {
       "char": "T",
-      "block": "minecraft:red_candle[waterlogged=false,candles=4,lit=false]"
+      "block": "minecraft:red_candle[candles=4,lit=false]"
     },
     {
       "char": "U",
-      "block": "minecraft:blue_candle[waterlogged=false,candles=2,lit=false]"
+      "block": "minecraft:blue_candle[candles=2,lit=false]"
     },
     {
       "char": "V",
-      "block": "minecraft:green_candle[waterlogged=false,candles=3,lit=false]"
+      "block": "minecraft:green_candle[candles=3,lit=false]"
     },
     {
       "char": "W",
-      "block": "minecraft:blue_candle[waterlogged=false,candles=3,lit=false]"
+      "block": "minecraft:blue_candle[candles=3,lit=false]"
     },
     {
       "char": "X",
-      "block": "minecraft:blue_candle[waterlogged=false,candles=4,lit=false]"
+      "block": "minecraft:blue_candle[candles=4,lit=false]"
     },
     {
       "char": "Y",
-      "block": "minecraft:green_candle[waterlogged=false,candles=2,lit=false]"
+      "block": "minecraft:green_candle[candles=2,lit=false]"
     },
     {
       "char": "Z",
-      "block": "minecraft:red_candle[waterlogged=false,candles=1,lit=false]"
+      "block": "minecraft:red_candle[candles=1,lit=false]"
     },
     {
       "char": "0",
@@ -247,11 +247,11 @@
     },
     {
       "char": "5",
-      "block": "minecraft:green_candle[waterlogged=false,candles=1,lit=false]"
+      "block": "minecraft:green_candle[candles=1,lit=false]"
     },
     {
       "char": "6",
-      "block": "minecraft:red_candle[waterlogged=false,candles=2,lit=false]"
+      "block": "minecraft:red_candle[candles=2,lit=false]"
     },
     {
       "char": "7",
@@ -287,7 +287,7 @@
     },
     {
       "char": "$",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_casino_5/base8/ice"
     },
     {

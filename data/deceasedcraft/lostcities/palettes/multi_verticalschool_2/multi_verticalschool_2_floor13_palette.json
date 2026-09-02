@@ -7,35 +7,35 @@
     },
     {
       "char": "b",
-      "block": "minecraft:jungle_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:jungle_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "c",
-      "block": "minecraft:jungle_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:jungle_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "d",
-      "block": "minecraft:jungle_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:jungle_leaves"
     },
     {
       "char": "e",
-      "block": "minecraft:jungle_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:jungle_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "f",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "g",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "h",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "i",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "j",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:jungle_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:jungle_slab[type=bottom]"
     },
     {
       "char": "n",
@@ -59,7 +59,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "p",
@@ -71,11 +71,11 @@
     },
     {
       "char": "r",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "s",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "t",
@@ -95,11 +95,11 @@
     },
     {
       "char": "y",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "A",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=north]"
     }
   ]
 }

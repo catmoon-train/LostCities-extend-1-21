@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "e",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "i",
@@ -43,7 +43,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "l",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:composter[level=0]"
+      "block": "minecraft:composter"
     },
     {
       "char": "n",
@@ -63,7 +63,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "q",
@@ -75,7 +75,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_33/base2/lootr_chest"
     },
     {
@@ -100,7 +100,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:jungle_sign[waterlogged=false,rotation=6]",
+      "block": "minecraft:jungle_sign",
       "tag": {
         "id": "minecraft:sign"
       }
@@ -111,7 +111,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:jungle_sign[waterlogged=false,rotation=4]",
+      "block": "minecraft:jungle_sign",
       "tag": {
         "id": "minecraft:sign"
       }
@@ -138,14 +138,14 @@
     },
     {
       "char": "K",
-      "block": "minecraft:jungle_sign[waterlogged=false,rotation=5]",
+      "block": "minecraft:jungle_sign",
       "tag": {
         "id": "minecraft:sign"
       }
     },
     {
       "char": "L",
-      "block": "minecraft:jungle_fence[waterlogged=false]"
+      "block": "minecraft:jungle_fence"
     },
     {
       "char": "M",

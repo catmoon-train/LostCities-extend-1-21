@@ -49,7 +49,7 @@
       },
       {
         "char": "皆",
-        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=tall,up=true,west=tall]"
       },
       {
         "char": "ѓ",
@@ -61,23 +61,23 @@
       },
       {
         "char": "示",
-        "block": "minecraft:stone_brick_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[north=tall,south=tall]"
       },
       {
         "char": "ӡ",
-        "block": "minecraft:stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:stone_brick_wall[east=low,west=low]"
       },
       {
         "char": "仁",
-        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=tall,up=false,waterlogged=false,west=tall]"
+        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=tall,west=tall]"
       },
       {
         "char": "纸",
-        "block": "minecraft:stone_brick_wall[east=tall,north=none,south=none,up=false,waterlogged=false,west=tall]"
+        "block": "minecraft:stone_brick_wall[east=tall,west=tall]"
       },
       {
         "char": "x",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "门",
@@ -93,7 +93,7 @@
       },
       {
         "char": "3",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[up=true]"
       }
     ]
   },

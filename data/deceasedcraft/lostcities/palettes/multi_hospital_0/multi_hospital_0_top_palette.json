@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "b",
@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "f",
@@ -43,7 +43,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "l",
@@ -51,11 +51,11 @@
     },
     {
       "char": "m",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "n",
-      "block": "minecraft:stone_stairs[waterlogged=false,facing=east]"
+      "block": "minecraft:stone_stairs[facing=east]"
     },
     {
       "char": "o",

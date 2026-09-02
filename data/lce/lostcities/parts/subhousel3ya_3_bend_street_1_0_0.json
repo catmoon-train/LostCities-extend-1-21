@@ -57,7 +57,7 @@
       },
       {
         "char": "c",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "Ό",
@@ -101,7 +101,7 @@
       },
       {
         "char": "͵",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[up=true]"
       },
       {
         "char": "u",
@@ -117,19 +117,19 @@
       },
       {
         "char": "Ύ",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=false]"
       },
       {
         "char": "Μ",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "C",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=false]"
       },
       {
         "char": "0",
-        "block": "minecraft:campfire[facing=west,lit=false,signal_fire=false,waterlogged=false]",
+        "block": "minecraft:campfire[facing=west,lit=false]",
         "tag": {
           "x": -565,
           "y": -55,

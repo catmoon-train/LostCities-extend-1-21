@@ -70,7 +70,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=west]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=true,facing=west]"
     },
     {
       "char": "p",
@@ -144,11 +144,11 @@
     },
     {
       "char": "J",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "K",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     }
   ]
 }

@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "c",
@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:dark_oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=bottom]"
     },
     {
       "char": "g",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:dark_oak_slab[type=south,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "n",
@@ -63,15 +63,15 @@
     },
     {
       "char": "p",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "q",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "r",
-      "block": "minecraft:jungle_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:jungle_slab[type=bottom]"
     },
     {
       "char": "s",
@@ -79,7 +79,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:tuff_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=bottom]"
     },
     {
       "char": "u",
@@ -100,11 +100,11 @@
     },
     {
       "char": "x",
-      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+      "block": "minecraft:jungle_slab[type=top]"
     },
     {
       "char": "y",
-      "block": "minecraft:jungle_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:jungle_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "A",

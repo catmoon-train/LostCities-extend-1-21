@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "d",
@@ -23,47 +23,47 @@
     },
     {
       "char": "f",
-      "block": "minecraft:water[level=8]"
+      "block": "minecraft:water"
     },
     {
       "char": "g",
-      "block": "minecraft:bubble_column[drag=false]"
+      "block": "minecraft:bubble_column"
     },
     {
       "char": "h",
-      "block": "minecraft:bubble_column[drag=true]"
+      "block": "minecraft:bubble_column"
     },
     {
       "char": "i",
-      "block": "minecraft:water[level=0]"
+      "block": "minecraft:water"
     },
     {
       "char": "j",
-      "block": "minecraft:stone_brick_slab[type=east,waterlogged=true]"
+      "block": "minecraft:stone_brick_slab"
     },
     {
       "char": "k",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=true]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "l",
-      "block": "minecraft:stone_slab[type=top,waterlogged=true]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "m",
-      "block": "minecraft:cobblestone_slab[type=west,waterlogged=true]"
+      "block": "minecraft:cobblestone_slab"
     },
     {
       "char": "n",
-      "block": "minecraft:kelp[age=25]"
+      "block": "minecraft:kelp"
     },
     {
       "char": "o",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "p",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "q",
@@ -71,19 +71,19 @@
     },
     {
       "char": "r",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=true]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "s",
-      "block": "minecraft:mossy_cobblestone_stairs[waterlogged=true,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:mossy_cobblestone_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "t",
-      "block": "minecraft:mossy_cobblestone_stairs[waterlogged=true,half=top,facing=south,shape=straight]"
+      "block": "minecraft:mossy_cobblestone_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "u",
-      "block": "minecraft:stone_slab[type=top,waterlogged=true]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "w",
@@ -91,19 +91,19 @@
     },
     {
       "char": "x",
-      "block": "minecraft:mossy_cobblestone_wall[waterlogged=true,up=true]"
+      "block": "minecraft:mossy_cobblestone_wall[up=true]"
     },
     {
       "char": "y",
-      "block": "minecraft:stone_brick_stairs[waterlogged=true,half=top,facing=north,shape=straight]"
+      "block": "minecraft:stone_brick_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "A",
-      "block": "minecraft:stone_slab[type=top,waterlogged=true]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "B",
-      "block": "minecraft:mossy_cobblestone_stairs[waterlogged=true,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:mossy_cobblestone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "C",
@@ -115,11 +115,11 @@
     },
     {
       "char": "E",
-      "block": "minecraft:stone_slab[type=top,waterlogged=true]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "F",
-      "block": "minecraft:stone_brick_slab[type=south,waterlogged=true]"
+      "block": "minecraft:stone_brick_slab"
     },
     {
       "char": "I",
@@ -127,27 +127,27 @@
     },
     {
       "char": "J",
-      "block": "minecraft:mossy_cobblestone_slab[type=top,waterlogged=true]"
+      "block": "minecraft:mossy_cobblestone_slab[type=top]"
     },
     {
       "char": "K",
-      "block": "minecraft:mossy_cobblestone_stairs[waterlogged=true,half=top,facing=west,shape=straight]"
+      "block": "minecraft:mossy_cobblestone_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "L",
-      "block": "minecraft:stone_brick_slab[type=top,waterlogged=true]"
+      "block": "minecraft:stone_brick_slab[type=top]"
     },
     {
       "char": "M",
-      "block": "minecraft:cobblestone_slab[type=north,waterlogged=true]"
+      "block": "minecraft:cobblestone_slab"
     },
     {
       "char": "N",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "O",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=true,half=top,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "P",
@@ -155,7 +155,7 @@
     },
     {
       "char": "Q",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=true,half=top,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=south,shape=straight]"
     }
   ]
 }

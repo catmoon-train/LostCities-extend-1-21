@@ -17,7 +17,7 @@
       },
       {
         "char": "y",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "E",
@@ -65,7 +65,7 @@
       },
       {
         "char": "Η",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 567,
           "x": 260,
@@ -109,15 +109,15 @@
       },
       {
         "char": "Ћ",
-        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true]"
       },
       {
         "char": "Z",
-        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[east=true,west=true]"
       },
       {
         "char": "ά",
-        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[south=true,west=true]"
       },
       {
         "char": "x",
@@ -125,15 +125,15 @@
       },
       {
         "char": "ω",
-        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "Ў",
-        "block": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true,north=true]"
       },
       {
         "char": "ϻ",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 569,
           "x": 261,
@@ -169,7 +169,7 @@
       },
       {
         "char": "Г",
-        "block": "minecraft:spruce_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:spruce_wall_sign",
         "tag": {
           "z": 569,
           "x": 263,
@@ -205,7 +205,7 @@
       },
       {
         "char": "Ω",
-        "block": "minecraft:oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "Ђ",
@@ -213,7 +213,7 @@
       },
       {
         "char": "ϵ",
-        "block": "minecraft:spruce_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:spruce_wall_sign",
         "tag": {
           "z": 567,
           "x": 259,
@@ -249,11 +249,11 @@
       },
       {
         "char": "Љ",
-        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "O",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "ѥ",
@@ -261,11 +261,11 @@
       },
       {
         "char": "Ѳ",
-        "block": "minecraft:oak_stairs[facing=south,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=south,half=top,shape=inner_left]"
       },
       {
         "char": "Ѩ",
-        "block": "minecraft:oak_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=north,half=top,shape=inner_left]"
       },
       {
         "char": "J",
@@ -273,15 +273,15 @@
       },
       {
         "char": "ў",
-        "block": "minecraft:oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "ѭ",
-        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "Ѵ",
-        "block": "minecraft:spruce_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:spruce_wall_sign",
         "tag": {
           "z": 573,
           "x": 264,
@@ -325,7 +325,7 @@
       },
       {
         "char": "Ф",
-        "block": "minecraft:oak_stairs[facing=south,half=top,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=south,half=top,shape=inner_right]"
       },
       {
         "char": "Q",
@@ -337,7 +337,7 @@
       },
       {
         "char": "Ͷ",
-        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "firestation",
         "tag": {
           "z": 575,
@@ -361,7 +361,7 @@
       },
       {
         "char": "И",
-        "block": "minecraft:zombie_head[rotation=12]",
+        "block": "minecraft:zombie_head",
         "tag": {
           "z": 570,
           "x": 266,
@@ -380,7 +380,7 @@
       },
       {
         "char": "Ж",
-        "block": "minecraft:zombie_head[rotation=4]",
+        "block": "minecraft:zombie_head",
         "tag": {
           "z": 573,
           "x": 262,
@@ -395,7 +395,7 @@
       },
       {
         "char": "є",
-        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=false]"
       },
       {
         "char": "ͺ",
@@ -403,11 +403,11 @@
       },
       {
         "char": "U",
-        "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=double]"
       },
       {
         "char": "0",
-        "block": "minecraft:polished_andesite_slab[type=double,waterlogged=false]"
+        "block": "minecraft:polished_andesite_slab[type=double]"
       },
       {
         "char": "Υ",
@@ -427,19 +427,19 @@
       },
       {
         "char": "·",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[south=tall,up=true]"
       },
       {
         "char": "F",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=tall,south=tall]"
       },
       {
         "char": "ί",
-        "block": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "Σ",
-        "block": "minecraft:chest[facing=south,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "firestation",
         "tag": {
           "z": 565,
@@ -455,7 +455,7 @@
       },
       {
         "char": "ο",
-        "block": "minecraft:light_gray_bed[facing=north,occupied=false,part=head]",
+        "block": "minecraft:light_gray_bed",
         "tag": {
           "z": 565,
           "x": 274,
@@ -487,7 +487,7 @@
       },
       {
         "char": "μ",
-        "block": "minecraft:light_gray_bed[facing=north,occupied=false,part=foot]",
+        "block": "minecraft:light_gray_bed",
         "tag": {
           "z": 566,
           "x": 268,
@@ -498,15 +498,15 @@
       },
       {
         "char": "Ϋ",
-        "block": "minecraft:spruce_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "ϸ",
-        "block": "minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=east,half=lower,hinge=left,open=false]"
       },
       {
         "char": "ϳ",
-        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[south=true]"
       },
       {
         "char": "Ϭ",
@@ -518,11 +518,11 @@
       },
       {
         "char": "Ќ",
-        "block": "minecraft:dark_oak_door[facing=east,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=east,half=lower,hinge=right,open=false]"
       },
       {
         "char": "T",
-        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true,south=true]"
       },
       {
         "char": "Ά",
@@ -542,7 +542,7 @@
       },
       {
         "char": "ϔ",
-        "block": "minecraft:light_gray_bed[facing=west,occupied=false,part=head]",
+        "block": "minecraft:light_gray_bed",
         "tag": {
           "z": 574,
           "x": 272,
@@ -553,7 +553,7 @@
       },
       {
         "char": "ϥ",
-        "block": "minecraft:light_gray_bed[facing=west,occupied=false,part=foot]",
+        "block": "minecraft:light_gray_bed",
         "tag": {
           "z": 574,
           "x": 273,
@@ -564,7 +564,7 @@
       },
       {
         "char": "Ͼ",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "firestation",
         "tag": {
           "z": 572,
@@ -584,7 +584,7 @@
       },
       {
         "char": "η",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true]"
       },
       {
         "char": "ε",
@@ -592,7 +592,7 @@
       },
       {
         "char": "Ѐ",
-        "block": "minecraft:dispenser[facing=west,triggered=false]",
+        "block": "minecraft:dispenser[facing=west]",
         "tag": {
           "z": 575,
           "x": 266,
@@ -615,15 +615,15 @@
       },
       {
         "char": "Ϙ",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=top,open=false]"
       },
       {
         "char": "Џ",
-        "block": "minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=east,half=upper,hinge=left,open=false]"
       },
       {
         "char": "ϭ",
-        "block": "minecraft:dark_oak_door[facing=east,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=east,half=upper,hinge=right,open=false]"
       },
       {
         "char": "δ",

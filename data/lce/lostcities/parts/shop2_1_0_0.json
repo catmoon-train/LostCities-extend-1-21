@@ -37,11 +37,11 @@
       },
       {
         "char": "б",
-        "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=double]"
       },
       {
         "char": "Љ",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "E",
@@ -53,11 +53,11 @@
       },
       {
         "char": "ό",
-        "block": "minecraft:water[level=0]"
+        "block": "minecraft:water"
       },
       {
         "char": "π",
-        "block": "minecraft:mossy_cobblestone_slab[type=bottom,waterlogged=true]"
+        "block": "minecraft:mossy_cobblestone_slab[type=bottom]"
       },
       {
         "char": "ϯ",
@@ -95,7 +95,7 @@
       },
       {
         "char": "Ј",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=true]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "Κ",
@@ -103,7 +103,7 @@
       },
       {
         "char": "ϩ",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=true]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "U",
@@ -111,7 +111,7 @@
       },
       {
         "char": "о",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=true,south=true,west=true]"
       },
       {
         "char": "Щ",
@@ -127,7 +127,7 @@
       },
       {
         "char": "щ",
-        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=true]"
+        "block": "minecraft:cobblestone_slab[type=bottom]"
       },
       {
         "char": "c",
@@ -147,11 +147,11 @@
       },
       {
         "char": "ί",
-        "block": "minecraft:mossy_cobblestone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=bottom]"
       },
       {
         "char": "Г",
-        "block": "minecraft:skeleton_skull[rotation=1]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 500,
           "x": 95,
@@ -166,11 +166,11 @@
       },
       {
         "char": "Ч",
-        "block": "minecraft:acacia_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:acacia_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "ь",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "3",
@@ -178,11 +178,11 @@
       },
       {
         "char": "Σ",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "G",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "Ђ",
@@ -190,15 +190,15 @@
       },
       {
         "char": "Ϣ",
-        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=bottom]"
       },
       {
         "char": "а",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "χ",
-        "block": "minecraft:chest[facing=south,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "shoploot",
         "tag": {
           "z": 526,
@@ -214,7 +214,7 @@
       },
       {
         "char": "т",
-        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "ϓ",
@@ -238,7 +238,7 @@
       },
       {
         "char": "Λ",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "Ϻ",
@@ -254,7 +254,7 @@
       },
       {
         "char": "D",
-        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=bottom]"
       }
     ]
   },

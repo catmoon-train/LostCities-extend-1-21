@@ -9,15 +9,15 @@
       },
       {
         "char": "m",
-        "block": "minecraft:water[level=8]"
+        "block": "minecraft:water"
       },
       {
         "char": "җ",
-        "block": "minecraft:water[level=1]"
+        "block": "minecraft:water"
       },
       {
         "char": "诞",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=true]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "坏",
@@ -25,7 +25,7 @@
       },
       {
         "char": "卿",
-        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 963,
@@ -41,7 +41,7 @@
       },
       {
         "char": "尚",
-        "block": "minecraft:birch_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 945,
           "x": -465,
@@ -77,15 +77,15 @@
       },
       {
         "char": "ћ",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "碌",
-        "block": "minecraft:mossy_stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "敛",
-        "block": "minecraft:glass_pane[east=true,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=true,west=false]"
       },
       {
         "char": "挽",
@@ -101,23 +101,23 @@
       },
       {
         "char": "乡",
-        "block": "minecraft:ladder[facing=north,waterlogged=false]"
+        "block": "minecraft:ladder[facing=north]"
       },
       {
         "char": "叩",
-        "block": "minecraft:glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=true,south=false,west=false]"
       },
       {
         "char": "矫",
-        "block": "minecraft:glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=true,west=false]"
       },
       {
         "char": "哄",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "聆",
-        "block": "minecraft:glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=false,west=false]"
       },
       {
         "char": "腿",

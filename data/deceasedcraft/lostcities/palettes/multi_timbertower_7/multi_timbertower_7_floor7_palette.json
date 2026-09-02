@@ -7,15 +7,15 @@
     },
     {
       "char": "b",
-      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+      "block": "minecraft:birch_slab[type=top]"
     },
     {
       "char": "c",
-      "block": "minecraft:spruce_slab[type=north,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "d",
-      "block": "minecraft:spruce_slab[type=south,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "e",
@@ -27,11 +27,11 @@
     },
     {
       "char": "g",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "h",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "i",
@@ -76,7 +76,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:chiseled_bookshelf[slot_5_occupied=false,slot_4_occupied=false,facing=west,slot_2_occupied=false,slot_1_occupied=false,slot_3_occupied=false,slot_0_occupied=false]"
+      "block": "minecraft:chiseled_bookshelf[facing=west]"
     },
     {
       "char": "t",
@@ -84,7 +84,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:lectern[powered=false,has_book=false,facing=west]"
+      "block": "minecraft:lectern[facing=west]"
     },
     {
       "char": "w",
@@ -132,12 +132,12 @@
     },
     {
       "char": "K",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_timbertower_4/floor7/spruce_crate"
     },
     {
       "char": "L",
-      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=bottom]"
     },
     {
       "char": "M",
@@ -149,11 +149,11 @@
     },
     {
       "char": "O",
-      "block": "minecraft:brewing_stand[has_bottle_2=false,has_bottle_0=false,has_bottle_1=false]"
+      "block": "minecraft:brewing_stand"
     },
     {
       "char": "P",
-      "block": "minecraft:cave_vines[age=25,berries=false]"
+      "block": "minecraft:cave_vines[berries=false]"
     },
     {
       "char": "Q",
@@ -161,7 +161,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "S",

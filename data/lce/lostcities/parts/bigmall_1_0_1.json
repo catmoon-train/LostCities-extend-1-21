@@ -37,7 +37,7 @@
       },
       {
         "char": "充",
-        "block": "minecraft:redstone_wire[east=none,north=up,power=15,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,north=up,west=none]"
       },
       {
         "char": "线",
@@ -61,35 +61,35 @@
       },
       {
         "char": "嘻",
-        "block": "minecraft:redstone_wire[east=none,north=none,power=14,south=side,west=up]"
+        "block": "minecraft:redstone_wire[east=none,north=none,west=up]"
       },
       {
         "char": "杂",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=9,south=side,west=none]"
+        "block": "minecraft:redstone_wire[north=none,west=none]"
       },
       {
         "char": "停",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=10,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "智",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=11,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "边",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=12,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "治",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=13,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "趣",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=8,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "婚",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=15,south=side,west=none]"
+        "block": "minecraft:redstone_wire[north=none,west=none]"
       },
       {
         "char": "慧",
@@ -97,11 +97,11 @@
       },
       {
         "char": "消",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=6,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "纪",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=7,south=none,west=side]"
+        "block": "minecraft:redstone_wire[south=none]"
       },
       {
         "char": "君",
@@ -109,11 +109,11 @@
       },
       {
         "char": "免",
-        "block": "minecraft:redstone_wire[east=none,north=none,power=15,south=side,west=side]"
+        "block": "minecraft:redstone_wire[east=none,north=none]"
       },
       {
         "char": "园",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=14,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "a",

@@ -9,7 +9,7 @@
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "q",
@@ -25,7 +25,7 @@
       },
       {
         "char": "Y",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom]"
       },
       {
         "char": "d",
@@ -33,11 +33,11 @@
       },
       {
         "char": "Џ",
-        "block": "minecraft:glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=false,west=false]"
       },
       {
         "char": "ѵ",
-        "block": "minecraft:dark_oak_door[facing=west,half=upper,hinge=left,open=true,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=west,half=upper,hinge=left,open=true]"
       },
       {
         "char": "e",
@@ -49,7 +49,7 @@
       },
       {
         "char": "x",
-        "block": "minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[east=true,south=true]"
       },
       {
         "char": "k",
@@ -57,7 +57,7 @@
       },
       {
         "char": "h",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "c",
@@ -65,7 +65,7 @@
       },
       {
         "char": "y",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[north=true,west=true]"
       },
       {
         "char": "l",
@@ -73,19 +73,19 @@
       },
       {
         "char": "J",
-        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=top]"
       },
       {
         "char": "·",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "δ",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "χ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 591,
           "x": 143,
@@ -121,7 +121,7 @@
       },
       {
         "char": "ӎ",
-        "block": "minecraft:player_head[rotation=2]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 597,
           "x": 141,
@@ -136,7 +136,7 @@
       },
       {
         "char": "Σ",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "p",
@@ -144,7 +144,7 @@
       },
       {
         "char": "B",
-        "block": "minecraft:glass_pane[east=true,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=true,south=true,west=false]"
       },
       {
         "char": "b",
@@ -156,7 +156,7 @@
       },
       {
         "char": "M",
-        "block": "minecraft:glass_pane[east=true,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=true,south=false,west=true]"
       },
       {
         "char": "S",

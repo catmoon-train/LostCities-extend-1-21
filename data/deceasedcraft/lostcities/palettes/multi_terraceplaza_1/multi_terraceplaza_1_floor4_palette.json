@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:white_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:white_stained_glass_pane"
     },
     {
       "char": "b",
@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top]"
     },
     {
       "char": "d",
@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:stone_stairs[waterlogged=false,facing=south]"
+      "block": "minecraft:stone_stairs[facing=south]"
     },
     {
       "char": "h",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:polished_diorite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_diorite_slab[type=bottom]"
     },
     {
       "char": "j",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:jungle_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "m",
@@ -59,7 +59,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "p",
@@ -75,11 +75,11 @@
     },
     {
       "char": "s",
-      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:jungle_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "t",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "u",
@@ -87,7 +87,7 @@
     },
     {
       "char": "w",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "x",
@@ -99,7 +99,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "B",
@@ -107,11 +107,11 @@
     },
     {
       "char": "C",
-      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top]"
     },
     {
       "char": "D",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:oak_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "E",
@@ -119,11 +119,11 @@
     },
     {
       "char": "F",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "I",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "J",

@@ -16,7 +16,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:ladder[waterlogged=false,facing=north]"
+      "block": "minecraft:ladder[facing=north]"
     },
     {
       "char": "e",
@@ -50,16 +50,16 @@
     },
     {
       "char": "l",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "m",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_8/floor15/lootr_chest"
     },
     {
       "char": "n",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "o",
@@ -75,7 +75,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "s",

@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "j",
@@ -59,11 +59,11 @@
     },
     {
       "char": "o",
-      "block": "minecraft:deepslate_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:deepslate_brick_slab[type=bottom]"
     },
     {
       "char": "p",
-      "block": "minecraft:deepslate_brick_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:deepslate_brick_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "q",
@@ -107,19 +107,19 @@
     },
     {
       "char": "A",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=true,hinge=right,facing=west]"
+      "block": "minecraft:oak_door[half=lower,open=true,hinge=right,facing=west]"
     },
     {
       "char": "B",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "C",
-      "block": "minecraft:cobbled_deepslate_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:cobbled_deepslate_slab[type=bottom]"
     },
     {
       "char": "D",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "E",
@@ -143,19 +143,19 @@
     },
     {
       "char": "J",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=true,hinge=right,facing=west]"
+      "block": "minecraft:oak_door[half=upper,open=true,hinge=right,facing=west]"
     },
     {
       "char": "K",
-      "block": "minecraft:cobbled_deepslate_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:cobbled_deepslate_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "L",
-      "block": "minecraft:cobbled_deepslate_slab[type=top,waterlogged=false]"
+      "block": "minecraft:cobbled_deepslate_slab[type=top]"
     },
     {
       "char": "M",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "N",
@@ -163,7 +163,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:deepslate_brick_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:deepslate_brick_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "P",
@@ -191,7 +191,7 @@
     },
     {
       "char": "V",
-      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:stone_brick_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "W",
@@ -203,23 +203,23 @@
     },
     {
       "char": "Y",
-      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_brick_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "Z",
-      "block": "minecraft:deepslate_brick_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:deepslate_brick_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "0",
-      "block": "minecraft:deepslate_brick_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:deepslate_brick_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "1",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "2",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:oak_stairs[half=bottom,facing=north,shape=straight]"
     }
   ]
 }

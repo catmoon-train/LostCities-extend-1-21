@@ -13,7 +13,7 @@
       },
       {
         "char": "w",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "e",
@@ -63,31 +63,31 @@
       },
       {
         "char": "踵",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_right]"
       },
       {
         "char": "唆",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "峋",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=outer_right]"
       },
       {
         "char": "箍",
-        "block": "minecraft:diorite_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:diorite_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "烤",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "庇",
-        "block": "minecraft:diorite_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:diorite_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "嗅",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "鞦",
@@ -95,7 +95,7 @@
       },
       {
         "char": "袅",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "p",
@@ -103,7 +103,7 @@
       },
       {
         "char": "岛",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "吽",
@@ -119,7 +119,7 @@
       },
       {
         "char": "脯",
-        "block": "minecraft:skeleton_skull[rotation=4]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 426,
           "x": -89,
@@ -130,7 +130,7 @@
       },
       {
         "char": "疡",
-        "block": "minecraft:skeleton_skull[rotation=11]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 470,
           "x": -55,
@@ -145,7 +145,7 @@
       },
       {
         "char": "缱",
-        "block": "minecraft:skeleton_skull[rotation=5]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 474,
           "x": -68,
@@ -156,7 +156,7 @@
       },
       {
         "char": "颦",
-        "block": "minecraft:skeleton_skull[rotation=14]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 456,
           "x": -89,
@@ -171,7 +171,7 @@
       },
       {
         "char": "谯",
-        "block": "minecraft:skeleton_skull[rotation=9]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 455,
           "x": -25,
@@ -182,7 +182,7 @@
       },
       {
         "char": "钣",
-        "block": "minecraft:skeleton_skull[rotation=10]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 424,
           "x": -61,
@@ -193,7 +193,7 @@
       },
       {
         "char": "馊",
-        "block": "minecraft:skeleton_skull[rotation=6]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 445,
           "x": -54,
@@ -204,7 +204,7 @@
       },
       {
         "char": "晌",
-        "block": "minecraft:skeleton_skull[rotation=8]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 456,
           "x": -86,
@@ -227,7 +227,7 @@
       },
       {
         "char": "烸",
-        "block": "minecraft:skeleton_skull[rotation=15]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 466,
           "x": -77,
@@ -238,7 +238,7 @@
       },
       {
         "char": "钞",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 479,
           "x": -90,
@@ -282,7 +282,7 @@
       },
       {
         "char": "婢",
-        "block": "minecraft:skeleton_skull[rotation=12]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 463,
           "x": -30,
@@ -305,31 +305,31 @@
       },
       {
         "char": "Q",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "锁",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "y",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "N",
-        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=top]"
       },
       {
         "char": "暗",
-        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,west=true]"
       },
       {
         "char": "剖",
-        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,west=false]"
       },
       {
         "char": "辽",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=false]"
       },
       {
         "char": "划",

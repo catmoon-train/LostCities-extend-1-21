@@ -53,7 +53,7 @@
       },
       {
         "char": "尸",
-        "block": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:nether_brick_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "E",
@@ -65,51 +65,51 @@
       },
       {
         "char": "垄",
-        "block": "minecraft:redstone_wire[east=none,north=up,power=12,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,north=up,west=none]"
       },
       {
         "char": "谭",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=13,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "瀚",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=14,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "炫",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=15,south=none,west=none]"
+        "block": "minecraft:redstone_wire[south=none,west=none]"
       },
       {
         "char": "逮",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=2,south=none,west=none]"
+        "block": "minecraft:redstone_wire[south=none,west=none]"
       },
       {
         "char": "弧",
-        "block": "minecraft:redstone_wire[east=none,north=none,power=3,south=side,west=side]"
+        "block": "minecraft:redstone_wire[east=none,north=none]"
       },
       {
         "char": "琨",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=4,south=side,west=none]"
+        "block": "minecraft:redstone_wire[west=none]"
       },
       {
         "char": "凸",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=5,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "嫖",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=6,south=up,west=none]"
+        "block": "minecraft:redstone_wire[east=none,south=up,west=none]"
       },
       {
         "char": "茹",
-        "block": "minecraft:redstone_wire[east=none,north=up,power=9,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,north=up,west=none]"
       },
       {
         "char": "丰",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=10,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "禽",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=11,south=side,west=none]"
+        "block": "minecraft:redstone_wire[west=none]"
       }
     ]
   },

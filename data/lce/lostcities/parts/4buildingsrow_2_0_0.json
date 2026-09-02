@@ -49,7 +49,7 @@
       },
       {
         "char": "j",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "Α",
@@ -57,7 +57,7 @@
       },
       {
         "char": "ͷ",
-        "block": "minecraft:dark_oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:dark_oak_wall_sign",
         "tag": {
           "z": 635,
           "x": 192,
@@ -105,7 +105,7 @@
       },
       {
         "char": "Ή",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "я",
@@ -133,7 +133,7 @@
       },
       {
         "char": "Ҧ",
-        "block": "minecraft:iron_bars[east=true,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:iron_bars[east=true,north=true,south=true,west=false]"
       },
       {
         "char": "ѓ",
@@ -145,7 +145,7 @@
       },
       {
         "char": "Ќ",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 623,
           "x": 195,

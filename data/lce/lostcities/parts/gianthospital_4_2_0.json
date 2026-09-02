@@ -95,7 +95,7 @@
       },
       {
         "char": "滂",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=top]"
       },
       {
         "char": "s",
@@ -127,7 +127,7 @@
       },
       {
         "char": "a",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "J",
@@ -135,11 +135,11 @@
       },
       {
         "char": "k",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=top]"
       },
       {
         "char": "r",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=top]"
       },
       {
         "char": "I",
@@ -155,7 +155,7 @@
       },
       {
         "char": "褐",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "喇",
@@ -187,7 +187,7 @@
       },
       {
         "char": "靦",
-        "block": "minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "猝",
@@ -214,11 +214,11 @@
       },
       {
         "char": "腮",
-        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=top]"
       },
       {
         "char": "僮",
-        "block": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:nether_brick_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "漳",
@@ -247,7 +247,7 @@
       },
       {
         "char": "踯",
-        "block": "minecraft:acacia_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:acacia_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "熏",
@@ -255,7 +255,7 @@
       },
       {
         "char": "卞",
-        "block": "minecraft:white_bed[facing=east,occupied=false,part=foot]",
+        "block": "minecraft:white_bed",
         "tag": {
           "z": 422,
           "x": -58,
@@ -266,7 +266,7 @@
       },
       {
         "char": "炘",
-        "block": "minecraft:white_bed[facing=east,occupied=false,part=head]",
+        "block": "minecraft:white_bed",
         "tag": {
           "z": 413,
           "x": -57,
@@ -281,7 +281,7 @@
       },
       {
         "char": "箇",
-        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "颚",
@@ -304,7 +304,7 @@
       },
       {
         "char": "窘",
-        "block": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true,north=true]"
       },
       {
         "char": "纣",
@@ -331,7 +331,7 @@
       },
       {
         "char": "涨",
-        "block": "minecraft:glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=true,west=false]"
       },
       {
         "char": "漱",
@@ -347,7 +347,7 @@
       },
       {
         "char": "氦",
-        "block": "minecraft:player_head[rotation=11]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 412,
           "x": -57,
@@ -358,7 +358,7 @@
       },
       {
         "char": "暄",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=bottom,open=false]"
       },
       {
         "char": "捎",
@@ -370,7 +370,7 @@
       },
       {
         "char": "瓜",
-        "block": "minecraft:jungle_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:jungle_leaves"
       },
       {
         "char": "酷",
@@ -378,23 +378,23 @@
       },
       {
         "char": "Q",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "A",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "剌",
-        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "魇",
-        "block": "minecraft:smooth_quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "狒",
-        "block": "minecraft:smooth_quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "洄",
@@ -402,11 +402,11 @@
       },
       {
         "char": "羿",
-        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=bottom]"
       },
       {
         "char": "釜",
-        "block": "minecraft:smooth_quartz_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=north,half=top,shape=straight]"
       }
     ]
   },

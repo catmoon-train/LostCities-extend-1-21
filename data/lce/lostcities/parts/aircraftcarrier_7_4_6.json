@@ -37,7 +37,7 @@
       },
       {
         "char": "棺",
-        "block": "minecraft:light_blue_wall_banner[facing=east]",
+        "block": "minecraft:light_blue_wall_banner",
         "tag": {
           "z": 991,
           "Patterns": [
@@ -74,7 +74,7 @@
       },
       {
         "char": "z",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "f",

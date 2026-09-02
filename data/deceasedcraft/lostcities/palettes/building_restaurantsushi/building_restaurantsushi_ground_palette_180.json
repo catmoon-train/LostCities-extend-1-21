@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "k",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:birch_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:birch_leaves"
     },
     {
       "char": "m",
@@ -71,7 +71,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:birch_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "s",
@@ -108,7 +108,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:birch_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "D",
@@ -116,7 +116,7 @@
     },
     {
       "char": "E",
-      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:birch_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "F",
@@ -160,7 +160,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:birch_fence[waterlogged=false]"
+      "block": "minecraft:birch_fence"
     },
     {
       "char": "S",
@@ -168,7 +168,7 @@
     },
     {
       "char": "T",
-      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:birch_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "U",
@@ -209,7 +209,7 @@
     },
     {
       "char": "Y",
-      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:birch_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "Z",
@@ -221,7 +221,7 @@
     },
     {
       "char": "1",
-      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:birch_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "2",
@@ -257,7 +257,7 @@
     },
     {
       "char": "8",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_restaurantsushi/ground/lootr_chest"
     },
     {
@@ -266,15 +266,15 @@
     },
     {
       "char": "#",
-      "block": "minecraft:birch_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=east]"
+      "block": "minecraft:birch_trapdoor[half=bottom,open=false,facing=east]"
     },
     {
       "char": "$",
-      "block": "minecraft:birch_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:birch_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "%",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+      "block": "minecraft:cobblestone_wall"
     },
     {
       "char": "^",
@@ -298,7 +298,7 @@
     },
     {
       "char": "+",
-      "block": "minecraft:birch_fence[waterlogged=false]"
+      "block": "minecraft:birch_fence"
     },
     {
       "char": "-",
@@ -316,7 +316,7 @@
     },
     {
       "char": "{",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "}",
@@ -324,11 +324,11 @@
     },
     {
       "char": "|",
-      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+      "block": "minecraft:birch_slab[type=top]"
     },
     {
       "char": ";",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": ":",

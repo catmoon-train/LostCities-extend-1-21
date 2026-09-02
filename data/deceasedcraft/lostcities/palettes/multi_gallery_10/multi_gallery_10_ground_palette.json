@@ -11,11 +11,11 @@
     },
     {
       "char": "c",
-      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=true]"
+      "block": "minecraft:stone_brick_slab[type=bottom]"
     },
     {
       "char": "d",
-      "block": "minecraft:stone_brick_stairs[waterlogged=true,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_brick_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "e",
@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:stone_brick_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab"
     },
     {
       "char": "g",
@@ -31,43 +31,43 @@
     },
     {
       "char": "h",
-      "block": "minecraft:stone_brick_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab"
     },
     {
       "char": "i",
-      "block": "minecraft:stone_brick_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab"
     },
     {
       "char": "j",
-      "block": "minecraft:stone_brick_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab"
     },
     {
       "char": "k",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "l",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "m",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "n",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "o",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "p",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "q",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     }
   ]
 }

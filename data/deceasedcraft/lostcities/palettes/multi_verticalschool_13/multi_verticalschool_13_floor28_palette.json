@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "h",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "j",
@@ -67,7 +67,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:oak_slab[type=north,waterlogged=false]"
+      "block": "minecraft:oak_slab"
     },
     {
       "char": "r",
@@ -99,7 +99,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:oak_slab[type=south,waterlogged=false]"
+      "block": "minecraft:oak_slab"
     },
     {
       "char": "B",
@@ -154,11 +154,11 @@
     },
     {
       "char": "P",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "Q",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "R",
@@ -202,7 +202,7 @@
     },
     {
       "char": "1",
-      "block": "minecraft:decorated_pot[waterlogged=false,cracked=false,facing=south]",
+      "block": "minecraft:decorated_pot",
       "tag": {
         "id": "minecraft:decorated_pot"
       }
@@ -257,7 +257,7 @@
     },
     {
       "char": "#",
-      "block": "minecraft:note_block[powered=false,instrument=harp,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "$",
@@ -269,7 +269,7 @@
     },
     {
       "char": "^",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "&",

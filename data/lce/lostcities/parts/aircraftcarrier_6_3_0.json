@@ -37,7 +37,7 @@
       },
       {
         "char": "肃",
-        "block": "minecraft:redstone_ore[lit=false]"
+        "block": "minecraft:redstone_ore"
       },
       {
         "char": "手",
@@ -76,7 +76,7 @@
       },
       {
         "char": "擅",
-        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=outer_left]"
       },
       {
         "char": "鹤",
@@ -84,7 +84,7 @@
       },
       {
         "char": "J",
-        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "寮",
@@ -96,15 +96,15 @@
       },
       {
         "char": "z",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "x",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "s",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "旨",
@@ -112,7 +112,7 @@
       },
       {
         "char": "矽",
-        "block": "minecraft:black_bed[facing=south,occupied=false,part=foot]",
+        "block": "minecraft:black_bed",
         "tag": {
           "z": 963,
           "x": -460,
@@ -123,7 +123,7 @@
       },
       {
         "char": "C",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "撕",
@@ -131,7 +131,7 @@
       },
       {
         "char": "缉",
-        "block": "minecraft:black_bed[facing=south,occupied=false,part=head]",
+        "block": "minecraft:black_bed",
         "tag": {
           "z": 964,
           "x": -460,
@@ -142,7 +142,7 @@
       },
       {
         "char": "Ӯ",
-        "block": "minecraft:birch_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 955,
           "x": -442,
@@ -178,7 +178,7 @@
       },
       {
         "char": "戈",
-        "block": "minecraft:dark_oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:dark_oak_wall_sign",
         "tag": {
           "z": 964,
           "x": -451,
@@ -214,7 +214,7 @@
       },
       {
         "char": "ϑ",
-        "block": "minecraft:birch_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 953,
           "x": -527,
@@ -250,7 +250,7 @@
       },
       {
         "char": "邵",
-        "block": "minecraft:player_head[rotation=9]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 959,
           "x": -457,
@@ -261,7 +261,7 @@
       },
       {
         "char": "怠",
-        "block": "minecraft:player_head[rotation=10]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 960,
           "x": -457,
@@ -272,7 +272,7 @@
       },
       {
         "char": "肿",
-        "block": "minecraft:player_head[rotation=12]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 961,
           "x": -457,
@@ -283,7 +283,7 @@
       },
       {
         "char": "戳",
-        "block": "minecraft:player_head[rotation=14]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 962,
           "x": -457,
@@ -294,7 +294,7 @@
       },
       {
         "char": "蕙",
-        "block": "minecraft:player_head[rotation=15]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 963,
           "x": -457,
@@ -305,11 +305,11 @@
       },
       {
         "char": "蟑",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[north=none,west=none]"
       },
       {
         "char": "黏",
-        "block": "minecraft:redstone_wire[east=none,north=none,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire[east=none,north=none]"
       },
       {
         "char": "瘦",
@@ -317,7 +317,7 @@
       },
       {
         "char": "范",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=none,west=none]"
+        "block": "minecraft:redstone_wire[south=none,west=none]"
       },
       {
         "char": "尿",
@@ -345,23 +345,23 @@
       },
       {
         "char": "瘾",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[south=none]"
       },
       {
         "char": "顽",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "惭",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=1,south=none,west=side]"
+        "block": "minecraft:redstone_wire[east=none,south=none]"
       },
       {
         "char": "盏",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=15,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "黎",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "詹",
@@ -369,31 +369,31 @@
       },
       {
         "char": "溉",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=14,south=none,west=side]"
+        "block": "minecraft:redstone_wire[south=none]"
       },
       {
         "char": "犀",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=13,south=side,west=side]"
+        "block": "minecraft:redstone_wire[north=none]"
       },
       {
         "char": "瑟",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=14,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "驼",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=15,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "掰",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire[north=none]"
       },
       {
         "char": "衫",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[east=none,south=none]"
       },
       {
         "char": "柠",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=12,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "雕",
@@ -401,19 +401,19 @@
       },
       {
         "char": "迋",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=11,south=none,west=none]"
+        "block": "minecraft:redstone_wire[south=none,west=none]"
       },
       {
         "char": "蜡",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=12,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "棱",
-        "block": "minecraft:redstone_wire[east=none,north=none,power=13,south=side,west=side]"
+        "block": "minecraft:redstone_wire[east=none,north=none]"
       },
       {
         "char": "萱",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=14,south=none,west=none]"
+        "block": "minecraft:redstone_wire[south=none,west=none]"
       },
       {
         "char": "绮",

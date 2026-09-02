@@ -36,7 +36,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:stone_stairs[waterlogged=false,facing=west]"
+      "block": "minecraft:stone_stairs[facing=west]"
     },
     {
       "char": "j",
@@ -73,7 +73,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "r",
@@ -135,7 +135,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:oak_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "I",
@@ -147,7 +147,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:oak_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "L",
@@ -164,12 +164,12 @@
     },
     {
       "char": "O",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_officethefirst_0/base4/ironcrate"
     },
     {
       "char": "P",
-      "block": "minecraft:stone_stairs[waterlogged=false,facing=east]"
+      "block": "minecraft:stone_stairs[facing=east]"
     },
     {
       "char": "Q",

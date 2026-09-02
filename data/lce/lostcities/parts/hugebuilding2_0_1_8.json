@@ -37,7 +37,7 @@
       },
       {
         "char": "B",
-        "block": "minecraft:water[level=8]"
+        "block": "minecraft:water"
       },
       {
         "char": "ͻ",
@@ -49,11 +49,11 @@
       },
       {
         "char": "e",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "u",
-        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=top]"
       },
       {
         "char": "j",
@@ -73,7 +73,7 @@
       },
       {
         "char": "v",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight]"
       }
     ]
   },

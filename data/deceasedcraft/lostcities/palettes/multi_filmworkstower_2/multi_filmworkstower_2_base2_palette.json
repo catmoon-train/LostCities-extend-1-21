@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab[type=bottom]"
     },
     {
       "char": "f",
@@ -55,7 +55,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_filmworkstower_2/base2/lootr_chest"
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:rail[waterlogged=false,shape=north_south]"
+      "block": "minecraft:rail[shape=north_south]"
     },
     {
       "char": "q",
@@ -76,25 +76,25 @@
     },
     {
       "char": "s",
-      "block": "minecraft:red_bed[occupied=false,part=foot,facing=south]",
+      "block": "minecraft:red_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "t",
-      "block": "minecraft:red_bed[occupied=false,part=head,facing=south]",
+      "block": "minecraft:red_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "u",
-      "block": "minecraft:brick_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:brick_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "w",
-      "block": "minecraft:brick_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:brick_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "x",
@@ -122,11 +122,11 @@
     },
     {
       "char": "E",
-      "block": "minecraft:brick_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:brick_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "F",
-      "block": "minecraft:brick_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:brick_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "I",
@@ -142,15 +142,15 @@
     },
     {
       "char": "K",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "L",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "M",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "N",
@@ -158,7 +158,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:cobblestone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:cobblestone_slab"
     }
   ]
 }

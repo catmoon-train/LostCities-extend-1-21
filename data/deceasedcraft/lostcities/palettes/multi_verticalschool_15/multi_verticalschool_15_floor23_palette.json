@@ -15,11 +15,11 @@
     },
     {
       "char": "d",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "e",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=west]"
     },
     {
       "char": "f",
@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:smooth_red_sandstone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_red_sandstone_slab[type=bottom]"
     }
   ]
 }

@@ -31,15 +31,15 @@
     },
     {
       "char": "h",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "i",
-      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=bottom]"
     },
     {
       "char": "j",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "k",
@@ -51,11 +51,11 @@
     },
     {
       "char": "m",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "n",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "o",
@@ -101,19 +101,19 @@
     },
     {
       "char": "A",
-      "block": "minecraft:bamboo_fence[waterlogged=false]"
+      "block": "minecraft:bamboo_fence"
     },
     {
       "char": "B",
-      "block": "minecraft:bamboo[leaves=none,age=1,stage=0]"
+      "block": "minecraft:bamboo[age=1]"
     },
     {
       "char": "C",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "D",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "E",
@@ -121,15 +121,15 @@
     },
     {
       "char": "F",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "I",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "J",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_gallery_9/base2/iron_locker"
     },
     {
@@ -138,7 +138,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_gallery_9/base2/iron_locker"
     },
     {
@@ -158,11 +158,11 @@
     },
     {
       "char": "P",
-      "block": "minecraft:bamboo_fence[waterlogged=false]"
+      "block": "minecraft:bamboo_fence"
     },
     {
       "char": "Q",
-      "block": "minecraft:bamboo[leaves=small,age=1,stage=0]"
+      "block": "minecraft:bamboo[leaves=small,age=1]"
     },
     {
       "char": "R",
@@ -170,15 +170,15 @@
     },
     {
       "char": "S",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "T",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "U",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "V",
@@ -191,7 +191,7 @@
     },
     {
       "char": "X",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "Y",
@@ -215,7 +215,7 @@
     },
     {
       "char": "3",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "4",
@@ -223,7 +223,7 @@
     },
     {
       "char": "5",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "6",
@@ -231,7 +231,7 @@
     },
     {
       "char": "7",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_gallery_7/base2/spruce_drawer"
     },
     {
@@ -240,11 +240,11 @@
     },
     {
       "char": "9",
-      "block": "minecraft:green_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:green_stained_glass_pane"
     },
     {
       "char": "#",
-      "block": "minecraft:bamboo_fence[waterlogged=false]"
+      "block": "minecraft:bamboo_fence"
     },
     {
       "char": "$",
@@ -264,7 +264,7 @@
     },
     {
       "char": "*",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_gallery_7/base2/spruce_drawer"
     },
     {
@@ -277,7 +277,7 @@
     },
     {
       "char": "+",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "-",
@@ -285,11 +285,11 @@
     },
     {
       "char": "[",
-      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:gray_stained_glass_pane"
     },
     {
       "char": "]",
-      "block": "minecraft:bamboo[leaves=large,age=1,stage=0]"
+      "block": "minecraft:bamboo[leaves=large,age=1]"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "b",
@@ -11,15 +11,15 @@
     },
     {
       "char": "c",
-      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "d",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "e",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "f",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=north]"
+      "block": "minecraft:spruce_trapdoor[half=top,open=true,facing=north]"
     }
   ]
 }

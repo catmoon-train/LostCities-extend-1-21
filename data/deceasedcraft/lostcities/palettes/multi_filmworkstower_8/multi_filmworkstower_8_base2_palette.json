@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:ladder[waterlogged=false,facing=south]"
+      "block": "minecraft:ladder[facing=south]"
     },
     {
       "char": "h",
@@ -59,11 +59,11 @@
     },
     {
       "char": "n",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "o",
-      "block": "minecraft:dark_oak_door[half=lower,powered=true,open=true,hinge=right,facing=east]"
+      "block": "minecraft:dark_oak_door[half=lower,open=true,hinge=right,facing=east]"
     },
     {
       "char": "p",
@@ -113,16 +113,16 @@
     },
     {
       "char": "C",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_filmworkstower_8/base2/dark_fridge"
     },
     {
       "char": "D",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "E",
-      "block": "minecraft:dark_oak_door[half=upper,powered=true,open=true,hinge=right,facing=east]"
+      "block": "minecraft:dark_oak_door[half=upper,open=true,hinge=right,facing=east]"
     },
     {
       "char": "F",
@@ -138,11 +138,11 @@
     },
     {
       "char": "K",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "L",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "M",
@@ -150,7 +150,7 @@
     },
     {
       "char": "N",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "O",
@@ -171,11 +171,11 @@
     },
     {
       "char": "Q",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "R",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "S",

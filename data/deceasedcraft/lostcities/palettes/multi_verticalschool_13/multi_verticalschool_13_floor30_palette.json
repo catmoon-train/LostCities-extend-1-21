@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_6/floor30/medical_storage"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:hopper[enabled=true,facing=east]"
+      "block": "minecraft:hopper[facing=east]"
     },
     {
       "char": "k",
@@ -57,7 +57,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     }
   ]
 }

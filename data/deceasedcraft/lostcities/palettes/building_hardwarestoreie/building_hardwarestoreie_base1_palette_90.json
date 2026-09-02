@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:fire[up=false,age=0]"
+      "block": "minecraft:fire[up=false]"
     },
     {
       "char": "i",
@@ -76,7 +76,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "t",
@@ -84,7 +84,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "w",
@@ -112,12 +112,12 @@
     },
     {
       "char": "D",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_hardwarestoreie/base1/iron_locker"
     },
     {
       "char": "E",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "F",
@@ -153,7 +153,7 @@
     },
     {
       "char": "P",
-      "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=top]"
     },
     {
       "char": "Q",

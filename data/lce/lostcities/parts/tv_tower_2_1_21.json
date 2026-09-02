@@ -29,15 +29,15 @@
       },
       {
         "char": "Ӿ",
-        "block": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[east=tall,north=tall,up=true,west=tall]"
       },
       {
         "char": "Z",
-        "block": "minecraft:stone_brick_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:stone_brick_wall[east=tall,north=tall,up=true,west=tall]"
       },
       {
         "char": "G",
-        "block": "minecraft:iron_bars[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:iron_bars[east=false,north=false,south=true,west=false]"
       },
       {
         "char": "f",
@@ -45,27 +45,27 @@
       },
       {
         "char": "最",
-        "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:iron_bars[east=true,north=false,south=false,west=false]"
       },
       {
         "char": "及",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[east=tall,south=tall,up=true,west=tall]"
       },
       {
         "char": "ѹ",
-        "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:iron_bars[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "又",
-        "block": "minecraft:stone_brick_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:stone_brick_wall[east=tall,south=tall,up=true,west=tall]"
       },
       {
         "char": "法",
-        "block": "minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:iron_bars[east=false,north=false,south=false,west=true]"
       },
       {
         "char": "Y",
-        "block": "minecraft:iron_bars[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:iron_bars[east=false,north=true,south=false,west=false]"
       },
       {
         "char": "ѳ",
@@ -85,7 +85,7 @@
       },
       {
         "char": "龙",
-        "block": "minecraft:player_wall_head[facing=north]",
+        "block": "minecraft:player_wall_head",
         "tag": {
           "z": -286,
           "x": -26,
@@ -99,7 +99,7 @@
       },
       {
         "char": "名",
-        "block": "minecraft:dark_oak_fence_gate[facing=north,in_wall=false,open=true,powered=false]"
+        "block": "minecraft:dark_oak_fence_gate[facing=north,in_wall=false,open=true]"
       },
       {
         "char": "o",

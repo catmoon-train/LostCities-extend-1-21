@@ -57,11 +57,11 @@
       },
       {
         "char": "速",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[west=true]"
       },
       {
         "char": "孩",
-        "block": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[east=true]"
       },
       {
         "char": "把",
@@ -85,11 +85,11 @@
       },
       {
         "char": "u",
-        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=bottom]"
       },
       {
         "char": "自",
-        "block": "minecraft:smooth_quartz_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=double]"
       },
       {
         "char": "g",
@@ -101,7 +101,7 @@
       },
       {
         "char": "B",
-        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=top]"
       },
       {
         "char": "E",

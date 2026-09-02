@@ -41,23 +41,23 @@
       },
       {
         "char": "今",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=low,up=true]"
       },
       {
         "char": "至",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,south=low,up=true,west=low]"
       },
       {
         "char": "南",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=tall,south=tall,up=true,west=low]"
       },
       {
         "char": "伤",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[east=low,south=tall,up=true,west=tall]"
       },
       {
         "char": "阳",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_cobblestone_wall[south=tall,up=true,west=low]"
       },
       {
         "char": "j",
@@ -125,27 +125,27 @@
       },
       {
         "char": "鸟",
-        "block": "minecraft:mossy_cobblestone_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[east=low,north=low,south=low,up=true]"
       },
       {
         "char": "型",
-        "block": "minecraft:mossy_cobblestone_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_cobblestone_wall[east=low,north=low,south=low,west=low]"
       },
       {
         "char": "习",
-        "block": "minecraft:mossy_cobblestone_wall[east=tall,north=low,south=tall,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_cobblestone_wall[east=tall,north=low,south=tall,up=true,west=low]"
       },
       {
         "char": "杨",
-        "block": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=true,west=tall]"
       },
       {
         "char": "及",
-        "block": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,north=low,south=low,west=low]"
       },
       {
         "char": "几",
-        "block": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[north=low,south=low,up=true,west=low]"
       },
       {
         "char": "过",
@@ -165,47 +165,47 @@
       },
       {
         "char": "N",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[up=true]"
       },
       {
         "char": "转",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,south=tall,up=true]"
       },
       {
         "char": "室",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:mossy_cobblestone_wall[south=tall,up=true,west=tall]"
       },
       {
         "char": "费",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[south=tall,up=true]"
       },
       {
         "char": "特",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[up=true]"
       },
       {
         "char": "歌",
-        "block": "minecraft:mossy_cobblestone_wall[east=tall,north=none,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[east=tall,south=tall,up=true]"
       },
       {
         "char": "共",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[north=tall,south=tall,up=true,west=tall]"
       },
       {
         "char": "K",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "Ҩ",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=top]"
       },
       {
         "char": "位",
-        "block": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=double]"
       },
       {
         "char": "ҧ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 463,
           "x": 74,
@@ -241,11 +241,11 @@
       },
       {
         "char": "n",
-        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+        "block": "minecraft:oak_slab[type=top]"
       },
       {
         "char": "Ѕ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 471,
           "x": 31,
@@ -281,23 +281,23 @@
       },
       {
         "char": "声",
-        "block": "minecraft:mossy_cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=top]"
       },
       {
         "char": "表",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=tall,south=tall]"
       },
       {
         "char": "指",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[south=tall,up=true,west=tall]"
       },
       {
         "char": "换",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[north=tall,south=tall]"
       },
       {
         "char": "时",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 434,
           "x": 58,
@@ -333,7 +333,7 @@
       },
       {
         "char": "耶",
-        "block": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,north=tall,south=tall,up=true]"
       },
       {
         "char": "g",
@@ -341,7 +341,7 @@
       },
       {
         "char": "球",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 424,
           "x": 152,

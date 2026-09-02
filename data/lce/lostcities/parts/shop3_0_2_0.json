@@ -91,23 +91,23 @@
       },
       {
         "char": "e",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "Ϡ",
-        "block": "minecraft:nether_brick_fence[east=true,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:nether_brick_fence[east=true,north=true,west=true]"
       },
       {
         "char": "Φ",
-        "block": "minecraft:nether_brick_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:nether_brick_fence[north=true,west=true]"
       },
       {
         "char": "к",
-        "block": "minecraft:nether_brick_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:nether_brick_fence[east=true]"
       },
       {
         "char": "Щ",
-        "block": "minecraft:nether_brick_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:nether_brick_fence[east=true,west=true]"
       },
       {
         "char": "i",
@@ -115,7 +115,7 @@
       },
       {
         "char": "ы",
-        "block": "minecraft:spruce_door[facing=south,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:spruce_door[facing=south,half=lower,hinge=left,open=false]"
       },
       {
         "char": "O",
@@ -127,7 +127,7 @@
       },
       {
         "char": "Ζ",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "ω",
@@ -187,7 +187,7 @@
       },
       {
         "char": "Ϫ",
-        "block": "minecraft:skeleton_skull[rotation=7]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 531,
           "x": 128,
@@ -198,7 +198,7 @@
       },
       {
         "char": "Ώ",
-        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=bottom]"
       },
       {
         "char": "M",
@@ -206,7 +206,7 @@
       },
       {
         "char": "д",
-        "block": "minecraft:spruce_door[facing=south,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:spruce_door[facing=south,half=upper,hinge=left,open=false]"
       },
       {
         "char": "ѣ",
@@ -250,7 +250,7 @@
       },
       {
         "char": "Ι",
-        "block": "minecraft:polished_andesite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:polished_andesite_slab[type=top]"
       },
       {
         "char": "Μ",
@@ -258,7 +258,7 @@
       },
       {
         "char": "t",
-        "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=top]"
       },
       {
         "char": "C",
@@ -270,7 +270,7 @@
       },
       {
         "char": "т",
-        "block": "minecraft:zombie_head[rotation=2]",
+        "block": "minecraft:zombie_head",
         "tag": {
           "z": 561,
           "x": 131,
@@ -281,7 +281,7 @@
       },
       {
         "char": "у",
-        "block": "minecraft:zombie_head[rotation=1]",
+        "block": "minecraft:zombie_head",
         "tag": {
           "z": 561,
           "x": 142,
@@ -304,19 +304,19 @@
       },
       {
         "char": "Η",
-        "block": "minecraft:smooth_quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "Κ",
-        "block": "minecraft:smooth_quartz_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "ͻ",
-        "block": "minecraft:smooth_quartz_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "r",
-        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=bottom]"
       },
       {
         "char": "U",
@@ -336,23 +336,23 @@
       },
       {
         "char": "ϰ",
-        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "ђ",
-        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=outer_right]"
       },
       {
         "char": "Π",
-        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "μ",
-        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=east,half=bottom,shape=outer_left]"
       },
       {
         "char": "К",
-        "block": "minecraft:smooth_quartz_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=west,half=bottom,shape=outer_right]"
       }
     ]
   },

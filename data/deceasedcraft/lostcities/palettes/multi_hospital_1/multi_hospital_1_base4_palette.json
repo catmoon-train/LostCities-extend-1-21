@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:water[level=0]"
+      "block": "minecraft:water"
     },
     {
       "char": "d",
@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:bubble_column[drag=false]"
+      "block": "minecraft:bubble_column"
     },
     {
       "char": "f",
@@ -43,7 +43,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:ladder[waterlogged=false,facing=east]"
+      "block": "minecraft:ladder[facing=east]"
     },
     {
       "char": "l",
@@ -112,7 +112,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "C",

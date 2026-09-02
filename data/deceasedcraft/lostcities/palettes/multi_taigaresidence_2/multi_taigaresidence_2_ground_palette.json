@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "h",
@@ -51,11 +51,11 @@
     },
     {
       "char": "m",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=true,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=true,hinge=left,facing=north]"
     },
     {
       "char": "n",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=true,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=true,hinge=right,facing=north]"
     },
     {
       "char": "o",
@@ -103,7 +103,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "C",
@@ -135,7 +135,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:water[level=0]"
+      "block": "minecraft:water"
     },
     {
       "char": "M",
@@ -143,11 +143,11 @@
     },
     {
       "char": "N",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=true,hinge=left,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=true,hinge=left,facing=north]"
     },
     {
       "char": "O",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=true,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=true,hinge=right,facing=north]"
     },
     {
       "char": "P",
@@ -163,7 +163,7 @@
     },
     {
       "char": "S",
-      "block": "minecraft:spruce_stairs[waterlogged=false,facing=east]"
+      "block": "minecraft:spruce_stairs[facing=east]"
     },
     {
       "char": "T",
@@ -199,7 +199,7 @@
     },
     {
       "char": "1",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_taigaresidence_2/ground/lootr_chest"
     },
     {
@@ -216,7 +216,7 @@
     },
     {
       "char": "5",
-      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:spruce_leaves"
     },
     {
       "char": "6",

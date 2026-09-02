@@ -73,7 +73,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "p",
@@ -203,7 +203,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:polished_deepslate_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_deepslate_slab[type=bottom]"
     },
     {
       "char": "S",
@@ -297,7 +297,7 @@
     },
     {
       "char": "Y",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "Z",
@@ -333,7 +333,7 @@
     },
     {
       "char": "3",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_casino_5/base8/ice"
     },
     {

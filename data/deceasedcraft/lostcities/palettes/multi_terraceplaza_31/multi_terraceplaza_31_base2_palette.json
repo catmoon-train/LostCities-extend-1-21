@@ -68,11 +68,11 @@
     },
     {
       "char": "q",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "r",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "s",
@@ -88,7 +88,7 @@
     },
     {
       "char": "w",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "x",
@@ -96,11 +96,11 @@
     },
     {
       "char": "y",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "A",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_31/base2/lootr_chest"
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:composter[level=0]"
+      "block": "minecraft:composter"
     },
     {
       "char": "D",
@@ -152,7 +152,7 @@
     },
     {
       "char": "N",
-      "block": "minecraft:jungle_fence[waterlogged=false]"
+      "block": "minecraft:jungle_fence"
     },
     {
       "char": "O",
@@ -232,7 +232,7 @@
     },
     {
       "char": "7",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "8",

@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:water[level=0]"
+      "block": "minecraft:water"
     },
     {
       "char": "h",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:bubble_column[drag=false]"
+      "block": "minecraft:bubble_column"
     },
     {
       "char": "j",
@@ -56,15 +56,15 @@
     },
     {
       "char": "n",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "o",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "p",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "q",
@@ -112,7 +112,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:brewing_stand[has_bottle_2=false,has_bottle_0=false,has_bottle_1=false]"
+      "block": "minecraft:brewing_stand"
     },
     {
       "char": "D",
@@ -124,11 +124,11 @@
     },
     {
       "char": "F",
-      "block": "minecraft:ladder[waterlogged=false,facing=east]"
+      "block": "minecraft:ladder[facing=east]"
     },
     {
       "char": "I",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "J",

@@ -48,7 +48,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "k",
@@ -56,7 +56,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "m",
@@ -71,11 +71,11 @@
     },
     {
       "char": "o",
-      "block": "minecraft:quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:quartz_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "p",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "q",
@@ -124,11 +124,11 @@
     },
     {
       "char": "C",
-      "block": "minecraft:detector_rail[waterlogged=false,powered=false,shape=north_south]"
+      "block": "minecraft:detector_rail[powered=false,shape=north_south]"
     },
     {
       "char": "D",
-      "block": "minecraft:rail[waterlogged=false,shape=north_south]"
+      "block": "minecraft:rail[shape=north_south]"
     },
     {
       "char": "E",

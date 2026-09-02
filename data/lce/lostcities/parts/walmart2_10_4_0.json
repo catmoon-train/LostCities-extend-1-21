@@ -41,7 +41,7 @@
       },
       {
         "char": "提",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "q",
@@ -69,23 +69,23 @@
       },
       {
         "char": "Ҩ",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=top]"
       },
       {
         "char": "n",
-        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+        "block": "minecraft:oak_slab[type=top]"
       },
       {
         "char": "Ҭ",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "K",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "时",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 434,
           "x": 58,
@@ -129,7 +129,7 @@
       },
       {
         "char": "城",
-        "block": "minecraft:rail[shape=north_south,waterlogged=false]"
+        "block": "minecraft:rail[shape=north_south]"
       },
       {
         "char": "须",
@@ -137,19 +137,19 @@
       },
       {
         "char": "年",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "变",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[up=true,west=low]"
       },
       {
         "char": "告",
-        "block": "minecraft:spruce_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "ҧ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 463,
           "x": 74,
@@ -185,11 +185,11 @@
       },
       {
         "char": "站",
-        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+        "block": "minecraft:spruce_slab[type=top]"
       },
       {
         "char": "Ѕ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 471,
           "x": 31,
@@ -225,7 +225,7 @@
       },
       {
         "char": "社",
-        "block": "minecraft:spruce_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "效",
@@ -233,7 +233,7 @@
       },
       {
         "char": "甚",
-        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "研",
@@ -245,7 +245,7 @@
       },
       {
         "char": "N",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[up=true]"
       },
       {
         "char": "ҩ",
@@ -253,7 +253,7 @@
       },
       {
         "char": "再",
-        "block": "minecraft:dark_oak_slab[type=double,waterlogged=false]"
+        "block": "minecraft:dark_oak_slab[type=double]"
       },
       {
         "char": "Ү",
@@ -261,11 +261,11 @@
       },
       {
         "char": "t",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "听",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,west=low]"
       }
     ]
   },

@@ -57,7 +57,7 @@
       },
       {
         "char": "Ҭ",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "f",
@@ -73,7 +73,7 @@
       },
       {
         "char": "传",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[north=true,south=true]"
       },
       {
         "char": "西",
@@ -81,7 +81,7 @@
       },
       {
         "char": "联",
-        "block": "minecraft:dark_oak_fence_gate[facing=east,in_wall=false,open=false,powered=false]"
+        "block": "minecraft:dark_oak_fence_gate[facing=east,in_wall=false,open=false]"
       },
       {
         "char": "体",
@@ -125,7 +125,7 @@
       },
       {
         "char": "後",
-        "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:iron_bars[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "A",
@@ -141,7 +141,7 @@
       },
       {
         "char": "久",
-        "block": "minecraft:oak_sign[rotation=4,waterlogged=false]",
+        "block": "minecraft:oak_sign",
         "tag": {
           "z": 483,
           "x": 81,

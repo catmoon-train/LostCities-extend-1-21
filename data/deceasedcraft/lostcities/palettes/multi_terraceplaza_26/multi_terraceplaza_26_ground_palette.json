@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "m",
@@ -71,7 +71,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:birch_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+      "block": "minecraft:birch_trapdoor[half=top,open=false,facing=west]"
     },
     {
       "char": "s",
@@ -237,7 +237,7 @@
     },
     {
       "char": "6",
-      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top]"
     },
     {
       "char": "7",

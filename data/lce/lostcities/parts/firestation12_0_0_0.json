@@ -33,11 +33,11 @@
       },
       {
         "char": "ͷ",
-        "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=true]"
+        "block": "minecraft:polished_andesite_slab[type=bottom]"
       },
       {
         "char": "ͱ",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=true]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "m",
@@ -49,7 +49,7 @@
       },
       {
         "char": "Σ",
-        "block": "minecraft:chest[facing=south,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "firestation",
         "tag": {
           "z": 565,
@@ -85,7 +85,7 @@
       },
       {
         "char": "y",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "P",
@@ -121,11 +121,11 @@
       },
       {
         "char": "В",
-        "block": "minecraft:oak_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "ѕ",
-        "block": "minecraft:oak_stairs[facing=east,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=east,half=top,shape=inner_left]"
       },
       {
         "char": "Q",
@@ -141,7 +141,7 @@
       },
       {
         "char": "Ї",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 566,
           "x": 259,
@@ -177,11 +177,11 @@
       },
       {
         "char": "Ω",
-        "block": "minecraft:oak_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "ϵ",
-        "block": "minecraft:spruce_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:spruce_wall_sign",
         "tag": {
           "z": 567,
           "x": 259,
@@ -217,11 +217,11 @@
       },
       {
         "char": "Љ",
-        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "ѣ",
-        "block": "minecraft:oak_stairs[facing=north,half=top,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=north,half=top,shape=outer_right]"
       },
       {
         "char": "Κ",
@@ -229,7 +229,7 @@
       },
       {
         "char": "Y",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "а",
@@ -241,7 +241,7 @@
       },
       {
         "char": "ѫ",
-        "block": "minecraft:spruce_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:spruce_wall_sign",
         "tag": {
           "z": 570,
           "x": 261,
@@ -277,11 +277,11 @@
       },
       {
         "char": "ѧ",
-        "block": "minecraft:acacia_door[facing=east,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=east,half=lower,hinge=left,open=false]"
       },
       {
         "char": "Е",
-        "block": "minecraft:acacia_door[facing=west,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=west,half=lower,hinge=right,open=false]"
       },
       {
         "char": "њ",
@@ -289,15 +289,15 @@
       },
       {
         "char": "ώ",
-        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "Ы",
-        "block": "minecraft:acacia_door[facing=east,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=east,half=lower,hinge=right,open=false]"
       },
       {
         "char": "л",
-        "block": "minecraft:acacia_door[facing=west,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=west,half=lower,hinge=left,open=false]"
       },
       {
         "char": "Й",
@@ -305,7 +305,7 @@
       },
       {
         "char": "ш",
-        "block": "minecraft:iron_door[facing=north,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=north,half=lower,hinge=right,open=false]"
       },
       {
         "char": "Μ",
@@ -321,7 +321,7 @@
       },
       {
         "char": "T",
-        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true,south=true]"
       },
       {
         "char": "΅",
@@ -333,7 +333,7 @@
       },
       {
         "char": "η",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true]"
       },
       {
         "char": "B",
@@ -349,7 +349,7 @@
       },
       {
         "char": "0",
-        "block": "minecraft:polished_andesite_slab[type=double,waterlogged=false]"
+        "block": "minecraft:polished_andesite_slab[type=double]"
       },
       {
         "char": "b",
@@ -361,7 +361,7 @@
       },
       {
         "char": "Ю",
-        "block": "minecraft:zombie_head[rotation=7]",
+        "block": "minecraft:zombie_head",
         "tag": {
           "z": 565,
           "x": 260,
@@ -372,7 +372,7 @@
       },
       {
         "char": "Ѫ",
-        "block": "minecraft:zombie_head[rotation=11]",
+        "block": "minecraft:zombie_head",
         "tag": {
           "z": 566,
           "x": 261,
@@ -383,35 +383,35 @@
       },
       {
         "char": "΄",
-        "block": "minecraft:light_gray_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:light_gray_stained_glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "ͻ",
-        "block": "minecraft:ladder[facing=west,waterlogged=false]"
+        "block": "minecraft:ladder[facing=west]"
       },
       {
         "char": "Ь",
-        "block": "minecraft:acacia_door[facing=east,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=east,half=upper,hinge=left,open=false]"
       },
       {
         "char": "э",
-        "block": "minecraft:acacia_door[facing=west,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=west,half=upper,hinge=right,open=false]"
       },
       {
         "char": "ѳ",
-        "block": "minecraft:acacia_door[facing=east,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=east,half=upper,hinge=right,open=false]"
       },
       {
         "char": "ѵ",
-        "block": "minecraft:acacia_door[facing=west,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=west,half=upper,hinge=left,open=false]"
       },
       {
         "char": "ъ",
-        "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:black_stained_glass_pane[east=false,north=false,south=false,west=true]"
       },
       {
         "char": "ѷ",
-        "block": "minecraft:zombie_head[rotation=10]",
+        "block": "minecraft:zombie_head",
         "tag": {
           "z": 572,
           "x": 262,
@@ -422,7 +422,7 @@
       },
       {
         "char": "е",
-        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,west=false]"
       },
       {
         "char": "ы",
@@ -430,7 +430,7 @@
       },
       {
         "char": "Ѱ",
-        "block": "minecraft:iron_door[facing=north,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=north,half=upper,hinge=right,open=false]"
       },
       {
         "char": "ͺ",
@@ -442,7 +442,7 @@
       },
       {
         "char": "Θ",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "E",
@@ -450,7 +450,7 @@
       },
       {
         "char": "ι",
-        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:black_stained_glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "ϕ",
@@ -462,11 +462,11 @@
       },
       {
         "char": "П",
-        "block": "minecraft:light_gray_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:light_gray_stained_glass_pane[east=false,north=true,south=false,west=false]"
       },
       {
         "char": "U",
-        "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=double]"
       },
       {
         "char": "K",

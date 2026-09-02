@@ -3,31 +3,31 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:redstone_wire[power=0,west=side,east=none,south=none,north=side]"
+      "block": "minecraft:redstone_wire[east=none,south=none]"
     },
     {
       "char": "b",
-      "block": "minecraft:redstone_wire[power=0,west=none,east=side,south=side,north=none]"
+      "block": "minecraft:redstone_wire[west=none,north=none]"
     },
     {
       "char": "c",
-      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=side,north=side]"
+      "block": "minecraft:redstone_wire"
     },
     {
       "char": "d",
-      "block": "minecraft:redstone_wire[power=0,west=none,east=none,south=side,north=side]"
+      "block": "minecraft:redstone_wire[west=none,east=none]"
     },
     {
       "char": "e",
-      "block": "minecraft:redstone_wire[power=0,west=none,east=side,south=none,north=side]"
+      "block": "minecraft:redstone_wire[west=none,south=none]"
     },
     {
       "char": "f",
-      "block": "minecraft:redstone_wire[power=0,west=side,east=none,south=side,north=none]"
+      "block": "minecraft:redstone_wire[east=none,north=none]"
     },
     {
       "char": "g",
-      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=none,north=none]"
+      "block": "minecraft:redstone_wire[south=none,north=none]"
     }
   ]
 }

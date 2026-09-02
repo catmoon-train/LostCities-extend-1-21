@@ -69,7 +69,7 @@
       },
       {
         "char": "合",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "请",
@@ -77,11 +77,11 @@
       },
       {
         "char": "推",
-        "block": "minecraft:mossy_cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[east=low,up=true]"
       },
       {
         "char": "需",
-        "block": "minecraft:mossy_cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_cobblestone_wall[east=low,west=low]"
       },
       {
         "char": "f",
@@ -97,7 +97,7 @@
       },
       {
         "char": "八",
-        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "walmart",
         "tag": {
           "z": 436,
@@ -117,7 +117,7 @@
       },
       {
         "char": "校",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[south=tall,up=true]"
       },
       {
         "char": "议",
@@ -125,7 +125,7 @@
       },
       {
         "char": "印",
-        "block": "minecraft:oak_door[facing=east,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=east,half=lower,hinge=right,open=false]"
       },
       {
         "char": "每",
@@ -154,19 +154,19 @@
       },
       {
         "char": "九",
-        "block": "minecraft:oak_door[facing=east,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=east,half=lower,hinge=left,open=false]"
       },
       {
         "char": "今",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=low,up=true]"
       },
       {
         "char": "听",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,west=low]"
       },
       {
         "char": "表",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=tall,south=tall]"
       },
       {
         "char": "闻",
@@ -191,7 +191,7 @@
       },
       {
         "char": "务",
-        "block": "minecraft:chest[facing=west,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "walmart",
         "tag": {
           "z": 439,
@@ -207,11 +207,11 @@
       },
       {
         "char": "福",
-        "block": "minecraft:mossy_cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_cobblestone_wall[east=tall,up=true,west=low]"
       },
       {
         "char": "卖",
-        "block": "minecraft:chest[facing=west,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "walmart",
         "tag": {
           "z": 440,
@@ -227,7 +227,7 @@
       },
       {
         "char": "竹",
-        "block": "minecraft:daylight_detector[inverted=false,power=6]",
+        "block": "minecraft:daylight_detector[inverted=false]",
         "tag": {
           "z": 446,
           "x": 128,
@@ -238,15 +238,15 @@
       },
       {
         "char": "节",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[south=low,up=true]"
       },
       {
         "char": "持",
-        "block": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=low,south=low,up=true]"
       },
       {
         "char": "欢",
-        "block": "minecraft:daylight_detector[inverted=false,power=7]",
+        "block": "minecraft:daylight_detector[inverted=false]",
         "tag": {
           "z": 441,
           "x": 126,
@@ -273,7 +273,7 @@
       },
       {
         "char": "投",
-        "block": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=low,south=tall,up=true]"
       },
       {
         "char": "体",
@@ -285,11 +285,11 @@
       },
       {
         "char": "料",
-        "block": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=low,up=true]"
       },
       {
         "char": "免",
-        "block": "minecraft:oak_door[facing=north,half=lower,hinge=left,open=true,powered=false]"
+        "block": "minecraft:oak_door[facing=north,half=lower,hinge=left,open=true]"
       },
       {
         "char": "h",
@@ -297,11 +297,11 @@
       },
       {
         "char": "环",
-        "block": "minecraft:oak_door[facing=north,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=north,half=lower,hinge=right,open=false]"
       },
       {
         "char": "N",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[up=true]"
       },
       {
         "char": "D",
@@ -309,15 +309,15 @@
       },
       {
         "char": "特",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[up=true]"
       },
       {
         "char": "硬",
-        "block": "minecraft:oak_door[facing=east,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=east,half=upper,hinge=right,open=false]"
       },
       {
         "char": "准",
-        "block": "minecraft:oak_door[facing=east,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=east,half=upper,hinge=left,open=false]"
       },
       {
         "char": "y",
@@ -325,7 +325,7 @@
       },
       {
         "char": "Ѕ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 471,
           "x": 31,
@@ -361,15 +361,15 @@
       },
       {
         "char": "内",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,up=true]"
       },
       {
         "char": "徵",
-        "block": "minecraft:oak_door[facing=north,half=upper,hinge=left,open=true,powered=false]"
+        "block": "minecraft:oak_door[facing=north,half=upper,hinge=left,open=true]"
       },
       {
         "char": "助",
-        "block": "minecraft:oak_door[facing=north,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=north,half=upper,hinge=right,open=false]"
       },
       {
         "char": "z",
@@ -377,11 +377,11 @@
       },
       {
         "char": "位",
-        "block": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=double]"
       },
       {
         "char": "ҧ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 463,
           "x": 74,
@@ -417,15 +417,15 @@
       },
       {
         "char": "n",
-        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+        "block": "minecraft:oak_slab[type=top]"
       },
       {
         "char": "Ҩ",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=top]"
       },
       {
         "char": "K",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "更",
@@ -441,27 +441,27 @@
       },
       {
         "char": "至",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,south=low,up=true,west=low]"
       },
       {
         "char": "口",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[south=low,up=true,west=low]"
       },
       {
         "char": "及",
-        "block": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,north=low,south=low,west=low]"
       },
       {
         "char": "几",
-        "block": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[north=low,south=low,up=true,west=low]"
       },
       {
         "char": "常",
-        "block": "minecraft:cobblestone_wall[east=low,north=low,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,north=low,up=true,west=low]"
       },
       {
         "char": "究",
-        "block": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[north=low,up=true,west=low]"
       },
       {
         "char": "E",
@@ -473,7 +473,7 @@
       },
       {
         "char": "整",
-        "block": "minecraft:mossy_cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[east=tall,up=true]"
       }
     ]
   },

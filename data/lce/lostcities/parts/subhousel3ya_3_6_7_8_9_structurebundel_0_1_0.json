@@ -33,7 +33,7 @@
       },
       {
         "char": "清",
-        "block": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "0",
@@ -45,11 +45,11 @@
       },
       {
         "char": "ѝ",
-        "block": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "b",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "e",
@@ -101,11 +101,11 @@
       },
       {
         "char": "X",
-        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "ΰ",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "ϙ",
@@ -137,15 +137,15 @@
       },
       {
         "char": "Ϙ",
-        "block": "minecraft:oak_leaves[distance=3,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "Ϫ",
-        "block": "minecraft:oak_leaves[distance=2,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "Ӆ",
-        "block": "minecraft:oak_leaves[distance=4,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "l",
@@ -157,19 +157,19 @@
       },
       {
         "char": "Ί",
-        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "Υ",
-        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "6",
-        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "Ϣ",
-        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "N",
@@ -213,7 +213,7 @@
       },
       {
         "char": "ϔ",
-        "block": "minecraft:oak_leaves[distance=1,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "΄",
@@ -225,7 +225,7 @@
       },
       {
         "char": "Љ",
-        "block": "minecraft:oak_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[east=true,west=true]"
       },
       {
         "char": "Ҿ",
@@ -233,7 +233,7 @@
       },
       {
         "char": "Ϡ",
-        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[south=true,west=true]"
       },
       {
         "char": "Ү",
@@ -320,7 +320,7 @@
       },
       {
         "char": "1",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=false]"
       },
       {
         "char": "ҟ",
@@ -328,7 +328,7 @@
       },
       {
         "char": "ϱ",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true]"
       },
       {
         "char": "ӑ",
@@ -336,7 +336,7 @@
       },
       {
         "char": "ϟ",
-        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false]"
       },
       {
         "char": "θ",
@@ -356,7 +356,7 @@
       },
       {
         "char": "П",
-        "block": "minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:birch_fence"
       },
       {
         "char": "Б",
@@ -372,11 +372,11 @@
       },
       {
         "char": "·",
-        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[west=true]"
       },
       {
         "char": "Ϊ",
-        "block": "minecraft:oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence"
       },
       {
         "char": "Ѻ",
@@ -400,7 +400,7 @@
       },
       {
         "char": "ά",
-        "block": "minecraft:oak_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=north,half=top,open=false]"
       },
       {
         "char": "着",
@@ -442,43 +442,43 @@
       },
       {
         "char": "ΐ",
-        "block": "minecraft:oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=east,half=top,open=false]"
       },
       {
         "char": "η",
-        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "z",
-        "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+        "block": "minecraft:polished_deepslate_slab[type=top]"
       },
       {
         "char": "ӻ",
-        "block": "minecraft:birch_fence_gate[facing=north,in_wall=false,open=false,powered=false]"
+        "block": "minecraft:birch_fence_gate[facing=north,in_wall=false,open=false]"
       },
       {
         "char": "凤",
-        "block": "minecraft:birch_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:birch_fence[north=true,west=true]"
       },
       {
         "char": "情",
-        "block": "minecraft:oak_fence_gate[facing=south,in_wall=false,open=false,powered=false]"
+        "block": "minecraft:oak_fence_gate[facing=south,in_wall=false,open=false]"
       },
       {
         "char": "d",
-        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+        "block": "minecraft:spruce_slab[type=top]"
       },
       {
         "char": "7",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=top,open=false]"
       },
       {
         "char": "В",
-        "block": "minecraft:oak_fence_gate[facing=west,in_wall=false,open=false,powered=false]"
+        "block": "minecraft:oak_fence_gate[facing=west,in_wall=false,open=false]"
       },
       {
         "char": "ѧ",
-        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true,south=true]"
       }
     ]
   },

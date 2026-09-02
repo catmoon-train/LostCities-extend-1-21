@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top]"
     },
     {
       "char": "c",
@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "e",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:oak_slab[type=east,waterlogged=false]"
+      "block": "minecraft:oak_slab"
     },
     {
       "char": "m",
@@ -55,19 +55,19 @@
     },
     {
       "char": "n",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]"
+      "block": "minecraft:chest"
     },
     {
       "char": "o",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "p",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "q",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "r",
@@ -107,7 +107,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=east]"
     },
     {
       "char": "D",
@@ -119,7 +119,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "I",
@@ -139,7 +139,7 @@
     },
     {
       "char": "M",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     }
   ]
 }

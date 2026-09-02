@@ -19,11 +19,11 @@
     },
     {
       "char": "e",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=north]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "f",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "g",
@@ -43,7 +43,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "l",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "n",
@@ -83,7 +83,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "w",
@@ -115,7 +115,7 @@
     },
     {
       "char": "E",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_34/base2/lootr_chest"
     },
     {
@@ -124,7 +124,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:jungle_sign[waterlogged=false,rotation=6]",
+      "block": "minecraft:jungle_sign",
       "tag": {
         "id": "minecraft:sign"
       }
@@ -139,7 +139,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:jungle_fence[waterlogged=false]"
+      "block": "minecraft:jungle_fence"
     },
     {
       "char": "M",

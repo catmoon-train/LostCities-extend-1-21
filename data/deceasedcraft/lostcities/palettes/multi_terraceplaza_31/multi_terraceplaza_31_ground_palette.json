@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "c",
@@ -55,7 +55,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "o",
@@ -79,7 +79,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "u",
@@ -99,15 +99,15 @@
     },
     {
       "char": "A",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "B",
-      "block": "minecraft:polished_deepslate_wall[waterlogged=false,up=false]"
+      "block": "minecraft:polished_deepslate_wall"
     },
     {
       "char": "C",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "D",
@@ -124,20 +124,20 @@
     },
     {
       "char": "I",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_31/ground/lootr_chest_type_single_waterlogged_false_facing_south"
     },
     {
       "char": "J",
-      "block": "minecraft:mangrove_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:mangrove_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "K",
-      "block": "minecraft:mangrove_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:mangrove_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "L",
-      "block": "minecraft:mangrove_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:mangrove_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "M",
@@ -186,7 +186,7 @@
     },
     {
       "char": "X",
-      "block": "minecraft:white_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:white_stained_glass_pane"
     },
     {
       "char": "Y",
@@ -206,15 +206,15 @@
     },
     {
       "char": "2",
-      "block": "minecraft:mangrove_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:mangrove_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "3",
-      "block": "minecraft:mangrove_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:mangrove_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "4",
-      "block": "minecraft:mangrove_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:mangrove_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "5",
@@ -222,7 +222,7 @@
     },
     {
       "char": "6",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_31/ground/lootr_chest_type_single_waterlogged_false_facing_east"
     },
     {
@@ -304,15 +304,15 @@
     },
     {
       "char": "^",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=north]"
     },
     {
       "char": "&",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "*",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "(",
@@ -325,7 +325,7 @@
     },
     {
       "char": "+",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_31/ground/lootr_chest_type_single_waterlogged_false_facing_north"
     },
     {

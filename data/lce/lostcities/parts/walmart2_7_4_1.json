@@ -53,7 +53,7 @@
       },
       {
         "char": "位",
-        "block": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=double]"
       },
       {
         "char": "E",
@@ -69,7 +69,7 @@
       },
       {
         "char": "n",
-        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+        "block": "minecraft:oak_slab[type=top]"
       },
       {
         "char": "p",
@@ -85,11 +85,11 @@
       },
       {
         "char": "内",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,up=true]"
       },
       {
         "char": "欢",
-        "block": "minecraft:daylight_detector[inverted=false,power=7]",
+        "block": "minecraft:daylight_detector[inverted=false]",
         "tag": {
           "z": 441,
           "x": 126,
@@ -100,7 +100,7 @@
       },
       {
         "char": "需",
-        "block": "minecraft:mossy_cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_cobblestone_wall[east=low,west=low]"
       },
       {
         "char": "z",
@@ -108,15 +108,15 @@
       },
       {
         "char": "别",
-        "block": "minecraft:mossy_stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_slab[type=top]"
       },
       {
         "char": "F",
-        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=top]"
       },
       {
         "char": "身",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom]"
       }
     ]
   },

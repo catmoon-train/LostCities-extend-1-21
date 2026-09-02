@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:gray_stained_glass_pane"
     },
     {
       "char": "f",
@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:birch_slab[type=east,waterlogged=false]"
+      "block": "minecraft:birch_slab"
     },
     {
       "char": "j",
@@ -63,7 +63,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:birch_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "q",
@@ -75,11 +75,11 @@
     },
     {
       "char": "s",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "t",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "u",
@@ -180,15 +180,15 @@
     },
     {
       "char": "W",
-      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:birch_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "X",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "Y",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "Z",
@@ -277,11 +277,11 @@
     },
     {
       "char": "[",
-      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+      "block": "minecraft:birch_slab[type=top]"
     },
     {
       "char": "]",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "{",
@@ -289,7 +289,7 @@
     },
     {
       "char": "}",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     }
   ]
 }

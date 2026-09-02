@@ -3,11 +3,11 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "b",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "c",
@@ -15,11 +15,11 @@
     },
     {
       "char": "d",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "e",
-      "block": "minecraft:polished_deepslate_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:polished_deepslate_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "f",
@@ -38,11 +38,11 @@
     },
     {
       "char": "i",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "j",
-      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=top]"
     },
     {
       "char": "k",
@@ -54,7 +54,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=bottom]"
     },
     {
       "char": "n",

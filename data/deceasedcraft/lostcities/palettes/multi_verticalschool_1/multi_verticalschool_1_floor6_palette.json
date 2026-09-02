@@ -7,15 +7,15 @@
     },
     {
       "char": "b",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "c",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=east]"
     },
     {
       "char": "d",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=west]"
     },
     {
       "char": "e",
@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:smooth_red_sandstone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_red_sandstone_slab[type=bottom]"
     }
   ]
 }

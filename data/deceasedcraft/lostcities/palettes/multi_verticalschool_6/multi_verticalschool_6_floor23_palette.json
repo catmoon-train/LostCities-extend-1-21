@@ -7,15 +7,15 @@
     },
     {
       "char": "b",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "c",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "d",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "e",
@@ -31,15 +31,15 @@
     },
     {
       "char": "h",
-      "block": "minecraft:flowering_azalea_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:flowering_azalea_leaves"
     },
     {
       "char": "i",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "j",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "k",
@@ -55,7 +55,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:cherry_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:cherry_leaves"
     },
     {
       "char": "o",
@@ -107,7 +107,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "D",
@@ -188,7 +188,7 @@
     },
     {
       "char": "X",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "Y",
@@ -205,12 +205,12 @@
     },
     {
       "char": "0",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_6/floor23/stripped_jungle_bedside_cabinet"
     },
     {
       "char": "1",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "2",
@@ -310,7 +310,7 @@
     },
     {
       "char": "#",
-      "block": "minecraft:jungle_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:jungle_leaves"
     },
     {
       "char": "$",
@@ -370,7 +370,7 @@
     },
     {
       "char": "*",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "(",
@@ -431,11 +431,11 @@
     },
     {
       "char": "-",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "[",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=north]"
     },
     {
       "char": "]",

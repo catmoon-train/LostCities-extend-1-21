@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:daylight_detector[power=15,inverted=true]"
+      "block": "minecraft:daylight_detector[inverted=true]"
     },
     {
       "char": "d",
@@ -53,7 +53,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_filmworkstower_3/base2/dark_oak_crate"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_filmworkstower_3/base2/dark_oak_crate"
     },
     {

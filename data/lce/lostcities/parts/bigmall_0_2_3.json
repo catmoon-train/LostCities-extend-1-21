@@ -41,7 +41,7 @@
       },
       {
         "char": "熟",
-        "block": "minecraft:black_wall_banner[facing=west]",
+        "block": "minecraft:black_wall_banner",
         "tag": {
           "z": 322,
           "Patterns": [],
@@ -70,7 +70,7 @@
       },
       {
         "char": "艺",
-        "block": "minecraft:pink_wall_banner[facing=west]",
+        "block": "minecraft:pink_wall_banner",
         "tag": {
           "z": 334,
           "Patterns": [],
@@ -83,7 +83,7 @@
       },
       {
         "char": "P",
-        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=bottom]"
       },
       {
         "char": "l",
@@ -95,11 +95,11 @@
       },
       {
         "char": "ͱ",
-        "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_slab[type=bottom]"
       },
       {
         "char": "G",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "n",
@@ -157,7 +157,7 @@
       },
       {
         "char": "Q",
-        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=top]"
       },
       {
         "char": "提",
@@ -165,7 +165,7 @@
       },
       {
         "char": "Ӧ",
-        "block": "minecraft:scaffolding[bottom=false,distance=0,waterlogged=false]"
+        "block": "minecraft:scaffolding[bottom=false]"
       },
       {
         "char": "因",
@@ -177,19 +177,19 @@
       },
       {
         "char": "I",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "Ӣ",
-        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+        "block": "minecraft:spruce_slab[type=top]"
       },
       {
         "char": "Ӥ",
-        "block": "minecraft:polished_diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:polished_diorite_slab[type=top]"
       },
       {
         "char": "无",
-        "block": "minecraft:birch_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 309,
           "x": 114,
@@ -225,7 +225,7 @@
       },
       {
         "char": "任",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=false]"
       },
       {
         "char": "终",
@@ -248,7 +248,7 @@
       },
       {
         "char": "她",
-        "block": "minecraft:birch_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 344,
           "x": 117,
@@ -356,7 +356,7 @@
       },
       {
         "char": "原",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 324,
@@ -397,7 +397,7 @@
       },
       {
         "char": "长",
-        "block": "minecraft:chest[facing=south,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 338,

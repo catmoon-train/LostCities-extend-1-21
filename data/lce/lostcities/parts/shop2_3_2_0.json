@@ -57,7 +57,7 @@
       },
       {
         "char": "ε",
-        "block": "minecraft:acacia_door[facing=west,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=west,half=lower,hinge=left,open=false]"
       },
       {
         "char": "ϳ",
@@ -89,7 +89,7 @@
       },
       {
         "char": "G",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "M",
@@ -101,7 +101,7 @@
       },
       {
         "char": ";",
-        "block": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "u",
@@ -113,11 +113,11 @@
       },
       {
         "char": "ͳ",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=outer_left]"
       },
       {
         "char": "΅",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_left]"
       },
       {
         "char": "q",
@@ -125,15 +125,15 @@
       },
       {
         "char": "Ќ",
-        "block": "minecraft:acacia_door[facing=south,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=south,half=lower,hinge=left,open=false]"
       },
       {
         "char": "v",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "x",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "ϻ",
@@ -153,11 +153,11 @@
       },
       {
         "char": "Λ",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "ϗ",
-        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "shoploot",
         "tag": {
           "z": 537,
@@ -173,11 +173,11 @@
       },
       {
         "char": "r",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "ͽ",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=outer_right]"
       },
       {
         "char": "р",
@@ -201,7 +201,7 @@
       },
       {
         "char": "ϋ",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "shoploot",
         "tag": {
           "z": 541,
@@ -221,23 +221,23 @@
       },
       {
         "char": "Ϊ",
-        "block": "minecraft:acacia_door[facing=west,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=west,half=upper,hinge=left,open=false]"
       },
       {
         "char": "S",
-        "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:polished_andesite_slab[type=bottom]"
       },
       {
         "char": "ή",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_right]"
       },
       {
         "char": "΄",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=outer_right]"
       },
       {
         "char": "Ў",
-        "block": "minecraft:acacia_door[facing=south,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=south,half=upper,hinge=left,open=false]"
       },
       {
         "char": "Д",
@@ -245,7 +245,7 @@
       },
       {
         "char": "е",
-        "block": "minecraft:light_blue_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:light_blue_stained_glass_pane[east=false,north=false,south=true,west=false]"
       },
       {
         "char": "ϧ",
@@ -253,15 +253,15 @@
       },
       {
         "char": "ͻ",
-        "block": "minecraft:light_blue_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:light_blue_stained_glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "Ͷ",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=outer_left]"
       },
       {
         "char": "Α",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=outer_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=outer_left]"
       },
       {
         "char": "ϥ",
@@ -273,7 +273,7 @@
       },
       {
         "char": "с",
-        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "shoploot",
         "tag": {
           "z": 532,
@@ -289,7 +289,7 @@
       },
       {
         "char": "Τ",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=outer_right,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=outer_right]"
       },
       {
         "char": "H",

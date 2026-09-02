@@ -9,11 +9,11 @@
       },
       {
         "char": "W",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[up=true]"
       },
       {
         "char": "L",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[up=true]"
       },
       {
         "char": "P",
@@ -21,7 +21,7 @@
       },
       {
         "char": "в",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=tall,south=tall,up=true]"
       },
       {
         "char": "N",
@@ -29,11 +29,11 @@
       },
       {
         "char": "Р",
-        "block": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=low,south=tall,up=true]"
       },
       {
         "char": "Я",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[south=low,up=true]"
       }
     ]
   },

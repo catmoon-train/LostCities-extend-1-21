@@ -30,7 +30,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=south]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=south]"
     },
     {
       "char": "h",
@@ -78,15 +78,15 @@
     },
     {
       "char": "s",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=top,open=true,facing=north]"
     },
     {
       "char": "t",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=north]"
     },
     {
       "char": "u",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "w",
@@ -126,11 +126,11 @@
     },
     {
       "char": "I",
-      "block": "minecraft:lectern[powered=false,has_book=false,facing=north]"
+      "block": "minecraft:lectern[facing=north]"
     },
     {
       "char": "J",
-      "block": "minecraft:note_block[powered=false,instrument=harp,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "K",

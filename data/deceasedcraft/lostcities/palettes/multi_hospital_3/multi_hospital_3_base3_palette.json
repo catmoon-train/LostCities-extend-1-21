@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:brewing_stand[has_bottle_2=false,has_bottle_0=false,has_bottle_1=false]"
+      "block": "minecraft:brewing_stand"
     },
     {
       "char": "c",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "m",
@@ -64,7 +64,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "q",
@@ -80,7 +80,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:polished_andesite_slab[type=west,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "u",
@@ -92,7 +92,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "y",
@@ -145,7 +145,7 @@
     },
     {
       "char": "N",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_hospital_2/base4/market_shelves"
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=true,open=true,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=north]"
     },
     {
       "char": "S",
@@ -178,11 +178,11 @@
     },
     {
       "char": "V",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "W",
-      "block": "minecraft:tuff_brick_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:tuff_brick_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "X",
@@ -211,7 +211,7 @@
     },
     {
       "char": "1",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "2",
@@ -231,7 +231,7 @@
     },
     {
       "char": "6",
-      "block": "minecraft:smooth_quartz_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:smooth_quartz_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "7",

@@ -45,27 +45,27 @@
       },
       {
         "char": "希",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=low,south=low,up=true]"
       },
       {
         "char": "至",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=low,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,south=low,up=true,west=low]"
       },
       {
         "char": "火",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=tall,south=low,up=true,west=low]"
       },
       {
         "char": "伤",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=tall,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[east=low,south=tall,up=true,west=tall]"
       },
       {
         "char": "治",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[north=tall,south=tall,up=true,west=low]"
       },
       {
         "char": "建",
-        "block": "minecraft:ladder[facing=west,waterlogged=false]"
+        "block": "minecraft:ladder[facing=west]"
       },
       {
         "char": "机",
@@ -121,23 +121,23 @@
       },
       {
         "char": "认",
-        "block": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=true]"
       },
       {
         "char": "及",
-        "block": "minecraft:cobblestone_wall[east=low,north=low,south=low,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,north=low,south=low,west=low]"
       },
       {
         "char": "显",
-        "block": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=true,west=low]"
       },
       {
         "char": "馆",
-        "block": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,north=tall,south=tall,west=low]"
       },
       {
         "char": "红",
-        "block": "minecraft:cobblestone_wall[east=none,north=low,south=tall,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[north=low,south=tall,up=true,west=low]"
       },
       {
         "char": "还",
@@ -181,23 +181,23 @@
       },
       {
         "char": "N",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[up=true]"
       },
       {
         "char": "内",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,up=true]"
       },
       {
         "char": "指",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[south=tall,up=true,west=tall]"
       },
       {
         "char": "表",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=tall,south=tall]"
       },
       {
         "char": "老",
-        "block": "minecraft:rail[shape=ascending_east,waterlogged=false]"
+        "block": "minecraft:rail[shape=ascending_east]"
       },
       {
         "char": "性",
@@ -205,11 +205,11 @@
       },
       {
         "char": "共",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:cobblestone_wall[north=tall,south=tall,up=true,west=tall]"
       },
       {
         "char": "校",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[south=tall,up=true]"
       },
       {
         "char": "i",
@@ -217,11 +217,11 @@
       },
       {
         "char": "类",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[south=low,up=true]"
       },
       {
         "char": "ҧ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 463,
           "x": 74,
@@ -257,7 +257,7 @@
       },
       {
         "char": "城",
-        "block": "minecraft:rail[shape=north_south,waterlogged=false]"
+        "block": "minecraft:rail[shape=north_south]"
       },
       {
         "char": "害",
@@ -265,27 +265,27 @@
       },
       {
         "char": "年",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "料",
-        "block": "minecraft:cobblestone_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=low,up=true]"
       },
       {
         "char": "K",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "Ҩ",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=top]"
       },
       {
         "char": "n",
-        "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+        "block": "minecraft:oak_slab[type=top]"
       },
       {
         "char": "Ѕ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 471,
           "x": 31,
@@ -329,39 +329,39 @@
       },
       {
         "char": "帮",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=tall,south=low,up=true]"
       },
       {
         "char": "令",
-        "block": "minecraft:cobblestone_wall[east=tall,north=none,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,south=low,up=true]"
       },
       {
         "char": "换",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[north=tall,south=tall]"
       },
       {
         "char": "持",
-        "block": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=low,south=low,up=true]"
       },
       {
         "char": "职",
-        "block": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,north=low,south=low,up=true]"
       },
       {
         "char": "Ҭ",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "差",
-        "block": "minecraft:cobblestone_wall[east=none,north=low,south=low,up=false,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=low,south=low]"
       },
       {
         "char": "目",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=tall,up=true]"
       },
       {
         "char": "给",
-        "block": "minecraft:rail[shape=ascending_west,waterlogged=false]"
+        "block": "minecraft:rail[shape=ascending_west]"
       },
       {
         "char": "H",

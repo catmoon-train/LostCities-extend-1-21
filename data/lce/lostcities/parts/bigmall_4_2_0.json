@@ -71,7 +71,7 @@
       },
       {
         "char": "5",
-        "block": "minecraft:water[level=0]"
+        "block": "minecraft:water"
       },
       {
         "char": "b",
@@ -83,11 +83,11 @@
       },
       {
         "char": "及",
-        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "号",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true]"
       },
       {
         "char": "p",
@@ -95,7 +95,7 @@
       },
       {
         "char": "整",
-        "block": "minecraft:skeleton_skull[rotation=3]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 344,
           "x": 106,
@@ -118,7 +118,7 @@
       },
       {
         "char": "改",
-        "block": "minecraft:dark_oak_door[facing=south,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:dark_oak_door[facing=south,half=lower,hinge=right,open=false]"
       },
       {
         "char": "K",
@@ -126,19 +126,19 @@
       },
       {
         "char": "些",
-        "block": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "酒",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[north=true]"
       },
       {
         "char": "友",
-        "block": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:dark_oak_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "清",
-        "block": "minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:dark_oak_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "4",
@@ -146,7 +146,7 @@
       },
       {
         "char": "源",
-        "block": "minecraft:dark_oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:dark_oak_wall_sign",
         "tag": {
           "z": 335,
           "x": 164,
@@ -182,11 +182,11 @@
       },
       {
         "char": "沙",
-        "block": "minecraft:dark_oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[east=true,south=true]"
       },
       {
         "char": "朝",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[south=true,west=true]"
       }
     ]
   },

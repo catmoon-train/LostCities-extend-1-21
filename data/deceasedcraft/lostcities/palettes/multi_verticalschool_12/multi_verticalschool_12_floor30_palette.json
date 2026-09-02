@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "h",
@@ -52,11 +52,11 @@
     },
     {
       "char": "k",
-      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:jungle_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "l",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "m",
@@ -69,11 +69,11 @@
     },
     {
       "char": "o",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "p",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,facing=east]"
+      "block": "minecraft:polished_andesite_stairs[facing=east]"
     },
     {
       "char": "q",
@@ -86,19 +86,19 @@
     },
     {
       "char": "s",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "t",
-      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:jungle_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "u",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "w",
-      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:jungle_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "x",
@@ -114,7 +114,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+      "block": "minecraft:jungle_slab[type=top]"
     },
     {
       "char": "C",
@@ -131,7 +131,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:jungle_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "I",
@@ -139,24 +139,24 @@
     },
     {
       "char": "J",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "K",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_7/floor30/iron_locker"
     },
     {
       "char": "L",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=east]"
     },
     {
       "char": "M",
-      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:jungle_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "N",
-      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:jungle_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "O",
@@ -177,7 +177,7 @@
     },
     {
       "char": "S",
-      "block": "minecraft:jungle_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:jungle_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "T",
@@ -206,11 +206,11 @@
     },
     {
       "char": "X",
-      "block": "minecraft:polished_andesite_slab[type=east,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "Y",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "Z",
@@ -218,7 +218,7 @@
     },
     {
       "char": "0",
-      "block": "minecraft:jungle_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:jungle_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "1",
@@ -234,7 +234,7 @@
     },
     {
       "char": "4",
-      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:polished_blackstone_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "5",
@@ -246,7 +246,7 @@
     },
     {
       "char": "7",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "8",
@@ -258,7 +258,7 @@
     },
     {
       "char": "#",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "$",
@@ -266,7 +266,7 @@
     },
     {
       "char": "%",
-      "block": "minecraft:polished_blackstone_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:polished_blackstone_stairs[half=top,facing=south,shape=straight]"
     }
   ]
 }

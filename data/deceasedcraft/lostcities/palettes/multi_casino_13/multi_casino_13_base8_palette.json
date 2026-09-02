@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "f",
@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "k",
@@ -67,7 +67,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab[type=bottom]"
     },
     {
       "char": "r",
@@ -91,11 +91,11 @@
     },
     {
       "char": "x",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]"
+      "block": "minecraft:chest"
     },
     {
       "char": "y",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+      "block": "minecraft:dark_oak_trapdoor[half=bottom,open=false,facing=north]"
     }
   ]
 }

@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "c",
@@ -56,15 +56,15 @@
     },
     {
       "char": "n",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "o",
-      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:jungle_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "p",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "q",
@@ -80,11 +80,11 @@
     },
     {
       "char": "t",
-      "block": "minecraft:jungle_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:jungle_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "u",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "w",
@@ -92,11 +92,11 @@
     },
     {
       "char": "x",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "y",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "A",
@@ -108,11 +108,11 @@
     },
     {
       "char": "C",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "D",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "E",
@@ -124,15 +124,15 @@
     },
     {
       "char": "I",
-      "block": "minecraft:bell[powered=false,facing=south,attachment=floor]"
+      "block": "minecraft:bell[facing=south,attachment=floor]"
     },
     {
       "char": "J",
-      "block": "minecraft:daylight_detector[power=3,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "K",
-      "block": "minecraft:daylight_detector[power=12,inverted=true]"
+      "block": "minecraft:daylight_detector[inverted=true]"
     },
     {
       "char": "L",
@@ -152,7 +152,7 @@
     },
     {
       "char": "P",
-      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:jungle_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "Q",
@@ -164,7 +164,7 @@
     },
     {
       "char": "S",
-      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:jungle_door[half=upper,open=false,hinge=left,facing=north]"
     }
   ]
 }

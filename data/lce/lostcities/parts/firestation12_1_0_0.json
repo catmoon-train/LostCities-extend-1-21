@@ -25,11 +25,11 @@
       },
       {
         "char": "ͷ",
-        "block": "minecraft:polished_andesite_slab[type=bottom,waterlogged=true]"
+        "block": "minecraft:polished_andesite_slab[type=bottom]"
       },
       {
         "char": "ͱ",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=true]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "W",
@@ -69,7 +69,7 @@
       },
       {
         "char": "0",
-        "block": "minecraft:polished_andesite_slab[type=double,waterlogged=false]"
+        "block": "minecraft:polished_andesite_slab[type=double]"
       },
       {
         "char": "G",
@@ -101,7 +101,7 @@
       },
       {
         "char": "q",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "S",
@@ -129,7 +129,7 @@
       },
       {
         "char": "ͼ",
-        "block": "minecraft:ladder[facing=east,waterlogged=false]"
+        "block": "minecraft:ladder[facing=east]"
       },
       {
         "char": ";",
@@ -137,7 +137,7 @@
       },
       {
         "char": "Ͷ",
-        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "firestation",
         "tag": {
           "z": 575,
@@ -153,7 +153,7 @@
       },
       {
         "char": "Ϫ",
-        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "firestation",
         "tag": {
           "z": 584,
@@ -201,23 +201,23 @@
       },
       {
         "char": "Λ",
-        "block": "minecraft:gray_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:gray_stained_glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "ό",
-        "block": "minecraft:gray_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:gray_stained_glass_pane[east=true,north=true,south=false,west=false]"
       },
       {
         "char": "Τ",
-        "block": "minecraft:gray_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:gray_stained_glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "Ϟ",
-        "block": "minecraft:gray_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:gray_stained_glass_pane[east=false,north=true,south=false,west=true]"
       },
       {
         "char": "O",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "a",
@@ -225,15 +225,15 @@
       },
       {
         "char": "X",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "Y",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "3",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "z",

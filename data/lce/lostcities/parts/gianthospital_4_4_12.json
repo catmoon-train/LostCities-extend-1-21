@@ -25,7 +25,7 @@
       },
       {
         "char": "拭",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,west=low]"
       },
       {
         "char": "诒",
@@ -115,7 +115,7 @@
       },
       {
         "char": "贮",
-        "block": "minecraft:skeleton_skull[rotation=2]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 446,
           "x": -58,
@@ -126,7 +126,7 @@
       },
       {
         "char": "绢",
-        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=true]"
       },
       {
         "char": "豚",
@@ -134,7 +134,7 @@
       },
       {
         "char": "烸",
-        "block": "minecraft:skeleton_skull[rotation=15]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 466,
           "x": -77,
@@ -145,11 +145,11 @@
       },
       {
         "char": "酮",
-        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "噪",
-        "block": "minecraft:campfire[facing=south,lit=false,signal_fire=false,waterlogged=false]",
+        "block": "minecraft:campfire[facing=south,lit=false]",
         "tag": {
           "CookingTotalTimes": [
             "I",
@@ -175,11 +175,11 @@
       },
       {
         "char": "帛",
-        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=east,half=bottom,open=true]"
       },
       {
         "char": "唧",
-        "block": "minecraft:skeleton_skull[rotation=3]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 476,
           "x": -80,
@@ -190,11 +190,11 @@
       },
       {
         "char": "饴",
-        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "尻",
-        "block": "minecraft:campfire[facing=east,lit=false,signal_fire=false,waterlogged=false]",
+        "block": "minecraft:campfire[facing=east,lit=false]",
         "tag": {
           "CookingTotalTimes": [
             "I",

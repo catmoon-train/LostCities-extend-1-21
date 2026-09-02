@@ -87,11 +87,11 @@
       },
       {
         "char": "5",
-        "block": "minecraft:water[level=0]"
+        "block": "minecraft:water"
       },
       {
         "char": "ӝ",
-        "block": "minecraft:water[level=1]"
+        "block": "minecraft:water"
       },
       {
         "char": "微",
@@ -99,7 +99,7 @@
       },
       {
         "char": "客",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=true]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "b",
@@ -107,11 +107,11 @@
       },
       {
         "char": "浪",
-        "block": "minecraft:stone_stairs[facing=north,half=bottom,shape=straight,waterlogged=true]"
+        "block": "minecraft:stone_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "唯",
-        "block": "minecraft:stone_stairs[facing=east,half=bottom,shape=straight,waterlogged=true]"
+        "block": "minecraft:stone_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "怀",
@@ -123,7 +123,7 @@
       },
       {
         "char": "间",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "N",
@@ -131,7 +131,7 @@
       },
       {
         "char": "律",
-        "block": "minecraft:stone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "ό",
@@ -139,7 +139,7 @@
       },
       {
         "char": "套",
-        "block": "minecraft:stone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "k",
@@ -155,11 +155,11 @@
       },
       {
         "char": "下",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom]"
       },
       {
         "char": "怪",
-        "block": "minecraft:skeleton_skull[rotation=14]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 305,
           "x": 142,
@@ -170,7 +170,7 @@
       },
       {
         "char": "整",
-        "block": "minecraft:skeleton_skull[rotation=3]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 344,
           "x": 106,
@@ -181,7 +181,7 @@
       },
       {
         "char": "x",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "U",
@@ -189,15 +189,15 @@
       },
       {
         "char": "D",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "3",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:stone_brick_wall[up=true]"
       },
       {
         "char": "架",
-        "block": "minecraft:skeleton_skull[rotation=15]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 317,
           "x": 132,

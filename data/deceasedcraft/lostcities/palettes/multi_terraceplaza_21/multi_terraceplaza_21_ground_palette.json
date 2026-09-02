@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:polished_deepslate_slab[type=bottom,waterlogged=true]"
+      "block": "minecraft:polished_deepslate_slab[type=bottom]"
     },
     {
       "char": "d",
@@ -43,11 +43,11 @@
     },
     {
       "char": "k",
-      "block": "minecraft:small_dripleaf[waterlogged=false,half=lower,facing=north]"
+      "block": "minecraft:small_dripleaf[half=lower,facing=north]"
     },
     {
       "char": "l",
-      "block": "minecraft:small_dripleaf[waterlogged=false,half=upper,facing=north]"
+      "block": "minecraft:small_dripleaf[half=upper,facing=north]"
     }
   ]
 }

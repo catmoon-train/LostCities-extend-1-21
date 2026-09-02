@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:spruce_stairs[waterlogged=false,facing=east]"
+      "block": "minecraft:spruce_stairs[facing=east]"
     },
     {
       "char": "f",
@@ -39,15 +39,15 @@
     },
     {
       "char": "j",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "k",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "l",
-      "block": "minecraft:spruce_stairs[waterlogged=false,facing=north]"
+      "block": "minecraft:spruce_stairs[facing=north]"
     },
     {
       "char": "m",
@@ -63,7 +63,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "q",
@@ -71,7 +71,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:tripwire[powered=false,attached=false,disarmed=false]"
+      "block": "minecraft:tripwire[attached=false]"
     },
     {
       "char": "s",
@@ -79,7 +79,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "u",
@@ -131,7 +131,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "K",
@@ -147,12 +147,12 @@
     },
     {
       "char": "N",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_thering_6/floor24/iron_locker"
     },
     {
       "char": "O",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "P",
@@ -200,7 +200,7 @@
     },
     {
       "char": "0",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "1",
@@ -243,7 +243,7 @@
     },
     {
       "char": "#",
-      "block": "minecraft:spruce_stairs[waterlogged=false,facing=west]"
+      "block": "minecraft:spruce_stairs[facing=west]"
     },
     {
       "char": "$",

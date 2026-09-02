@@ -15,15 +15,15 @@
     },
     {
       "char": "d",
-      "block": "minecraft:redstone_wire[power=0,west=side,east=none,south=none,north=side]"
+      "block": "minecraft:redstone_wire[east=none,south=none]"
     },
     {
       "char": "e",
-      "block": "minecraft:redstone_wire[power=0,west=none,east=side,south=none,north=side]"
+      "block": "minecraft:redstone_wire[west=none,south=none]"
     },
     {
       "char": "f",
-      "block": "minecraft:redstone_wire[power=0,west=none,east=side,south=side,north=none]"
+      "block": "minecraft:redstone_wire[west=none,north=none]"
     },
     {
       "char": "g",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:soul_lantern[waterlogged=false,hanging=true]"
+      "block": "minecraft:soul_lantern[hanging=true]"
     }
   ]
 }

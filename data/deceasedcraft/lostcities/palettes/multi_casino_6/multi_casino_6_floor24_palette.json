@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:brown_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:brown_stained_glass_pane"
     },
     {
       "char": "c",
@@ -144,7 +144,7 @@
     },
     {
       "char": "E",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=east]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=true,facing=east]"
     },
     {
       "char": "F",
@@ -152,7 +152,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:dark_oak_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=west]"
+      "block": "minecraft:dark_oak_trapdoor[half=top,open=true,facing=west]"
     },
     {
       "char": "J",
@@ -237,7 +237,7 @@
     },
     {
       "char": "W",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "X",

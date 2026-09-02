@@ -15,11 +15,11 @@
     },
     {
       "char": "d",
-      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:jungle_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "e",
-      "block": "minecraft:jungle_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:jungle_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "f",
@@ -55,11 +55,11 @@
     },
     {
       "char": "n",
-      "block": "minecraft:spruce_slab[type=south,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "o",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:polished_andesite_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "p",
@@ -79,7 +79,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_22/floor2/cardboard_box"
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "char": "w",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_22/floor2/cardboard_box"
     },
     {
@@ -98,7 +98,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_22/floor2/cardboard_box"
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_22/floor2/cardboard_box"
     },
     {
@@ -136,7 +136,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_22/floor2/cardboard_box"
     },
     {
@@ -170,11 +170,11 @@
     },
     {
       "char": "Q",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "R",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "S",
@@ -182,15 +182,15 @@
     },
     {
       "char": "T",
-      "block": "minecraft:spruce_slab[type=east,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "U",
-      "block": "minecraft:spruce_slab[type=west,waterlogged=false]"
+      "block": "minecraft:spruce_slab"
     },
     {
       "char": "V",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     }
   ]
 }

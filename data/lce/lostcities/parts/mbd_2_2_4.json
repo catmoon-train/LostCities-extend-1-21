@@ -9,7 +9,7 @@
       },
       {
         "char": "h",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "n",
@@ -21,7 +21,7 @@
       },
       {
         "char": "ӊ",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[south=true]"
       },
       {
         "char": "ѕ",
@@ -29,7 +29,7 @@
       },
       {
         "char": "Ӄ",
-        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[north=true]"
       },
       {
         "char": "p",
@@ -37,15 +37,15 @@
       },
       {
         "char": "Ҁ",
-        "block": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[east=true]"
       },
       {
         "char": "行",
-        "block": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[east=true,west=true]"
       },
       {
         "char": "ѿ",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[west=true]"
       },
       {
         "char": "i",

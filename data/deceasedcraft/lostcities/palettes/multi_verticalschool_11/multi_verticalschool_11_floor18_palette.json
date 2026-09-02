@@ -23,11 +23,11 @@
     },
     {
       "char": "f",
-      "block": "minecraft:note_block[powered=false,instrument=harp,note=1]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "g",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "h",
@@ -64,7 +64,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:jungle_slab[type=top,waterlogged=false]"
+      "block": "minecraft:jungle_slab[type=top]"
     },
     {
       "char": "o",
@@ -93,11 +93,11 @@
     },
     {
       "char": "u",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "w",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "x",
@@ -117,7 +117,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "D",
@@ -125,7 +125,7 @@
     },
     {
       "char": "E",
-      "block": "minecraft:lectern[powered=false,has_book=false,facing=south]"
+      "block": "minecraft:lectern[facing=south]"
     },
     {
       "char": "F",
@@ -152,16 +152,16 @@
     },
     {
       "char": "M",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_8/floor17/lootr_chest"
     },
     {
       "char": "N",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "O",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "P",
@@ -181,7 +181,7 @@
     },
     {
       "char": "T",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "U",

@@ -9,11 +9,11 @@
       },
       {
         "char": "b",
-        "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+        "block": "minecraft:spruce_slab[type=top]"
       },
       {
         "char": "Ͳ",
-        "block": "minecraft:mud_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:mud_brick_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "d",
@@ -29,15 +29,15 @@
       },
       {
         "char": "ͳ",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[west=true]"
       },
       {
         "char": "ϳ",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "Ђ",
-        "block": "minecraft:smooth_sandstone_stairs[facing=north,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_sandstone_stairs[facing=north,half=top,shape=straight]"
       },
       {
         "char": "O",
@@ -45,7 +45,7 @@
       },
       {
         "char": "ѓ",
-        "block": "minecraft:cut_sandstone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cut_sandstone_slab[type=top]"
       },
       {
         "char": "g",
@@ -57,7 +57,7 @@
       },
       {
         "char": "Ͽ",
-        "block": "minecraft:smooth_sandstone_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_sandstone_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "ϡ",
@@ -69,7 +69,7 @@
       },
       {
         "char": "ӑ",
-        "block": "minecraft:stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:stone_brick_wall[north=low,up=true,west=low]"
       },
       {
         "char": "ϯ",
@@ -81,7 +81,7 @@
       },
       {
         "char": "Ν",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:stone_brick_wall[up=true,west=tall]"
       },
       {
         "char": "΅",
@@ -89,23 +89,23 @@
       },
       {
         "char": "Ξ",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[south=true]"
       },
       {
         "char": "ϻ",
-        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false]"
       },
       {
         "char": "ζ",
-        "block": "minecraft:spruce_fence_gate[facing=east,in_wall=false,open=false,powered=false]"
+        "block": "minecraft:spruce_fence_gate[facing=east,in_wall=false,open=false]"
       },
       {
         "char": "Ѳ",
-        "block": "minecraft:spruce_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[north=true,south=true]"
       },
       {
         "char": "Ϭ",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom]"
       },
       {
         "char": "ί",
@@ -113,7 +113,7 @@
       },
       {
         "char": "Σ",
-        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[north=true]"
       },
       {
         "char": "Ϥ",
@@ -153,7 +153,7 @@
       },
       {
         "char": "Ч",
-        "block": "minecraft:chiseled_bookshelf[facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false]",
+        "block": "minecraft:chiseled_bookshelf[facing=south]",
         "tag": {
           "z": -182,
           "x": -617,
@@ -169,7 +169,7 @@
       },
       {
         "char": "ү",
-        "block": "minecraft:stone_brick_wall[east=none,north=tall,south=low,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:stone_brick_wall[north=tall,south=low,up=true,west=tall]"
       },
       {
         "char": "Ω",
@@ -181,7 +181,7 @@
       },
       {
         "char": "Ώ",
-        "block": "minecraft:spruce_fence_gate[facing=west,in_wall=true,open=false,powered=false]"
+        "block": "minecraft:spruce_fence_gate[facing=west,in_wall=true,open=false]"
       },
       {
         "char": "ϔ",
@@ -197,7 +197,7 @@
       },
       {
         "char": "χ",
-        "block": "minecraft:spruce_fence_gate[facing=west,in_wall=false,open=false,powered=false]"
+        "block": "minecraft:spruce_fence_gate[facing=west,in_wall=false,open=false]"
       },
       {
         "char": "Ί",
@@ -241,7 +241,7 @@
       },
       {
         "char": "Ң",
-        "block": "minecraft:stone_brick_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:stone_brick_wall[north=tall,up=true,west=tall]"
       },
       {
         "char": "X",
@@ -253,7 +253,7 @@
       },
       {
         "char": "м",
-        "block": "minecraft:stone_brick_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=tall]"
+        "block": "minecraft:stone_brick_wall[south=tall,up=true,west=tall]"
       },
       {
         "char": "本",
@@ -297,15 +297,15 @@
       },
       {
         "char": "Ӄ",
-        "block": "minecraft:brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "ѝ",
-        "block": "minecraft:oak_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=south,half=bottom,open=false]"
       },
       {
         "char": "资",
-        "block": "minecraft:stone_brick_wall[east=none,north=low,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:stone_brick_wall[north=low,up=true,west=low]"
       },
       {
         "char": "v",
@@ -337,7 +337,7 @@
       },
       {
         "char": "Ο",
-        "block": "minecraft:cobblestone_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "Ϋ",
@@ -345,15 +345,15 @@
       },
       {
         "char": "μ",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "ι",
-        "block": "minecraft:dark_oak_leaves[distance=6,persistent=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_leaves"
       },
       {
         "char": "Λ",
-        "block": "minecraft:oak_leaves[distance=5,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       }
     ]
   },

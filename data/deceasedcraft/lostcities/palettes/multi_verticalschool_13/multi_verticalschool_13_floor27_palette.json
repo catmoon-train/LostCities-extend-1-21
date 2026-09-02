@@ -46,7 +46,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "l",
@@ -54,11 +54,11 @@
     },
     {
       "char": "m",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "n",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "o",
@@ -66,7 +66,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_12/floor27/lootr_chest"
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "char": "t",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "u",
@@ -105,7 +105,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:hopper[enabled=true,facing=north]"
+      "block": "minecraft:hopper[facing=north]"
     },
     {
       "char": "B",
@@ -121,7 +121,7 @@
     },
     {
       "char": "E",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_12/floor27/lootr_chest"
     },
     {
@@ -154,11 +154,11 @@
     },
     {
       "char": "N",
-      "block": "minecraft:hopper[enabled=true,facing=south]"
+      "block": "minecraft:hopper[facing=south]"
     },
     {
       "char": "O",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "P",
@@ -205,11 +205,11 @@
     },
     {
       "char": "Z",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "0",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "1",
@@ -233,7 +233,7 @@
     },
     {
       "char": "6",
-      "block": "minecraft:brewing_stand[has_bottle_2=false,has_bottle_0=false,has_bottle_1=false]"
+      "block": "minecraft:brewing_stand"
     },
     {
       "char": "7",
@@ -333,7 +333,7 @@
     },
     {
       "char": ",",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": ".",

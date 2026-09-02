@@ -26,15 +26,15 @@
     },
     {
       "char": "f",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:birch_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "g",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:birch_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "h",
-      "block": "minecraft:birch_stairs[waterlogged=false,half=bottom,facing=west,shape=outer_right]"
+      "block": "minecraft:birch_stairs[half=bottom,facing=west,shape=outer_right]"
     },
     {
       "char": "i",
@@ -54,7 +54,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:cobblestone_slab[type=bottom]"
     },
     {
       "char": "n",
@@ -70,7 +70,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "r",
@@ -86,7 +86,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "w",
@@ -94,7 +94,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "y",
@@ -111,11 +111,11 @@
     },
     {
       "char": "C",
-      "block": "minecraft:lectern[powered=false,has_book=false,facing=east]"
+      "block": "minecraft:lectern[facing=east]"
     },
     {
       "char": "D",
-      "block": "minecraft:chiseled_bookshelf[slot_5_occupied=false,slot_4_occupied=false,facing=east,slot_2_occupied=false,slot_1_occupied=false,slot_3_occupied=false,slot_0_occupied=false]"
+      "block": "minecraft:chiseled_bookshelf[facing=east]"
     },
     {
       "char": "E",
@@ -127,7 +127,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "J",
@@ -139,7 +139,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=bottom]"
     },
     {
       "char": "M",
@@ -171,7 +171,7 @@
     },
     {
       "char": "T",
-      "block": "minecraft:cave_vines[age=25,berries=false]"
+      "block": "minecraft:cave_vines[berries=false]"
     },
     {
       "char": "U",
@@ -179,7 +179,7 @@
     },
     {
       "char": "V",
-      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:spruce_leaves"
     },
     {
       "char": "W",
@@ -202,7 +202,7 @@
     },
     {
       "char": "0",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "1",
@@ -214,7 +214,7 @@
     },
     {
       "char": "3",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "4",

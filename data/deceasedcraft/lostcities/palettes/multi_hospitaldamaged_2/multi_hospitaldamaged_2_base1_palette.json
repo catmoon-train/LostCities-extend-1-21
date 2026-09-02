@@ -15,7 +15,7 @@
     },
     {
       "char": "d",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "e",
@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:stone_brick_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab"
     },
     {
       "char": "h",
@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "k",
@@ -55,7 +55,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_hospitaldamaged_2/ground/market_shelves"
     },
     {
@@ -72,11 +72,11 @@
     },
     {
       "char": "r",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "s",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "t",
@@ -84,16 +84,16 @@
     },
     {
       "char": "u",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_hospitaldamaged_2/ground/market_shelves"
     },
     {
       "char": "w",
-      "block": "minecraft:soul_lantern[waterlogged=false,hanging=false]"
+      "block": "minecraft:soul_lantern[hanging=false]"
     },
     {
       "char": "x",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     }
   ]
 }

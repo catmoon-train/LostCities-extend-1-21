@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:black_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:black_stained_glass_pane"
     },
     {
       "char": "d",
@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "f",
@@ -35,11 +35,11 @@
     },
     {
       "char": "i",
-      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:gray_stained_glass_pane"
     },
     {
       "char": "j",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "k",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "n",
@@ -59,7 +59,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_workshop_0/floor3/light_gray_kitchen_drawer"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "char": "D",
-      "block": "minecraft:acacia_fence[waterlogged=false]"
+      "block": "minecraft:acacia_fence"
     },
     {
       "char": "E",
@@ -124,23 +124,23 @@
     },
     {
       "char": "F",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=west]"
     },
     {
       "char": "I",
-      "block": "minecraft:acacia_fence[waterlogged=false]"
+      "block": "minecraft:acacia_fence"
     },
     {
       "char": "J",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=east]"
     },
     {
       "char": "K",
-      "block": "minecraft:acacia_fence[waterlogged=false]"
+      "block": "minecraft:acacia_fence"
     },
     {
       "char": "L",
-      "block": "minecraft:acacia_fence[waterlogged=false]"
+      "block": "minecraft:acacia_fence"
     },
     {
       "char": "M",
@@ -152,11 +152,11 @@
     },
     {
       "char": "O",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "P",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     }
   ]
 }

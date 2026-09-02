@@ -33,7 +33,7 @@
       },
       {
         "char": "G",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "g",
@@ -57,7 +57,7 @@
       },
       {
         "char": "烤",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "f",
@@ -65,7 +65,7 @@
       },
       {
         "char": "染",
-        "block": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=double]"
       },
       {
         "char": "u",
@@ -121,7 +121,7 @@
       },
       {
         "char": "怦",
-        "block": "minecraft:red_bed[facing=north,occupied=false,part=head]",
+        "block": "minecraft:red_bed",
         "tag": {
           "z": 451,
           "x": -26,
@@ -136,7 +136,7 @@
       },
       {
         "char": "忪",
-        "block": "minecraft:red_bed[facing=north,occupied=false,part=foot]",
+        "block": "minecraft:red_bed",
         "tag": {
           "z": 402,
           "x": -74,
@@ -155,7 +155,7 @@
       },
       {
         "char": "拎",
-        "block": "minecraft:skeleton_skull[rotation=7]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 433,
           "x": -54,
@@ -174,7 +174,7 @@
       },
       {
         "char": "唧",
-        "block": "minecraft:skeleton_skull[rotation=3]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 476,
           "x": -80,
@@ -218,7 +218,7 @@
       },
       {
         "char": "罈",
-        "block": "minecraft:skeleton_skull[rotation=0]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 457,
           "x": -37,
@@ -229,7 +229,7 @@
       },
       {
         "char": "贮",
-        "block": "minecraft:skeleton_skull[rotation=2]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 446,
           "x": -58,
@@ -252,7 +252,7 @@
       },
       {
         "char": "叽",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 483,
           "x": -40,
@@ -288,11 +288,11 @@
       },
       {
         "char": "靦",
-        "block": "minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:smooth_quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "畜",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 473,
           "x": -89,
@@ -328,15 +328,15 @@
       },
       {
         "char": "窘",
-        "block": "minecraft:oak_fence[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true,north=true]"
       },
       {
         "char": "症",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[north=true,west=true]"
       },
       {
         "char": "钞",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 479,
           "x": -90,
@@ -372,11 +372,11 @@
       },
       {
         "char": "漓",
-        "block": "minecraft:oak_fence[east=true,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[east=true,south=true]"
       },
       {
         "char": "啾",
-        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:oak_fence[south=true,west=true]"
       },
       {
         "char": "揉",
@@ -392,7 +392,7 @@
       },
       {
         "char": "荏",
-        "block": "minecraft:light_gray_wall_banner[facing=north]",
+        "block": "minecraft:light_gray_wall_banner",
         "tag": {
           "z": 407,
           "Patterns": [
@@ -417,7 +417,7 @@
       },
       {
         "char": "瓜",
-        "block": "minecraft:jungle_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:jungle_leaves"
       },
       {
         "char": "法",
@@ -455,19 +455,19 @@
       },
       {
         "char": "k",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=top]"
       },
       {
         "char": "a",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "拔",
-        "block": "minecraft:mossy_cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=top]"
       },
       {
         "char": "r",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=top]"
       },
       {
         "char": "酷",
@@ -475,7 +475,7 @@
       },
       {
         "char": "剖",
-        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,west=false]"
       },
       {
         "char": "划",
@@ -494,7 +494,7 @@
       },
       {
         "char": "A",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "伤",

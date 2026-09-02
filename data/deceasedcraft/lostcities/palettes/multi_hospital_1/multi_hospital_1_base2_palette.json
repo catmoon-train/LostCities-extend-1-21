@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:water[level=0]"
+      "block": "minecraft:water"
     },
     {
       "char": "d",
@@ -23,11 +23,11 @@
     },
     {
       "char": "f",
-      "block": "minecraft:stone_stairs[waterlogged=false,facing=north]"
+      "block": "minecraft:stone_stairs[facing=north]"
     },
     {
       "char": "g",
-      "block": "minecraft:stone_stairs[waterlogged=false,facing=north]"
+      "block": "minecraft:stone_stairs[facing=north]"
     },
     {
       "char": "h",
@@ -75,7 +75,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "t",
@@ -87,11 +87,11 @@
     },
     {
       "char": "w",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "x",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "y",
@@ -135,15 +135,15 @@
     },
     {
       "char": "L",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,facing=west]"
+      "block": "minecraft:polished_andesite_stairs[facing=west]"
     },
     {
       "char": "M",
-      "block": "minecraft:polished_andesite_stairs[waterlogged=false,facing=west]"
+      "block": "minecraft:polished_andesite_stairs[facing=west]"
     },
     {
       "char": "N",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     }
   ]
 }

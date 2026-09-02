@@ -7,11 +7,11 @@
     },
     {
       "char": "b",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "c",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "d",
@@ -77,11 +77,11 @@
     },
     {
       "char": "r",
-      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=south]"
+      "block": "minecraft:spruce_trapdoor[half=top,open=true,facing=south]"
     },
     {
       "char": "s",
-      "block": "minecraft:spruce_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=north]"
+      "block": "minecraft:spruce_trapdoor[half=top,open=true,facing=north]"
     },
     {
       "char": "t",
@@ -89,12 +89,12 @@
     },
     {
       "char": "u",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_12/floor2/spruce_drawer"
     },
     {
       "char": "w",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_12/floor2/spruce_drawer"
     },
     {
@@ -139,7 +139,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_12/floor2/spruce_drawer"
     },
     {
@@ -148,12 +148,12 @@
     },
     {
       "char": "M",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_12/floor2/spruce_drawer"
     },
     {
       "char": "N",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_verticalschool_12/floor2/spruce_drawer"
     }
   ]

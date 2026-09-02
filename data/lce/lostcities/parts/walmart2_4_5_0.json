@@ -53,7 +53,7 @@
       },
       {
         "char": "Ѕ",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 471,
           "x": 31,
@@ -93,15 +93,15 @@
       },
       {
         "char": "叫",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[south=true]"
       },
       {
         "char": "传",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[north=true,south=true]"
       },
       {
         "char": "根",
-        "block": "minecraft:chest[facing=east,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "walmart",
         "tag": {
           "z": 457,
@@ -117,7 +117,7 @@
       },
       {
         "char": "八",
-        "block": "minecraft:chest[facing=west,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "walmart",
         "tag": {
           "z": 436,
@@ -133,7 +133,7 @@
       },
       {
         "char": "金",
-        "block": "minecraft:dark_oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[north=true]"
       },
       {
         "char": "m",
@@ -161,7 +161,7 @@
       },
       {
         "char": "久",
-        "block": "minecraft:oak_sign[rotation=4,waterlogged=false]",
+        "block": "minecraft:oak_sign",
         "tag": {
           "z": 483,
           "x": 81,
@@ -197,7 +197,7 @@
       },
       {
         "char": "落",
-        "block": "minecraft:oak_sign[rotation=12,waterlogged=false]",
+        "block": "minecraft:oak_sign",
         "tag": {
           "z": 451,
           "x": 93,
@@ -233,7 +233,7 @@
       },
       {
         "char": "座",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "walmart",
         "tag": {
           "z": 433,
@@ -249,7 +249,7 @@
       },
       {
         "char": "O",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence"
       },
       {
         "char": "v",
@@ -281,19 +281,19 @@
       },
       {
         "char": "Ҭ",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "孩",
-        "block": "minecraft:dark_oak_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[east=true]"
       },
       {
         "char": "步",
-        "block": "minecraft:dark_oak_fence[east=true,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[east=true,north=true,south=true,west=true]"
       },
       {
         "char": "速",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:dark_oak_fence[west=true]"
       },
       {
         "char": "哇",

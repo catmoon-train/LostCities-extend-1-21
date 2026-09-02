@@ -33,11 +33,11 @@
       },
       {
         "char": "灵",
-        "block": "minecraft:acacia_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:acacia_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "Ғ",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 336,
           "x": 144,
@@ -81,11 +81,11 @@
       },
       {
         "char": "诸",
-        "block": "minecraft:jungle_door[facing=south,half=upper,hinge=right,open=true,powered=false]"
+        "block": "minecraft:jungle_door[facing=south,half=upper,hinge=right,open=true]"
       },
       {
         "char": "险",
-        "block": "minecraft:jungle_door[facing=south,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:jungle_door[facing=south,half=upper,hinge=left,open=false]"
       },
       {
         "char": "j",
@@ -97,7 +97,7 @@
       },
       {
         "char": "转",
-        "block": "minecraft:jukebox[has_record=false]",
+        "block": "minecraft:jukebox",
         "tag": {
           "RecordStartTick": "0L",
           "IsPlaying": "0b",
@@ -111,7 +111,7 @@
       },
       {
         "char": "Ӊ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 326,
           "x": 175,
@@ -151,7 +151,7 @@
       },
       {
         "char": "В",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 332,
           "x": 143,
@@ -191,7 +191,7 @@
       },
       {
         "char": "呀",
-        "block": "minecraft:player_head[rotation=8]",
+        "block": "minecraft:player_head",
         "tag": {
           "z": 305,
           "x": 137,
@@ -206,23 +206,23 @@
       },
       {
         "char": "科",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "风",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=true,south=false,west=false]"
       },
       {
         "char": "ө",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "战",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=true,south=false,west=true]"
       },
       {
         "char": "起",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=bottom,open=false]"
       },
       {
         "char": "e",
@@ -230,7 +230,7 @@
       },
       {
         "char": "F",
-        "block": "minecraft:stone_brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=top]"
       },
       {
         "char": "r",
@@ -246,11 +246,11 @@
       },
       {
         "char": "D",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "内",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "H",

@@ -59,7 +59,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:brick_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:brick_slab[type=bottom]"
     },
     {
       "char": "p",
@@ -67,7 +67,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_communitycenter_2/ground/birch_drawer"
     },
     {
@@ -97,7 +97,7 @@
     },
     {
       "char": "y",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "A",
@@ -129,11 +129,11 @@
     },
     {
       "char": "J",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "K",
-      "block": "minecraft:lantern[waterlogged=false,hanging=false]"
+      "block": "minecraft:lantern[hanging=false]"
     },
     {
       "char": "L",
@@ -145,7 +145,7 @@
     },
     {
       "char": "N",
-      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=false]"
+      "block": "minecraft:spruce_leaves"
     },
     {
       "char": "O",
@@ -153,7 +153,7 @@
     },
     {
       "char": "P",
-      "block": "minecraft:birch_slab[type=top,waterlogged=false]"
+      "block": "minecraft:birch_slab[type=top]"
     }
   ]
 }

@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:gray_stained_glass_pane"
     },
     {
       "char": "c",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "i",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=true,hinge=left,facing=north]"
+      "block": "minecraft:spruce_door[half=lower,open=true,hinge=left,facing=north]"
     },
     {
       "char": "n",
@@ -63,11 +63,11 @@
     },
     {
       "char": "p",
-      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:birch_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "q",
-      "block": "minecraft:birch_slab[type=north,waterlogged=false]"
+      "block": "minecraft:birch_slab"
     },
     {
       "char": "r",
@@ -87,7 +87,7 @@
     },
     {
       "char": "w",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=left,facing=east]"
     },
     {
       "char": "x",
@@ -95,11 +95,11 @@
     },
     {
       "char": "y",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=true,hinge=left,facing=north]"
+      "block": "minecraft:spruce_door[half=upper,open=true,hinge=left,facing=north]"
     },
     {
       "char": "A",
-      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:birch_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": "B",
@@ -115,7 +115,7 @@
     },
     {
       "char": "E",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=south]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=south]"
     },
     {
       "char": "F",

@@ -29,11 +29,11 @@
       },
       {
         "char": "餐",
-        "block": "minecraft:redstone_wire[east=up,north=none,power=12,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=up,north=none,west=none]"
       },
       {
         "char": "脚",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=11,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "j",
@@ -41,43 +41,43 @@
       },
       {
         "char": "短",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=10,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "毒",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=9,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "创",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=2,south=side,west=none]"
+        "block": "minecraft:redstone_wire[north=none,west=none]"
       },
       {
         "char": "尔",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=3,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "姐",
-        "block": "minecraft:redstone_wire[east=none,north=none,power=4,south=side,west=side]"
+        "block": "minecraft:redstone_wire[east=none,north=none]"
       },
       {
         "char": "趣",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=8,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "块",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=1,south=none,west=side]"
+        "block": "minecraft:redstone_wire[east=none,south=none]"
       },
       {
         "char": "漫",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=5,south=none,west=none]"
+        "block": "minecraft:redstone_wire[south=none,west=none]"
       },
       {
         "char": "消",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=6,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "母",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=7,south=none,west=side]"
+        "block": "minecraft:redstone_wire[east=none,south=none]"
       },
       {
         "char": "悲",
@@ -85,7 +85,7 @@
       },
       {
         "char": "梅",
-        "block": "minecraft:redstone_wire[east=up,north=none,power=13,south=none,west=side]"
+        "block": "minecraft:redstone_wire[east=up,north=none,south=none]"
       },
       {
         "char": "e",
@@ -123,11 +123,11 @@
       },
       {
         "char": "增",
-        "block": "minecraft:redstone_wire[east=up,north=none,power=14,south=none,west=side]"
+        "block": "minecraft:redstone_wire[east=up,north=none,south=none]"
       },
       {
         "char": "长",
-        "block": "minecraft:chest[facing=south,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 338,
@@ -143,7 +143,7 @@
       },
       {
         "char": "委",
-        "block": "minecraft:white_bed[facing=north,occupied=false,part=head]",
+        "block": "minecraft:white_bed",
         "tag": {
           "z": 310,
           "x": 179,
@@ -154,7 +154,7 @@
       },
       {
         "char": "百",
-        "block": "minecraft:skeleton_skull[rotation=6]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 319,
           "x": 156,
@@ -165,11 +165,11 @@
       },
       {
         "char": "灌",
-        "block": "minecraft:lantern[hanging=false,waterlogged=false]"
+        "block": "minecraft:lantern[hanging=false]"
       },
       {
         "char": "Ғ",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 336,
           "x": 144,
@@ -205,7 +205,7 @@
       },
       {
         "char": "嘿",
-        "block": "minecraft:white_bed[facing=north,occupied=false,part=foot]",
+        "block": "minecraft:white_bed",
         "tag": {
           "z": 311,
           "x": 179,
@@ -216,15 +216,15 @@
       },
       {
         "char": "士",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "世",
-        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "ϊ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 347,
           "x": 115,
@@ -260,7 +260,7 @@
       },
       {
         "char": "整",
-        "block": "minecraft:skeleton_skull[rotation=3]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 344,
           "x": 106,
@@ -271,11 +271,11 @@
       },
       {
         "char": "星",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=0,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "普",
-        "block": "minecraft:white_bed[facing=east,occupied=false,part=foot]",
+        "block": "minecraft:white_bed",
         "tag": {
           "z": 313,
           "x": 182,
@@ -286,7 +286,7 @@
       },
       {
         "char": "奖",
-        "block": "minecraft:white_bed[facing=east,occupied=false,part=head]",
+        "block": "minecraft:white_bed",
         "tag": {
           "z": 313,
           "x": 183,
@@ -301,11 +301,11 @@
       },
       {
         "char": "幕",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[south=none]"
       },
       {
         "char": "情",
-        "block": "minecraft:oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:oak_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "m",

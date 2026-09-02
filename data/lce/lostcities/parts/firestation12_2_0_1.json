@@ -13,7 +13,7 @@
       },
       {
         "char": "y",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "b",
@@ -49,15 +49,15 @@
       },
       {
         "char": "Ί",
-        "block": "minecraft:rail[shape=south_east,waterlogged=false]"
+        "block": "minecraft:rail[shape=south_east]"
       },
       {
         "char": "Ό",
-        "block": "minecraft:rail[shape=south_west,waterlogged=false]"
+        "block": "minecraft:rail[shape=south_west]"
       },
       {
         "char": "L",
-        "block": "minecraft:rail[shape=north_south,waterlogged=false]"
+        "block": "minecraft:rail[shape=north_south]"
       },
       {
         "char": "E",
@@ -65,7 +65,7 @@
       },
       {
         "char": "Φ",
-        "block": "minecraft:brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:brick_slab[type=bottom]"
       },
       {
         "char": "K",
@@ -77,11 +77,11 @@
       },
       {
         "char": "·",
-        "block": "minecraft:cobblestone_wall[east=none,north=none,south=tall,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[south=tall,up=true]"
       },
       {
         "char": "F",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=tall,south=tall]"
       },
       {
         "char": "H",
@@ -89,7 +89,7 @@
       },
       {
         "char": "ζ",
-        "block": "minecraft:mossy_cobblestone_wall[east=none,north=tall,south=tall,up=false,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[north=tall,south=tall]"
       },
       {
         "char": "G",
@@ -97,7 +97,7 @@
       },
       {
         "char": "u",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "f",

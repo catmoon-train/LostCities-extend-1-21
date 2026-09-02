@@ -29,11 +29,11 @@
       },
       {
         "char": "靖",
-        "block": "minecraft:iron_door[facing=west,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=west,half=upper,hinge=left,open=false]"
       },
       {
         "char": "帖",
-        "block": "minecraft:iron_door[facing=west,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=west,half=upper,hinge=right,open=false]"
       },
       {
         "char": "乾",
@@ -67,7 +67,7 @@
       },
       {
         "char": "瞬",
-        "block": "minecraft:iron_door[facing=east,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=east,half=upper,hinge=right,open=false]"
       },
       {
         "char": "f",
@@ -75,7 +75,7 @@
       },
       {
         "char": "尚",
-        "block": "minecraft:birch_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 945,
           "x": -465,
@@ -111,7 +111,7 @@
       },
       {
         "char": "甩",
-        "block": "minecraft:campfire[facing=north,lit=false,signal_fire=false,waterlogged=false]",
+        "block": "minecraft:campfire[facing=north,lit=false]",
         "tag": {
           "CookingTotalTimes": [
             "I",
@@ -141,7 +141,7 @@
       },
       {
         "char": "枕",
-        "block": "minecraft:campfire[facing=west,lit=false,signal_fire=false,waterlogged=false]",
+        "block": "minecraft:campfire[facing=west,lit=false]",
         "tag": {
           "CookingTotalTimes": [
             "I",
@@ -167,7 +167,7 @@
       },
       {
         "char": "嘎",
-        "block": "minecraft:iron_door[facing=east,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=east,half=upper,hinge=left,open=false]"
       },
       {
         "char": "采",
@@ -190,19 +190,19 @@
       },
       {
         "char": "乡",
-        "block": "minecraft:ladder[facing=north,waterlogged=false]"
+        "block": "minecraft:ladder[facing=north]"
       },
       {
         "char": "嘟",
-        "block": "minecraft:iron_door[facing=north,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=north,half=upper,hinge=left,open=false]"
       },
       {
         "char": "甄",
-        "block": "minecraft:iron_door[facing=north,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=north,half=upper,hinge=right,open=false]"
       },
       {
         "char": "ϑ",
-        "block": "minecraft:birch_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 953,
           "x": -527,
@@ -238,7 +238,7 @@
       },
       {
         "char": "Ӯ",
-        "block": "minecraft:birch_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 955,
           "x": -442,
@@ -302,7 +302,7 @@
       },
       {
         "char": "茧",
-        "block": "minecraft:iron_door[facing=south,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:iron_door[facing=south,half=upper,hinge=right,open=false]"
       },
       {
         "char": "g",
@@ -356,7 +356,7 @@
       },
       {
         "char": "戚",
-        "block": "minecraft:birch_fence[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:birch_fence"
       },
       {
         "char": "c",
@@ -368,15 +368,15 @@
       },
       {
         "char": "拼",
-        "block": "minecraft:iron_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:iron_trapdoor[facing=north,half=top,open=false]"
       },
       {
         "char": "x",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "匪",
-        "block": "minecraft:lectern[facing=east,has_book=false,powered=false]",
+        "block": "minecraft:lectern[facing=east]",
         "tag": {
           "z": 968,
           "x": -439,
@@ -602,7 +602,7 @@
       },
       {
         "char": "厕",
-        "block": "minecraft:lectern[facing=north,has_book=false,powered=false]",
+        "block": "minecraft:lectern[facing=north]",
         "tag": {
           "z": 976,
           "x": -438,
@@ -613,7 +613,7 @@
       },
       {
         "char": "页",
-        "block": "minecraft:jukebox[has_record=false]",
+        "block": "minecraft:jukebox",
         "tag": {
           "RecordStartTick": "0L",
           "IsPlaying": "0b",

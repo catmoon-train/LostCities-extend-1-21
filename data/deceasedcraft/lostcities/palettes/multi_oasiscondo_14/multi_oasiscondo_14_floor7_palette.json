@@ -38,7 +38,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:lava[level=0]"
+      "block": "minecraft:lava"
     },
     {
       "char": "j",
@@ -46,7 +46,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "l",
@@ -54,23 +54,23 @@
     },
     {
       "char": "m",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "n",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "o",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "p",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "q",
-      "block": "minecraft:brown_bed[occupied=false,part=foot,facing=south]",
+      "block": "minecraft:brown_bed",
       "tag": {
         "id": "minecraft:bed"
       }
@@ -81,7 +81,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:brown_bed[occupied=false,part=head,facing=south]",
+      "block": "minecraft:brown_bed",
       "tag": {
         "id": "minecraft:bed"
       }
@@ -110,7 +110,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "B",
@@ -149,7 +149,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "M",
@@ -161,7 +161,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=left,facing=west]"
     },
     {
       "char": "P",
@@ -217,11 +217,11 @@
     },
     {
       "char": "2",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "3",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_oasiscondo_14/floor7/lootr_chest"
     },
     {
@@ -237,7 +237,7 @@
     },
     {
       "char": "6",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "7",
@@ -249,15 +249,15 @@
     },
     {
       "char": "9",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "#",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "$",
-      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:gray_stained_glass_pane"
     },
     {
       "char": "%",
@@ -277,11 +277,11 @@
     },
     {
       "char": "(",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": ")",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "+",
@@ -305,7 +305,7 @@
     },
     {
       "char": "}",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "|",
@@ -317,7 +317,7 @@
     },
     {
       "char": ":",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=west]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=left,facing=west]"
     },
     {
       "char": "'",
@@ -333,11 +333,11 @@
     },
     {
       "char": ",",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": ".",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "?",
@@ -364,16 +364,16 @@
     },
     {
       "char": "Ͳ",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_oasiscondo_14/floor7/lootr_chest"
     },
     {
       "char": "ͳ",
-      "block": "minecraft:dark_oak_slab[type=west,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "ʹ",
-      "block": "minecraft:cobblestone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:cobblestone_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "͵",
@@ -386,7 +386,7 @@
     },
     {
       "char": "ͷ",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "ͺ",
@@ -409,11 +409,11 @@
     },
     {
       "char": ";",
-      "block": "minecraft:tuff_brick_wall[waterlogged=false,up=true]"
+      "block": "minecraft:tuff_brick_wall[up=true]"
     },
     {
       "char": "Ϳ",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:stone_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "΄",

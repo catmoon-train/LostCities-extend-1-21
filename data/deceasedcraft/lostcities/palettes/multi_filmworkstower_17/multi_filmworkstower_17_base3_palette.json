@@ -27,15 +27,15 @@
     },
     {
       "char": "g",
-      "block": "minecraft:campfire[waterlogged=false,signal_fire=false,facing=west,lit=true]"
+      "block": "minecraft:campfire[facing=west,lit=true]"
     },
     {
       "char": "h",
-      "block": "minecraft:sandstone_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:sandstone_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "i",
-      "block": "minecraft:sandstone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:sandstone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "j",
@@ -43,7 +43,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:sandstone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:sandstone_slab[type=bottom]"
     },
     {
       "char": "l",
@@ -61,7 +61,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:sandstone_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:sandstone_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": "p",
@@ -69,7 +69,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:campfire[waterlogged=false,signal_fire=false,facing=south,lit=true]"
+      "block": "minecraft:campfire[facing=south,lit=true]"
     },
     {
       "char": "r",
@@ -89,7 +89,7 @@
     },
     {
       "char": "w",
-      "block": "minecraft:ladder[waterlogged=false,facing=north]"
+      "block": "minecraft:ladder[facing=north]"
     },
     {
       "char": "x",
@@ -109,7 +109,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_filmworkstower_17/base3/dead_body"
     },
     {
@@ -130,15 +130,15 @@
     },
     {
       "char": "J",
-      "block": "minecraft:ladder[waterlogged=false,facing=west]"
+      "block": "minecraft:ladder[facing=west]"
     },
     {
       "char": "K",
-      "block": "minecraft:detector_rail[waterlogged=false,powered=false,shape=north_south]"
+      "block": "minecraft:detector_rail[powered=false,shape=north_south]"
     },
     {
       "char": "L",
-      "block": "minecraft:rail[waterlogged=false,shape=north_south]"
+      "block": "minecraft:rail[shape=north_south]"
     },
     {
       "char": "M",

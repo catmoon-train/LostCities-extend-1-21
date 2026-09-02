@@ -82,7 +82,7 @@
       },
       {
         "char": "心",
-        "block": "minecraft:spruce_door[facing=south,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:spruce_door[facing=south,half=lower,hinge=left,open=false]"
       },
       {
         "char": "x",
@@ -94,23 +94,23 @@
       },
       {
         "char": "ӻ",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=true,west=true]"
       },
       {
         "char": "子",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=false,south=true,west=true]"
       },
       {
         "char": "地",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=true,west=false]"
       },
       {
         "char": "Ѹ",
-        "block": "minecraft:iron_bars[east=true,north=true,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:iron_bars[east=true,north=true,south=false,west=true]"
       },
       {
         "char": "ѹ",
-        "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:iron_bars[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "U",
@@ -118,11 +118,11 @@
       },
       {
         "char": "工",
-        "block": "minecraft:spruce_door[facing=south,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:spruce_door[facing=south,half=upper,hinge=left,open=false]"
       },
       {
         "char": "自",
-        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:spruce_trapdoor[facing=north,half=bottom,open=false]"
       },
       {
         "char": "g",
@@ -134,7 +134,7 @@
       },
       {
         "char": "少",
-        "block": "minecraft:birch_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": -261,
           "x": -39,
@@ -165,23 +165,23 @@
       },
       {
         "char": "性",
-        "block": "minecraft:polished_andesite_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:polished_andesite_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "生",
-        "block": "minecraft:white_stained_glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=false,north=false,south=false,west=false]"
       },
       {
         "char": "Ѳ",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,west=false]"
       },
       {
         "char": "N",
-        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:white_stained_glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "W",
-        "block": "minecraft:polished_andesite_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:polished_andesite_stairs[facing=south,half=top,shape=straight]"
       }
     ]
   },

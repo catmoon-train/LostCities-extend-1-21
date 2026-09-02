@@ -21,7 +21,7 @@
       },
       {
         "char": "B",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "k",
@@ -79,11 +79,11 @@
       },
       {
         "char": "Б",
-        "block": "minecraft:stone_brick_slab[type=double,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=double]"
       },
       {
         "char": "Ϛ",
-        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=west,half=top,open=false]"
       },
       {
         "char": "s",
@@ -127,7 +127,7 @@
       },
       {
         "char": "w",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "i",
@@ -143,7 +143,7 @@
       },
       {
         "char": "Ћ",
-        "block": "minecraft:trapped_chest[facing=south,type=single,waterlogged=false]",
+        "block": "minecraft:trapped_chest",
         "tag": {
           "z": 602,
           "x": 106,
@@ -174,7 +174,7 @@
       },
       {
         "char": "υ",
-        "block": "minecraft:trapped_chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:trapped_chest",
         "tag": {
           "z": 600,
           "x": 97,
@@ -189,15 +189,15 @@
       },
       {
         "char": "Ε",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "F",
-        "block": "minecraft:birch_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:birch_leaves"
       },
       {
         "char": "Ώ",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom]"
       },
       {
         "char": "ρ",
@@ -209,7 +209,7 @@
       },
       {
         "char": "ͻ",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 572,
           "x": 105,
@@ -245,7 +245,7 @@
       },
       {
         "char": "Τ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 573,
           "x": 104,
@@ -285,19 +285,19 @@
       },
       {
         "char": "I",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "ξ",
-        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,west=true]"
       },
       {
         "char": "δ",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=false]"
       },
       {
         "char": "6",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 593,
           "x": 95,
@@ -349,7 +349,7 @@
       },
       {
         "char": "Ў",
-        "block": "minecraft:oak_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "7",
@@ -361,11 +361,11 @@
       },
       {
         "char": "ϼ",
-        "block": "minecraft:oak_trapdoor[facing=south,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=south,half=bottom,open=true]"
       },
       {
         "char": "r",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "Ͱ",
@@ -381,15 +381,15 @@
       },
       {
         "char": "D",
-        "block": "minecraft:sandstone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:sandstone_slab[type=bottom]"
       },
       {
         "char": "z",
-        "block": "minecraft:sandstone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:sandstone_slab[type=double]"
       },
       {
         "char": "T",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       }
     ]
   },

@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:oak_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=south]"
+      "block": "minecraft:oak_trapdoor[half=bottom,open=true,facing=south]"
     },
     {
       "char": "k",
@@ -47,18 +47,18 @@
     },
     {
       "char": "l",
-      "block": "minecraft:azalea_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:azalea_leaves"
     },
     {
       "char": "m",
-      "block": "minecraft:white_bed[occupied=false,part=head,facing=east]",
+      "block": "minecraft:white_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "n",
-      "block": "minecraft:flowering_azalea_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:flowering_azalea_leaves"
     },
     {
       "char": "o",

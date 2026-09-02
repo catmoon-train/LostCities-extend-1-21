@@ -57,7 +57,7 @@
       },
       {
         "char": "骑",
-        "block": "minecraft:green_wall_banner[facing=west]",
+        "block": "minecraft:green_wall_banner",
         "tag": {
           "z": 340,
           "Patterns": [],
@@ -70,7 +70,7 @@
       },
       {
         "char": "G",
-        "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=bottom]"
       },
       {
         "char": "l",
@@ -82,11 +82,11 @@
       },
       {
         "char": "P",
-        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=bottom]"
       },
       {
         "char": "D",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "4",

@@ -9,7 +9,7 @@
       },
       {
         "char": "y",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "z",
@@ -17,7 +17,7 @@
       },
       {
         "char": "皈",
-        "block": "minecraft:quartz_slab[type=double,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=double]"
       },
       {
         "char": "i",
@@ -37,7 +37,7 @@
       },
       {
         "char": "N",
-        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=top]"
       },
       {
         "char": "c",
@@ -49,7 +49,7 @@
       },
       {
         "char": "袱",
-        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "p",
@@ -81,11 +81,11 @@
       },
       {
         "char": "儸",
-        "block": "minecraft:diorite_stairs[facing=east,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:diorite_stairs[facing=east,half=top,shape=straight]"
       },
       {
         "char": "袅",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "u",
@@ -93,7 +93,7 @@
       },
       {
         "char": "K",
-        "block": "minecraft:diorite_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=bottom]"
       },
       {
         "char": "n",
@@ -101,7 +101,7 @@
       },
       {
         "char": "拭",
-        "block": "minecraft:cobblestone_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:cobblestone_wall[east=low,west=low]"
       },
       {
         "char": "调",
@@ -109,7 +109,7 @@
       },
       {
         "char": "鲸",
-        "block": "minecraft:mossy_cobblestone_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_cobblestone_wall[east=tall,north=tall,up=true]"
       }
     ]
   },

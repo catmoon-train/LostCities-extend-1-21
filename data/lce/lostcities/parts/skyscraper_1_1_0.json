@@ -13,7 +13,7 @@
       },
       {
         "char": "t",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       },
       {
         "char": "E",
@@ -57,7 +57,7 @@
       },
       {
         "char": "Ϸ",
-        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=west,half=top,open=true]"
       },
       {
         "char": "ϴ",
@@ -65,7 +65,7 @@
       },
       {
         "char": "Ѕ",
-        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=south,half=top,open=true]"
       },
       {
         "char": "i",
@@ -73,11 +73,11 @@
       },
       {
         "char": "y",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire"
       },
       {
         "char": "Ӄ",
-        "block": "minecraft:skeleton_skull[rotation=0]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 626,
           "x": 83,
@@ -100,11 +100,11 @@
       },
       {
         "char": "以",
-        "block": "minecraft:oak_door[facing=west,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=west,half=lower,hinge=left,open=false]"
       },
       {
         "char": "ц",
-        "block": "minecraft:skeleton_skull[rotation=3]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 631,
           "x": 81,
@@ -119,11 +119,11 @@
       },
       {
         "char": "Ҕ",
-        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "F",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "m",
@@ -135,15 +135,15 @@
       },
       {
         "char": "϶",
-        "block": "minecraft:dark_oak_leaves[distance=1,persistent=true,waterlogged=false]"
+        "block": "minecraft:dark_oak_leaves"
       },
       {
         "char": "f",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "ϳ",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 618,
           "x": 75,
@@ -179,7 +179,7 @@
       },
       {
         "char": "ω",
-        "block": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "C",
@@ -187,15 +187,15 @@
       },
       {
         "char": "Ӛ",
-        "block": "minecraft:oak_door[facing=west,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=west,half=upper,hinge=left,open=false]"
       },
       {
         "char": "ý",
-        "block": "minecraft:acacia_trapdoor[facing=west,half=bottom,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:acacia_trapdoor[facing=west,half=bottom,open=true]"
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "И",
@@ -207,11 +207,11 @@
       },
       {
         "char": "ϸ",
-        "block": "minecraft:dark_oak_leaves[distance=2,persistent=true,waterlogged=false]"
+        "block": "minecraft:dark_oak_leaves"
       },
       {
         "char": "Ί",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=true]"
       }
     ]
   },

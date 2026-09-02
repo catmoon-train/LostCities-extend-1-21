@@ -3,11 +3,11 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:redstone_wire[power=2,west=side,east=none,south=none,north=side]"
+      "block": "minecraft:redstone_wire[east=none,south=none]"
     },
     {
       "char": "b",
-      "block": "minecraft:redstone_wire[power=4,west=side,east=none,south=none,north=side]"
+      "block": "minecraft:redstone_wire[east=none,south=none]"
     }
   ]
 }

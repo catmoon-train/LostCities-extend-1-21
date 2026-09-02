@@ -25,7 +25,7 @@
       },
       {
         "char": "S",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "s",
@@ -73,7 +73,7 @@
       },
       {
         "char": "C",
-        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "r",
@@ -93,7 +93,7 @@
       },
       {
         "char": "U",
-        "block": "minecraft:zombie_head[rotation=10]",
+        "block": "minecraft:zombie_head",
         "tag": {
           "z": 730,
           "x": 189,
@@ -104,15 +104,15 @@
       },
       {
         "char": "H",
-        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "I",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "Ͱ",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "lce:observatory",
         "tag": {
           "z": 734,
@@ -132,7 +132,7 @@
       },
       {
         "char": "k",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "8",
@@ -156,7 +156,7 @@
       },
       {
         "char": "h",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       }
     ]
   },

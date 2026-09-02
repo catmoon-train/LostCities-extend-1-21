@@ -25,7 +25,7 @@
       },
       {
         "char": "拢",
-        "block": "minecraft:redstone_wire[east=side,north=side,power=0,south=side,west=side]"
+        "block": "minecraft:redstone_wire"
       },
       {
         "char": "n",
@@ -33,7 +33,7 @@
       },
       {
         "char": "顽",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "b",
@@ -49,11 +49,11 @@
       },
       {
         "char": "爹",
-        "block": "minecraft:quartz_stairs[facing=north,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=north,half=top,shape=inner_left]"
       },
       {
         "char": "愈",
-        "block": "minecraft:birch_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 979,
           "x": -456,
@@ -89,15 +89,15 @@
       },
       {
         "char": "K",
-        "block": "minecraft:quartz_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=top,shape=straight]"
       },
       {
         "char": "C",
-        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "ҕ",
-        "block": "minecraft:chest[facing=south,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 942,
@@ -113,7 +113,7 @@
       },
       {
         "char": "Ѷ",
-        "block": "minecraft:chest[facing=south,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 940,
@@ -129,7 +129,7 @@
       },
       {
         "char": "晨",
-        "block": "minecraft:chest[facing=south,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 947,
@@ -145,15 +145,15 @@
       },
       {
         "char": "锣",
-        "block": "minecraft:quartz_stairs[facing=west,half=top,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=west,half=top,shape=inner_left]"
       },
       {
         "char": "H",
-        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "碟",
-        "block": "minecraft:chest[facing=west,type=right,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 957,
@@ -169,11 +169,11 @@
       },
       {
         "char": "哔",
-        "block": "minecraft:acacia_door[facing=east,half=lower,hinge=left,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=east,half=lower,hinge=left,open=false]"
       },
       {
         "char": "底",
-        "block": "minecraft:chest[facing=north,type=left,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "z": 975,
@@ -193,7 +193,7 @@
       },
       {
         "char": "掀",
-        "block": "minecraft:acacia_door[facing=east,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=east,half=lower,hinge=right,open=false]"
       },
       {
         "char": "鼎",
@@ -228,11 +228,11 @@
       },
       {
         "char": "芙",
-        "block": "minecraft:acacia_door[facing=east,half=upper,hinge=left,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=east,half=upper,hinge=left,open=false]"
       },
       {
         "char": "噜",
-        "block": "minecraft:acacia_door[facing=east,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:acacia_door[facing=east,half=upper,hinge=right,open=false]"
       },
       {
         "char": "未",

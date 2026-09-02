@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:dark_oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab[type=top]"
     },
     {
       "char": "c",
@@ -15,11 +15,11 @@
     },
     {
       "char": "d",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,half=top,facing=east,shape=straight]"
+      "block": "minecraft:dark_oak_stairs[half=top,facing=east,shape=straight]"
     },
     {
       "char": "e",
-      "block": "minecraft:dark_oak_stairs[waterlogged=false,facing=east]"
+      "block": "minecraft:dark_oak_stairs[facing=east]"
     },
     {
       "char": "f",
@@ -71,11 +71,11 @@
     },
     {
       "char": "r",
-      "block": "minecraft:note_block[powered=false,instrument=harp,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "s",
-      "block": "minecraft:note_block[powered=false,instrument=bass,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "t",

@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:cobblestone_slab[type=bottom]"
     },
     {
       "char": "b",
@@ -31,19 +31,19 @@
     },
     {
       "char": "h",
-      "block": "minecraft:water[level=0]"
+      "block": "minecraft:water"
     },
     {
       "char": "i",
-      "block": "minecraft:water[level=1]"
+      "block": "minecraft:water"
     },
     {
       "char": "j",
-      "block": "minecraft:water[level=2]"
+      "block": "minecraft:water"
     },
     {
       "char": "k",
-      "block": "minecraft:water[level=3]"
+      "block": "minecraft:water"
     }
   ]
 }

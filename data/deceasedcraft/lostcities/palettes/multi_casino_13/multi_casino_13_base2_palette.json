@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=double]"
     },
     {
       "char": "f",
@@ -57,7 +57,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:dark_oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:dark_oak_leaves"
     },
     {
       "char": "n",
@@ -139,7 +139,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:acacia_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=west]"
+      "block": "minecraft:acacia_trapdoor[half=top,open=true,facing=west]"
     },
     {
       "char": "I",
@@ -147,7 +147,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:acacia_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=east]"
+      "block": "minecraft:acacia_trapdoor[half=top,open=true,facing=east]"
     },
     {
       "char": "K",
@@ -180,7 +180,7 @@
     },
     {
       "char": "Q",
-      "block": "minecraft:chain[waterlogged=false,axis=y]"
+      "block": "minecraft:chain[axis=y]"
     },
     {
       "char": "R",

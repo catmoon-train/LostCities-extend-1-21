@@ -3,19 +3,19 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "b",
-      "block": "minecraft:lantern[waterlogged=false,hanging=false]"
+      "block": "minecraft:lantern[hanging=false]"
     },
     {
       "char": "c",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+      "block": "minecraft:cobblestone_wall"
     },
     {
       "char": "d",
-      "block": "minecraft:soul_lantern[waterlogged=false,hanging=false]"
+      "block": "minecraft:soul_lantern[hanging=false]"
     }
   ]
 }

@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:stone_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:stone_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "h",
@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=east]"
     },
     {
       "char": "k",
@@ -81,7 +81,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:birch_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:birch_leaves"
     },
     {
       "char": "s",
@@ -97,7 +97,7 @@
     },
     {
       "char": "w",
-      "block": "minecraft:birch_sapling[stage=1]"
+      "block": "minecraft:birch_sapling"
     },
     {
       "char": "x",
@@ -117,7 +117,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "D",
@@ -130,11 +130,11 @@
     },
     {
       "char": "F",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=east]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=east]"
     },
     {
       "char": "I",
-      "block": "minecraft:tripwire[powered=false,attached=false,disarmed=false]"
+      "block": "minecraft:tripwire[attached=false]"
     },
     {
       "char": "J",
@@ -154,12 +154,12 @@
     },
     {
       "char": "N",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_apartmentsmallb/ground/oak_drawer"
     },
     {
       "char": "O",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "P",
@@ -179,19 +179,19 @@
     },
     {
       "char": "S",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:oak_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "T",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=false]"
+      "block": "minecraft:cobblestone_wall"
     },
     {
       "char": "U",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "V",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     }
   ]
 }

@@ -97,17 +97,17 @@
     },
     {
       "char": "y",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_3/base2/large_shelves_fill"
     },
     {
       "char": "A",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_3/base2/large_shelves_fill"
     },
     {
       "char": "B",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_3/base2/large_shelves_fill"
     },
     {
@@ -116,11 +116,11 @@
     },
     {
       "char": "D",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=north]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=false,facing=north]"
     },
     {
       "char": "E",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_3/base2/large_shelves_fill"
     },
     {
@@ -129,12 +129,12 @@
     },
     {
       "char": "I",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_3/base2/large_shelves_fill"
     },
     {
       "char": "J",
-      "block": "minecraft:daylight_detector[power=6,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "K",

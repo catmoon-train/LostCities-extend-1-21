@@ -45,7 +45,7 @@
       },
       {
         "char": "b",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "ί",
@@ -101,11 +101,11 @@
       },
       {
         "char": "ͳ",
-        "block": "minecraft:oak_trapdoor[facing=south,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=south,half=top,open=false]"
       },
       {
         "char": "q",
-        "block": "minecraft:brick_slab[type=top,waterlogged=false]"
+        "block": "minecraft:brick_slab[type=top]"
       }
     ]
   },

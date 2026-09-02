@@ -9,7 +9,7 @@
       },
       {
         "char": "l",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "c",
@@ -17,7 +17,7 @@
       },
       {
         "char": "h",
-        "block": "minecraft:glass_pane[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=true,south=true,west=false]"
       },
       {
         "char": "f",
@@ -37,7 +37,7 @@
       },
       {
         "char": "g",
-        "block": "minecraft:glass_pane[east=true,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:glass_pane[east=true,north=false,south=false,west=true]"
       },
       {
         "char": "b",
@@ -57,7 +57,7 @@
       },
       {
         "char": "z",
-        "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=bottom]"
       },
       {
         "char": "x",
@@ -69,7 +69,7 @@
       },
       {
         "char": "φ",
-        "block": "minecraft:tripwire[attached=false,disarmed=false,east=false,north=false,powered=false,south=false,west=false]"
+        "block": "minecraft:tripwire[attached=false,east=false,north=false,south=false,west=false]"
       },
       {
         "char": "Υ",
@@ -90,7 +90,7 @@
       },
       {
         "char": "Т",
-        "block": "minecraft:wither_skeleton_wall_skull[facing=south]",
+        "block": "minecraft:wither_skeleton_wall_skull",
         "tag": {
           "z": 578,
           "x": 233,

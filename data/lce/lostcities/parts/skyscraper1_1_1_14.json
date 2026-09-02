@@ -41,7 +41,7 @@
       },
       {
         "char": "ϋ",
-        "block": "minecraft:daylight_detector[inverted=true,power=11]",
+        "block": "minecraft:daylight_detector[inverted=true]",
         "tag": {
           "z": 624,
           "x": 51,
@@ -52,11 +52,11 @@
       },
       {
         "char": "Ά",
-        "block": "minecraft:ladder[facing=south,waterlogged=false]"
+        "block": "minecraft:ladder[facing=south]"
       },
       {
         "char": "Τ",
-        "block": "minecraft:daylight_detector[inverted=false,power=0]",
+        "block": "minecraft:daylight_detector[inverted=false]",
         "tag": {
           "z": 625,
           "x": 51,
@@ -67,7 +67,7 @@
       },
       {
         "char": "a",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       }
     ]
   },

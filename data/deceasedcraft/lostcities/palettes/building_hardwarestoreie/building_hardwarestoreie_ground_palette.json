@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:campfire[waterlogged=false,signal_fire=false,facing=west,lit=true]"
+      "block": "minecraft:campfire[facing=west,lit=true]"
     },
     {
       "char": "k",
@@ -51,7 +51,7 @@
     },
     {
       "char": "m",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "n",
@@ -107,20 +107,20 @@
     },
     {
       "char": "C",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "D",
-      "block": "minecraft:daylight_detector[power=3,inverted=true]"
+      "block": "minecraft:daylight_detector[inverted=true]"
     },
     {
       "char": "E",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_hardwarestoreie/ground/lootr_chest"
     },
     {
       "char": "F",
-      "block": "minecraft:daylight_detector[power=9,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "I",
@@ -275,7 +275,7 @@
     },
     {
       "char": "0",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=east]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_hardwarestoreie/ground/lootr_chest"
     },
     {
@@ -284,15 +284,15 @@
     },
     {
       "char": "2",
-      "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=double]"
     },
     {
       "char": "3",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "4",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=false,facing=south]"
+      "block": "minecraft:iron_trapdoor[half=top,open=false,facing=south]"
     }
   ]
 }

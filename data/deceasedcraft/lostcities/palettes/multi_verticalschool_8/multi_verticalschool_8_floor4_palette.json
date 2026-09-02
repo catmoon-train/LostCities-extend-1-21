@@ -3,11 +3,11 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=bottom]"
     },
     {
       "char": "b",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "c",
@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:jungle_fence[waterlogged=false]"
+      "block": "minecraft:jungle_fence"
     },
     {
       "char": "k",
@@ -68,7 +68,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:smooth_red_sandstone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_red_sandstone_slab[type=top]"
     }
   ]
 }

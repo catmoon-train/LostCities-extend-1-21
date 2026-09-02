@@ -11,7 +11,7 @@
     },
     {
       "char": "c",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "d",
@@ -84,11 +84,11 @@
     },
     {
       "char": "t",
-      "block": "minecraft:stone_brick_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab"
     },
     {
       "char": "u",
-      "block": "minecraft:stone_brick_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab"
     },
     {
       "char": "w",
@@ -96,7 +96,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:stone_brick_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_brick_slab"
     },
     {
       "char": "y",
@@ -117,7 +117,7 @@
     },
     {
       "char": "D",
-      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:stone_brick_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "E",
@@ -125,7 +125,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:stone_brick_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "I",
@@ -153,28 +153,28 @@
     },
     {
       "char": "O",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_flatapartment_1/ground/spruce_drawer"
     },
     {
       "char": "P",
-      "block": "minecraft:smooth_quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=top]"
     },
     {
       "char": "Q",
-      "block": "minecraft:smooth_quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_quartz_slab[type=bottom]"
     },
     {
       "char": "R",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "S",
-      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:stone_brick_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "T",
-      "block": "minecraft:stone_brick_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:stone_brick_stairs[half=bottom,facing=east,shape=straight]"
     }
   ]
 }

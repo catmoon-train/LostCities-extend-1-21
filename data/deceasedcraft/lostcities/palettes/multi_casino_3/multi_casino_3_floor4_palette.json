@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_casino_3/floor10/lootr_chest"
     },
     {
@@ -60,7 +60,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_casino_3/floor10/lootr_chest"
     },
     {
@@ -73,19 +73,19 @@
     },
     {
       "char": "r",
-      "block": "minecraft:blue_candle[waterlogged=false,candles=3,lit=false]"
+      "block": "minecraft:blue_candle[candles=3,lit=false]"
     },
     {
       "char": "s",
-      "block": "minecraft:yellow_candle[waterlogged=false,candles=4,lit=false]"
+      "block": "minecraft:yellow_candle[candles=4,lit=false]"
     },
     {
       "char": "t",
-      "block": "minecraft:black_candle[waterlogged=false,candles=3,lit=false]"
+      "block": "minecraft:black_candle[candles=3,lit=false]"
     },
     {
       "char": "u",
-      "block": "minecraft:blue_candle[waterlogged=false,candles=4,lit=false]"
+      "block": "minecraft:blue_candle[candles=4,lit=false]"
     },
     {
       "char": "w",
@@ -118,11 +118,11 @@
     },
     {
       "char": "y",
-      "block": "minecraft:yellow_candle[waterlogged=false,candles=2,lit=false]"
+      "block": "minecraft:yellow_candle[candles=2,lit=false]"
     },
     {
       "char": "A",
-      "block": "minecraft:black_candle[waterlogged=false,candles=4,lit=false]"
+      "block": "minecraft:black_candle[candles=4,lit=false]"
     }
   ]
 }

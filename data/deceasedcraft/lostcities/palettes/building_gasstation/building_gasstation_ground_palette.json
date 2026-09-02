@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "h",
@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:cobblestone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:cobblestone_wall[up=true]"
     },
     {
       "char": "k",
@@ -119,7 +119,7 @@
     },
     {
       "char": "D",
-      "block": "minecraft:birch_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:birch_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "E",
@@ -179,7 +179,7 @@
     },
     {
       "char": "R",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:building_gasstation/ground/lootr_chest"
     },
     {
@@ -192,7 +192,7 @@
     },
     {
       "char": "U",
-      "block": "minecraft:birch_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:birch_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": "V",
@@ -246,15 +246,15 @@
     },
     {
       "char": "6",
-      "block": "minecraft:chain[waterlogged=false,axis=y]"
+      "block": "minecraft:chain[axis=y]"
     },
     {
       "char": "7",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "8",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     }
   ]
 }

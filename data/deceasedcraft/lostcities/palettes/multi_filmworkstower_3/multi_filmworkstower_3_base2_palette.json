@@ -27,7 +27,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:rail[waterlogged=false,shape=north_south]"
+      "block": "minecraft:rail[shape=north_south]"
     },
     {
       "char": "h",
@@ -55,7 +55,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "o",
@@ -105,7 +105,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:hopper[enabled=true,facing=down]"
+      "block": "minecraft:hopper[facing=down]"
     },
     {
       "char": "C",
@@ -117,12 +117,12 @@
     },
     {
       "char": "E",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_filmworkstower_3/base2/dark_oak_crate"
     },
     {
       "char": "F",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     },
     {
       "char": "I",
@@ -130,7 +130,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:ender_chest[waterlogged=false,facing=east]"
+      "block": "minecraft:ender_chest"
     }
   ]
 }

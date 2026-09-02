@@ -131,7 +131,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_filmworkstower_4/floor9/dark_oak_drawer"
     },
     {
@@ -141,11 +141,11 @@
     },
     {
       "char": "L",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "M",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     }
   ]
 }

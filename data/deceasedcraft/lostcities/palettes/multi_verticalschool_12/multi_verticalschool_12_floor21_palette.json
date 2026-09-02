@@ -23,15 +23,15 @@
     },
     {
       "char": "f",
-      "block": "minecraft:note_block[powered=false,instrument=harp,note=0]"
+      "block": "minecraft:note_block"
     },
     {
       "char": "g",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "h",
-      "block": "minecraft:tuff_brick_slab[type=top,waterlogged=false]"
+      "block": "minecraft:tuff_brick_slab[type=top]"
     },
     {
       "char": "i",
@@ -64,7 +64,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:lectern[powered=false,has_book=true,facing=west]"
+      "block": "minecraft:lectern[facing=west]"
     },
     {
       "char": "o",
@@ -128,7 +128,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:spruce_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:spruce_leaves"
     },
     {
       "char": "I",

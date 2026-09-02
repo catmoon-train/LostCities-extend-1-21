@@ -69,7 +69,7 @@
       },
       {
         "char": "i",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "u",
@@ -81,7 +81,7 @@
       },
       {
         "char": "ϑ",
-        "block": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:dark_oak_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "σ",
@@ -89,7 +89,7 @@
       },
       {
         "char": "t",
-        "block": "minecraft:polished_deepslate_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:polished_deepslate_slab[type=bottom]"
       },
       {
         "char": "Ϝ",
@@ -125,15 +125,15 @@
       },
       {
         "char": "й",
-        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_left]"
       },
       {
         "char": "ϋ",
-        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "ѣ",
-        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_right]"
       },
       {
         "char": "x",
@@ -145,7 +145,7 @@
       },
       {
         "char": "e",
-        "block": "minecraft:cobbled_deepslate_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:cobbled_deepslate_slab[type=bottom]"
       },
       {
         "char": "Ϗ",
@@ -371,7 +371,7 @@
       },
       {
         "char": "Ι",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=false,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[west=true]"
       },
       {
         "char": "9",
@@ -387,7 +387,7 @@
       },
       {
         "char": "п",
-        "block": "minecraft:spruce_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[north=true]"
       },
       {
         "char": "ј",
@@ -447,7 +447,7 @@
       },
       {
         "char": "ϥ",
-        "block": "minecraft:spruce_fence[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[east=true]"
       },
       {
         "char": "δ",
@@ -501,7 +501,7 @@
       },
       {
         "char": "Γ",
-        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=east,half=top,open=false]"
       },
       {
         "char": "Ћ",
@@ -517,11 +517,11 @@
       },
       {
         "char": "ϝ",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:spruce_fence[south=true]"
       },
       {
         "char": "B",
-        "block": "minecraft:dark_oak_leaves[distance=7,persistent=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_leaves"
       },
       {
         "char": "ґ",
@@ -529,19 +529,19 @@
       },
       {
         "char": "X",
-        "block": "minecraft:oak_leaves[distance=1,persistent=false,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "h",
-        "block": "minecraft:cobbled_deepslate_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cobbled_deepslate_slab[type=top]"
       },
       {
         "char": "Ϡ",
-        "block": "minecraft:cobbled_deepslate_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobbled_deepslate_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "n",
-        "block": "minecraft:polished_deepslate_slab[type=top,waterlogged=false]"
+        "block": "minecraft:polished_deepslate_slab[type=top]"
       },
       {
         "char": "ϱ",
@@ -573,7 +573,7 @@
       },
       {
         "char": "Ϳ",
-        "block": "minecraft:dark_oak_stairs[facing=west,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:dark_oak_stairs[facing=west,half=top,shape=straight]"
       }
     ]
   },

@@ -29,7 +29,7 @@
       },
       {
         "char": "肃",
-        "block": "minecraft:redstone_ore[lit=false]"
+        "block": "minecraft:redstone_ore"
       },
       {
         "char": "e",
@@ -53,39 +53,39 @@
       },
       {
         "char": "湘",
-        "block": "minecraft:water[level=6]"
+        "block": "minecraft:water"
       },
       {
         "char": "w",
-        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:quartz_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "雁",
-        "block": "minecraft:water[level=5]"
+        "block": "minecraft:water"
       },
       {
         "char": "抖",
-        "block": "minecraft:water[level=4]"
+        "block": "minecraft:water"
       },
       {
         "char": "瘟",
-        "block": "minecraft:water[level=3]"
+        "block": "minecraft:water"
       },
       {
         "char": "罩",
-        "block": "minecraft:water[level=2]"
+        "block": "minecraft:water"
       },
       {
         "char": "җ",
-        "block": "minecraft:water[level=1]"
+        "block": "minecraft:water"
       },
       {
         "char": "m",
-        "block": "minecraft:water[level=8]"
+        "block": "minecraft:water"
       },
       {
         "char": "掘",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=up]"
+        "block": "minecraft:redstone_wire[north=none,south=none,west=up]"
       },
       {
         "char": "霖",
@@ -101,7 +101,7 @@
       },
       {
         "char": "爪",
-        "block": "minecraft:player_wall_head[facing=south]",
+        "block": "minecraft:player_wall_head",
         "tag": {
           "z": 936,
           "x": -443,
@@ -112,7 +112,7 @@
       },
       {
         "char": "ϑ",
-        "block": "minecraft:birch_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:birch_wall_sign",
         "tag": {
           "z": 953,
           "x": -527,
@@ -152,7 +152,7 @@
       },
       {
         "char": "顽",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=0,south=none,west=side]"
+        "block": "minecraft:redstone_wire[north=none,south=none]"
       },
       {
         "char": "蚂",

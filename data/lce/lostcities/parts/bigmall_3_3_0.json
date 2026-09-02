@@ -45,7 +45,7 @@
       },
       {
         "char": "ϊ",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 347,
           "x": 115,
@@ -114,7 +114,7 @@
       },
       {
         "char": "英",
-        "block": "minecraft:dark_oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:dark_oak_wall_sign",
         "tag": {
           "z": 336,
           "x": 164,
@@ -150,11 +150,11 @@
       },
       {
         "char": "看",
-        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:dark_oak_trapdoor[facing=north,half=top,open=false]"
       },
       {
         "char": "麻",
-        "block": "minecraft:brown_wall_banner[facing=east]",
+        "block": "minecraft:brown_wall_banner",
         "tag": {
           "z": 337,
           "Patterns": [],
@@ -188,15 +188,15 @@
       },
       {
         "char": "些",
-        "block": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:dark_oak_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "败",
-        "block": "minecraft:dark_oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:dark_oak_fence[south=true]"
       },
       {
         "char": "参",
-        "block": "minecraft:oak_fence[east=false,north=true,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true,south=true]"
       },
       {
         "char": "即",
@@ -208,7 +208,7 @@
       },
       {
         "char": "须",
-        "block": "minecraft:skeleton_skull[rotation=10]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 339,
           "x": 154,
@@ -219,7 +219,7 @@
       },
       {
         "char": "号",
-        "block": "minecraft:oak_fence[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[north=true]"
       },
       {
         "char": "K",
@@ -235,11 +235,11 @@
       },
       {
         "char": "则",
-        "block": "minecraft:oak_fence[east=false,north=false,south=true,waterlogged=false,west=false]"
+        "block": "minecraft:oak_fence[south=true]"
       },
       {
         "char": "简",
-        "block": "minecraft:skeleton_skull[rotation=12]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 342,
           "x": 159,

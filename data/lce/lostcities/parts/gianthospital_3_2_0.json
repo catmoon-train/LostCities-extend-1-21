@@ -33,7 +33,7 @@
       },
       {
         "char": "a",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "J",
@@ -53,11 +53,11 @@
       },
       {
         "char": "G",
-        "block": "minecraft:cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=double]"
       },
       {
         "char": "染",
-        "block": "minecraft:mossy_cobblestone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_slab[type=double]"
       },
       {
         "char": "f",
@@ -126,7 +126,7 @@
       },
       {
         "char": "鎗",
-        "block": "minecraft:red_bed[facing=east,occupied=false,part=foot]",
+        "block": "minecraft:red_bed",
         "tag": {
           "z": 479,
           "x": -63,
@@ -137,7 +137,7 @@
       },
       {
         "char": "爻",
-        "block": "minecraft:red_bed[facing=east,occupied=false,part=head]",
+        "block": "minecraft:red_bed",
         "tag": {
           "z": 422,
           "x": -68,
@@ -179,7 +179,7 @@
       },
       {
         "char": "濂",
-        "block": "minecraft:red_bed[facing=west,occupied=false,part=foot]",
+        "block": "minecraft:red_bed",
         "tag": {
           "z": 416,
           "x": -76,
@@ -202,7 +202,7 @@
       },
       {
         "char": "咸",
-        "block": "minecraft:hopper[enabled=true,facing=down]",
+        "block": "minecraft:hopper[facing=down]",
         "tag": {
           "z": 434,
           "x": -52,
@@ -276,7 +276,7 @@
       },
       {
         "char": "鹫",
-        "block": "minecraft:dropper[facing=east,triggered=false]",
+        "block": "minecraft:dropper[facing=east]",
         "tag": {
           "z": 431,
           "x": -68,
@@ -312,7 +312,7 @@
       },
       {
         "char": "俏",
-        "block": "minecraft:oak_wall_sign[facing=south,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 409,
           "x": -87,
@@ -360,7 +360,7 @@
       },
       {
         "char": "蹙",
-        "block": "minecraft:daylight_detector[inverted=true,power=15]",
+        "block": "minecraft:daylight_detector[inverted=true]",
         "tag": {
           "z": 418,
           "x": -77,
@@ -371,7 +371,7 @@
       },
       {
         "char": "蔑",
-        "block": "minecraft:daylight_detector[inverted=false,power=0]",
+        "block": "minecraft:daylight_detector[inverted=false]",
         "tag": {
           "z": 456,
           "x": -51,
@@ -398,7 +398,7 @@
       },
       {
         "char": "钞",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 479,
           "x": -90,
@@ -442,7 +442,7 @@
       },
       {
         "char": "叽",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 483,
           "x": -40,
@@ -482,7 +482,7 @@
       },
       {
         "char": "哮",
-        "block": "minecraft:dispenser[facing=south,triggered=false]",
+        "block": "minecraft:dispenser[facing=south]",
         "tag": {
           "z": 454,
           "x": -67,
@@ -505,11 +505,11 @@
       },
       {
         "char": "醋",
-        "block": "minecraft:cobblestone_wall[east=none,north=tall,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[north=tall,up=true]"
       },
       {
         "char": "丈",
-        "block": "minecraft:cobblestone_wall[east=tall,north=tall,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:cobblestone_wall[east=tall,north=tall,up=true]"
       },
       {
         "char": "暸",
@@ -517,7 +517,7 @@
       },
       {
         "char": "忖",
-        "block": "minecraft:light_gray_wall_banner[facing=west]",
+        "block": "minecraft:light_gray_wall_banner",
         "tag": {
           "z": 479,
           "Patterns": [
@@ -576,7 +576,7 @@
       },
       {
         "char": "濯",
-        "block": "minecraft:light_gray_wall_banner[facing=south]",
+        "block": "minecraft:light_gray_wall_banner",
         "tag": {
           "z": 429,
           "Patterns": [
@@ -605,7 +605,7 @@
       },
       {
         "char": "畜",
-        "block": "minecraft:oak_wall_sign[facing=east,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 473,
           "x": -89,
@@ -641,19 +641,19 @@
       },
       {
         "char": "剖",
-        "block": "minecraft:glass_pane[east=false,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:glass_pane[east=false,north=false,south=false,west=false]"
       },
       {
         "char": "r",
-        "block": "minecraft:cobblestone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=top]"
       },
       {
         "char": "k",
-        "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:stone_slab[type=top]"
       },
       {
         "char": "A",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "酷",
@@ -661,11 +661,11 @@
       },
       {
         "char": "N",
-        "block": "minecraft:diorite_slab[type=top,waterlogged=false]"
+        "block": "minecraft:diorite_slab[type=top]"
       },
       {
         "char": "y",
-        "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+        "block": "minecraft:quartz_slab[type=top]"
       }
     ]
   },

@@ -80,11 +80,11 @@
     },
     {
       "char": "t",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "u",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "w",
@@ -110,7 +110,7 @@
     },
     {
       "char": "C",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=south]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_19/base2/ice"
     },
     {
@@ -139,7 +139,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_terraceplaza_19/base2/ice"
     },
     {
@@ -164,15 +164,15 @@
     },
     {
       "char": "R",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "S",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "T",
-      "block": "minecraft:oak_door[half=lower,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:oak_door[half=lower,open=false,hinge=left,facing=east]"
     },
     {
       "char": "U",
@@ -184,11 +184,11 @@
     },
     {
       "char": "W",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "X",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "Y",
@@ -265,7 +265,7 @@
     },
     {
       "char": "1",
-      "block": "minecraft:piglin_head[rotation=10]",
+      "block": "minecraft:piglin_head",
       "tag": {
         "id": "minecraft:skull"
       }
@@ -280,7 +280,7 @@
     },
     {
       "char": "4",
-      "block": "minecraft:piglin_head[rotation=4]",
+      "block": "minecraft:piglin_head",
       "tag": {
         "id": "minecraft:skull"
       }
@@ -307,7 +307,7 @@
     },
     {
       "char": "7",
-      "block": "minecraft:piglin_head[rotation=12]",
+      "block": "minecraft:piglin_head",
       "tag": {
         "id": "minecraft:skull"
       }
@@ -330,7 +330,7 @@
     },
     {
       "char": "9",
-      "block": "minecraft:piglin_head[rotation=0]",
+      "block": "minecraft:piglin_head",
       "tag": {
         "id": "minecraft:skull"
       }
@@ -421,15 +421,15 @@
     },
     {
       "char": "^",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "&",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "*",
-      "block": "minecraft:oak_door[half=upper,powered=false,open=false,hinge=left,facing=east]"
+      "block": "minecraft:oak_door[half=upper,open=false,hinge=left,facing=east]"
     },
     {
       "char": "(",
@@ -449,11 +449,11 @@
     },
     {
       "char": "[",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "]",
-      "block": "minecraft:daylight_detector[power=0,inverted=false]"
+      "block": "minecraft:daylight_detector[inverted=false]"
     },
     {
       "char": "{",
@@ -499,11 +499,11 @@
     },
     {
       "char": ",",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=west,shape=straight]"
+      "block": "minecraft:oak_stairs[half=bottom,facing=west,shape=straight]"
     },
     {
       "char": ".",
-      "block": "minecraft:oak_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:oak_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "?",
@@ -511,7 +511,7 @@
     },
     {
       "char": "/",
-      "block": "minecraft:oak_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=bottom]"
     },
     {
       "char": "`",
@@ -527,7 +527,7 @@
     },
     {
       "char": "Ͳ",
-      "block": "minecraft:dark_oak_slab[type=south,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     }
   ]
 }

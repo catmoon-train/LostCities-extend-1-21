@@ -41,7 +41,7 @@
       },
       {
         "char": "太",
-        "block": "minecraft:mossy_stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "T",
@@ -61,7 +61,7 @@
       },
       {
         "char": "请",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "k",
@@ -77,15 +77,15 @@
       },
       {
         "char": "始",
-        "block": "minecraft:stone_brick_slab[type=double,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=double]"
       },
       {
         "char": "下",
-        "block": "minecraft:stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:stone_brick_slab[type=bottom]"
       },
       {
         "char": "护",
-        "block": "minecraft:skeleton_skull[rotation=5]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 303,
           "x": 137,

@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:gray_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:gray_stained_glass_pane"
     },
     {
       "char": "f",
@@ -147,7 +147,7 @@
     },
     {
       "char": "L",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_courtyardofficetower_6/floor17/dead_body"
     },
     {
@@ -195,7 +195,7 @@
     },
     {
       "char": "W",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=true,hinge=left,facing=west]"
+      "block": "minecraft:spruce_door[half=lower,open=true,hinge=left,facing=west]"
     },
     {
       "char": "X",
@@ -259,7 +259,7 @@
     },
     {
       "char": "%",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=true,hinge=left,facing=west]"
+      "block": "minecraft:spruce_door[half=upper,open=true,hinge=left,facing=west]"
     },
     {
       "char": "^",
@@ -291,11 +291,11 @@
     },
     {
       "char": "[",
-      "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=top]"
     },
     {
       "char": "]",
-      "block": "minecraft:stone_slab[waterlogged=false]"
+      "block": "minecraft:stone_slab"
     }
   ]
 }

@@ -23,7 +23,7 @@
     },
     {
       "char": "f",
-      "block": "minecraft:sandstone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:sandstone_slab[type=bottom]"
     },
     {
       "char": "g",
@@ -39,7 +39,7 @@
     },
     {
       "char": "j",
-      "block": "minecraft:ladder[waterlogged=false,facing=south]"
+      "block": "minecraft:ladder[facing=south]"
     },
     {
       "char": "k",
@@ -55,11 +55,11 @@
     },
     {
       "char": "n",
-      "block": "minecraft:rail[waterlogged=false,shape=north_south]"
+      "block": "minecraft:rail[shape=north_south]"
     },
     {
       "char": "o",
-      "block": "minecraft:detector_rail[waterlogged=false,powered=false,shape=north_south]"
+      "block": "minecraft:detector_rail[powered=false,shape=north_south]"
     }
   ]
 }

@@ -56,7 +56,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:zombie_head[rotation=0]",
+      "block": "minecraft:zombie_head",
       "tag": {
         "id": "minecraft:skull"
       }
@@ -90,7 +90,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:piglin_head[rotation=0]",
+      "block": "minecraft:piglin_head",
       "tag": {
         "id": "minecraft:skull"
       }
@@ -141,7 +141,7 @@
     },
     {
       "char": "K",
-      "block": "minecraft:dark_oak_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:dark_oak_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "L",
@@ -157,7 +157,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:piglin_head[rotation=8]",
+      "block": "minecraft:piglin_head",
       "tag": {
         "id": "minecraft:skull"
       }
@@ -216,7 +216,7 @@
     },
     {
       "char": "2",
-      "block": "minecraft:piglin_head[rotation=4]",
+      "block": "minecraft:piglin_head",
       "tag": {
         "id": "minecraft:skull"
       }
@@ -235,7 +235,7 @@
     },
     {
       "char": "6",
-      "block": "minecraft:dark_oak_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:dark_oak_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": "7",
@@ -251,11 +251,11 @@
     },
     {
       "char": "#",
-      "block": "minecraft:dark_oak_slab[type=east,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "$",
-      "block": "minecraft:dark_oak_slab[type=west,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     },
     {
       "char": "%",
@@ -267,7 +267,7 @@
     },
     {
       "char": "&",
-      "block": "minecraft:dark_oak_slab[type=north,waterlogged=false]"
+      "block": "minecraft:dark_oak_slab"
     }
   ]
 }

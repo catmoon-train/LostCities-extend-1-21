@@ -36,7 +36,7 @@
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[type=north,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "h",
@@ -52,7 +52,7 @@
     },
     {
       "char": "k",
-      "block": "minecraft:stone_slab[type=south,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "l",
@@ -64,7 +64,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:quartz_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=bottom]"
     },
     {
       "char": "o",
@@ -132,7 +132,7 @@
     },
     {
       "char": "E",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=west]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_hospitaldamaged_0/base1/cyan_kitchen_drawer"
     },
     {

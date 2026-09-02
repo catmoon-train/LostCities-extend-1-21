@@ -19,7 +19,7 @@
     },
     {
       "char": "e",
-      "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=bottom]"
     },
     {
       "char": "f",
@@ -31,7 +31,7 @@
     },
     {
       "char": "h",
-      "block": "minecraft:oak_fence[waterlogged=false]"
+      "block": "minecraft:oak_fence"
     },
     {
       "char": "i",
@@ -39,19 +39,19 @@
     },
     {
       "char": "j",
-      "block": "minecraft:campfire[waterlogged=false,signal_fire=false,facing=south,lit=true]"
+      "block": "minecraft:campfire[facing=south,lit=true]"
     },
     {
       "char": "k",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "l",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "m",
-      "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+      "block": "minecraft:smooth_stone_slab[type=double]"
     },
     {
       "char": "n",
@@ -193,7 +193,7 @@
     },
     {
       "char": "Z",
-      "block": "minecraft:oak_leaves[waterlogged=false,persistent=true]"
+      "block": "minecraft:oak_leaves"
     },
     {
       "char": "0",
@@ -210,7 +210,7 @@
     },
     {
       "char": "3",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_convenientstore_1/ground/lootr_chest"
     },
     {
@@ -219,7 +219,7 @@
     },
     {
       "char": "5",
-      "block": "minecraft:chest[type=single,waterlogged=false,facing=north]",
+      "block": "minecraft:chest",
       "loot": "deceasedcraft:multi_convenientstore_1/ground/lootr_chest"
     },
     {
@@ -232,7 +232,7 @@
     },
     {
       "char": "8",
-      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top]"
     },
     {
       "char": "9",

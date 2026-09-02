@@ -31,11 +31,11 @@
     },
     {
       "char": "h",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=north,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=bottom,facing=north,shape=straight]"
     },
     {
       "char": "i",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "j",
@@ -47,7 +47,7 @@
     },
     {
       "char": "l",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "m",
@@ -59,7 +59,7 @@
     },
     {
       "char": "o",
-      "block": "minecraft:spruce_stairs[waterlogged=false,facing=east]"
+      "block": "minecraft:spruce_stairs[facing=east]"
     },
     {
       "char": "p",
@@ -95,15 +95,15 @@
     },
     {
       "char": "y",
-      "block": "minecraft:cherry_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:cherry_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "A",
-      "block": "minecraft:cherry_stairs[waterlogged=false,half=top,facing=west,shape=straight]"
+      "block": "minecraft:cherry_stairs[half=top,facing=west,shape=straight]"
     },
     {
       "char": "B",
-      "block": "minecraft:cherry_stairs[waterlogged=false,half=bottom,facing=east,shape=straight]"
+      "block": "minecraft:cherry_stairs[half=bottom,facing=east,shape=straight]"
     },
     {
       "char": "C",
@@ -123,7 +123,7 @@
     },
     {
       "char": "F",
-      "block": "minecraft:cherry_slab[type=top,waterlogged=false]"
+      "block": "minecraft:cherry_slab[type=top]"
     },
     {
       "char": "I",
@@ -131,7 +131,7 @@
     },
     {
       "char": "J",
-      "block": "minecraft:cherry_stairs[waterlogged=false,half=top,facing=north,shape=straight]"
+      "block": "minecraft:cherry_stairs[half=top,facing=north,shape=straight]"
     },
     {
       "char": "K",
@@ -157,11 +157,11 @@
     },
     {
       "char": "P",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=right,facing=south]"
     },
     {
       "char": "Q",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=left,facing=south]"
     },
     {
       "char": "R",
@@ -177,11 +177,11 @@
     },
     {
       "char": "U",
-      "block": "minecraft:spruce_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:spruce_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "V",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=west]"
     },
     {
       "char": "W",
@@ -189,11 +189,11 @@
     },
     {
       "char": "X",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=left,facing=north]"
     },
     {
       "char": "Y",
-      "block": "minecraft:iron_door[half=lower,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:iron_door[half=lower,open=false,hinge=right,facing=north]"
     },
     {
       "char": "Z",
@@ -201,7 +201,7 @@
     },
     {
       "char": "0",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=bottom,facing=south,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=bottom,facing=south,shape=straight]"
     },
     {
       "char": "1",
@@ -249,19 +249,19 @@
     },
     {
       "char": "%",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": "^",
-      "block": "minecraft:cherry_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=east]"
+      "block": "minecraft:cherry_trapdoor[half=bottom,open=false,facing=east]"
     },
     {
       "char": "&",
-      "block": "minecraft:cherry_trapdoor[waterlogged=false,half=bottom,powered=false,open=false,facing=west]"
+      "block": "minecraft:cherry_trapdoor[half=bottom,open=false,facing=west]"
     },
     {
       "char": "*",
-      "block": "minecraft:cherry_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:cherry_slab[type=bottom]"
     },
     {
       "char": "(",
@@ -293,11 +293,11 @@
     },
     {
       "char": "}",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=south]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=right,facing=south]"
     },
     {
       "char": "|",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=left,facing=south]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=left,facing=south]"
     },
     {
       "char": ";",
@@ -309,19 +309,19 @@
     },
     {
       "char": "'",
-      "block": "minecraft:spruce_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:spruce_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": "<",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=west]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=west]"
     },
     {
       "char": ">",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=left,facing=north]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=left,facing=north]"
     },
     {
       "char": ",",
-      "block": "minecraft:iron_door[half=upper,powered=false,open=false,hinge=right,facing=north]"
+      "block": "minecraft:iron_door[half=upper,open=false,hinge=right,facing=north]"
     },
     {
       "char": ".",
@@ -329,7 +329,7 @@
     },
     {
       "char": "?",
-      "block": "minecraft:spruce_slab[type=top,waterlogged=false]"
+      "block": "minecraft:spruce_slab[type=top]"
     },
     {
       "char": "/",
@@ -346,11 +346,11 @@
     },
     {
       "char": "ͱ",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=top,powered=false,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=top,open=true,facing=west]"
     },
     {
       "char": "Ͳ",
-      "block": "minecraft:polished_andesite_slab[type=east,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "ͳ",
@@ -358,11 +358,11 @@
     },
     {
       "char": "ʹ",
-      "block": "minecraft:polished_andesite_slab[type=south,waterlogged=false]"
+      "block": "minecraft:polished_andesite_slab"
     },
     {
       "char": "͵",
-      "block": "minecraft:spruce_stairs[waterlogged=false,half=top,facing=south,shape=straight]"
+      "block": "minecraft:spruce_stairs[half=top,facing=south,shape=straight]"
     },
     {
       "char": "Ͷ",
@@ -386,7 +386,7 @@
     },
     {
       "char": "ͽ",
-      "block": "minecraft:spruce_fence[waterlogged=false]"
+      "block": "minecraft:spruce_fence"
     },
     {
       "char": ";",
@@ -394,7 +394,7 @@
     },
     {
       "char": "Ϳ",
-      "block": "minecraft:quartz_slab[type=top,waterlogged=false]"
+      "block": "minecraft:quartz_slab[type=top]"
     },
     {
       "char": "΄",

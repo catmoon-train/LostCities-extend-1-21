@@ -3,7 +3,7 @@
   "palette": [
     {
       "char": "a",
-      "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:cobblestone_slab[type=bottom]"
     },
     {
       "char": "b",
@@ -65,11 +65,11 @@
     },
     {
       "char": "o",
-      "block": "minecraft:sandstone_wall[waterlogged=false,up=true]"
+      "block": "minecraft:sandstone_wall[up=true]"
     },
     {
       "char": "p",
-      "block": "minecraft:stone_slab[type=bottom,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "q",
@@ -87,7 +87,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:chain[waterlogged=false,axis=y]"
+      "block": "minecraft:chain[axis=y]"
     },
     {
       "char": "t",
@@ -95,7 +95,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     }
   ]
 }

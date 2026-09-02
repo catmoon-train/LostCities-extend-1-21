@@ -81,23 +81,23 @@
       },
       {
         "char": "F",
-        "block": "minecraft:birch_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:birch_leaves"
       },
       {
         "char": "B",
-        "block": "minecraft:smooth_stone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=double]"
       },
       {
         "char": "w",
-        "block": "minecraft:smooth_stone_slab[type=top,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=top]"
       },
       {
         "char": "T",
-        "block": "minecraft:oak_leaves[distance=7,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "ϻ",
-        "block": "minecraft:trapped_chest[facing=west,type=single,waterlogged=false]",
+        "block": "minecraft:trapped_chest",
         "tag": {
           "z": 600,
           "x": 112,
@@ -140,7 +140,7 @@
       },
       {
         "char": "r",
-        "block": "minecraft:smooth_stone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:smooth_stone_slab[type=bottom]"
       },
       {
         "char": "Ͱ",
@@ -160,11 +160,11 @@
       },
       {
         "char": "z",
-        "block": "minecraft:sandstone_slab[type=double,waterlogged=false]"
+        "block": "minecraft:sandstone_slab[type=double]"
       },
       {
         "char": "D",
-        "block": "minecraft:sandstone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:sandstone_slab[type=bottom]"
       }
     ]
   },

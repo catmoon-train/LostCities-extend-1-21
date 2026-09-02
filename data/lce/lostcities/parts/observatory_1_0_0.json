@@ -79,7 +79,7 @@
       },
       {
         "char": "ϊ",
-        "block": "minecraft:ladder[facing=west,waterlogged=false]"
+        "block": "minecraft:ladder[facing=west]"
       },
       {
         "char": "d",
@@ -91,7 +91,7 @@
       },
       {
         "char": "ς",
-        "block": "minecraft:skeleton_skull[rotation=14]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 608,
           "x": 145,
@@ -102,7 +102,7 @@
       },
       {
         "char": "ψ",
-        "block": "minecraft:skeleton_skull[rotation=1]",
+        "block": "minecraft:skeleton_skull",
         "tag": {
           "z": 609,
           "x": 148,
@@ -113,11 +113,11 @@
       },
       {
         "char": "Ψ",
-        "block": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobblestone_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "Η",
-        "block": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:mossy_cobblestone_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "h",
@@ -137,7 +137,7 @@
       },
       {
         "char": "Π",
-        "block": "minecraft:mossy_stone_brick_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_slab[type=bottom]"
       },
       {
         "char": "c",
@@ -165,7 +165,7 @@
       },
       {
         "char": "Χ",
-        "block": "minecraft:oak_door[facing=north,half=lower,hinge=right,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=north,half=lower,hinge=right,open=false]"
       },
       {
         "char": "B",
@@ -177,15 +177,15 @@
       },
       {
         "char": "Β",
-        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=west,half=bottom,shape=inner_right]"
       },
       {
         "char": "Έ",
-        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "Μ",
-        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=inner_left]"
       },
       {
         "char": "n",
@@ -193,15 +193,15 @@
       },
       {
         "char": "Ε",
-        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_right,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=north,half=bottom,shape=inner_right]"
       },
       {
         "char": "Σ",
-        "block": "minecraft:birch_trapdoor[facing=north,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=north,half=top,open=true]"
       },
       {
         "char": "Ή",
-        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "Ξ",
@@ -213,11 +213,11 @@
       },
       {
         "char": "χ",
-        "block": "minecraft:birch_trapdoor[facing=east,half=top,open=true,powered=false,waterlogged=false]"
+        "block": "minecraft:birch_trapdoor[facing=east,half=top,open=true]"
       },
       {
         "char": "9",
-        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=south,half=bottom,shape=straight]"
       },
       {
         "char": "E",
@@ -225,19 +225,19 @@
       },
       {
         "char": "8",
-        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=east,half=bottom,shape=straight]"
       },
       {
         "char": "6",
-        "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=west,half=bottom,shape=straight]"
       },
       {
         "char": "Δ",
-        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=inner_left,waterlogged=false]"
+        "block": "minecraft:spruce_stairs[facing=south,half=bottom,shape=inner_left]"
       },
       {
         "char": "3",
-        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:stone_brick_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "K",
@@ -245,7 +245,7 @@
       },
       {
         "char": "2",
-        "block": "minecraft:oak_wall_sign[facing=north,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 620,
           "x": 143,
@@ -281,7 +281,7 @@
       },
       {
         "char": "ε",
-        "block": "minecraft:oak_door[facing=north,half=upper,hinge=right,open=false,powered=false]"
+        "block": "minecraft:oak_door[facing=north,half=upper,hinge=right,open=false]"
       },
       {
         "char": "Ι",
@@ -289,11 +289,11 @@
       },
       {
         "char": "Ν",
-        "block": "minecraft:oak_leaves[distance=1,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "κ",
-        "block": "minecraft:oak_wall_sign[facing=west,waterlogged=false]",
+        "block": "minecraft:oak_wall_sign",
         "tag": {
           "z": 619,
           "x": 145,
@@ -329,11 +329,11 @@
       },
       {
         "char": "΄",
-        "block": "minecraft:spruce_fence[east=false,north=false,south=true,waterlogged=false,west=true]"
+        "block": "minecraft:spruce_fence[south=true,west=true]"
       },
       {
         "char": "Ώ",
-        "block": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=straight,waterlogged=false]"
+        "block": "minecraft:mossy_stone_brick_stairs[facing=south,half=top,shape=straight]"
       },
       {
         "char": "Ͱ",
@@ -341,7 +341,7 @@
       },
       {
         "char": "Ο",
-        "block": "minecraft:oak_leaves[distance=2,persistent=true,waterlogged=false]"
+        "block": "minecraft:oak_leaves"
       },
       {
         "char": "Ρ",
@@ -353,7 +353,7 @@
       },
       {
         "char": "α",
-        "block": "minecraft:redstone_wire[east=side,north=none,power=15,south=side,west=side]"
+        "block": "minecraft:redstone_wire[north=none]"
       },
       {
         "char": "β",
@@ -361,11 +361,11 @@
       },
       {
         "char": "ω",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=14,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       },
       {
         "char": "ι",
-        "block": "minecraft:redstone_wire[east=none,north=side,power=13,south=side,west=none]"
+        "block": "minecraft:redstone_wire[east=none,west=none]"
       }
     ]
   },

@@ -32,11 +32,11 @@
     },
     {
       "char": "f",
-      "block": "minecraft:stone_slab[type=top,waterlogged=false]"
+      "block": "minecraft:stone_slab[type=top]"
     },
     {
       "char": "g",
-      "block": "minecraft:stone_slab[type=east,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "h",
@@ -44,32 +44,32 @@
     },
     {
       "char": "i",
-      "block": "minecraft:oak_slab[type=west,waterlogged=false]"
+      "block": "minecraft:oak_slab"
     },
     {
       "char": "j",
-      "block": "minecraft:white_bed[occupied=false,part=foot,facing=east]",
+      "block": "minecraft:white_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "k",
-      "block": "minecraft:white_bed[occupied=false,part=head,facing=east]",
+      "block": "minecraft:white_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "l",
-      "block": "minecraft:white_bed[occupied=false,part=head,facing=west]",
+      "block": "minecraft:white_bed",
       "tag": {
         "id": "minecraft:bed"
       }
     },
     {
       "char": "m",
-      "block": "minecraft:white_bed[occupied=false,part=foot,facing=west]",
+      "block": "minecraft:white_bed",
       "tag": {
         "id": "minecraft:bed"
       }
@@ -84,7 +84,7 @@
     },
     {
       "char": "p",
-      "block": "minecraft:black_stained_glass_pane[waterlogged=false]"
+      "block": "minecraft:black_stained_glass_pane"
     },
     {
       "char": "q",
@@ -104,7 +104,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:stone_slab[type=west,waterlogged=false]"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "w",
@@ -112,7 +112,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:oak_slab[type=top,waterlogged=false]"
+      "block": "minecraft:oak_slab[type=top]"
     }
   ]
 }

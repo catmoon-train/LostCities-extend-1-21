@@ -84,7 +84,7 @@
     },
     {
       "char": "u",
-      "block": "minecraft:hopper[enabled=true,facing=east]"
+      "block": "minecraft:hopper[facing=east]"
     },
     {
       "char": "w",
@@ -100,7 +100,7 @@
     },
     {
       "char": "A",
-      "block": "minecraft:iron_bars[waterlogged=false]"
+      "block": "minecraft:iron_bars"
     }
   ]
 }

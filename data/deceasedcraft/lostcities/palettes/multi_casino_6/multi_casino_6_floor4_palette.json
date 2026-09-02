@@ -35,7 +35,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:dark_oak_fence[waterlogged=false]"
+      "block": "minecraft:dark_oak_fence"
     },
     {
       "char": "j",
@@ -104,7 +104,7 @@
     },
     {
       "char": "B",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=west]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=west]"
     },
     {
       "char": "C",
@@ -112,7 +112,7 @@
     },
     {
       "char": "D",
-      "block": "minecraft:iron_trapdoor[waterlogged=false,half=bottom,powered=false,open=true,facing=east]"
+      "block": "minecraft:iron_trapdoor[half=bottom,open=true,facing=east]"
     },
     {
       "char": "E",
@@ -183,15 +183,15 @@
     },
     {
       "char": "T",
-      "block": "minecraft:black_candle[waterlogged=false,candles=4,lit=false]"
+      "block": "minecraft:black_candle[candles=4,lit=false]"
     },
     {
       "char": "U",
-      "block": "minecraft:yellow_candle[waterlogged=false,candles=4,lit=false]"
+      "block": "minecraft:yellow_candle[candles=4,lit=false]"
     },
     {
       "char": "V",
-      "block": "minecraft:blue_candle[waterlogged=false,candles=4,lit=false]"
+      "block": "minecraft:blue_candle[candles=4,lit=false]"
     },
     {
       "char": "W",

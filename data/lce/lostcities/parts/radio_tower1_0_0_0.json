@@ -125,11 +125,11 @@
       },
       {
         "char": "J",
-        "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:iron_bars[east=true,north=false,south=false,west=false]"
       },
       {
         "char": "C",
-        "block": "minecraft:iron_bars[east=false,north=true,south=false,waterlogged=false,west=false]"
+        "block": "minecraft:iron_bars[east=false,north=true,south=false,west=false]"
       },
       {
         "char": "w",
@@ -157,7 +157,7 @@
       },
       {
         "char": "H",
-        "block": "minecraft:chest[facing=north,type=single,waterlogged=false]",
+        "block": "minecraft:chest",
         "loot": "bigbuildingsloot",
         "tag": {
           "ForgeData": {

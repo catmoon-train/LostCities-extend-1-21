@@ -103,7 +103,7 @@
       },
       {
         "char": "ΐ",
-        "block": "minecraft:cobblestone_slab[type=bottom,waterlogged=false]"
+        "block": "minecraft:cobblestone_slab[type=bottom]"
       },
       {
         "char": "v",
@@ -111,11 +111,11 @@
       },
       {
         "char": "w",
-        "block": "minecraft:cobbled_deepslate_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:cobbled_deepslate_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "x",
-        "block": "minecraft:blackstone_stairs[facing=north,half=bottom,shape=straight,waterlogged=false]"
+        "block": "minecraft:blackstone_stairs[facing=north,half=bottom,shape=straight]"
       },
       {
         "char": "k",
@@ -135,7 +135,7 @@
       },
       {
         "char": "ο",
-        "block": "minecraft:oak_trapdoor[facing=west,half=bottom,open=false,powered=false,waterlogged=false]"
+        "block": "minecraft:oak_trapdoor[facing=west,half=bottom,open=false]"
       },
       {
         "char": "Њ",
@@ -155,15 +155,15 @@
       },
       {
         "char": "Ο",
-        "block": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=true,waterlogged=false,west=none]"
+        "block": "minecraft:mossy_stone_brick_wall[east=low,up=true]"
       },
       {
         "char": "Π",
-        "block": "minecraft:mossy_stone_brick_wall[east=low,north=none,south=none,up=false,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_stone_brick_wall[east=low,west=low]"
       },
       {
         "char": "Τ",
-        "block": "minecraft:mossy_stone_brick_wall[east=none,north=none,south=none,up=true,waterlogged=false,west=low]"
+        "block": "minecraft:mossy_stone_brick_wall[up=true,west=low]"
       }
     ]
   },
