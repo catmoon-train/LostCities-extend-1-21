@@ -41,7 +41,7 @@
       "char": "j",
       "block": "minecraft:air",
       "tag": {
-        "id": "doapi:storage",
+        "id": "minecraft:air",
         "Items": [],
         "size": 6
       }
@@ -75,7 +75,7 @@
       "char": "q",
       "block": "minecraft:air",
       "tag": {
-        "id": "doapi:storage",
+        "id": "minecraft:air",
         "Items": [],
         "size": 6
       }
@@ -148,7 +148,7 @@
       "char": "L",
       "block": "minecraft:air",
       "tag": {
-        "id": "create:simple_kinetic"
+        "id": "minecraft:air"
       }
     },
     {
@@ -177,17 +177,17 @@
       "char": "R",
       "block": "minecraft:air",
       "tag": {
-        "id": "vinery:storage",
+        "id": "minecraft:air",
         "Items": [
           {
             "Slot": 0,
-            "id": "vinery:bottle_mojang_noir",
+            "id": "minecraft:air",
             "tag": {},
             "Count": 1
           },
           {
             "Slot": 1,
-            "id": "vinery:bottle_mojang_noir",
+            "id": "minecraft:air",
             "tag": {},
             "Count": 1
           }

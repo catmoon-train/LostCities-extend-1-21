@@ -74,7 +74,7 @@
       "char": "r",
       "block": "minecraft:air",
       "tag": {
-        "id": "doapi:storage",
+        "id": "minecraft:air",
         "Items": [],
         "size": 6
       }
@@ -83,7 +83,7 @@
       "char": "s",
       "block": "minecraft:air",
       "tag": {
-        "id": "doapi:storage",
+        "id": "minecraft:air",
         "Items": [],
         "size": 6
       }
@@ -140,14 +140,14 @@
       "char": "J",
       "block": "minecraft:air",
       "tag": {
-        "id": "create:hand_crank"
+        "id": "minecraft:air"
       }
     },
     {
       "char": "K",
       "block": "minecraft:air",
       "tag": {
-        "id": "create:hand_crank"
+        "id": "minecraft:air"
       }
     },
     {
@@ -158,11 +158,11 @@
       "char": "M",
       "block": "minecraft:air",
       "tag": {
-        "id": "doapi:storage",
+        "id": "minecraft:air",
         "Items": [
           {
             "Slot": 0,
-            "id": "vinery:noir_wine",
+            "id": "minecraft:air",
             "Count": 1
           }
         ],

@@ -223,21 +223,21 @@
       "char": "6",
       "block": "minecraft:air",
       "tag": {
-        "id": "doapi:storage",
+        "id": "minecraft:air",
         "Items": [
           {
             "Slot": 2,
-            "id": "bakery:strawberry_glazed_cookie",
+            "id": "minecraft:air",
             "Count": 1
           },
           {
             "Slot": 4,
-            "id": "bakery:jam_roll",
+            "id": "minecraft:air",
             "Count": 1
           },
           {
             "Slot": 5,
-            "id": "bakery:jam_roll",
+            "id": "minecraft:air",
             "Count": 1
           }
         ],
@@ -284,7 +284,7 @@
       "char": "(",
       "block": "minecraft:air",
       "tag": {
-        "id": "another_furniture:shelf",
+        "id": "minecraft:air",
         "Items": []
       }
     },
@@ -292,7 +292,7 @@
       "char": ")",
       "block": "minecraft:air",
       "tag": {
-        "id": "another_furniture:shelf",
+        "id": "minecraft:air",
         "Items": []
       }
     },
@@ -324,7 +324,7 @@
       "char": "|",
       "block": "minecraft:air",
       "tag": {
-        "id": "refurbished_furniture:ceiling_fan"
+        "id": "minecraft:air"
       }
     },
     {

@@ -78,7 +78,7 @@
       "char": "s",
       "block": "minecraft:air",
       "tag": {
-        "id": "doapi:storage",
+        "id": "minecraft:air",
         "Items": [],
         "size": 4
       }
@@ -123,17 +123,17 @@
       "char": "E",
       "block": "minecraft:air",
       "tag": {
-        "id": "vinery:storage",
+        "id": "minecraft:air",
         "Items": [
           {
             "Slot": 0,
-            "id": "vinery:clark_wine",
+            "id": "minecraft:air",
             "tag": {},
             "Count": 1
           },
           {
             "Slot": 1,
-            "id": "vinery:noir_wine",
+            "id": "minecraft:air",
             "tag": {},
             "Count": 1
           }
@@ -149,11 +149,11 @@
       "char": "I",
       "block": "minecraft:air",
       "tag": {
-        "id": "vinery:storage",
+        "id": "minecraft:air",
         "Items": [
           {
             "Slot": 0,
-            "id": "vinery:apple_cider",
+            "id": "minecraft:air",
             "tag": {},
             "Count": 1
           }
@@ -177,11 +177,11 @@
       "char": "M",
       "block": "minecraft:air",
       "tag": {
-        "id": "vinery:storage",
+        "id": "minecraft:air",
         "Items": [
           {
             "Slot": 0,
-            "id": "vinery:chenet_wine",
+            "id": "minecraft:air",
             "tag": {},
             "Count": 1
           }
