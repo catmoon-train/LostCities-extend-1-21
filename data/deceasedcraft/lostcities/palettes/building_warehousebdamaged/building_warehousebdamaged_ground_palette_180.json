@@ -263,11 +263,11 @@
     },
     {
       "char": ")",
-      "block": "minecraft:coarse_dirt[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      "block": "minecraft:coarse_dirt"
     },
     {
       "char": "+",
-      "block": "minecraft:coarse_dirt[facing=north,half=top,shape=straight,waterlogged=false]"
+      "block": "minecraft:coarse_dirt"
     },
     {
       "char": "-",
@@ -291,7 +291,7 @@
     },
     {
       "char": "|",
-      "block": "minecraft:coarse_dirt[type=top,waterlogged=false]"
+      "block": "minecraft:coarse_dirt"
     },
     {
       "char": ";",
@@ -303,7 +303,7 @@
     },
     {
       "char": "'",
-      "block": "minecraft:coarse_dirt[axis=x]"
+      "block": "minecraft:coarse_dirt"
     },
     {
       "char": "<",
@@ -311,7 +311,7 @@
     },
     {
       "char": ">",
-      "block": "minecraft:coarse_dirt[axis=z]"
+      "block": "minecraft:coarse_dirt"
     },
     {
       "char": ",",

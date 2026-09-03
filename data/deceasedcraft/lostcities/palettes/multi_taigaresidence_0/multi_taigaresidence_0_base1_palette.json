@@ -7,15 +7,15 @@
     },
     {
       "char": "b",
-      "block": "minecraft:quartz_block"
+      "block": "minecraft:sandstone"
     },
     {
       "char": "c",
-      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+      "block": "minecraft:quartz_block"
     },
     {
       "char": "d",
-      "block": "minecraft:air"
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
     },
     {
       "char": "e",
@@ -31,14 +31,18 @@
     },
     {
       "char": "h",
-      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+      "block": "minecraft:air"
     },
     {
       "char": "i",
-      "block": "minecraft:stone_bricks"
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
     },
     {
       "char": "j",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "k",
       "block": "minecraft:command_block[facing=south,conditional=false]",
       "tag": {
         "conditionMet": 1,
@@ -47,11 +51,11 @@
       }
     },
     {
-      "char": "k",
+      "char": "l",
       "block": "minecraft:air"
     },
     {
-      "char": "l",
+      "char": "a",
       "block": "minecraft:smooth_stone"
     }
   ]

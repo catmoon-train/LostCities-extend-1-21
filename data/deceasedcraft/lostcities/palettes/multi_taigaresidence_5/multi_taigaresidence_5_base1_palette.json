@@ -7,19 +7,19 @@
     },
     {
       "char": "b",
-      "block": "minecraft:dirt"
+      "block": "minecraft:sandstone"
     },
     {
       "char": "c",
-      "block": "minecraft:stone_slab[type=bottom]"
+      "block": "minecraft:dirt"
     },
     {
       "char": "d",
-      "block": "minecraft:polished_andesite_slab[type=top]"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "e",
-      "block": "minecraft:air"
+      "block": "minecraft:polished_andesite_slab[type=top]"
     },
     {
       "char": "f",
@@ -27,11 +27,11 @@
     },
     {
       "char": "g",
-      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
+      "block": "minecraft:air"
     },
     {
       "char": "h",
-      "block": "minecraft:air"
+      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
     },
     {
       "char": "i",
@@ -39,11 +39,11 @@
     },
     {
       "char": "j",
-      "block": "minecraft:stone_bricks"
+      "block": "minecraft:air"
     },
     {
       "char": "k",
-      "block": "minecraft:polished_andesite"
+      "block": "minecraft:stone_bricks"
     },
     {
       "char": "l",
@@ -51,10 +51,14 @@
     },
     {
       "char": "m",
-      "block": "minecraft:air"
+      "block": "minecraft:polished_andesite"
     },
     {
       "char": "n",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "a",
       "block": "minecraft:smooth_stone"
     }
   ]

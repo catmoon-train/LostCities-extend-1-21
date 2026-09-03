@@ -131,11 +131,11 @@
     },
     {
       "char": "K",
-      "block": "minecraft:iron_block[facing=south,half=bottom,shape=straight,waterlogged=false]"
+      "block": "minecraft:iron_block"
     },
     {
       "char": "L",
-      "block": "minecraft:iron_block[up=true,waterlogged=false]"
+      "block": "minecraft:iron_block"
     },
     {
       "char": "M",
@@ -147,7 +147,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:stone[waterlogged=false]"
+      "block": "minecraft:stone"
     },
     {
       "char": "P",
@@ -163,7 +163,7 @@
     },
     {
       "char": "S",
-      "block": "minecraft:iron_block[up=false,waterlogged=false]"
+      "block": "minecraft:iron_block"
     }
   ]
 }

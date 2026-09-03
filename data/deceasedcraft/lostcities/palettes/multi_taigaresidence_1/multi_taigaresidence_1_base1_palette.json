@@ -7,7 +7,7 @@
     },
     {
       "char": "b",
-      "block": "minecraft:air"
+      "block": "minecraft:sandstone"
     },
     {
       "char": "c",
@@ -23,22 +23,26 @@
     },
     {
       "char": "f",
-      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
-    },
-    {
-      "char": "g",
-      "block": "minecraft:stone_bricks"
-    },
-    {
-      "char": "h",
-      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
-    },
-    {
-      "char": "i",
       "block": "minecraft:air"
     },
     {
+      "char": "g",
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_bricks"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
       "char": "j",
+      "block": "minecraft:air"
+    },
+    {
+      "char": "a",
       "block": "minecraft:smooth_stone"
     }
   ]

@@ -2,21 +2,35 @@
   "inherit": "citystyle_config",
   "stuff_tags": ["rubble"],
   "streetblocks": {
-    "border": "y",
-    "wall": "w",
-    "street": "S",
-    "streetbase": "b",
-    "streetvariant": "B",
-    "largeparts": {
-      "full": "street_large_full",
-      "straight": "street_large_straight",
-      "end": "street_large_end",
-      "bend": "street_large_bend",
-      "t": "street_large_t",
-      "none": "street_large_none",
-      "all": "street_large_all",
-      "connector": "street_large_connector",
-      "stair": "street_large_stair"
+    "border": "v",
+    "wall": "_",
+    "street": "H",
+    "streetbase": "G",
+    "streetvariant": "=",
+    "parts": {
+      "all": [
+        "deceasedcraft:streets/street_suburb_all",
+        "deceasedcraft:streets/street_suburb_all_2"
+      ],
+      "t": [
+        "deceasedcraft:streets/street_suburb_t_shape"
+      ],
+      "straight": [
+        "deceasedcraft:streets/street_suburb_straight",
+        "deceasedcraft:streets/street_suburb_straight_2"
+      ],
+      "bend": [
+        "deceasedcraft:streets/street_suburb_bend"
+      ],
+      "end": [
+        "deceasedcraft:streets/street_suburb_end"
+      ],
+      "none": [
+        "deceasedcraft:streets/street_suburb_none"
+      ],
+      "full": [
+        "deceasedcraft:streets/street_suburb_full"
+      ]
     }
   },
   "parkblocks": {

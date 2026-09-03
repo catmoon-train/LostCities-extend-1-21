@@ -7,46 +7,46 @@
     },
     {
       "char": "b",
-      "block": "minecraft:quartz_block"
+      "block": "minecraft:sandstone"
     },
     {
       "char": "c",
-      "block": "minecraft:polished_andesite"
+      "block": "minecraft:quartz_block"
     },
     {
       "char": "d",
-      "block": "minecraft:andesite"
+      "block": "minecraft:polished_andesite"
     },
     {
       "char": "e",
-      "block": "minecraft:cobweb"
+      "block": "minecraft:andesite"
     },
     {
       "char": "f",
-      "block": "minecraft:air"
+      "block": "minecraft:cobweb"
     },
     {
       "char": "g",
-      "block": "minecraft:nether_quartz_ore"
+      "block": "minecraft:air"
     },
     {
       "char": "h",
+      "block": "minecraft:nether_quartz_ore"
+    },
+    {
+      "char": "i",
       "block": "minecraft:chest",
       "tag": {
         "id": "minecraft:chest"
       }
     },
     {
-      "char": "i",
+      "char": "j",
       "block": "minecraft:oak_button[powered=false,facing=north,face=floor]"
     },
     {
-      "char": "j",
-      "block": "minecraft:bricks"
-    },
-    {
       "char": "k",
-      "block": "minecraft:air"
+      "block": "minecraft:bricks"
     },
     {
       "char": "l",
@@ -54,18 +54,15 @@
     },
     {
       "char": "m",
-      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
+      "block": "minecraft:air"
     },
     {
       "char": "n",
-      "block": "minecraft:raw_iron_block"
+      "block": "minecraft:oak_button[powered=false,facing=east,face=floor]"
     },
     {
       "char": "o",
-      "block": "minecraft:chest",
-      "tag": {
-        "id": "minecraft:chest"
-      }
+      "block": "minecraft:raw_iron_block"
     },
     {
       "char": "p",
@@ -76,54 +73,61 @@
     },
     {
       "char": "q",
-      "block": "minecraft:air"
+      "block": "minecraft:chest",
+      "tag": {
+        "id": "minecraft:chest"
+      }
     },
     {
       "char": "r",
-      "block": "minecraft:stone_slab[type=bottom]"
+      "block": "minecraft:air"
     },
     {
       "char": "s",
-      "block": "minecraft:stone_slab"
+      "block": "minecraft:stone_slab[type=bottom]"
     },
     {
       "char": "t",
-      "block": "minecraft:air"
+      "block": "minecraft:stone_slab"
     },
     {
       "char": "u",
-      "block": "minecraft:polished_andesite"
-    },
-    {
-      "char": "w",
       "block": "minecraft:air"
     },
     {
+      "char": "w",
+      "block": "minecraft:polished_andesite"
+    },
+    {
       "char": "x",
-      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
+      "block": "minecraft:air"
     },
     {
       "char": "y",
-      "block": "minecraft:polished_andesite_slab[type=top]"
+      "block": "minecraft:oak_button[powered=false,facing=south,face=floor]"
     },
     {
       "char": "A",
-      "block": "minecraft:bricks"
+      "block": "minecraft:polished_andesite_slab[type=top]"
     },
     {
       "char": "B",
-      "block": "minecraft:polished_andesite"
+      "block": "minecraft:bricks"
     },
     {
       "char": "C",
-      "block": "minecraft:stripped_oak_log[axis=z]"
-    },
-    {
-      "char": "D",
       "block": "minecraft:polished_andesite"
     },
     {
+      "char": "D",
+      "block": "minecraft:stripped_oak_log[axis=z]"
+    },
+    {
       "char": "E",
+      "block": "minecraft:polished_andesite"
+    },
+    {
+      "char": "a",
       "block": "minecraft:smooth_stone"
     }
   ]
