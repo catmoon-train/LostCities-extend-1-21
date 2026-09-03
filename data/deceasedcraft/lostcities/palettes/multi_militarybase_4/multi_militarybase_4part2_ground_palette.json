@@ -1,0 +1,37 @@
+{
+  "name": "multi_militarybase_4part2_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:fire[up=false,age=0]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_button[face=wall,facing=south,powered=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=side,north=side]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_button[face=wall,facing=north,powered=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=none,north=none]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:deepslate_redstone_ore[lit=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_button[face=floor,facing=west,powered=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_button[face=floor,facing=east,powered=false]"
+    }
+  ]
+}

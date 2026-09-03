@@ -1,0 +1,33 @@
+{
+  "name": "multi_laboratory_8part2_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=wall]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=wall]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:gray_carpet"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:light_gray_carpet"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone_button[face=floor,facing=south,powered=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:gray_concrete"
+    }
+  ]
+}

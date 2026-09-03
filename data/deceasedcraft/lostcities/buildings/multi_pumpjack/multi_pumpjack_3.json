@@ -1,0 +1,37 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 1,
+  "maxfloors": 1,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_pumpjack_3/multi_pumpjack_3_base1"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_pumpjack_3/multi_pumpjack_3_ground"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_pumpjack_3/multi_pumpjack_3_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:multi_pumpjack_3/multi_pumpjack_3_ground",
+      "part": "deceasedcraft:multi_pumpjack_3/multi_pumpjack_3part2_ground"
+    }
+  ]
+}

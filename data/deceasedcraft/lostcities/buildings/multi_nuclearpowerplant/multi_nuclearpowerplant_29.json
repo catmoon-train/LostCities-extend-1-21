@@ -1,0 +1,131 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 1,
+  "maxfloors": 1,
+  "mincellars": 12,
+  "maxcellars": 12,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base12",
+      "floor": -12
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base11",
+      "floor": -11
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base10",
+      "floor": -10
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base9",
+      "floor": -9
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base8",
+      "floor": -8
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base7",
+      "floor": -7
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base6",
+      "floor": -6
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base5",
+      "floor": -5
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base4",
+      "floor": -4
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base3",
+      "floor": -3
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base2",
+      "floor": -2
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base1",
+      "floor": -1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_ground"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base11",
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29part2_base11"
+    },
+    {
+      "inpart": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base10",
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29part2_base10"
+    },
+    {
+      "inpart": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base7",
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29part2_base7"
+    },
+    {
+      "inpart": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_base3",
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29part2_base3"
+    },
+    {
+      "inpart": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29_ground",
+      "part": "deceasedcraft:multi_nuclearpowerplant_29/multi_nuclearpowerplant_29part2_ground"
+    }
+  ]
+}

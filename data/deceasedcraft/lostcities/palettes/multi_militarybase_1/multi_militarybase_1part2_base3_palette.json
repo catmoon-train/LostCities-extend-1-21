@@ -1,0 +1,37 @@
+{
+  "name": "multi_militarybase_1part2_base3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:lantern[waterlogged=false,hanging=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_button[face=floor,facing=north,powered=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_button[face=floor,facing=east,powered=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone_button[face=floor,facing=west,powered=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:observer[facing=east,powered=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_button[face=floor,facing=east,powered=false]"
+    }
+  ]
+}

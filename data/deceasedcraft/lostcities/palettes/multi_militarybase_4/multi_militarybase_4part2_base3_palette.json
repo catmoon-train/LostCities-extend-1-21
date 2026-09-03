@@ -1,0 +1,21 @@
+{
+  "name": "multi_militarybase_4part2_base3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=side,north=side]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=none,north=none]"
+    }
+  ]
+}

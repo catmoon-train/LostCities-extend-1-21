@@ -1,0 +1,109 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 1,
+  "maxfloors": 1,
+  "mincellars": 15,
+  "maxcellars": 15,
+  "preferslonely": 0.75,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base7",
+      "floor": -15
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base6",
+      "floor": -14
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base5",
+      "floor": -13
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base4",
+      "range": "-12,-2"
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base3",
+      "range": "-12,-2"
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base2",
+      "range": "-12,-2"
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base1",
+      "floor": -1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_ground"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base7",
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6part2_base7"
+    },
+    {
+      "inpart": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base6",
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6part2_base6"
+    },
+    {
+      "inpart": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base4",
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6part2_base4"
+    },
+    {
+      "inpart": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base3",
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6part2_base3"
+    },
+    {
+      "inpart": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base2",
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6part2_base2"
+    },
+    {
+      "inpart": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_base1",
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6part2_base1"
+    },
+    {
+      "inpart": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_ground",
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6part2_ground"
+    },
+    {
+      "inpart": "deceasedcraft:multi_laboratory_6/multi_laboratory_6_top",
+      "part": "deceasedcraft:multi_laboratory_6/multi_laboratory_6part2_top"
+    }
+  ]
+}

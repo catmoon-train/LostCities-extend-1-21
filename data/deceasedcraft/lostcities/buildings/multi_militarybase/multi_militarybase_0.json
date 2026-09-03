@@ -1,0 +1,79 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 1,
+  "maxfloors": 1,
+  "mincellars": 4,
+  "maxcellars": 4,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_militarybase_0/multi_militarybase_0_base4",
+      "floor": -4
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_militarybase_0/multi_militarybase_0_base3",
+      "floor": -3
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_militarybase_0/multi_militarybase_0_base2",
+      "floor": -2
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_militarybase_0/multi_militarybase_0_base1",
+      "floor": -1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_militarybase_0/multi_militarybase_0_ground"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_militarybase_0/multi_militarybase_0_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:multi_militarybase_0/multi_militarybase_0_base4",
+      "part": "deceasedcraft:multi_militarybase_0/multi_militarybase_0part2_base4"
+    },
+    {
+      "inpart": "deceasedcraft:multi_militarybase_0/multi_militarybase_0_base3",
+      "part": "deceasedcraft:multi_militarybase_0/multi_militarybase_0part2_base3"
+    },
+    {
+      "inpart": "deceasedcraft:multi_militarybase_0/multi_militarybase_0_base2",
+      "part": "deceasedcraft:multi_militarybase_0/multi_militarybase_0part2_base2"
+    },
+    {
+      "inpart": "deceasedcraft:multi_militarybase_0/multi_militarybase_0_base1",
+      "part": "deceasedcraft:multi_militarybase_0/multi_militarybase_0part2_base1"
+    },
+    {
+      "inpart": "deceasedcraft:multi_militarybase_0/multi_militarybase_0_ground",
+      "part": "deceasedcraft:multi_militarybase_0/multi_militarybase_0part2_ground"
+    },
+    {
+      "inpart": "deceasedcraft:multi_militarybase_0/multi_militarybase_0_top",
+      "part": "deceasedcraft:multi_militarybase_0/multi_militarybase_0part2_top"
+    }
+  ]
+}

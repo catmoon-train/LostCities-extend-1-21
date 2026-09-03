@@ -1,0 +1,21 @@
+{
+  "name": "multi_laboratory_3part2_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:oak_button[face=floor,facing=east,powered=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:oak_button[face=floor,facing=south,powered=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:oak_button[face=floor,facing=west,powered=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "multi_militarybase_3part2_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:iron_block"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=none,north=none]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=side,north=side]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:iron_block"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_button[face=floor,facing=south,powered=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone_button[face=floor,facing=west,powered=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_button[face=floor,facing=north,powered=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:redstone_torch[lit=true]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:iron_block"
+    }
+  ]
+}

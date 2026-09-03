@@ -1,0 +1,97 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 1,
+  "maxfloors": 1,
+  "mincellars": 15,
+  "maxcellars": 15,
+  "preferslonely": 0.75,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_base7",
+      "floor": -15
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_base6",
+      "floor": -14
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_base5",
+      "floor": -13
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_base4",
+      "range": "-12,-2"
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_base3",
+      "range": "-12,-2"
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_base2",
+      "range": "-12,-2"
+    },
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_base1",
+      "floor": -1
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_ground"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_base7",
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7part2_base7"
+    },
+    {
+      "inpart": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_base6",
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7part2_base6"
+    },
+    {
+      "inpart": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_base3",
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7part2_base3"
+    },
+    {
+      "inpart": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_base2",
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7part2_base2"
+    },
+    {
+      "inpart": "deceasedcraft:multi_laboratory_7/multi_laboratory_7_ground",
+      "part": "deceasedcraft:multi_laboratory_7/multi_laboratory_7part2_ground"
+    }
+  ]
+}

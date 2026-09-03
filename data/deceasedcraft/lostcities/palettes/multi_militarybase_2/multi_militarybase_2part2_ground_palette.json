@@ -1,0 +1,21 @@
+{
+  "name": "multi_militarybase_2part2_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=side,north=side]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=none,north=none]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:redstone_torch[lit=true]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:gray_concrete"
+    }
+  ]
+}

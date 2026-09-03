@@ -1,0 +1,29 @@
+{
+  "name": "multi_nuclearpowerplant_39part2_ground_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone_button[face=wall,facing=west,powered=false]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_button[face=wall,facing=east,powered=false]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:redstone_torch[lit=true]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:deepslate_redstone_ore[lit=false]"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "multi_laboratory_1part2_base3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:dark_oak_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:dark_oak_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_button[face=floor,facing=west,powered=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_button[face=floor,facing=south,powered=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:dark_oak_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:dark_oak_button[powered=false,facing=east,face=floor]"
+    }
+  ]
+}

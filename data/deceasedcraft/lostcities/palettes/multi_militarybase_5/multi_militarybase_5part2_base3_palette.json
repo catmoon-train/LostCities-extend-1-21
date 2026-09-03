@@ -1,0 +1,21 @@
+{
+  "name": "multi_militarybase_5part2_base3_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:spruce_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:spruce_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:spruce_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:redstone_wire[power=0,west=side,east=side,south=side,north=side]"
+    }
+  ]
+}

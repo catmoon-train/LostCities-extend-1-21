@@ -1,0 +1,31 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 1,
+  "maxfloors": 1,
+  "mincellars": 0,
+  "maxcellars": 0,
+  "parts": [
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:building_warehousea/building_warehousea_ground"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:building_warehousea/building_warehousea_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:building_warehousea/building_warehousea_ground",
+      "part": "deceasedcraft:building_warehousea/building_warehouseapart2_ground"
+    }
+  ]
+}

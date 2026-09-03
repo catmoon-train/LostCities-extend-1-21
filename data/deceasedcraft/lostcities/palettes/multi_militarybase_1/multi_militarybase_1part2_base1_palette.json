@@ -1,0 +1,45 @@
+{
+  "name": "multi_militarybase_1part2_base1_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:stone_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_button[face=floor,facing=east,powered=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_button[face=floor,facing=south,powered=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_button[face=floor,facing=west,powered=false]"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:stone_button[face=floor,facing=west,powered=false]"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:stone_button[face=floor,facing=south,powered=false]"
+    },
+    {
+      "char": "h",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=floor]"
+    },
+    {
+      "char": "i",
+      "block": "minecraft:stone_button[powered=false,facing=west,face=wall]"
+    },
+    {
+      "char": "j",
+      "block": "minecraft:redstone_wall_torch[facing=west,lit=true]"
+    }
+  ]
+}

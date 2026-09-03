@@ -1,0 +1,25 @@
+{
+  "name": "multi_laboratory_2part2_base6_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:stone_button[powered=false,facing=south,face=floor]"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:lantern"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:stone_button[powered=false,facing=north,face=floor]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:stone_button[face=floor,facing=north,powered=false]"
+    }
+  ]
+}

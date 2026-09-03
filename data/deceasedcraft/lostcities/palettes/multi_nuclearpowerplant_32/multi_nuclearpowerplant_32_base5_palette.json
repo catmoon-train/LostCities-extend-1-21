@@ -1,0 +1,33 @@
+{
+  "name": "multi_nuclearpowerplant_32_base5_palette",
+  "palette": [
+    {
+      "char": "a",
+      "block": "minecraft:iron_block"
+    },
+    {
+      "char": "b",
+      "block": "minecraft:iron_bars[east=false,north=false,south=false,waterlogged=false,west=true]"
+    },
+    {
+      "char": "c",
+      "block": "minecraft:iron_bars[east=true,north=false,south=false,waterlogged=false,west=false]"
+    },
+    {
+      "char": "d",
+      "block": "minecraft:iron_bars[east=false,north=true,south=false,waterlogged=false,west=false]"
+    },
+    {
+      "char": "e",
+      "block": "minecraft:iron_block"
+    },
+    {
+      "char": "f",
+      "block": "minecraft:glass"
+    },
+    {
+      "char": "g",
+      "block": "minecraft:water[level=0]"
+    }
+  ]
+}

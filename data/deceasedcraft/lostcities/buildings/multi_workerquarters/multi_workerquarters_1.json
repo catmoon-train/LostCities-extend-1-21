@@ -1,0 +1,37 @@
+{
+  "filler": "G",
+  "rubber": " ",
+  "allowDoors": false,
+  "allowFillers": false,
+  "overrideFloors": true,
+  "minfloors": 1,
+  "maxfloors": 1,
+  "mincellars": 1,
+  "maxcellars": 1,
+  "parts": [
+    {
+      "top": false,
+      "cellar": true,
+      "ground": false,
+      "part": "deceasedcraft:multi_workerquarters_1/multi_workerquarters_1_base1"
+    },
+    {
+      "top": false,
+      "cellar": false,
+      "ground": true,
+      "part": "deceasedcraft:multi_workerquarters_1/multi_workerquarters_1_ground"
+    },
+    {
+      "top": true,
+      "cellar": false,
+      "ground": false,
+      "part": "deceasedcraft:multi_workerquarters_1/multi_workerquarters_1_top"
+    }
+  ],
+  "parts2": [
+    {
+      "inpart": "deceasedcraft:multi_workerquarters_1/multi_workerquarters_1_ground",
+      "part": "deceasedcraft:multi_workerquarters_1/multi_workerquarters_1part2_ground"
+    }
+  ]
+}
