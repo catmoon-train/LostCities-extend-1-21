@@ -6,10 +6,10 @@
   },
   "multisettings": {
     "areasize": 20,
-    "minimum": 3,
-    "maximum": 8,
+    "minimum": 5,
+    "maximum": 12,
     "correctstylefactor": 0.65,
-    "attempts": 100
+    "attempts": 150
   },
   "scattered": {
     "areasize": 8,
@@ -596,11 +596,11 @@
   ],
   "citystyles": [
     {
-      "factor": 0.5,
+      "factor": 1.0,
       "citystyle": "citystyle_standard"
     },
     {
-      "factor": 9.0,
+      "factor": 1.0,
       "biomes": {
         "if_any": [
           "#minecraft:is_desert",
@@ -631,43 +631,43 @@
         "citystyle": "deceasedcraft:retail_district"
       },
       {
-        "factor": 2.5,
+        "factor": 1.0,
         "citystyle": "deceasedcraft:industrial_district"
       },
       {
-        "factor": 5.0,
+        "factor": 1.0,
         "citystyle": "lce:lce"
       },
       {
-        "factor": 0.625,
+        "factor": 1.0,
         "citystyle": "lce2:port"
       },
       {
-        "factor": 0.625,
+        "factor": 1.0,
         "citystyle": "lce2:base"
       },
       {
-        "factor": 0.625,
+        "factor": 1.0,
         "citystyle": "lce2:quarry"
       },
       {
-        "factor": 0.625,
+        "factor": 1.0,
         "citystyle": "lce2:megasolar"
       },
       {
-        "factor": 0.625,
+        "factor": 1.0,
         "citystyle": "lce2:factory"
       },
       {
-        "factor": 0.625,
+        "factor": 1.0,
         "citystyle": "lce2:standard"
       },
       {
-        "factor": 0.625,
+        "factor": 1.0,
         "citystyle": "lce2:standard2"
       },
       {
-        "factor": 0.625,
+        "factor": 1.0,
         "citystyle": "lce2:weatheredcity"
       }
   ]
