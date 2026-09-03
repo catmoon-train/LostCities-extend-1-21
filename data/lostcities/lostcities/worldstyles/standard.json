@@ -5,7 +5,7 @@
     "railpartheight6": 1
   },
   "multisettings": {
-    "areasize": 10,
+    "areasize": 20,
     "minimum": 1,
     "maximum": 5,
     "correctstylefactor": 0.8,
@@ -83,7 +83,7 @@
       },
       {
         "name": "lce:crashedhelicopter2",
-        "weight": 15,
+        "weight": 41,
         "maxheightdiff": 2,
         "biomes": {
           "if_any": [
@@ -96,7 +96,7 @@
       },
       {
         "name": "lce:scatteredhouse2",
-        "weight": 12,
+        "weight": 33,
         "maxheightdiff": 3,
         "biomes": {
           "if_any": [
@@ -109,7 +109,7 @@
       },
       {
         "name": "lce:scatteredhouse1",
-        "weight": 10,
+        "weight": 27,
         "maxheightdiff": 3,
         "biomes": {
           "if_any": [
@@ -122,7 +122,7 @@
       },
       {
         "name": "lce:radio_tower1",
-        "weight": 10,
+        "weight": 27,
         "maxheightdiff": 6,
         "biomes": {
           "if_any": [
@@ -135,7 +135,7 @@
       },
       {
         "name": "lce:radio_tower2",
-        "weight": 8,
+        "weight": 22,
         "maxheightdiff": 5,
         "biomes": {
           "if_any": [
@@ -148,7 +148,7 @@
       },
       {
         "name": "lce:watch_tower1",
-        "weight": 10,
+        "weight": 27,
         "maxheightdiff": 6,
         "biomes": {
           "if_any": [
@@ -161,7 +161,7 @@
       },
       {
         "name": "lce:l3ya_spruceforest_cabin_1",
-        "weight": 6,
+        "weight": 16,
         "maxheightdiff": 2,
         "biomes": {
           "if_any": [
@@ -174,7 +174,7 @@
       },
       {
         "name": "lce:observatory",
-        "weight": 2,
+        "weight": 5,
         "maxheightdiff": 3,
         "biomes": {
           "if_any": [
@@ -187,7 +187,7 @@
       },
       {
         "name": "lce:aircraftcarrier2",
-        "weight": 2,
+        "weight": 5,
         "maxheightdiff": 50,
         "biomes": {
           "if_any": [
@@ -200,7 +200,7 @@
       },
       {
         "name": "lce:aircraftcarrier",
-        "weight": 2,
+        "weight": 5,
         "maxheightdiff": 10,
         "biomes": {
           "if_any": [
@@ -213,7 +213,7 @@
       },
       {
         "name": "lce2:scattered_antenna",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -226,7 +226,7 @@
       },
       {
         "name": "lce2:scattered_container",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -239,7 +239,7 @@
       },
       {
         "name": "lce2:scattered_cube",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -252,7 +252,7 @@
       },
       {
         "name": "lce2:scattered_farmland",
-        "weight": 8,
+        "weight": 18,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -265,7 +265,7 @@
       },
       {
         "name": "lce2:scattered_garage",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -278,7 +278,7 @@
       },
       {
         "name": "lce2:scattered_gasstand",
-        "weight": 8,
+        "weight": 18,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -291,7 +291,7 @@
       },
       {
         "name": "lce2:scattered_hanger",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -304,7 +304,7 @@
       },
       {
         "name": "lce2:scattered_lighthouse",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -317,7 +317,7 @@
       },
       {
         "name": "lce2:scattered_minifactory",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -330,7 +330,7 @@
       },
       {
         "name": "lce2:scattered_radiotower",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -343,7 +343,7 @@
       },
       {
         "name": "lce2:scattered_scaffold",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -356,7 +356,7 @@
       },
       {
         "name": "lce2:scattered_telescope",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -369,7 +369,7 @@
       },
       {
         "name": "lce2:scattered_watertank",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -382,7 +382,7 @@
       },
       {
         "name": "lce2:wind_mill",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -395,7 +395,7 @@
       },
       {
         "name": "lce2:warship",
-        "weight": 15,
+        "weight": 33,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -406,7 +406,7 @@
       },
       {
         "name": "lce2:mega_platform",
-        "weight": 5,
+        "weight": 11,
         "maxheightdiff": 100,
         "biomes": {
           "if_any": [
@@ -626,41 +626,45 @@
       "factor": 1.0,
       "citystyle": "deceasedcraft:highrise_hotel"
     },
-    {
-      "factor": 1.0,
-      "citystyle": "deceasedcraft:retail_district"
-    },
-    {
-      "factor": 1.0,
-      "citystyle": "lce2:port"
-    },
-    {
-      "factor": 2.0,
-      "citystyle": "lce2:base"
-    },
-    {
-      "factor": 1.0,
-      "citystyle": "lce2:quarry"
-    },
-    {
-      "factor": 1.0,
-      "citystyle": "lce2:megasolar"
-    },
-    {
-      "factor": 1.0,
-      "citystyle": "lce2:factory"
-    },
-    {
-      "factor": 1.0,
-      "citystyle": "lce2:standard"
-    },
-    {
-      "factor": 1.0,
-      "citystyle": "lce2:standard2"
-    },
-    {
-      "factor": 1.0,
-      "citystyle": "lce2:weatheredcity"
-    }
+      {
+        "factor": 1.0,
+        "citystyle": "deceasedcraft:retail_district"
+      },
+      {
+        "factor": 5.0,
+        "citystyle": "lce:lce"
+      },
+      {
+        "factor": 0.625,
+        "citystyle": "lce2:port"
+      },
+      {
+        "factor": 0.625,
+        "citystyle": "lce2:base"
+      },
+      {
+        "factor": 0.625,
+        "citystyle": "lce2:quarry"
+      },
+      {
+        "factor": 0.625,
+        "citystyle": "lce2:megasolar"
+      },
+      {
+        "factor": 0.625,
+        "citystyle": "lce2:factory"
+      },
+      {
+        "factor": 0.625,
+        "citystyle": "lce2:standard"
+      },
+      {
+        "factor": 0.625,
+        "citystyle": "lce2:standard2"
+      },
+      {
+        "factor": 0.625,
+        "citystyle": "lce2:weatheredcity"
+      }
   ]
 }
