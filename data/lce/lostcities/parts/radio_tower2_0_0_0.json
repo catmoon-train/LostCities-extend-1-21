@@ -299,21 +299,7 @@
       },
       {
         "char": "ͺ",
-        "block": "minecraft:command_block[conditional=false,facing=south]",
-        "tag": {
-          "conditionMet": "0b",
-          "auto": "0b",
-          "CustomName": "{\"text\":\"@\"}",
-          "powered": "0b",
-          "Command": "",
-          "x": -345,
-          "y": -2,
-          "z": 121,
-          "id": "minecraft:command_block",
-          "SuccessCount": 0,
-          "TrackOutput": "1b",
-          "UpdateLastExecution": "1b"
-        }
+        "block": "minecraft:air"
       },
       {
         "char": "Ͷ",
@@ -326,7 +312,6 @@
       {
         "char": "΅",
         "block": "minecraft:chest",
-
         "tag": {
           "ForgeData": {
             "LockFlag": "1b"

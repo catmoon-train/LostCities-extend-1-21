@@ -1,7 +1,10 @@
 {
   "name": "multi_communitycenter_7_base1_palette",
   "palette": [
-    { "char": "H", "block": "minecraft:sandstone" },
+    {
+      "char": "H",
+      "block": "minecraft:sandstone"
+    },
     {
       "char": "a",
       "block": "minecraft:stone_button[powered=false,facing=east,face=floor]"
@@ -56,12 +59,7 @@
     },
     {
       "char": "n",
-      "block": "minecraft:command_block[facing=up,conditional=false]",
-      "tag": {
-        "conditionMet": 1,
-        "auto": 1,
-        "Command": "spawnCarBikeOrClassic"
-      }
+      "block": "minecraft:air"
     },
     {
       "char": "o",

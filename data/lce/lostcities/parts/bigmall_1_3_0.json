@@ -144,60 +144,15 @@
       },
       {
         "char": "顺",
-        "block": "minecraft:command_block[conditional=false,facing=south]",
-        "tag": {
-          "z": 344,
-          "powered": "0b",
-          "x": 116,
-          "auto": "0b",
-          "UpdateLastExecution": "1b",
-          "ForgeCaps": {},
-          "id": "minecraft:command_block",
-          "y": 125,
-          "conditionMet": "0b",
-          "Command": "",
-          "SuccessCount": 0,
-          "CustomName": "{\"text\":\"@\"}",
-          "TrackOutput": "1b"
-        }
+        "block": "minecraft:air"
       },
       {
         "char": "灯",
-        "block": "minecraft:command_block[conditional=false,facing=east]",
-        "tag": {
-          "z": 346,
-          "powered": "0b",
-          "x": 114,
-          "auto": "0b",
-          "UpdateLastExecution": "1b",
-          "ForgeCaps": {},
-          "id": "minecraft:command_block",
-          "y": 125,
-          "conditionMet": "0b",
-          "Command": "",
-          "SuccessCount": 0,
-          "CustomName": "{\"text\":\"@\"}",
-          "TrackOutput": "1b"
-        }
+        "block": "minecraft:air"
       },
       {
         "char": "散",
-        "block": "minecraft:command_block[conditional=false,facing=west]",
-        "tag": {
-          "z": 346,
-          "powered": "0b",
-          "x": 117,
-          "auto": "0b",
-          "UpdateLastExecution": "1b",
-          "ForgeCaps": {},
-          "id": "minecraft:command_block",
-          "y": 125,
-          "conditionMet": "0b",
-          "Command": "",
-          "SuccessCount": 0,
-          "CustomName": "{\"text\":\"@\"}",
-          "TrackOutput": "1b"
-        }
+        "block": "minecraft:air"
       }
     ]
   },

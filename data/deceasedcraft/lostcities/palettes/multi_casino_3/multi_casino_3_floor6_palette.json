@@ -70,8 +70,7 @@
       "block": "minecraft:chest",
       "tag": {
         "id": "minecraft:chest",
-        "Items": [
-        ],
+        "Items": [],
         "size": 1
       }
     },
@@ -81,12 +80,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:command_block[facing=up,conditional=false]",
-      "tag": {
-        "conditionMet": 1,
-        "auto": 1,
-        "Command": "spawnJohnNPC"
-      }
+      "block": "minecraft:air"
     },
     {
       "char": "t",

@@ -91,12 +91,7 @@
     },
     {
       "char": "x",
-      "block": "minecraft:command_block[facing=south,conditional=false]",
-      "tag": {
-        "conditionMet": 1,
-        "auto": 1,
-        "Command": "spawnCarBikeOrClassic"
-      }
+      "block": "minecraft:air"
     },
     {
       "char": "y",

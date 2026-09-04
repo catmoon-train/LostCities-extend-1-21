@@ -1,7 +1,10 @@
 {
   "name": "multi_taigaresidence_0_base2_palette",
   "palette": [
-    { "char": "H", "block": "minecraft:sandstone" },
+    {
+      "char": "H",
+      "block": "minecraft:sandstone"
+    },
     {
       "char": "a",
       "block": "minecraft:dirt"
@@ -36,12 +39,7 @@
     },
     {
       "char": "i",
-      "block": "minecraft:command_block[facing=south,conditional=false]",
-      "tag": {
-        "conditionMet": 1,
-        "auto": 1,
-        "Command": "spawnCarBikeOrClassic"
-      }
+      "block": "minecraft:air"
     },
     {
       "char": "j",

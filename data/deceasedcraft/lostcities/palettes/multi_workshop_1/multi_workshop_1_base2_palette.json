@@ -75,12 +75,7 @@
     },
     {
       "char": "s",
-      "block": "minecraft:command_block[facing=up,conditional=false]",
-      "tag": {
-        "conditionMet": 1,
-        "auto": 1,
-        "Command": "spawnFordNPC"
-      }
+      "block": "minecraft:air"
     },
     {
       "char": "t",

@@ -72,12 +72,7 @@
     },
     {
       "char": "r",
-      "block": "minecraft:command_block[facing=up,conditional=false]",
-      "tag": {
-        "conditionMet": 1,
-        "auto": 1,
-        "Command": "spawnChuckNPC"
-      }
+      "block": "minecraft:air"
     },
     {
       "char": "s",

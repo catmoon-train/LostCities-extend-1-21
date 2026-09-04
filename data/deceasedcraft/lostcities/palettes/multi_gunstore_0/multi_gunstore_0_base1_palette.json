@@ -67,12 +67,7 @@
     },
     {
       "char": "q",
-      "block": "minecraft:command_block[facing=north,conditional=false]",
-      "tag": {
-        "conditionMet": 1,
-        "auto": 1,
-        "Command": "spawnCharlieNPC"
-      }
+      "block": "minecraft:air"
     },
     {
       "char": "r",
@@ -153,12 +148,7 @@
     },
     {
       "char": "O",
-      "block": "minecraft:command_block[facing=up,conditional=false]",
-      "tag": {
-        "conditionMet": 1,
-        "auto": 1,
-        "Command": "spawnRandomDecentRifle 1 random"
-      }
+      "block": "minecraft:air"
     },
     {
       "char": "P",
@@ -166,12 +156,7 @@
     },
     {
       "char": "Q",
-      "block": "minecraft:command_block[facing=up,conditional=false]",
-      "tag": {
-        "conditionMet": 1,
-        "auto": 1,
-        "Command": "spawnRandomDecentRifle 1 random"
-      }
+      "block": "minecraft:air"
     },
     {
       "char": "R",

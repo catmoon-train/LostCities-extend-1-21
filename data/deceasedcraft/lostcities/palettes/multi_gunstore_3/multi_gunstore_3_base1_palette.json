@@ -86,8 +86,7 @@
       "block": "minecraft:chest",
       "tag": {
         "id": "minecraft:chest",
-        "Items": [
-        ],
+        "Items": [],
         "size": 6
       }
     },
@@ -100,8 +99,7 @@
       "block": "minecraft:chest",
       "tag": {
         "id": "minecraft:chest",
-        "Items": [
-        ],
+        "Items": [],
         "size": 6
       }
     },
@@ -110,8 +108,7 @@
       "block": "minecraft:chest",
       "tag": {
         "id": "minecraft:chest",
-        "Items": [
-        ],
+        "Items": [],
         "size": 6
       }
     },
@@ -120,8 +117,7 @@
       "block": "minecraft:chest",
       "tag": {
         "id": "minecraft:chest",
-        "Items": [
-        ],
+        "Items": [],
         "size": 6
       }
     },
@@ -177,12 +173,7 @@
     },
     {
       "char": "P",
-      "block": "minecraft:command_block[facing=north,conditional=false]",
-      "tag": {
-        "conditionMet": 1,
-        "auto": 1,
-        "Command": "spawnRandomDecentRifle 2 0"
-      }
+      "block": "minecraft:air"
     }
   ]
 }

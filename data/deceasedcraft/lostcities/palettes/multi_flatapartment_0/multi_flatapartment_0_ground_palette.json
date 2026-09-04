@@ -1,7 +1,10 @@
 {
   "name": "multi_flatapartment_0_ground_palette",
   "palette": [
-    { "char": "H", "block": "minecraft:sandstone" },
+    {
+      "char": "H",
+      "block": "minecraft:sandstone"
+    },
     {
       "char": "a",
       "block": "minecraft:grass_block[snowy=false]"
@@ -124,12 +127,7 @@
     },
     {
       "char": "I",
-      "block": "minecraft:command_block[facing=north,conditional=false]",
-      "tag": {
-        "conditionMet": 1,
-        "auto": 1,
-        "Command": "spawnCarBikeOrClassic"
-      }
+      "block": "minecraft:air"
     },
     {
       "char": "J",

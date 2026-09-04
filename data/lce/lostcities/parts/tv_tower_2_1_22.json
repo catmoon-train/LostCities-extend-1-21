@@ -95,39 +95,11 @@
       },
       {
         "char": "常",
-        "block": "minecraft:chain_command_block[conditional=false,facing=north]",
-        "tag": {
-          "z": -276,
-          "powered": "0b",
-          "x": -31,
-          "auto": "1b",
-          "UpdateLastExecution": "1b",
-          "id": "minecraft:command_block",
-          "y": 82,
-          "conditionMet": "0b",
-          "Command": "",
-          "SuccessCount": 0,
-          "CustomName": "{\"text\":\"@\"}",
-          "TrackOutput": "1b"
-        }
+        "block": "minecraft:air"
       },
       {
         "char": "活",
-        "block": "minecraft:command_block[conditional=false,facing=north]",
-        "tag": {
-          "z": -275,
-          "powered": "0b",
-          "x": -31,
-          "auto": "0b",
-          "UpdateLastExecution": "1b",
-          "id": "minecraft:command_block",
-          "y": 82,
-          "conditionMet": "0b",
-          "Command": "",
-          "SuccessCount": 0,
-          "CustomName": "{\"text\":\"@\"}",
-          "TrackOutput": "1b"
-        }
+        "block": "minecraft:air"
       },
       {
         "char": "处",

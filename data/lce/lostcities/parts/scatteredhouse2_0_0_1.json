@@ -34,7 +34,6 @@
       {
         "char": "И",
         "block": "minecraft:chest",
-
         "tag": {
           "z": 332,
           "x": 131,
@@ -189,22 +188,7 @@
       },
       {
         "char": "ѝ",
-        "block": "minecraft:command_block[conditional=false,facing=east]",
-        "tag": {
-          "z": 331,
-          "powered": "0b",
-          "x": 134,
-          "auto": "0b",
-          "UpdateLastExecution": "1b",
-          "ForgeCaps": {},
-          "id": "minecraft:command_block",
-          "y": 141,
-          "conditionMet": "1b",
-          "Command": "",
-          "SuccessCount": 0,
-          "CustomName": "{\"text\":\"@\"}",
-          "TrackOutput": "1b"
-        }
+        "block": "minecraft:air"
       },
       {
         "char": "п",

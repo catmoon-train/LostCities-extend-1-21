@@ -17,22 +17,7 @@
       },
       {
         "char": "轿",
-        "block": "minecraft:command_block[conditional=false,facing=up]",
-        "tag": {
-          "z": 994,
-          "powered": "0b",
-          "x": -465,
-          "auto": "0b",
-          "UpdateLastExecution": "1b",
-          "ForgeCaps": {},
-          "id": "minecraft:command_block",
-          "y": 136,
-          "conditionMet": "1b",
-          "Command": "",
-          "SuccessCount": 0,
-          "CustomName": "{\"text\":\"@\"}",
-          "TrackOutput": "1b"
-        }
+        "block": "minecraft:air"
       },
       {
         "char": "俊",
@@ -95,7 +80,6 @@
       {
         "char": "卿",
         "block": "minecraft:chest",
-
         "tag": {
           "z": 963,
           "x": -456,
